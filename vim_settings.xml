@@ -3,15 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507370376284">
+      <file name="/Dummy.txt" timestamp="1507372704909">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507370240893">
-        <mark key="[" line="62" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507372271271">
+        <mark key="[" line="61" column="1" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="67" column="18" />
         <mark key="." line="62" column="0" />
@@ -76,14 +76,14 @@
         <mark key="^" line="17" column="93" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507370987042">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507372862595">
         <mark key="a" line="421" column="27" />
         <mark key="'" line="291" column="29" />
-        <mark key="[" line="84" column="0" />
+        <mark key="[" line="169" column="15" />
         <mark key="m" line="421" column="27" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="11" />
+        <mark key="]" line="162" column="63" />
+        <mark key="." line="162" column="63" />
+        <mark key="^" line="162" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -128,11 +128,11 @@
       <jump line="291" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LnRoZW4oKG5hbWVzKSA9PiB7Y29uc29sZS5sb2cobmFtZXMpOyByZXR1cm4gbmFtZXM7fSk7</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">LnRoZW4oKG5hbWVzKSA9PiB7Y29uc29sZS5sb2cobmFtZXMpOyByZXR1cm4gbmFtZXM7fSk7</text>
       </register>
       <register name="/" type="4">
         <text>Starts</text>
