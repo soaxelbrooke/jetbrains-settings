@@ -1,0 +1,170 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
+        <mark key="'" line="26" column="57" />
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+        <mark key="^" line="78" column="26" />
+      </file>
+      <file name="/Python Console" timestamp="1507309743318">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1507309521591">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1507292958631">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="95" column="66" />
+        <mark key="." line="95" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="227" column="52" />
+        <mark key="." line="227" column="52" />
+        <mark key="^" line="227" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/test/encoder_test.py" timestamp="1507309678690">
+        <mark key="'" line="96" column="28" />
+        <mark key="[" line="116" column="90" />
+        <mark key="]" line="116" column="32" />
+        <mark key="." line="116" column="32" />
+        <mark key="^" line="116" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="17" column="93" />
+        <mark key="." line="10" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="25" column="3" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
+      <jump line="72" column="77" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
+      <jump line="73" column="73" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
+      <jump line="84" column="51" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
+      <jump line="26" column="57" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" />
+      <jump line="180" column="43" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="200" column="32" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="205" column="34" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="212" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="213" column="49" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="218" column="41" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="222" column="50" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="236" column="31" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="265" column="16" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="267" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="33" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="37" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="39" column="21" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="97" column="36" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="101" column="28" filename="$USER_HOME$/code/datasci/python-bpe/bpe/test/encoder_test.py" />
+      <jump line="171" column="50" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="187" column="56" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="249" column="28" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="17" column="19" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="26" column="80" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="49" column="19" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBsZW4oY3VycmVudF93b3JkKSA9PSAwOgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>.union():</text>
+      </register>
+      <register name="/" type="4">
+        <text>PAD</text>
+      </register>
+      <register name="0" type="4">
+        <text>S2S_PARAMS.message_len + 1 - int(is_input)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBsZW4oY3VycmVudF93b3JkKSA9PSAwOgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLkVPVyA9IEVPVwogICAgICAgIHNlbGYuU09XID0gU09XCiAgICAgICAgc2VsZi5lb3dfbGVuID0gbGVuKEVPVykKICAgICAgICBzZWxmLnNvd19sZW4gPSBsZW4oU09XKQogICAgICAgIHNlbGYuVU5LID0gVU5LCiAgICAgICAgc2VsZi5QQUQgPSBQQUQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVpcmVkX3Rva2VucyA9IHJlcXVpcmVkX3Rva2Vucwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBlbmNvZGVyLkVPVyA9PSAnPC93PicK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVuY29kZXIgPSBFbmNvZGVyKCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfZW93X2FjY2Vzc2libGVfb25fZW5jb2RlcnMoKToK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>PAD</last-search>
+      <last-offset />
+      <last-pattern>PAD</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>batch_size</entry>
+        <entry>bpe_vo</entry>
+        <entry>unknown</entry>
+        <entry>PAD</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
