@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507372704909">
+      <file name="/Dummy.txt" timestamp="1507375951186">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
@@ -15,6 +15,9 @@
         <mark key="]" line="62" column="0" />
         <mark key="^" line="67" column="18" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
@@ -76,14 +79,14 @@
         <mark key="^" line="17" column="93" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507373611433">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507375902301">
         <mark key="a" line="421" column="27" />
         <mark key="'" line="291" column="29" />
-        <mark key="[" line="168" column="0" />
+        <mark key="[" line="161" column="73" />
         <mark key="m" line="421" column="27" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="162" column="63" />
+        <mark key="]" line="161" column="105" />
+        <mark key="." line="161" column="105" />
+        <mark key="^" line="161" column="105" />
       </file>
     </filemarks>
     <jumps>
@@ -129,10 +132,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gbWF5YmVUcnVuY2F0ZVRleHQodGV4dCkgewogICAgcmV0dXJuIHRleHQubGVuZ3RoID4gNDAgPyB0ZXh0LnNsaWNlKDAsIDM3KSArICcuLi4nIDogdGV4dDsKfQo=</text>
+        <text>m('i.checkbox.icon.' + iconType),</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LnRoZW4oKG5hbWVzKSA9PiB7Y29uc29sZS5sb2cobmFtZXMpOyByZXR1cm4gbmFtZXM7fSk7</text>
+        <text>m('i.checkbox.icon.' + iconType),</text>
       </register>
       <register name="/" type="4">
         <text>Starts</text>
