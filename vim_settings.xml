@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507375951186">
+      <file name="/Dummy.txt" timestamp="1507384623135">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="24" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507372271271">
-        <mark key="[" line="61" column="1" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="67" column="18" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507381960165">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
@@ -55,11 +55,17 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.js" timestamp="1507360763446">
-        <mark key="[" line="76" column="23" />
-        <mark key="]" line="76" column="23" />
-        <mark key="." line="76" column="23" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.js" timestamp="1507379830255">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="31" column="44" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507380398199">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -79,14 +85,14 @@
         <mark key="^" line="17" column="93" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507375902301">
-        <mark key="a" line="421" column="27" />
-        <mark key="'" line="291" column="29" />
-        <mark key="[" line="161" column="73" />
-        <mark key="m" line="421" column="27" />
-        <mark key="]" line="161" column="105" />
-        <mark key="." line="161" column="105" />
-        <mark key="^" line="161" column="105" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507384600610">
+        <mark key="a" line="450" column="27" />
+        <mark key="'" line="15" column="19" />
+        <mark key="[" line="15" column="0" />
+        <mark key="m" line="450" column="27" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -129,60 +135,55 @@
       <jump line="416" column="82" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="334" column="40" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="291" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="463" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="15" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m('i.checkbox.icon.' + iconType),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gLSBhZGQgaW50ZWxsaWdlbnQgbmVzdGVkIHF1ZXJ5IHRvIGJyYW5jaCBxdWVyeSBiZWhhdmlvcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>m('i.checkbox.icon.' + iconType),</text>
+        <text>column.type.toLowerCase()</text>
       </register>
       <register name="/" type="4">
-        <text>Starts</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2NvZGUuaGFzLXRleHQtZ3JleS1kYXJrLmlzLXNpemUtNicsIHJ1bGUuY29sdW1uLm5hbWUpLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobW9kZSA9PT0gJ0dyZWF0ZXIgVGhhbicpIHsgcmV0dXJuICc+JzsgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gbWF5YmVUcnVuY2F0ZVRleHQodGV4dCkgewogICAgcmV0dXJuIHRleHQubGVuZ3RoID4gNDAgPyB0ZXh0LnNsaWNlKDAsIDM3KSArICcuLi4nIDogdGV4dDsKfQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gLSBhZGQgaW50ZWxsaWdlbnQgbmVzdGVkIHF1ZXJ5IHRvIGJyYW5jaCBxdWVyeSBiZWhhdmlvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGltZVR5cGVzID0gWyd0aW1lc3RhbXAnXQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucnVsZVZpZXcodm5vZGUpLAo=</text>
+      <register name="3" type="4">
+        <text>,
+                        config: vnode.setInitialProp('value', text)</text>
       </register>
-      <register name="4" type="4">
-        <text>m('div.filter-rule', [
-            m('h4.card-title.column-name', [
-                m('code.text-dark', rule.column.name),
-                m('button.btn.btn-sm.btn-outline-danger.float-right', {
-                    'aria-label': 'Close', onclick: rule.removeSelf,
-                }, m('span', { 'aria-hidden': 'true' }, '×')),
-            ]),
-            m('h6.card-subtitle.text-muted', ' is one of '),
-        ].concat(</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobW9kZSA9PT0gJ0dyZWF0ZXIgVGhhbicpIHsgcmV0dXJuICc+JzsgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjtkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IHRvU3FsUXVlcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN1YnRpdGxlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWw6ICdxdWVyeUJ1aWxkZXIuc3Vic3RyaW5nUnVsZS5zZXRUZXh0JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIFJ1bGVWaWV3IHsKICAgIHZpZXcodm5vZGUpIHsKICAgICAgICBsZXQgeyBydWxlIH0gPSB2bm9kZS5hdHRyczsKICAgICAgICByZXR1cm4gbSgnZGl2JywgWwogICAgICAgICAgICBtKCdoNC5jYXJkLXRpdGxlLmNvbHVtbi1uYW1lJywgWwogICAgICAgICAgICAgICAgbSgnY29kZS5oYXMtdGV4dC1ncmV5LWRhcmsuaXMtc2l6ZS01JywgcnVsZS5jb2x1bW4ubmFtZSksCiAgICAgICAgICAgICAgICByZW1vdmVCdXR0b24ocnVsZS5yZW1vdmVTZWxmLCAnLmlzLXB1bGxlZC1yaWdodCcpLAogICAgICAgICAgICAgICAgdGhpcy5ydWxlVmlldyh2bm9kZSksCiAgICAgICAgICAgIF0pLAogICAgICAgIF0pOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
-      <last-search>Starts</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>Starts</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -204,6 +205,7 @@
         <entry>startswith</entry>
         <entry>starts with</entry>
         <entry>Starts</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd />
       <history-expr />
