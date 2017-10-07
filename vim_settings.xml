@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507365155963">
+      <file name="/Dummy.txt" timestamp="1507370376284">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="63" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507366031993">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="44" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507370240893">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="67" column="18" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
@@ -76,13 +76,14 @@
         <mark key="^" line="17" column="93" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507365653167">
-        <mark key="a" line="546" column="19" />
-        <mark key="'" line="234" column="48" />
-        <mark key="[" line="512" column="21" />
-        <mark key="]" line="512" column="21" />
-        <mark key="." line="512" column="21" />
-        <mark key="^" line="512" column="20" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507370987042">
+        <mark key="a" line="421" column="27" />
+        <mark key="'" line="291" column="29" />
+        <mark key="[" line="84" column="0" />
+        <mark key="m" line="421" column="27" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -119,52 +120,66 @@
       <jump line="187" column="31" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="233" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="234" column="48" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="392" column="18" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="518" column="37" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="583" column="42" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="416" column="82" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="334" column="40" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="291" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIGJhY2tncm91bmQ6ICNmOGY4Zjg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>//}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>li\.</text>
+        <text>Starts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnJ1bGUtZ3JvdXAuY2FyZC1oZWFkZXIgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2NvZGUuaGFzLXRleHQtZ3JleS1kYXJrLmlzLXNpemUtNicsIHJ1bGUuY29sdW1uLm5hbWUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gIGJhY2tncm91bmQ6ICNmOGY4Zjg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIHBhZGRpbmc6IDAuNzVlbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucnVsZVZpZXcodm5vZGUpLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50Owo=</text>
+      <register name="3" type="4">
+        <text>m('div.filter-rule', [
+            m('h4.card-title.column-name', [
+                m('code.text-dark', rule.column.name),
+                m('button.btn.btn-sm.btn-outline-danger.float-right', {
+                    'aria-label': 'Close', onclick: rule.removeSelf,
+                }, m('span', { 'aria-hidden': 'true' }, '×')),
+            ]),
+            m('h6.card-subtitle.text-muted', ' is one of '),
+        ].concat(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8ucnVsZS1ncm91cC5jYXJkLWhlYWRlciBidXR0b24gewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRvZ2dsZUFjdGl2ZSA9IHRoaXMudG9nZ2xlQWN0aXZlLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN1YnRpdGxlID0gOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2ZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeyBhY3RpdmUgfSA9IHRoaXMuc3RhdGU7Cg==</text>
+        <text encoding="base64">CmNsYXNzIFJ1bGVWaWV3IHsKICAgIHZpZXcodm5vZGUpIHsKICAgICAgICBsZXQgeyBydWxlIH0gPSB2bm9kZS5hdHRyczsKICAgICAgICByZXR1cm4gbSgnZGl2JywgWwogICAgICAgICAgICBtKCdoNC5jYXJkLXRpdGxlLmNvbHVtbi1uYW1lJywgWwogICAgICAgICAgICAgICAgbSgnY29kZS5oYXMtdGV4dC1ncmV5LWRhcmsuaXMtc2l6ZS01JywgcnVsZS5jb2x1bW4ubmFtZSksCiAgICAgICAgICAgICAgICByZW1vdmVCdXR0b24ocnVsZS5yZW1vdmVTZWxmLCAnLmlzLXB1bGxlZC1yaWdodCcpLAogICAgICAgICAgICAgICAgdGhpcy5ydWxlVmlldyh2bm9kZSksCiAgICAgICAgICAgIF0pLAogICAgICAgIF0pOwogICAgfQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IG9uY2xpY2s6IChldnQpID0+IHsgYWN0aXZlICE9IC5hY3RpdmU7IH0gfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>li\.</last-search>
+      <last-search>Starts</last-search>
       <last-offset />
-      <last-pattern>li\.</last-pattern>
+      <last-pattern>Starts</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -179,6 +194,13 @@
         <entry>li</entry>
         <entry>li.</entry>
         <entry>li\.</entry>
+        <entry>is-danger</entry>
+        <entry>size-6</entry>
+        <entry>contains</entry>
+        <entry>equals</entry>
+        <entry>startswith</entry>
+        <entry>starts with</entry>
+        <entry>Starts</entry>
       </history-search>
       <history-cmd />
       <history-expr />
