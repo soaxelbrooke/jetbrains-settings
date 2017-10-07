@@ -3,24 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
-        <mark key="'" line="26" column="57" />
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="78" column="26" />
-        <mark key="." line="78" column="26" />
-        <mark key="^" line="78" column="26" />
+      <file name="/Dummy.txt" timestamp="1507365155963">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="63" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507366031993">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="50" />
-        <mark key="." line="20" column="50" />
-        <mark key="^" line="20" column="50" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="50" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1507292958631">
         <mark key="'" line="90" column="0" />
@@ -29,12 +32,6 @@
         <mark key="^" line="95" column="66" />
         <mark key="." line="95" column="66" />
       </file>
-      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="227" column="52" />
-        <mark key="." line="227" column="52" />
-        <mark key="^" line="227" column="52" />
-      </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/test/encoder_test.py" timestamp="1507309678690">
         <mark key="'" line="96" column="28" />
         <mark key="[" line="116" column="90" />
@@ -42,11 +39,50 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
+        <mark key="'" line="26" column="57" />
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+        <mark key="^" line="78" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.js" timestamp="1507360763446">
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="23" />
+        <mark key="." line="76" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="227" column="52" />
+        <mark key="." line="227" column="52" />
+        <mark key="^" line="227" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/webpack.config.js" timestamp="1507360183080">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+      </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="17" column="93" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507365653167">
+        <mark key="a" line="546" column="19" />
+        <mark key="'" line="234" column="48" />
+        <mark key="[" line="512" column="21" />
+        <mark key="]" line="512" column="21" />
+        <mark key="." line="512" column="21" />
+        <mark key="^" line="512" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -77,52 +113,58 @@
       <jump line="17" column="19" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="26" column="80" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="49" column="19" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
+      <jump line="547" column="53" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="549" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="579" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="187" column="31" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="233" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="234" column="48" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBsZW4oY3VycmVudF93b3JkKSA9PSAwOgo=</text>
+        <text encoding="base64">Ly8gIGJhY2tncm91bmQ6ICNmOGY4Zjg7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.union():</text>
+        <text>//}</text>
       </register>
       <register name="/" type="4">
-        <text>PAD</text>
+        <text>li\.</text>
       </register>
-      <register name="0" type="4">
-        <text>S2S_PARAMS.message_len + 1 - int(is_input)</text>
+      <register name="0" type="2">
+        <text encoding="base64">LnJ1bGUtZ3JvdXAuY2FyZC1oZWFkZXIgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBsZW4oY3VycmVudF93b3JkKSA9PSAwOgo=</text>
+        <text encoding="base64">Ly8gIGJhY2tncm91bmQ6ICNmOGY4Zjg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Ly8gIHBhZGRpbmc6IDAuNzVlbTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkVPVyA9IEVPVwogICAgICAgIHNlbGYuU09XID0gU09XCiAgICAgICAgc2VsZi5lb3dfbGVuID0gbGVuKEVPVykKICAgICAgICBzZWxmLnNvd19sZW4gPSBsZW4oU09XKQogICAgICAgIHNlbGYuVU5LID0gVU5LCiAgICAgICAgc2VsZi5QQUQgPSBQQUQK</text>
+        <text encoding="base64">Ly8gIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVpcmVkX3Rva2VucyA9IHJlcXVpcmVkX3Rva2Vucwo=</text>
+        <text encoding="base64">Ly8ucnVsZS1ncm91cC5jYXJkLWhlYWRlciBidXR0b24gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRvZ2dsZUFjdGl2ZSA9IHRoaXMudG9nZ2xlQWN0aXZlLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBlbmNvZGVyLkVPVyA9PSAnPC93PicK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuY29kZXIgPSBFbmNvZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgeyBhY3RpdmUgfSA9IHRoaXMuc3RhdGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZW93X2FjY2Vzc2libGVfb25fZW5jb2RlcnMoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IG9uY2xpY2s6IChldnQpID0+IHsgYWN0aXZlICE9IC5hY3RpdmU7IH0gfSwK</text>
       </register>
     </registers>
     <search>
-      <last-search>PAD</last-search>
+      <last-search>li\.</last-search>
       <last-offset />
-      <last-pattern>PAD</last-pattern>
+      <last-pattern>li\.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -132,6 +174,11 @@
         <entry>bpe_vo</entry>
         <entry>unknown</entry>
         <entry>PAD</entry>
+        <entry>i.</entry>
+        <entry>i\.</entry>
+        <entry>li</entry>
+        <entry>li.</entry>
+        <entry>li\.</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -164,6 +211,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
