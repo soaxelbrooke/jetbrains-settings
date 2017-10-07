@@ -6,7 +6,7 @@
         <version value="1.0" />
       </component>
       <component name="MarkdownProjectSettings">
-        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="2.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.5" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
           <PanelProvider>
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
           </PanelProvider>
@@ -23,7 +23,6 @@
             <option name="FENCED_CODE_BLOCKS" value="true" />
             <option name="FOOTNOTES" value="false" />
             <option name="HARDWRAPS" value="false" />
-            <option name="HTML_DEEP_PARSER" value="false" />
             <option name="INSERTED" value="false" />
             <option name="QUOTES" value="false" />
             <option name="RELAXEDHRULES" value="true" />
@@ -39,15 +38,15 @@
             <option name="WIKILINKS" value="true" />
           </PegdownExtensions>
           <ParserOptions>
-            <option name="COMMONMARK_LISTS" value="false" />
+            <option name="COMMONMARK_LISTS" value="true" />
             <option name="DUMMY" value="false" />
             <option name="EMOJI_SHORTCUTS" value="true" />
             <option name="FLEXMARK_FRONT_MATTER" value="false" />
-            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="true" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
             <option name="GFM_TABLE_RENDERING" value="true" />
             <option name="GITBOOK_URL_ENCODING" value="false" />
             <option name="GITHUB_EMOJI_URL" value="false" />
-            <option name="GITHUB_LISTS" value="true" />
+            <option name="GITHUB_LISTS" value="false" />
             <option name="GITHUB_WIKI_LINKS" value="true" />
             <option name="JEKYLL_FRONT_MATTER" value="false" />
             <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
@@ -75,7 +74,7 @@
         </LinkMapSettings>
       </component>
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="$USER_HOME$/code/thoughtvector/explorer/api/env/bin/python" />
+        <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v7.9.0/bin/node" />
       </component>
     </defaultProject>
   </component>

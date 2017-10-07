@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="IGNORE_GROUP_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
-  </component>
-</application>
