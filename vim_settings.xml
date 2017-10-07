@@ -76,13 +76,13 @@
         <mark key="^" line="17" column="93" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507372862595">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507373611433">
         <mark key="a" line="421" column="27" />
         <mark key="'" line="291" column="29" />
-        <mark key="[" line="169" column="15" />
+        <mark key="[" line="168" column="0" />
         <mark key="m" line="421" column="27" />
-        <mark key="]" line="162" column="63" />
-        <mark key="." line="162" column="63" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
         <mark key="^" line="162" column="63" />
       </file>
     </filemarks>
@@ -129,7 +129,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LnRoZW4oKG5hbWVzKSA9PiB7Y29uc29sZS5sb2cobmFtZXMpOyByZXR1cm4gbmFtZXM7fSk7</text>
+        <text encoding="base64">ZnVuY3Rpb24gbWF5YmVUcnVuY2F0ZVRleHQodGV4dCkgewogICAgcmV0dXJuIHRleHQubGVuZ3RoID4gNDAgPyB0ZXh0LnNsaWNlKDAsIDM3KSArICcuLi4nIDogdGV4dDsKfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LnRoZW4oKG5hbWVzKSA9PiB7Y29uc29sZS5sb2cobmFtZXMpOyByZXR1cm4gbmFtZXM7fSk7</text>
@@ -140,13 +140,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2NvZGUuaGFzLXRleHQtZ3JleS1kYXJrLmlzLXNpemUtNicsIHJ1bGUuY29sdW1uLm5hbWUpLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gbWF5YmVUcnVuY2F0ZVRleHQodGV4dCkgewogICAgcmV0dXJuIHRleHQubGVuZ3RoID4gNDAgPyB0ZXh0LnNsaWNlKDAsIDM3KSArICcuLi4nIDogdGV4dDsKfQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucnVsZVZpZXcodm5vZGUpLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>m('div.filter-rule', [
             m('h4.card-title.column-name', [
                 m('code.text-dark', rule.column.name),
@@ -157,23 +160,20 @@
             m('h6.card-subtitle.text-muted', ' is one of '),
         ].concat(</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnN1YnRpdGxlID0gOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIFJ1bGVWaWV3IHsKICAgIHZpZXcodm5vZGUpIHsKICAgICAgICBsZXQgeyBydWxlIH0gPSB2bm9kZS5hdHRyczsKICAgICAgICByZXR1cm4gbSgnZGl2JywgWwogICAgICAgICAgICBtKCdoNC5jYXJkLXRpdGxlLmNvbHVtbi1uYW1lJywgWwogICAgICAgICAgICAgICAgbSgnY29kZS5oYXMtdGV4dC1ncmV5LWRhcmsuaXMtc2l6ZS01JywgcnVsZS5jb2x1bW4ubmFtZSksCiAgICAgICAgICAgICAgICByZW1vdmVCdXR0b24ocnVsZS5yZW1vdmVTZWxmLCAnLmlzLXB1bGxlZC1yaWdodCcpLAogICAgICAgICAgICAgICAgdGhpcy5ydWxlVmlldyh2bm9kZSksCiAgICAgICAgICAgIF0pLAogICAgICAgIF0pOwogICAgfQp9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIFJ1bGVWaWV3IHsKICAgIHZpZXcodm5vZGUpIHsKICAgICAgICBsZXQgeyBydWxlIH0gPSB2bm9kZS5hdHRyczsKICAgICAgICByZXR1cm4gbSgnZGl2JywgWwogICAgICAgICAgICBtKCdoNC5jYXJkLXRpdGxlLmNvbHVtbi1uYW1lJywgWwogICAgICAgICAgICAgICAgbSgnY29kZS5oYXMtdGV4dC1ncmV5LWRhcmsuaXMtc2l6ZS01JywgcnVsZS5jb2x1bW4ubmFtZSksCiAgICAgICAgICAgICAgICByZW1vdmVCdXR0b24ocnVsZS5yZW1vdmVTZWxmLCAnLmlzLXB1bGxlZC1yaWdodCcpLAogICAgICAgICAgICAgICAgdGhpcy5ydWxlVmlldyh2bm9kZSksCiAgICAgICAgICAgIF0pLAogICAgICAgIF0pOwogICAgfQp9Cg==</text>
       </register>
     </registers>
     <search>
