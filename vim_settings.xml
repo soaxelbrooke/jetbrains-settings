@@ -10,11 +10,11 @@
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507418287310">
-        <mark key="[" line="105" column="3" />
-        <mark key="]" line="96" column="11" />
-        <mark key="^" line="96" column="11" />
-        <mark key="." line="96" column="11" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507440887830">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="48" column="12" />
+        <mark key="^" line="48" column="12" />
+        <mark key="." line="48" column="12" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
@@ -96,14 +96,13 @@
         <mark key="^" line="17" column="93" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507416237652">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507441586445">
         <mark key="a" line="450" column="27" />
-        <mark key="'" line="15" column="19" />
-        <mark key="[" line="39" column="4" />
+        <mark key="'" line="694" column="15" />
+        <mark key="[" line="559" column="36" />
         <mark key="m" line="450" column="27" />
-        <mark key="]" line="39" column="3" />
-        <mark key="." line="39" column="3" />
-        <mark key="^" line="39" column="3" />
+        <mark key="]" line="509" column="30" />
+        <mark key="." line="509" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -148,52 +147,54 @@
       <jump line="291" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="463" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="15" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="685" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="694" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG0oJ2Rpdi5jb2x1bW4nLAogICAgICAgICAgICAgICAgLy8gICAgIG0oJ3RhYmxlLnRhYmxlJywgWwogICAgICAgICAgICAgICAgLy8gICAgICAgICBtKCd0aGVhZCcsIGtleXMubWFwKGtleSA9PiBtKCd0aCcsIGtleSkpKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgbSgndGJvZHknLCB0aGlzLm92ZXJhbGxCeURhdGUubWFwKHJvdyA9PiB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm4gbSgndHInLCBrZXlzLm1hcChrZXkgPT4gbSgndGQnLCByb3dba2V5XSkpKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgfSkpLAogICAgICAgICAgICAgICAgLy8gICAgIF0pKSwK</text>
+      <register name="&quot;" type="4">
+        <text>-expanded</text>
       </register>
       <register name="-" type="4">
-        <text>strong</text>
+        <text>-expanded</text>
       </register>
       <register name="/" type="4">
-        <text>class Col</text>
+        <text>FilterMana</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAobW9kZSA9PT0gJ0dyZWF0ZXIgVGhhbicpIHsgcmV0dXJuICc+JzsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG0oJ2Rpdi5jb2x1bW4nLAogICAgICAgICAgICAgICAgLy8gICAgIG0oJ3RhYmxlLnRhYmxlJywgWwogICAgICAgICAgICAgICAgLy8gICAgICAgICBtKCd0aGVhZCcsIGtleXMubWFwKGtleSA9PiBtKCd0aCcsIGtleSkpKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgbSgndGJvZHknLCB0aGlzLm92ZXJhbGxCeURhdGUubWFwKHJvdyA9PiB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm4gbSgndHInLCBrZXlzLm1hcChrZXkgPT4gbSgndGQnLCByb3dba2V5XSkpKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgfSkpLAogICAgICAgICAgICAgICAgLy8gICAgIF0pKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2J1dHRvbi5idXR0b24uaXMtcHVsbGVkLXJpZ2h0LWNhcmQuZmlsdGVyLXRvZ2dsZS5pcy1wcmltYXJ5JyArIHNob3duQ2xhc3MsCiAgICAgICAgICAgICAgICAgICAgeyBvbmNsaWNrOiB0aGlzLnRvZ2dsZVNob3duIH0sCiAgICAgICAgICAgICAgICAgICAgdGhpcy5zaG93biA/ICdIaWRlIEZpbHRlcnMnIDogJ1Nob3cgRmlsdGVycycpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbShEb2N1bWVudFRhYmxlVmlldywgeyBkb2N1bWVudFRhYmxlIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc2hvd25DbGFzcyA9IHRoaXMuc2hvd24gPyAnLmlzLW91dGxpbmVkJyA6ICcnOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRvZ2dsZUZpbHRlclNob3duID0gdGhpcy50b2dnbGVGaWx0ZXJTaG93bi5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2J1dHRvbi5idXR0b24uaXMtcHVsbGVkLXJpZ2h0LWNhcmQuZmlsdGVyLXRvZ2dsZS5pcy1wcmltYXJ5JyArIHNob3duQ2xhc3MsCiAgICAgICAgICAgICAgICAgICAgeyBvbmNsaWNrOiB0aGlzLnRvZ2dsZVNob3duIH0sCiAgICAgICAgICAgICAgICAgICAgdGhpcy5zaG93biA/ICdIaWRlIEZpbHRlcnMnIDogJ1Nob3cgRmlsdGVycycpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL2JhY2tncm91bmQtY29sb3I6IHdoaXRlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbHRlcnNTaG93biA9ICF0aGlzLmZpbHRlcnNTaG93bjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvZ2dsZUZpbHRlclNob3duKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG0oJ2Rpdi5jb2x1bW4nLAogICAgICAgICAgICAgICAgLy8gICAgIG0oJ3RhYmxlLnRhYmxlJywgWwogICAgICAgICAgICAgICAgLy8gICAgICAgICBtKCd0aGVhZCcsIGtleXMubWFwKGtleSA9PiBtKCd0aCcsIGtleSkpKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgbSgndGJvZHknLCB0aGlzLm92ZXJhbGxCeURhdGUubWFwKHJvdyA9PiB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm4gbSgndHInLCBrZXlzLm1hcChrZXkgPT4gbSgndGQnLCByb3dba2V5XSkpKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgfSkpLAogICAgICAgICAgICAgICAgLy8gICAgIF0pKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtKCd0cicsIGNvbHVtbnMubWFwKGNvbCA9PiBtKERvY3VtZW50SGVhZGVyVmlldywgY29sKSkpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbShEb2N1bWVudFRhYmxlVmlldywgeyBkb2N1bWVudFRhYmxlIH0pLAo=</text>
       </register>
     </registers>
     <search>
-      <last-search>class Col</last-search>
+      <last-search>FilterMana</last-search>
       <last-offset />
-      <last-pattern>class Col</last-pattern>
+      <last-pattern>FilterMana</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -218,6 +219,7 @@
         <entry>TODO</entry>
         <entry>class col</entry>
         <entry>class Col</entry>
+        <entry>FilterMana</entry>
       </history-search>
       <history-cmd />
       <history-expr />
