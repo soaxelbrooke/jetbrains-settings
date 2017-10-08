@@ -10,17 +10,21 @@
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507443159004">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="48" column="12" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507451026704">
+        <mark key="[" line="107" column="21" />
+        <mark key="]" line="107" column="3" />
+        <mark key="^" line="107" column="3" />
+        <mark key="." line="107" column="3" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1507450797528">
+        <mark key="'" line="539" column="38" />
+        <mark key="[" line="688" column="33" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="10" column="0" />
@@ -54,10 +58,11 @@
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507447844044">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507450721990">
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="51" />
+        <mark key="." line="35" column="51" />
+        <mark key="^" line="35" column="51" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
         <mark key="[" line="34" column="14" />
@@ -155,66 +160,59 @@
       <jump line="15" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="685" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="694" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="45" column="28" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
+      <jump line="539" column="38" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="-" type="4">
-        <text>.</text>
-      </register>
-      <register name="/" type="4">
-        <text>FilterMana</text>
-      </register>
-      <register name="0" type="4">
-        <text>ChartManager</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKCdOb3QgaW1wbGVtZW50ZWQuJyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvU3FsKCkgewo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIFsxLCAyXSwKICAgICAgICAgICAgWzIsIDNdLAogICAgICAgICAgICBbMywgNF0sCiAgICAgICAgICAgIFs0LCA1XSw=</text>
+      <register name="-" type="4">
+        <text>:not(:first-child)</text>
       </register>
-      <register name="6" type="4">
-        <text>[
-                ['Element', 'Density', {role: 'style'}],
-                ['Copper', 8.94, '#b87333'],            // RGB value
-                ['Silver', 10.49, 'silver'],            // English color name
-                ['Gold', 19.30, 'gold'],
-
-                ['Platinum', 21.45, 'color: #e5e4e2'], // CSS-style declaration
-            ]</text>
+      <register name="/" type="4">
+        <text>grey-</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbSgnc3Bhbi5oYXMtdGV4dC1ncmV5LmlzLXNpemUtNicsIGBDaGFydCAoJHt0aGlzLmRlc2NyaXB0aW9ufSlgKSwK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkaXYuZG9jdW1lbnQtdGFibGU6bm90KDpmaXJzdC1jaGlsZCkgdGQ6aG92ZXIgewogICAgd2hpdGUtc3BhY2U6IGluaXRpYWw7CiAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbSgnc3Bhbi5oYXMtdGV4dC1ncmV5LmlzLXNpemUtNicsIGBCeWApLGRkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aXRsZTogY2hhcnQuY29sdW1uLm5hbWUsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJ0OiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9udXBkYXRlKHZub2RlKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9udXBkYXRlKHZub2RlKSB7CiAgICAgICAgZ29vZ2xlLmNoYXJ0cy5zZXRPbkxvYWRDYWxsYmFjaygoKSA9PiB7CiAgICAgICAgICAgIGxldCBkYXRhID0gZ29vZ2xlLnZpc3VhbGl6YXRpb24uYXJyYXlUb0RhdGFUYWJsZShbCiAgICAgICAgICAgICAgICBbJ0VsZW1lbnQnLCAnRGVuc2l0eScsIHtyb2xlOiAnc3R5bGUnfV0sCiAgICAgICAgICAgICAgICBbJ0NvcHBlcicsIDguOTQsICcjYjg3MzMzJ10sICAgICAgICAgICAgLy8gUkdCIHZhbHVlCiAgICAgICAgICAgICAgICBbJ1NpbHZlcicsIDEwLjQ5LCAnc2lsdmVyJ10sICAgICAgICAgICAgLy8gRW5nbGlzaCBjb2xvciBuYW1lCiAgICAgICAgICAgICAgICBbJ0dvbGQnLCAxOS4zMCwgJ2dvbGQnXSwKCiAgICAgICAgICAgICAgICBbJ1BsYXRpbnVtJywgMjEuNDUsICdjb2xvcjogI2U1ZTRlMiddLCAvLyBDU1Mtc3R5bGUgZGVjbGFyYXRpb24KICAgICAgICAgICAgXSk7CgogICAgICAgICAgICBsZXQgY2hhcnQgPSBuZXcgZ29vZ2xlLnZpc3VhbGl6YXRpb24uQ29sdW1uQ2hhcnQoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQodGhpcy5jaGFydElkKSk7CiAgICAgICAgICAgIGNoYXJ0LmRyYXcoZGF0YSk7CiAgICAgICAgfSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6ICczcHgnLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGF0YSA9IG5ldyBnb29nbGUudmlzdWFsaXphdGlvbi5hcnJheVRvRGF0YVRhYmxlKFsKICAgICAgICAgICAgWycnXQogICAgICAgIF0pCiAgICAgICAgdmFyIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdncmVlbicsCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>FilterMana</last-search>
+      <last-search>grey-</last-search>
       <last-offset />
-      <last-pattern>FilterMana</last-pattern>
+      <last-pattern>grey-</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>batch_size</entry>
-        <entry>bpe_vo</entry>
         <entry>unknown</entry>
         <entry>PAD</entry>
         <entry>i.</entry>
@@ -233,6 +231,8 @@
         <entry>class col</entry>
         <entry>class Col</entry>
         <entry>FilterMana</entry>
+        <entry encoding="base64">XDxyZWRcPg==</entry>
+        <entry>grey-</entry>
       </history-search>
       <history-cmd />
       <history-expr />
