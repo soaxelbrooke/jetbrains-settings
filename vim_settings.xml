@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507384623135">
+      <file name="/Dummy.txt" timestamp="1507418706621">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507381960165">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507418287310">
+        <mark key="[" line="105" column="3" />
+        <mark key="]" line="96" column="11" />
+        <mark key="^" line="96" column="11" />
+        <mark key="." line="96" column="11" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
@@ -49,6 +49,17 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/document_table.js" timestamp="1507418188623">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+      </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="20" column="50" />
@@ -61,11 +72,11 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507380398199">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507418701235">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="57" column="34" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -85,14 +96,14 @@
         <mark key="^" line="17" column="93" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507384600610">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507416237652">
         <mark key="a" line="450" column="27" />
         <mark key="'" line="15" column="19" />
-        <mark key="[" line="15" column="0" />
+        <mark key="[" line="39" column="4" />
         <mark key="m" line="450" column="27" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="41" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+        <mark key="^" line="39" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -140,50 +151,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gLSBhZGQgaW50ZWxsaWdlbnQgbmVzdGVkIHF1ZXJ5IHRvIGJyYW5jaCBxdWVyeSBiZWhhdmlvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG0oJ2Rpdi5jb2x1bW4nLAogICAgICAgICAgICAgICAgLy8gICAgIG0oJ3RhYmxlLnRhYmxlJywgWwogICAgICAgICAgICAgICAgLy8gICAgICAgICBtKCd0aGVhZCcsIGtleXMubWFwKGtleSA9PiBtKCd0aCcsIGtleSkpKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgbSgndGJvZHknLCB0aGlzLm92ZXJhbGxCeURhdGUubWFwKHJvdyA9PiB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm4gbSgndHInLCBrZXlzLm1hcChrZXkgPT4gbSgndGQnLCByb3dba2V5XSkpKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgfSkpLAogICAgICAgICAgICAgICAgLy8gICAgIF0pKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>column.type.toLowerCase()</text>
+        <text>strong</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>class Col</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAobW9kZSA9PT0gJ0dyZWF0ZXIgVGhhbicpIHsgcmV0dXJuICc+JzsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gLSBhZGQgaW50ZWxsaWdlbnQgbmVzdGVkIHF1ZXJ5IHRvIGJyYW5jaCBxdWVyeSBiZWhhdmlvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG0oJ2Rpdi5jb2x1bW4nLAogICAgICAgICAgICAgICAgLy8gICAgIG0oJ3RhYmxlLnRhYmxlJywgWwogICAgICAgICAgICAgICAgLy8gICAgICAgICBtKCd0aGVhZCcsIGtleXMubWFwKGtleSA9PiBtKCd0aCcsIGtleSkpKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgbSgndGJvZHknLCB0aGlzLm92ZXJhbGxCeURhdGUubWFwKHJvdyA9PiB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm4gbSgndHInLCBrZXlzLm1hcChrZXkgPT4gbSgndGQnLCByb3dba2V5XSkpKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgfSkpLAogICAgICAgICAgICAgICAgLy8gICAgIF0pKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGltZVR5cGVzID0gWyd0aW1lc3RhbXAnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbShEb2N1bWVudFRhYmxlVmlldywgeyBkb2N1bWVudFRhYmxlIH0pLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>,
-                        config: vnode.setInitialProp('value', text)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobW9kZSA9PT0gJ0dyZWF0ZXIgVGhhbicpIHsgcmV0dXJuICc+JzsgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRvZ2dsZUZpbHRlclNob3duID0gdGhpcy50b2dnbGVGaWx0ZXJTaG93bi5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjtkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHRvU3FsUXVlcnkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWw6ICdxdWVyeUJ1aWxkZXIuc3Vic3RyaW5nUnVsZS5zZXRUZXh0JywK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmZpbHRlcnNTaG93biA9ICF0aGlzLmZpbHRlcnNTaG93bjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRvZ2dsZUZpbHRlclNob3duKCkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtKCd0cicsIGNvbHVtbnMubWFwKGNvbCA9PiBtKERvY3VtZW50SGVhZGVyVmlldywgY29sKSkpKSwK</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>class Col</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>class Col</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -206,6 +216,8 @@
         <entry>starts with</entry>
         <entry>Starts</entry>
         <entry>TODO</entry>
+        <entry>class col</entry>
+        <entry>class Col</entry>
       </history-search>
       <history-cmd />
       <history-expr />
