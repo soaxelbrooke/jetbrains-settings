@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507554160583">
+      <file name="/Dummy.txt" timestamp="1507620515409">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
       </file>
@@ -22,17 +22,19 @@
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1507554041982">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="28" />
-        <mark key="." line="72" column="28" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1507622184164">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="57" column="38" />
+        <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1507470158842">
-        <mark key="'" line="549" column="38" />
-        <mark key="[" line="542" column="64" />
-        <mark key="]" line="542" column="67" />
-        <mark key="^" line="570" column="13" />
-        <mark key="." line="538" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1507623182650">
+        <mark key="'" line="643" column="20" />
+        <mark key="[" line="649" column="8" />
+        <mark key="]" line="649" column="7" />
+        <mark key="^" line="539" column="69" />
+        <mark key="." line="649" column="7" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="10" column="0" />
@@ -66,10 +68,11 @@
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507554489061">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507624128750">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="146" column="24" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
         <mark key="[" line="34" column="14" />
@@ -83,17 +86,17 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.js" timestamp="1507379830255">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="31" column="44" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.js" timestamp="1507621976101">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="32" column="44" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507453117205">
-        <mark key="[" line="64" column="24" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="63" column="3" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507622142761">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -168,64 +171,66 @@
       <jump line="685" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="694" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="45" column="28" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
-      <jump line="539" column="38" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="14" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
       <jump line="92" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
+      <jump line="541" column="12" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="38" column="51" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" />
+      <jump line="539" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="586" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="626" column="35" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="643" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSLnJhbmdlKDAsIDQpLmZvckVhY2goaWR4ID0+IHsKICAgICAgICAgICAgdGhpcy5hZGRDaGFydCh7IG5hbWU6ICdzaGFya3MnICsgaWR4LCB0eXBlOiAndGltZScgfSk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>queryBuilder</text>
+        <text encoding="base64">ICAgICAgICB9KQ==</text>
       </register>
       <register name="/" type="4">
-        <text>forEach</text>
+        <text>remove</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVtaXQoeyBsYWJlbDogJ2NoYXJ0TWFuYWdlci51cGRhdGVkJyB9KTsK</text>
+      <register name="0" type="4">
+        <text>, event.label</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSLnJhbmdlKDAsIDQpLmZvckVhY2goaWR4ID0+IHsKICAgICAgICAgICAgdGhpcy5hZGRDaGFydCh7IG5hbWU6ICdzaGFya3MnICsgaWR4LCB0eXBlOiAndGltZScgfSk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgdGhpcy53aGVyZVJlZHVjZXIgPSB0aGlzLndoZXJlUmVkdWNlci5iaW5kKHRoaXMpOwogICAgICAgIHRoaXMuYWRkQ2hhcnRSZWR1Y2VyID0gdGhpcy5hZGRDaGFydFJlZHVjZXIuYmluZCh0aGlzKTsKICAgICAgICB0aGlzLnJlbW92ZUNoYXJ0UmVkdWNlciA9IHRoaXMucmVtb3ZlQ2hhcnRSZWR1Y2VyLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcnRJZHggKz0gMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZm91bmQgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvdW5kID0gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNoYXJ0SWQgPSB1dWlkdjQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHF1ZXJ5ID0gY2hhcnQudG9TcWwoUi5jbG9uZShiYXNlUXVlcnkpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcXVlcmllcyA9IHt9Owo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlQnV0dG9uKGNvbnNvbGUubG9nLCAnJywgJy5pcy1zbWFsbCcpLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihldnQgPT4gZXZ0LmxhYmVsICE9PSAncXVlcnlCdWlsZGVyLndoZXJlLnVwZGF0ZWQnKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHF1ZXJpZXNGcm9tU2VsZWN0KHNlbGVjdCkgewogICAgICAgIGxldCBxdWVyaWVzID0ge307CiAgICAgICAgdGhpcy5jaGFydHMuZm9yRWFjaChjaGFydCA9PiB7CiAgICAgICAgICAgIHF1ZXJpZXNbY2hhcnQuY2hhcnRJZF0gPSBjaGFydC50b1NxbChSLmNsb25lKHNlbGVjdCkpOwogICAgICAgIH0pOwogICAgICAgIHJldHVybiBxdWVyaWVzOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25jcmVhdGUnLCB2bm9kZSk7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>forEach</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>forEach</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>i.</entry>
-        <entry>i\.</entry>
-        <entry>li</entry>
-        <entry>li.</entry>
         <entry>li\.</entry>
         <entry>is-danger</entry>
         <entry>size-6</entry>
@@ -242,6 +247,10 @@
         <entry>grey-</entry>
         <entry>foreach</entry>
         <entry>forEach</entry>
+        <entry>debug</entry>
+        <entry>debugger</entry>
+        <entry>close</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -277,6 +286,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
