@@ -55,6 +55,11 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/util.js" timestamp="1507697764511">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
         <mark key="'" line="26" column="57" />
         <mark key="[" line="78" column="12" />
@@ -62,11 +67,11 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/document_table.js" timestamp="1507625437914">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="34" />
-        <mark key="^" line="13" column="34" />
-        <mark key="." line="13" column="34" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/document_table.js" timestamp="1507697907477">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="32" column="21" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507695547668">
         <mark key="'" line="102" column="0" />
@@ -187,11 +192,11 @@
       <jump line="102" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBUdXJuIHF1ZXJ5IGludG8gc3RyaW5nIHRoZW4gc3VibWl0IHRvIGFwaQo=</text>
+      <register name="&quot;" type="4">
+        <text>, events</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>, events</text>
       </register>
       <register name="/" type="4">
         <text>week</text>
@@ -199,32 +204,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgICAgbGVnZW5kOiB7IHBvc2l0aW9uOiAnbm9uZScgfSwKICAgICAgICAvLyAgICAgY2hhcnRBcmVhOiB7IHRvcDogMCwgbGVmdDogMCwgcmlnaHQ6IDAsIGJvdHRvbTogMCB9LAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBUdXJuIHF1ZXJ5IGludG8gc3RyaW5nIHRoZW4gc3VibWl0IHRvIGFwaQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICAgICAgICAgIGV2ZW50cy5uZXh0KHsgbGFiZWw6ICd0YWJsZS5yZXF1ZXN0Q2hhcnRBZGQnLCBkYXRhOiBjb2x1bW4gfSk7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgY2hhcnRBcmVhOiB7IHRvcDogMCwgbGVmdDogMCwgcmlnaHQ6IDAsIGJvdHRvbTogMCB9LAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgbGVnZW5kOiB7IHBvc2l0aW9uOiAnbm9uZScgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmdvb2dsZUNoYXJ0LmRyYXcoZGF0YSwgZ29vZ2xlLmNoYXJ0cy5CYXIuY29udmVydE9wdGlvbnMoewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJ0QXJlYTogeyB0b3A6IDAsIGxlZnQ6IDAsIHJpZ2h0OiAwLCBib3R0b206IDAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdvb2dsZUNoYXJ0ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
     </registers>
     <search>
