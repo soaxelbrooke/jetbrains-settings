@@ -3,12 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507384623135">
+      <file name="/Dummy.txt" timestamp="1507726046506">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="25" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1507724157079">
-        <mark key="[" line="40" column="23" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1507725224029">
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="9" />
+        <mark key="^" line="41" column="27" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
@@ -21,6 +25,12 @@
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1507725566673">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
@@ -53,8 +63,11 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1507723131139">
-        <mark key="[" line="9" column="10" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1507725702075">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -74,6 +87,12 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1507725965627">
+        <mark key="[" line="70" column="59" />
+        <mark key="]" line="70" column="58" />
+        <mark key="." line="70" column="58" />
+        <mark key="^" line="70" column="58" />
+      </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
         <mark key="]" line="227" column="52" />
@@ -85,6 +104,11 @@
         <mark key="]" line="23" column="22" />
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/documents.py" timestamp="1507725905004">
+        <mark key="[" line="7" column="76" />
+        <mark key="]" line="7" column="76" />
+        <mark key="." line="7" column="76" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
@@ -100,6 +124,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1507725808812">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -147,44 +176,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gLSBhZGQgaW50ZWxsaWdlbnQgbmVzdGVkIHF1ZXJ5IHRvIGJyYW5jaCBxdWVyeSBiZWhhdmlvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>column.type.toLowerCase()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobW9kZSA9PT0gJ0dyZWF0ZXIgVGhhbicpIHsgcmV0dXJuICc+JzsgfQo=</text>
+      <register name="0" type="4">
+        <text>uwsgi-lts.tar.gz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gLSBhZGQgaW50ZWxsaWdlbnQgbmVzdGVkIHF1ZXJ5IHRvIGJyYW5jaCBxdWVyeSBiZWhhdmlvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGltZVR5cGVzID0gWyd0aW1lc3RhbXAnXQo=</text>
+        <text encoding="base64">ICAgICMgICAgIHBhc3MK</text>
       </register>
-      <register name="3" type="4">
-        <text>,
-                        config: vnode.setInitialProp('value', text)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgaWYgY29ubi5nZXRfdHJhbnNhY3Rpb25fc3RhdHVzKCkgIT0gZXh0ZW5zaW9ucy5UUkFOU0FDVElPTl9TVEFUVVNfSURMRToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobW9kZSA9PT0gJ0dyZWF0ZXIgVGhhbicpIHsgcmV0dXJuICc+JzsgfQo=</text>
+        <text encoding="base64">ICAgICMgZnJvbSBwc3ljb3BnMiBpbXBvcnQgZXh0ZW5zaW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjtkZAo=</text>
+        <text encoding="base64">QWRkIGRhdGFiYXNlIHNlZWRpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHRvU3FsUXVlcnkK</text>
+        <text encoding="base64">Z3VuaWNvcm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWw6ICdxdWVyeUJ1aWxkZXIuc3Vic3RyaW5nUnVsZS5zZXRUZXh0JywK</text>
+        <text encoding="base64">cHJpbnQoX19uYW1lX18pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gLSBhZGQgaW50ZWxsaWdlbnQgbmVzdGVkIHF1ZXJ5IHRvIGJyYW5jaCBxdWVyeSBiZWhhdmlvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGltZVR5cGVzID0gWyd0aW1lc3RhbXAnXQo=</text>
       </register>
     </registers>
     <search>
