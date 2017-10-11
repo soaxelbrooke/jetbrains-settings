@@ -10,11 +10,11 @@
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507451026704">
-        <mark key="[" line="107" column="21" />
-        <mark key="]" line="107" column="3" />
-        <mark key="^" line="107" column="3" />
-        <mark key="." line="107" column="3" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507695761800">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="117" column="11" />
+        <mark key="^" line="117" column="11" />
+        <mark key="." line="117" column="11" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
@@ -22,19 +22,18 @@
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1507622184164">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1507696067989">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="57" column="38" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1507623182650">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1507626363185">
         <mark key="'" line="643" column="20" />
-        <mark key="[" line="649" column="8" />
-        <mark key="]" line="649" column="7" />
-        <mark key="^" line="539" column="69" />
-        <mark key="." line="649" column="7" />
+        <mark key="[" line="548" column="0" />
+        <mark key="]" line="548" column="0" />
+        <mark key="^" line="548" column="26" />
+        <mark key="." line="548" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="10" column="0" />
@@ -63,16 +62,18 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/document_table.js" timestamp="1507418188623">
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="19" />
-        <mark key="." line="31" column="19" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/document_table.js" timestamp="1507625437914">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507624128750">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="146" column="24" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507695547668">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="79" column="72" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
         <mark key="[" line="34" column="14" />
@@ -92,11 +93,11 @@
         <mark key="^" line="32" column="44" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507622142761">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="15" column="13" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507625211336">
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="77" column="55" />
+        <mark key="^" line="77" column="55" />
+        <mark key="." line="77" column="55" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -180,59 +181,61 @@
       <jump line="586" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="626" column="35" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="643" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="79" column="43" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
+      <jump line="154" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBUdXJuIHF1ZXJ5IGludG8gc3RyaW5nIHRoZW4gc3VibWl0IHRvIGFwaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICB9KQ==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>week</text>
       </register>
-      <register name="0" type="4">
-        <text>, event.label</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgbGVnZW5kOiB7IHBvc2l0aW9uOiAnbm9uZScgfSwKICAgICAgICAvLyAgICAgY2hhcnRBcmVhOiB7IHRvcDogMCwgbGVmdDogMCwgcmlnaHQ6IDAsIGJvdHRvbTogMCB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBUdXJuIHF1ZXJ5IGludG8gc3RyaW5nIHRoZW4gc3VibWl0IHRvIGFwaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcnRJZHggKz0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZm91bmQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB9KSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvdW5kID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgY2hhcnRBcmVhOiB7IHRvcDogMCwgbGVmdDogMCwgcmlnaHQ6IDAsIGJvdHRvbTogMCB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgbGVnZW5kOiB7IHBvc2l0aW9uOiAnbm9uZScgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmdvb2dsZUNoYXJ0LmRyYXcoZGF0YSwgZ29vZ2xlLmNoYXJ0cy5CYXIuY29udmVydE9wdGlvbnMoewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlQnV0dG9uKGNvbnNvbGUubG9nLCAnJywgJy5pcy1zbWFsbCcpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJ0QXJlYTogeyB0b3A6IDAsIGxlZnQ6IDAsIHJpZ2h0OiAwLCBib3R0b206IDAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihldnQgPT4gZXZ0LmxhYmVsICE9PSAncXVlcnlCdWlsZGVyLndoZXJlLnVwZGF0ZWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdvb2dsZUNoYXJ0ID0gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25jcmVhdGUnLCB2bm9kZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>week</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>week</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>li\.</entry>
-        <entry>is-danger</entry>
         <entry>size-6</entry>
         <entry>contains</entry>
         <entry>equals</entry>
@@ -251,6 +254,8 @@
         <entry>debugger</entry>
         <entry>close</entry>
         <entry>remove</entry>
+        <entry>events</entry>
+        <entry>week</entry>
       </history-search>
       <history-cmd />
       <history-expr />
