@@ -73,12 +73,12 @@
         <mark key="^" line="32" column="20" />
         <mark key="." line="35" column="55" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507713313347">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507717839063">
         <mark key="'" line="97" column="12" />
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="5" column="14" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="109" column="32" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
         <mark key="[" line="34" column="14" />
@@ -86,11 +86,11 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/common_views.js" timestamp="1507714798816">
-        <mark key="[" line="34" column="58" />
-        <mark key="]" line="34" column="58" />
-        <mark key="." line="34" column="25" />
-        <mark key="^" line="36" column="39" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/common_views.js" timestamp="1507717619813">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="38" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -203,11 +203,11 @@
       <jump line="56" column="7" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">eyBvbmNsaWNrOiAoKSA9PiBoZWFkZXJJdGVtT25DbGljayhjb2x1bW4pIH0s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyBvbmNsaWNrOiAoKSA9PiBoZWFkZXJJdGVtT25DbGljayhjb2x1bW4pIH0s</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>RuleDrop</text>
@@ -216,31 +216,31 @@
         <text>AddChartView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlLnRhcmdldCAhPT0gdm5vZGUuZG9tKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGUsIHRoaXMpO2RkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNvcnQoKGxlZnQsIHJpZ2h0KSA9PiBsZWZ0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY2xvc2VMaXN0ZW5lciA9IChlKSA9PiB7CiAgICAgICAgICAgIGlmIChlLnRhcmdldCAhPT0gdm5vZGUuZG9tKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlLCB0aGlzKTsKICAgICAgICAgICAgICAgIHRoaXMuYWN0aXZlID0gZmFsc2U7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5yZW1vdmVFdmVudExpc3RlbmVyKCdjbGljaycsIGNsb3NlTGlzdGVuZXIpOwogICAgICAgICAgICAgICAgbS5yZWRyYXcodHJ1ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9OwogICAgICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgY2xvc2VMaXN0ZW5lcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlLnRhcmdldCAhPT0gdm5vZGUuZG9tKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZS50YXJnZXQsIHRoaXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KGUpID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2coZS50YXJnZXQsIHRoaXMpOwogICAgICAgICAgICBpZiAoZS50YXJnZXQgIT09IHZub2RlLmRvbSkgewogICAgICAgICAgICAgICAgdGhpcy5hY3RpdmUgPSBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY2xvc2VMaXN0ZW5lciA9IChlKSA9PiB7CiAgICAgICAgICAgIGlmIChlLnRhcmdldCAhPT0gdm5vZGUuZG9tKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlLCB0aGlzKTsKICAgICAgICAgICAgICAgIHRoaXMuYWN0aXZlID0gZmFsc2U7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5yZW1vdmVFdmVudExpc3RlbmVyKCdjbGljaycsIGNsb3NlTGlzdGVuZXIpOwogICAgICAgICAgICAgICAgbS5yZWRyYXcodHJ1ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9OwogICAgICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgY2xvc2VMaXN0ZW5lcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTtkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZS50YXJnZXQsIHRoaXMpOwo=</text>
       </register>
     </registers>
     <search>
