@@ -73,12 +73,12 @@
         <mark key="^" line="32" column="20" />
         <mark key="." line="35" column="55" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507719313483">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1507722920196">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="55" column="16" />
-        <mark key="]" line="55" column="15" />
-        <mark key="." line="55" column="15" />
-        <mark key="^" line="55" column="15" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="182" column="87" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
         <mark key="[" line="34" column="14" />
@@ -204,11 +204,11 @@
       <jump line="112" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vnode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29sdW1ucy5tYXAoQ2hhcnQuZGVmYXVsdENoYXJ0Rm9yKS5maWx0ZXIoaXRlbSA9PiAhIWl0ZW0pLmZvckVhY2godGhpcy5hZGRDYGhhcnQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>vnode</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -217,31 +217,31 @@
         <text>AddChartView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sdW1ucy5tYXAoQ2hhcnQuZGVmYXVsdENoYXJ0Rm9yKS5maWx0ZXIoaXRlbSA9PiAhIWl0ZW0pLmZvckVhY2godGhpcy5hZGRDYGhhcnQpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IDorMTogNiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">IDorMTogNiAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGUsIHRoaXMpO2RkCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNvcnQoKGxlZnQsIHJpZ2h0KSA9PiBsZWZ0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGUsIHRoaXMpO2RkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNvcnQoKGxlZnQsIHJpZ2h0KSA9PiBsZWZ0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlLnRhcmdldCAhPT0gdm5vZGUuZG9tKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlLnRhcmdldCAhPT0gdm5vZGUuZG9tKSB7Cg==</text>
       </register>
     </registers>
     <search>
