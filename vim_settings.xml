@@ -3,6 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1507309743318">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507381960165">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1507309521591">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1507795041384">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1507794684429">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507380398199">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
       <file name="/Dummy.txt" timestamp="1507726046506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -14,15 +44,6 @@
         <mark key="." line="42" column="9" />
         <mark key="^" line="41" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1507309743318">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507381960165">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,36 +52,6 @@
         <mark key="]" line="9" column="28" />
         <mark key="^" line="8" column="57" />
         <mark key="." line="9" column="12" />
-      </file>
-      <file name="/fragment.py" timestamp="1507309521591">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1507292958631">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="95" column="66" />
-        <mark key="." line="95" column="66" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/test/encoder_test.py" timestamp="1507309678690">
-        <mark key="'" line="96" column="28" />
-        <mark key="[" line="116" column="90" />
-        <mark key="]" line="116" column="32" />
-        <mark key="." line="116" column="32" />
-        <mark key="^" line="116" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
-        <mark key="'" line="26" column="57" />
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="78" column="26" />
-        <mark key="." line="78" column="26" />
-        <mark key="^" line="78" column="26" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1507725702075">
         <mark key="[" line="10" column="0" />
@@ -74,6 +65,11 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507794637746">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="20" column="50" />
@@ -85,12 +81,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="31" column="44" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507380398199">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1507725965627">
         <mark key="[" line="70" column="59" />
@@ -115,6 +105,11 @@
         <mark key="]" line="7" column="76" />
         <mark key="." line="7" column="76" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1507794989865">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -134,6 +129,9 @@
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/phrases.py" timestamp="1507794267836">
+        <mark key="[" line="30" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -180,11 +178,11 @@
       <jump line="15" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3BsaXR0ZXIuc3BsaXQsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB0b2tlbnNfaXRlcigpOgogICAgICAgIGZvciBzZW50IGluIHRxZG0oYWxsX3RleHQpOgogICAgICAgICAgICB0b2tlbnMgPSBzcGxpdHRlci5zcGxpdChzZW50KQogICAgICAgICAgICBpZiBsZW4odG9rZW5zKSA+IDM6CiAgICAgICAgICAgICAgICB5aWVsZCB0b2tlbnMKCiAgICBtb2RlbCA9IFBocmFzZXModG9rZW5zX2l0ZXIoKSwgdGhyZXNob2xkPTUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3BsaXR0ZXIuc3BsaXQsIA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -193,31 +191,31 @@
         <text>uwsgi-lts.tar.gz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0b2tlbnNfaXRlcigpOgogICAgICAgIGZvciBzZW50IGluIHRxZG0oYWxsX3RleHQpOgogICAgICAgICAgICB0b2tlbnMgPSBzcGxpdHRlci5zcGxpdChzZW50KQogICAgICAgICAgICBpZiBsZW4odG9rZW5zKSA+IDM6CiAgICAgICAgICAgICAgICB5aWVsZCB0b2tlbnMKCiAgICBtb2RlbCA9IFBocmFzZXModG9rZW5zX2l0ZXIoKSwgdGhyZXNob2xkPTUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGRlZiB0b2tlbnNfaXRlcigpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgaWYgY29ubi5nZXRfdHJhbnNhY3Rpb25fc3RhdHVzKCkgIT0gZXh0ZW5zaW9ucy5UUkFOU0FDVElPTl9TVEFUVVNfSURMRToK</text>
+        <text encoding="base64">ICAgIGFsbF90ZXh0ID0gbGlzdCh0cWRtKGl0ZXJfc2VudGVuY2VzKCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZnJvbSBwc3ljb3BnMiBpbXBvcnQgZXh0ZW5zaW9ucwo=</text>
+        <text encoding="base64">ICAgICIiIiBEb2VzIHBocmFzZSBhbmFseXNpcyBzdHVmZiAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QWRkIGRhdGFiYXNlIHNlZWRpbmcK</text>
+        <text encoding="base64">ZGVmIG1haW4oKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z3VuaWNvcm4K</text>
+        <text encoding="base64">ZGVmIG1haW4oKToKICAgICIiIiBEb2VzIHBocmFzZSBhbmFseXNpcyBzdHVmZiAiIiIKICAgIGFsbF90ZXh0ID0gbGlzdCh0cWRtKGl0ZXJfc2VudGVuY2VzKCkpKQogICAgc3BsaXR0ZXIgPSByZS5jb21waWxlKHInXFcrJykKCiAgICBkZWYgdG9rZW5zX2l0ZXIoKToKICAgICAgICBmb3Igc2VudCBpbiB0cWRtKGFsbF90ZXh0KToKICAgICAgICAgICAgdG9rZW5zID0gc3BsaXR0ZXIuc3BsaXQoc2VudCkKICAgICAgICAgICAgaWYgbGVuKHRva2VucykgPiAzOgogICAgICAgICAgICAgICAgeWllbGQgdG9rZW5zCgogICAgbW9kZWwgPSBQaHJhc2VzKHRva2Vuc19pdGVyKCksIHRocmVzaG9sZD01KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoX19uYW1lX18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gLSBhZGQgaW50ZWxsaWdlbnQgbmVzdGVkIHF1ZXJ5IHRvIGJyYW5jaCBxdWVyeSBiZWhhdmlvcgo=</text>
+        <text encoding="base64">ICAgICMgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGltZVR5cGVzID0gWyd0aW1lc3RhbXAnXQo=</text>
+        <text encoding="base64">ICAgICMgaWYgY29ubi5nZXRfdHJhbnNhY3Rpb25fc3RhdHVzKCkgIT0gZXh0ZW5zaW9ucy5UUkFOU0FDVElPTl9TVEFUVVNfSURMRToK</text>
       </register>
     </registers>
     <search>
