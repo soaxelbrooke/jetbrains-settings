@@ -36,10 +36,10 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507799217109">
+      <file name="/Dummy.txt" timestamp="1507814563873">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="47" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1507725224029">
         <mark key="[" line="42" column="32" />
@@ -68,11 +68,18 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507800394844">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="16" column="12" />
-        <mark key="." line="18" column="14" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/pos_tag_filtered_gensim.py" timestamp="1507816326172">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="26" column="60" />
+        <mark key="." line="26" column="60" />
+        <mark key="^" line="26" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507815889377">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="28" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="28" column="28" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -181,46 +188,47 @@
       <jump line="291" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="463" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="15" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
+      <jump line="80" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'/home/stuart/data/amazon-reviews-ldjson/short_text.txt')</text>
+        <text>in self.spacy_nlp(chunk))</text>
       </register>
       <register name="-" type="4">
-        <text>'/home/stuart/data/amazon-reviews-ldjson/short_text.txt')</text>
+        <text>in self.spacy_nlp(chunk))</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlc2lyZWRfZ3JvdXBzID0gbG9hZF9waHJhc2VzX2ZpbGUoJ2V4cGVyaW1lbnRhbC9waHJhc2VzL2Rlc2lyZWQuY3N2JykK</text>
+      <register name="0" type="4">
+        <text>PosTagFilteredGensimModel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
+        <text encoding="base64">ICAgICAgICBhYWFpc2UgYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gTW9kZWwoKQo=</text>
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gTW9kZWwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oZidJbnZhbGlkIHN0cmF0ZWd5IHByb3ZpZGVkOiB7c3RyYXRlZ3l9LCB2YWxpZCBvcHRpb25zIGFyZToge1NUUkFURUdZX01BUH0nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIE1vZGVsIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oZidJbnZhbGlkIHN0cmF0ZWd5IHByb3ZpZGVkOiB7c3RyYXRlZ3l9LCB2YWxpZCBvcHRpb25zIGFyZToge1NUUkFURUdZX01BUH0nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRydWVfbmVnYXRpdmVzID0gdHJ1ZV9uZWdhdGl2ZXMK</text>
+        <text encoding="base64">ICAgIGlmIE1vZGVsIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignZXhwZXJpbWVudGFsL3BocmFzZXMvZGVzaXJlZC5jc3YnKSBhcyBpbmZpbGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRydWVfbmVnYXRpdmVzID0gdHJ1ZV9uZWdhdGl2ZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICBoZWFkZXJzID0gbmV4dChyZWFkZXIpCiAgICAgICAgZGVzaXJlZF9ncm91cHN0b29sei5ncm91cGJ5KGxhbWJkYSByb3c6IHJvd1sxXSwgcmVhZGVyKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignZXhwZXJpbWVudGFsL3BocmFzZXMvZGVzaXJlZC5jc3YnKSBhcyBpbmZpbGU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNpcmVkX2dyb3VwcyA9IHtyb3dzWzBdWzFdOiBncm91cChyZWFkZXIsIGxhbWJkYSByb3c6IHJvd1sxXSkK</text>
+        <text encoding="base64">ICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICBoZWFkZXJzID0gbmV4dChyZWFkZXIpCiAgICAgICAgZGVzaXJlZF9ncm91cHN0b29sei5ncm91cGJ5KGxhbWJkYSByb3c6IHJvd1sxXSwgcmVhZGVyKQo=</text>
       </register>
     </registers>
     <search>
