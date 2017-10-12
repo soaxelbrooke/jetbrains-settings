@@ -24,8 +24,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1507794684429">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1507797405326">
+        <mark key="[" line="19" column="65" />
+        <mark key="]" line="19" column="65" />
+        <mark key="." line="19" column="65" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507380398199">
         <mark key="[" line="8" column="28" />
@@ -65,11 +67,11 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507796865174">
-        <mark key="[" line="40" column="47" />
-        <mark key="]" line="44" column="8" />
-        <mark key="." line="44" column="8" />
-        <mark key="^" line="44" column="8" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507797536282">
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -106,10 +108,11 @@
         <mark key="]" line="7" column="76" />
         <mark key="." line="7" column="76" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1507795538252">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1507797882238">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
@@ -180,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlc2lyZWRfZ3JvdXBzID0gbG9hZF9waHJhc2VzX2ZpbGUoJ2V4cGVyaW1lbnRhbC9waHJhc2VzL2Rlc2lyZWQuY3N2JykK</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gTW9kZWwoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">IHRydWVfbmVnYXRpdmVzOiBpbnQs</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -192,31 +195,31 @@
         <text encoding="base64">ICAgIGRlc2lyZWRfZ3JvdXBzID0gbG9hZF9waHJhc2VzX2ZpbGUoJ2V4cGVyaW1lbnRhbC9waHJhc2VzL2Rlc2lyZWQuY3N2JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignZXhwZXJpbWVudGFsL3BocmFzZXMvZGVzaXJlZC5jc3YnKSBhcyBpbmZpbGU6Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gTW9kZWwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICBoZWFkZXJzID0gbmV4dChyZWFkZXIpCiAgICAgICAgZGVzaXJlZF9ncm91cHN0b29sei5ncm91cGJ5KGxhbWJkYSByb3c6IHJvd1sxXSwgcmVhZGVyKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNpcmVkX2dyb3VwcyA9IHtyb3dzWzBdWzFdOiBncm91cChyZWFkZXIsIGxhbWJkYSByb3c6IHJvd1sxXSkK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oZidJbnZhbGlkIHN0cmF0ZWd5IHByb3ZpZGVkOiB7c3RyYXRlZ3l9LCB2YWxpZCBvcHRpb25zIGFyZToge1NUUkFURUdZX01BUH0nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIE1vZGVsIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRydWVfbmVnYXRpdmVzID0gdHJ1ZV9uZWdhdGl2ZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsW2xpc3Qoc3BsaXR0ZXIuc3BsaXQoYWxsX3RleHRbMV0pKV0pCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignZXhwZXJpbWVudGFsL3BocmFzZXMvZGVzaXJlZC5jc3YnKSBhcyBpbmZpbGU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvZGUuaW50ZXJhY3QobG9jYWw9ZGljdChnbG9iYWxzKCksICoqbG9jYWxzKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICBoZWFkZXJzID0gbmV4dChyZWFkZXIpCiAgICAgICAgZGVzaXJlZF9ncm91cHN0b29sei5ncm91cGJ5KGxhbWJkYSByb3c6IHJvd1sxXSwgcmVhZGVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNpcmVkX2dyb3VwcyA9IHtyb3dzWzBdWzFdOiBncm91cChyZWFkZXIsIGxhbWJkYSByb3c6IHJvd1sxXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gR2Vuc2ltUGhyYXNlTW9kZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
