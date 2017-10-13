@@ -21,20 +21,23 @@
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1507795041384">
+      <file name="/a.dummy" timestamp="1507904412778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1507866041772">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="22" column="25" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1507904920314">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="53" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1507898571328">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="9" column="32" />
-        <mark key="^" line="9" column="31" />
-        <mark key="." line="9" column="31" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1507903051535">
+        <mark key="[" line="19" column="91" />
+        <mark key="]" line="38" column="30" />
+        <mark key="^" line="38" column="30" />
+        <mark key="." line="38" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/filtered_partitioned_topk_plus_gensim.py" timestamp="1507904177171">
+        <mark key="[" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="9" column="0" />
@@ -42,17 +45,22 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1507866554032">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="30" />
-        <mark key="." line="39" column="30" />
-        <mark key="^" line="39" column="30" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk_plus_gensim.py" timestamp="1507904897277">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507898699650">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="34" />
-        <mark key="^" line="27" column="7" />
-        <mark key="." line="13" column="34" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1507902927289">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="47" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507904885002">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="33" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="36" column="33" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507380398199">
         <mark key="[" line="8" column="28" />
@@ -60,7 +68,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507897032993">
+      <file name="/Dummy.txt" timestamp="1507904922373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="24" />
@@ -98,12 +106,18 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507899861164">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507904461088">
         <mark key="'" line="57" column="6" />
-        <mark key="[" line="29" column="61" />
-        <mark key="]" line="61" column="45" />
-        <mark key="^" line="57" column="6" />
-        <mark key="." line="61" column="45" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="30" column="45" />
+        <mark key="^" line="30" column="45" />
+        <mark key="." line="30" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507904892106">
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="39" column="33" />
+        <mark key="." line="39" column="33" />
+        <mark key="^" line="17" column="53" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -111,11 +125,11 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_plus_gensim.py" timestamp="1507866077718">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="52" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_plus_gensim.py" timestamp="1507904866242">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="34" column="33" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.js" timestamp="1507379830255">
         <mark key="[" line="8" column="0" />
@@ -146,11 +160,11 @@
         <mark key="]" line="7" column="76" />
         <mark key="." line="7" column="76" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1507898800152">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="12" column="113" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1507904875282">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="33" />
         <mark key="^" line="16" column="41" />
-        <mark key="." line="12" column="45" />
+        <mark key="." line="37" column="33" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
@@ -215,43 +229,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>'wa'</text>
       </register>
-      <register name="0" type="4">
-        <text>amazon_partitioned_chunk_iter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdwYXJ0aXRpb25lZC10b3BrLWdlbnNpbSc6IFBhcnRpdGlvbmVkVG9wa1BsdXNHZW5zaW0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdGVybS5lbmRzd2l0aCgndG8nKSBvciB0ZXJtLmVuZHN3aXRoKCdvZicpIG9yIHRlcm0uZW5kc3dpdGgoJ3RoYXQnKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgIiciIGluIHRlcm06Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgZnJvbSAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>{
+            
+        }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">X19uYW1lX18KICAgICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGNodW5rX3RleHRzKHRleHRzKToK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBleHBlcmltZW50YWwucGhyYXNlcy5leHBlcmltZW50IGltcG9ydCBMSU5FX0xJTUlUCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TElORV9MSU1JVCA9IGludChvcy5lbnZpcm9uLmdldCgnTElORUxJTScsIDEwMDAwMDAwMCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -322,6 +338,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
