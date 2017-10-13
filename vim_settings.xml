@@ -30,6 +30,12 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="25" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1507898571328">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -42,13 +48,19 @@
         <mark key="." line="39" column="30" />
         <mark key="^" line="39" column="30" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507898699650">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="13" column="34" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507380398199">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="31" />
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507893572378">
+      <file name="/Dummy.txt" timestamp="1507897032993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="24" />
@@ -86,12 +98,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507866833940">
-        <mark key="'" line="80" column="17" />
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="60" column="26" />
-        <mark key="^" line="60" column="26" />
-        <mark key="." line="60" column="26" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507899861164">
+        <mark key="'" line="57" column="6" />
+        <mark key="[" line="29" column="61" />
+        <mark key="]" line="61" column="45" />
+        <mark key="^" line="57" column="6" />
+        <mark key="." line="61" column="45" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -134,26 +146,17 @@
         <mark key="]" line="7" column="76" />
         <mark key="." line="7" column="76" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1507799211080">
-        <mark key="[" line="25" column="58" />
-        <mark key="]" line="25" column="58" />
-        <mark key="^" line="22" column="32" />
-        <mark key="." line="25" column="58" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1507898800152">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="12" column="113" />
+        <mark key="^" line="16" column="41" />
+        <mark key="." line="12" column="45" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="17" column="93" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" timestamp="1507384600610">
-        <mark key="a" line="450" column="27" />
-        <mark key="'" line="15" column="19" />
-        <mark key="[" line="15" column="0" />
-        <mark key="m" line="450" column="27" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1507725808812">
         <mark key="[" line="100" column="0" />
@@ -207,52 +210,54 @@
       <jump line="463" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="15" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="80" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" />
+      <jump line="57" column="6" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.replace('\u0000', '')</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>tweet.AsJsonString()</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>'wa'</text>
       </register>
       <register name="0" type="4">
-        <text>.replace('\u0000', '')</text>
+        <text>amazon_partitioned_chunk_iter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjc3Zfcm93cy5hcHBlbmQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciB0b2tlbl9jbGFzcywgcXVhbGl0eSBpbiAK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNzdl9yb3dzID0gW1snU3RyYXRlZ3knLCAnTi1HcmFtJ10gKyBNb2RlbFF1YWxpdHkudG9faGVhZGVyKCldCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGVybSBpbiBzZWxmLnRvcGtfbW9kZWwuYWxsX3NpZ25pZmljYW50X3Rlcm1zKCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbnMgPSBjaHUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5zID0gY2h1Cg==</text>
+        <text encoding="base64">ZGVmIGNodW5rX3RleHRzKHRleHRzKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY2h1bmsgaW4gY2h1bmtfaXRlcjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhYWFpc2UgYQo=</text>
+        <text encoding="base64">ZnJvbSBleHBlcmltZW50YWwucGhyYXNlcy5leHBlcmltZW50IGltcG9ydCBMSU5FX0xJTUlUCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
+        <text encoding="base64">TElORV9MSU1JVCA9IGludChvcy5lbnZpcm9uLmdldCgnTElORUxJTScsIDEwMDAwMDAwMCkpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>'wa'</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>'wa'</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -275,6 +280,7 @@
         <entry>starts with</entry>
         <entry>Starts</entry>
         <entry>TODO</entry>
+        <entry>'wa'</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -313,6 +319,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
