@@ -18,6 +18,12 @@
       <file name="/a.dummy" timestamp="1507795041384">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1507864390118">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -36,7 +42,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507814563873">
+      <file name="/Dummy.txt" timestamp="1507864052408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="24" />
@@ -74,12 +80,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507819162690">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507864404259">
         <mark key="'" line="80" column="17" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="28" column="28" />
-        <mark key="^" line="27" column="57" />
-        <mark key="." line="28" column="28" />
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -191,8 +197,8 @@
       <jump line="80" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0b2tlbnMgPSBjaHUK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -204,31 +210,31 @@
         <text>PosTagFilteredGensimModel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhYWFpc2UgYQo=</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbnMgPSBjaHUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5zID0gY2h1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gTW9kZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY2h1bmsgaW4gY2h1bmtfaXRlcjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhYWFpc2UgYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oZidJbnZhbGlkIHN0cmF0ZWd5IHByb3ZpZGVkOiB7c3RyYXRlZ3l9LCB2YWxpZCBvcHRpb25zIGFyZToge1NUUkFURUdZX01BUH0nKQo=</text>
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIE1vZGVsIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gTW9kZWwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRydWVfbmVnYXRpdmVzID0gdHJ1ZV9uZWdhdGl2ZXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignZXhwZXJpbWVudGFsL3BocmFzZXMvZGVzaXJlZC5jc3YnKSBhcyBpbmZpbGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oZidJbnZhbGlkIHN0cmF0ZWd5IHByb3ZpZGVkOiB7c3RyYXRlZ3l9LCB2YWxpZCBvcHRpb25zIGFyZToge1NUUkFURUdZX01BUH0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICBoZWFkZXJzID0gbmV4dChyZWFkZXIpCiAgICAgICAgZGVzaXJlZF9ncm91cHN0b29sei5ncm91cGJ5KGxhbWJkYSByb3c6IHJvd1sxXSwgcmVhZGVyKQo=</text>
+        <text encoding="base64">ICAgIGlmIE1vZGVsIGlzIE5vbmU6Cg==</text>
       </register>
     </registers>
     <search>
