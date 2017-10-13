@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1507892823523">
-        <mark key="[" line="51" column="37" />
-        <mark key="]" line="51" column="58" />
-        <mark key="^" line="52" column="79" />
-        <mark key="." line="51" column="38" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1507893562890">
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="66" />
+        <mark key="^" line="51" column="37" />
+        <mark key="." line="36" column="44" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
@@ -48,7 +48,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507892863033">
+      <file name="/Dummy.txt" timestamp="1507893572378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="24" />
@@ -210,7 +210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tweet.AsJsonString()</text>
+        <text>.replace('\u0000', '')</text>
       </register>
       <register name="-" type="4">
         <text>tweet.AsJsonString()</text>
@@ -219,7 +219,7 @@
         <text>TODO</text>
       </register>
       <register name="0" type="4">
-        <text>PosTagFilteredGensimModel</text>
+        <text>.replace('\u0000', '')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjc3Zfcm93cy5hcHBlbmQoKQo=</text>
