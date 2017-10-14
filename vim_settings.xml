@@ -21,7 +21,7 @@
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1507904412778">
+      <file name="/a.dummy" timestamp="1507910547206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1507904920314">
@@ -39,6 +39,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/filtered_partitioned_topk_plus_gensim.py" timestamp="1507904177171">
         <mark key="[" line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_minority_topk.py" timestamp="1507910535094">
+        <mark key="[" line="18" column="77" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -50,6 +56,7 @@
         <mark key="]" line="38" column="33" />
         <mark key="." line="38" column="33" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507910674848" />
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1507902927289">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="47" />
@@ -68,7 +75,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507904922373">
+      <file name="/Dummy.txt" timestamp="1507910555406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="24" />
@@ -106,18 +113,18 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507904461088">
-        <mark key="'" line="57" column="6" />
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="30" column="45" />
-        <mark key="^" line="30" column="45" />
-        <mark key="." line="30" column="45" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1507909676362">
+        <mark key="'" line="59" column="6" />
+        <mark key="[" line="33" column="56" />
+        <mark key="]" line="33" column="56" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="33" column="33" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507904892106">
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="33" />
-        <mark key="." line="39" column="33" />
-        <mark key="^" line="17" column="53" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="40" column="33" />
+        <mark key="." line="40" column="33" />
+        <mark key="^" line="18" column="53" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -228,46 +235,46 @@
       <jump line="57" column="6" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtaW5vcml0eV90ZXJtcyA9IHNvcnRlZCh0ZXJtX2NvdW50cy5pdGVtcygpLCBrZXk9bGFtYmRhIHA6IHBbMV0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>model.all_significant_terms():</text>
       </register>
       <register name="/" type="4">
         <text>'wa'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdwYXJ0aXRpb25lZC10b3BrLWdlbnNpbSc6IFBhcnRpdGlvbmVkVG9wa1BsdXNHZW5zaW0sCg==</text>
+      <register name="0" type="4">
+        <text>PartitionedMinorityTopK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdGVybS5lbmRzd2l0aCgndG8nKSBvciB0ZXJtLmVuZHN3aXRoKCdvZicpIG9yIHRlcm0uZW5kc3dpdGgoJ3RoYXQnKToK</text>
+        <text encoding="base64">ICAgICAgICBtaW5vcml0eV90ZXJtcyA9IHNvcnRlZCh0ZXJtX2NvdW50cy5pdGVtcygpLCBrZXk9bGFtYmRhIHA6IHBbMV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgIiciIGluIHRlcm06Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtX2NvdW50cyA9IENvdW50ZXIoKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgcGFydGl0aW9uLCBtb2RlbCBpbiBzZWxmLm1vZGVscy5pdGVtcygpfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJ0aXRpb25lZF90ZXJtcyA9IHtwYXJ0aXRpb246IHNldChtb2RlbC5hbGxfc2lnbmlmaWNhbnRfdGVybXMoKSkgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdGVybS5lbmRzd2l0aCgndG8nKSBvciB0ZXJtLmVuZHN3aXRoKCdvZicpIG9yIHRlcm0uZW5kc3dpdGgoJ3RoYXQnKToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgIiciIGluIHRlcm06Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeWllbGQgZnJvbSAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>{
             
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">X19uYW1lX18KICAgICAgIA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
