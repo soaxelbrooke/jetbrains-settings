@@ -97,12 +97,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/simple_clf.py" timestamp="1508041023317">
-        <mark key="'" line="55" column="52" />
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="28" column="62" />
-        <mark key="." line="28" column="62" />
-        <mark key="^" line="28" column="62" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/simple_clf.py" timestamp="1508043181428">
+        <mark key="'" line="56" column="52" />
+        <mark key="[" line="21" column="58" />
+        <mark key="]" line="63" column="101" />
+        <mark key="." line="63" column="101" />
+        <mark key="^" line="61" column="94" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1507725702075">
         <mark key="[" line="10" column="0" />
@@ -257,16 +257,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.clf.score(test_x, test_y)</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>self.clf.fit(train_x, train_y)</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="4">
-        <text>self.clf.score(test_x, test_y)</text>
+        <text>self._hyperparams['pct_train']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmNvbnRyaWIuZGVjaXNpb25fdHJlZXMucHJvdG8uZ2VuZXJpY190cmVlX21vZGVsX3BiMiBpbXBvcnQgRGVjaXNpb25UcmVlCg==</text>
