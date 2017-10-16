@@ -24,11 +24,11 @@
       <file name="/a.dummy" timestamp="1508032859271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1507904920314">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="53" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508149127783">
+        <mark key="[" line="50" column="73" />
+        <mark key="]" line="50" column="72" />
+        <mark key="." line="50" column="72" />
+        <mark key="^" line="50" column="72" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1507903051535">
         <mark key="[" line="19" column="91" />
@@ -83,7 +83,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508144347128">
+      <file name="/Dummy.txt" timestamp="1508147710834">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="24" />
@@ -135,15 +135,15 @@
         <mark key="^" line="28" column="70" />
         <mark key="." line="28" column="70" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/pos_tag_filtered_gensim.py" timestamp="1507818123965">
-        <mark key="[" line="39" column="80" />
-        <mark key="]" line="31" column="26" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/pos_tag_filtered_gensim.py" timestamp="1508148782956">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="45" />
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1508032720752">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1508149150283">
         <mark key="'" line="59" column="6" />
-        <mark key="[" line="99" column="55" />
+        <mark key="[" line="36" column="57" />
         <mark key="]" line="99" column="55" />
         <mark key="^" line="106" column="52" />
         <mark key="." line="99" column="55" />
@@ -268,8 +268,8 @@
       <jump line="53" column="52" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/simple_clf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGVuX2NvcmVfd2ViX3NtCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -278,7 +278,7 @@
         <text>{user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfdGVybV9kZW5zaXR5ID0gbWF4KGRlbnNpdGllcykKICAgICAgICBhdmdfdGVybV9kZW5zaXR5ID0gbWVhbihkZW5zaXRpZXMpCg==</text>
+        <text encoding="base64">aW1wb3J0IGVuX2NvcmVfd2ViX3NtCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgYW55KHRva2VuIGluIGMgZm9yIGMgaW4gc2VsZi5jb3VudHMudmFsdWVzKCkpOgo=</text>
