@@ -65,6 +65,12 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="46" />
       </file>
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/main.py" timestamp="1508144612164">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="31" column="47" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507904885002">
         <mark key="[" line="36" column="33" />
         <mark key="]" line="36" column="33" />
@@ -77,7 +83,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507989506694">
+      <file name="/Dummy.txt" timestamp="1508144347128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="24" />
@@ -122,6 +128,12 @@
         <mark key="]" line="92" column="83" />
         <mark key="." line="92" column="83" />
         <mark key="^" line="92" column="83" />
+      </file>
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1508144645153">
+        <mark key="[" line="28" column="71" />
+        <mark key="]" line="28" column="70" />
+        <mark key="^" line="28" column="70" />
+        <mark key="." line="28" column="70" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/pos_tag_filtered_gensim.py" timestamp="1507818123965">
         <mark key="[" line="39" column="80" />
@@ -257,13 +269,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDE=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDE=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>{user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXhfdGVybV9kZW5zaXR5ID0gbWF4KGRlbnNpdGllcykKICAgICAgICBhdmdfdGVybV9kZW5zaXR5ID0gbWVhbihkZW5zaXRpZXMpCg==</text>
@@ -297,15 +309,14 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>{user</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>{user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>batch_size</entry>
         <entry>bpe_vo</entry>
         <entry>unknown</entry>
         <entry>PAD</entry>
@@ -325,6 +336,7 @@
         <entry>'wa'</entry>
         <entry>tqdm</entry>
         <entry>print</entry>
+        <entry>{user</entry>
       </history-search>
       <history-cmd />
       <history-expr />
