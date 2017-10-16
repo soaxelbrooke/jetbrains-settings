@@ -83,7 +83,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508147710834">
+      <file name="/Dummy.txt" timestamp="1508153704787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="24" />
@@ -195,11 +195,11 @@
         <mark key="]" line="7" column="76" />
         <mark key="." line="7" column="76" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1507904875282">
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="33" />
-        <mark key="^" line="16" column="41" />
-        <mark key="." line="37" column="33" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508154139756">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="36" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
@@ -269,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kwargs</text>
+        <text>.phrasers</text>
       </register>
       <register name="-" type="4">
-        <text>kwargs</text>
+        <text>.phrasers</text>
       </register>
       <register name="/" type="4">
         <text>{user</text>
@@ -281,31 +281,31 @@
         <text>self._hyperparams</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaWR4IGluIHJhbmdlKHNlbGYubW9kZWxfa3dhcmdzWyduZ3JhbV9kZXB0aCddKTogICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpdCA9IG1vZGVsLmZpdF9kb2NzIGlmIG1vZGVsLgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZpdCA9IG1vZGVsLmZpdF9kb2NzIGlmIG1vZGVsLgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaXRfY2h1bmtzKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYW55KHRva2VuIGluIGMgZm9yIGMgaW4gc2VsZi5jb3VudHMudmFsdWVzKCkpOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBmaXRfY2h1bmtzKHNlbGYpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oZiJEZWljaXNpb24gdHJlZSBkZXRhaWxzOlx0XHRub2RlX2xlZnRzZWxmLmNsZi50cmVlXwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYW55KHRva2VuIGluIGMgZm9yIGMgaW4gc2VsZi5jb3VudHMudmFsdWVzKCkpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfdGVybV9kZW5zaXR5ID0gbWF4KGRlbnNpdGllcykKICAgICAgICBhdmdfdGVybV9kZW5zaXR5ID0gbWVhbihkZW5zaXRpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oZiJEZWljaXNpb24gdHJlZSBkZXRhaWxzOlx0XHRub2RlX2xlZnRzZWxmLmNsZi50cmVlXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmNvbnRyaWIuZGVjaXNpb25fdHJlZXMucHJvdG8uZ2VuZXJpY190cmVlX21vZGVsX3BiMiBpbXBvcnQgRGVjaXNpb25UcmVlCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXhfdGVybV9kZW5zaXR5ID0gbWF4KGRlbnNpdGllcykKICAgICAgICBhdmdfdGVybV9kZW5zaXR5ID0gbWVhbihkZW5zaXRpZXMpCg==</text>
       </register>
     </registers>
     <search>
