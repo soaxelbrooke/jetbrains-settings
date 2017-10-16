@@ -24,10 +24,11 @@
       <file name="/a.dummy" timestamp="1508032859271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508150968141">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508152585504">
+        <mark key="[" line="37" column="69" />
+        <mark key="]" line="37" column="69" />
+        <mark key="." line="37" column="23" />
+        <mark key="^" line="39" column="25" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
         <mark key="[" line="34" column="22" />
@@ -268,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, provide_docs=model.fit_docs</text>
+        <text>sorted(new_vocab.items(), key=lambda p: -p[1])</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>sorted(new_vocab.items(), key=lambda p: -p[1])</text>
       </register>
       <register name="/" type="4">
         <text>{user</text>
