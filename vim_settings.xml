@@ -24,11 +24,11 @@
       <file name="/a.dummy" timestamp="1508032859271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508152585504">
-        <mark key="[" line="37" column="69" />
-        <mark key="]" line="37" column="69" />
-        <mark key="." line="37" column="23" />
-        <mark key="^" line="39" column="25" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508153482493">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
         <mark key="[" line="34" column="22" />
@@ -269,16 +269,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sorted(new_vocab.items(), key=lambda p: -p[1])</text>
+        <text>kwargs</text>
       </register>
       <register name="-" type="4">
-        <text>sorted(new_vocab.items(), key=lambda p: -p[1])</text>
+        <text>kwargs</text>
       </register>
       <register name="/" type="4">
         <text>{user</text>
       </register>
       <register name="0" type="4">
-        <text>, provide_docs=model.fit_docs</text>
+        <text>self._hyperparams</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
