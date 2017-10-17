@@ -83,10 +83,10 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508165738504">
+      <file name="/Dummy.txt" timestamp="1508236953412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="24" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/util.py" timestamp="1508165556245">
         <mark key="[" line="31" column="67" />
@@ -94,11 +94,11 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="31" column="67" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508165945130">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508236936398">
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="29" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
@@ -202,11 +202,11 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508154139756">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="36" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508236652604">
+        <mark key="[" line="39" column="53" />
+        <mark key="]" line="39" column="53" />
+        <mark key="." line="39" column="53" />
+        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
@@ -276,44 +276,45 @@
       <jump line="7" column="76" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/documents.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>InternalError</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>InternalError</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>{user</text>
       </register>
-      <register name="0" type="4">
-        <text>require_json_fields</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRyYWNlYmFjay5wcmludF9leGMoKQogICAgbG9nZ2luZy5lcnJvcigiUG9zdGdyZXMgcXVlcnkgZmFpbGVkOiB7fSIuZm9ybWF0KGVycm9yKSkKICAgIHJlc3BvbnNlID0ganNvbmlmeSh7J2Vycm9yJzogc3RyKGVycm9yKX0pCiAgICByZXNwb25zZS5zdGF0dXNfY29kZSA9IDQyMgogICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcV9qc29uID0gcmVxdWVzdC5nZXRfanNvbigpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaWR4IGluIHJhbmdlKHNlbGYubW9kZWxfa3dhcmdzWyduZ3JhbV9kZXB0aCddKTogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnN0YXR1c19jb2RlID0gNDIyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpdCA9IG1vZGVsLmZpdF9kb2NzIGlmIG1vZGVsLgo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnN0YXR1c19jb2RlID0gNTAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVscyA9IAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaXRfY2h1bmtzKHNlbGYpOgo=</text>
+      <register name="7" type="4">
+        <text>[Phrases(self.model_kwargs)
+                       for idx in range(self.model_kwargs['ngram_depth'])]</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYW55KHRva2VuIGluIGMgZm9yIGMgaW4gc2VsZi5jb3VudHMudmFsdWVzKCkpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oZiJEZWljaXNpb24gdHJlZSBkZXRhaWxzOlx0XHRub2RlX2xlZnRzZWxmLmNsZi50cmVlXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
