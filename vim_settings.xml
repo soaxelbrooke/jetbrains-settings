@@ -9,6 +9,10 @@
         <mark key="^" line="51" column="37" />
         <mark key="." line="36" column="44" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/setup_db.sh" timestamp="1508245846025">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="7" column="85" />
+      </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,6 +39,10 @@
         <mark key="]" line="38" column="28" />
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/seed.py" timestamp="1508247624440">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="24" column="7" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/filtered_partitioned_topk_plus_gensim.py" timestamp="1507904177171">
         <mark key="[" line="15" column="24" />
@@ -83,16 +91,22 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508236953412">
+      <file name="/Dummy.txt" timestamp="1508247119702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/util.py" timestamp="1508165556245">
-        <mark key="[" line="31" column="67" />
-        <mark key="]" line="31" column="67" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="31" column="67" />
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="67" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="32" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1508248952945">
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508236936398">
         <mark key="[" line="25" column="41" />
@@ -116,11 +130,20 @@
         <mark key="." line="103" column="12" />
         <mark key="^" line="102" column="36" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1507725702075">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508242387544">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508248986887">
+        <mark key="[" line="124" column="39" />
+        <mark key="]" line="123" column="36" />
+        <mark key="." line="123" column="36" />
+        <mark key="^" line="123" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508242633526">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases.py" timestamp="1507732380257">
         <mark key="[" line="17" column="24" />
@@ -276,45 +299,44 @@
       <jump line="7" column="76" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/documents.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>{user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYWNlYmFjay5wcmludF9leGMoKQogICAgbG9nZ2luZy5lcnJvcigiUG9zdGdyZXMgcXVlcnkgZmFpbGVkOiB7fSIuZm9ybWF0KGVycm9yKSkKICAgIHJlc3BvbnNlID0ganNvbmlmeSh7J2Vycm9yJzogc3RyKGVycm9yKX0pCiAgICByZXNwb25zZS5zdGF0dXNfY29kZSA9IDQyMgogICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICMgcmVzcG9uc2UgPSByZXF1ZXN0cy5wb3N0KFVSTCArICcvYXBpL3YxL2tpbmRzJywganNvbj17CiAgICAjICAgICAna2luZF9uYW1lJzogJyJBbWF6b24gUmV2aWV3cyInLAogICAgIyAgICAgJ2NyZWF0ZV9xdWVyeSc6ICIiIgogICAgIyAgICAgICBDUkVBVEUgVEFCTEUgIkFtYXpvbiBSZXZpZXdzIiAoCiAgICAjICAgICAgICAgUmV2aWV3SUQgVEVYVCBQUklNQVJZIEtFWSwKICAgICMgICAgICAgICBUaXRsZSBURVhULAogICAgIyAgICAgICAgIE92ZXJhbGwgRE9VQkxFIFBSRUNJU0lPTiwKICAgICMgICAgICAgICBEYXRlIERBVEUsCiAgICAjICAgICAgICAgQ29udGVudCBURVhULAogICAgIyAgICAgICAgIEF1dGhvciBURVhUCiAgICAjICAgICAgICk7CiAgICAjICAgICAiIiIKICAgICMgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLmNvbnRlbnQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnN0YXR1c19jb2RlID0gNDIyCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3RkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnN0YXR1c19jb2RlID0gNTAwCg==</text>
+        <text encoding="base64">ICAgIG5ld19lbnYgPSB0b29sei5tZXJnZShvcy5lbnZpcm9uLmNvcHkoKSwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVscyA9IAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>[Phrases(self.model_kwargs)
-                       for idx in range(self.model_kwargs['ngram_depth'])]</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBvcnQgPSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBvcnQgPSAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLndhcm5pbmcoJ0Ryb3BwaW5nIHN0YWdpbmcgZW52aXJvbm1lbnQuICBIb2xkIG9uIHRvIHlvdXIgYnV0dHMuLi4nKQogICAgICAgIGxvZ2dpbmcuaW5mbygnU3RvcHBpbmcgd2ViIHNlcnZlci4uLicpCiAgICAgICAgY2hlY2tfb3V0cHV0KFsndXdzZ2knLCAnLS1zdG9wJywgJy9ydW4vdXdzZ2kvdGhvdWdodHZlY3Rvci5waWQnXSkKICAgICAgICBsb2dnaW5nLmluZm8oZidEcm9wcGluZyBwb3N0Z3JlcyBjbHVzdGVyIHtDTFVTVEVSX05BTUV9Li4uJykKICAgICAgICBjaGVja19vdXRwdXQoWydzdWRvJywgJy1IdScsICdwb3N0Z3JlcycsICdwZ19kcm9wY2x1c3RlcicsICctLXN0b3AnLCAnMTAnLCBDTFVTVEVSX05BTUVdKQo=</text>
       </register>
     </registers>
     <search>
