@@ -9,11 +9,10 @@
         <mark key="^" line="51" column="37" />
         <mark key="." line="36" column="44" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1508252841776">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="16" column="59" />
-        <mark key="." line="16" column="8" />
-        <mark key="^" line="14" column="7" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1508255910374">
+        <mark key="[" line="21" column="95" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/setup_db.sh" timestamp="1508245846025">
         <mark key="[" line="7" column="53" />
@@ -90,11 +89,12 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508252680452">
-        <mark key="[" line="88" column="64" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="89" column="39" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508255228586">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="93" column="25" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508242633526">
         <mark key="[" line="9" column="1" />
@@ -113,6 +113,13 @@
         <mark key="]" line="11" column="45" />
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/experiment.py" timestamp="1508151009734">
+        <mark key="'" line="59" column="6" />
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="61" column="68" />
+        <mark key="^" line="59" column="85" />
+        <mark key="." line="61" column="39" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -138,11 +145,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508253146413">
-        <mark key="[" line="67" column="86" />
-        <mark key="]" line="66" column="47" />
-        <mark key="." line="66" column="18" />
-        <mark key="^" line="66" column="17" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508256226906">
+        <mark key="'" line="57" column="16" />
+        <mark key="[" line="115" column="24" />
+        <mark key="]" line="115" column="32" />
+        <mark key="." line="115" column="32" />
+        <mark key="^" line="115" column="32" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
@@ -166,11 +174,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1508252485554">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="61" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1508253958462">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="52" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
         <mark key="[" line="6" column="28" />
@@ -190,7 +198,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508252211064">
+      <file name="/Dummy.txt" timestamp="1508256536406">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="75" />
       </file>
@@ -306,62 +314,66 @@
       <jump line="91" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/logreg_topk.py" />
       <jump line="53" column="52" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/simple_clf.py" />
       <jump line="7" column="76" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/documents.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="109" column="38" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="134" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="142" column="11" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="164" column="86" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="57" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>flask.g.auth_data.customer_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9VHJ1ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>flask.g.auth_data.customer_id</text>
+        <text>=customer_id</text>
       </register>
       <register name="/" type="4">
-        <text>{user</text>
+        <text>get_kind</text>
       </register>
-      <register name="0" type="4">
-        <text>conn = psycopg2.connect(os.environ['DATABASE_URL'])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbm4gPSBnZXRfZGJfY29ubihyZWFkb25seT1GYWxzZSwgdXNlcj1jdXN0b21lcl9pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uLnNldF9zZXNzaW9uKHJlYWRvbmx5PVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9VHJ1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHJlYWRvbmx5Ogo=</text>
+        <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9RmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbm4uZHNuKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNycy5leGVjdXRlKCdDUkVBVEUgUk9MRSAnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbm4uZHNuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBsb2dnaW5nLmluZm8oJ0NyZWF0aW5nIHN0YWdpbmcgY3VzdG9tZXIgc2NoZW1hLi4uJykKICAgIHN0YWdpbmdfY3VzdG9tZXJfaWQgPSAnY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzJwogICAgZXhlY3V0ZV9wb3N0Z3Jlc19xdWVyeShmJ0NSRUFURSBST0xFICJ7c3RhZ2luZ19jdXN0b21lcl9pZH0iIFdJVEggTE9HSU4gQ1JFQVRFREI7JykKICAgIGV4ZWN1dGVfcG9zdGdyZXNfcXVlcnkoZidDUkVBVEUgU0NIRU1BIEFVVEhPUklaQVRJT04gIntzdGFnaW5nX2N1c3RvbWVyX2lkfSI7JykK</text>
+        <text encoding="base64">ICAgIHByaW50KG9zLmVudmlyb25bJ0RBVEFCQVNFX1VSTCddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnU3RhcnRpbmcgZG9jdW1lbnQgYmF0Y2ggY29uc3VtZXIuLi4nKQogICAgUG9wZW4oWydweXRob24zLjYnLCAnYXBpL2RvY3VtZW50X2JhdGNoZXMucHknLAogICAgICAgICAgICc+JywgJy92YXIvbG9nL3Rob3VnaHR2ZWN0b3Ivc3RhZ2luZy1iYXRjaC1jb25zdW1lci5sb2cnXSwKICAgICAgICAgIGVudj10b29sei5tZXJnZShvcy5lbnZpcm9uLCBkYl9lbnZfcmVwbGFjZSkpCgo=</text>
+        <text encoding="base64">ICAgICMgbG9nZ2luZy5pbmZvKGV4ZWN1dGVfcG9zdGdyZXNfcXVlcnkoCiAgICAjICAgICBmJ0NSRUFURSBST0xFICJ7c3RhZ2luZ19jdXN0b21lcl9pZH0iIFdJVEggUEFTU1dPUkQgXCdwYXNzd29yZFwnIExPR0lOIENSRUFURURCOycsCiAgICAjICAgICAnZXhwbG9yZXInKSkKICAgICMgbG9nZ2luZy5pbmZvKGV4ZWN1dGVfcG9zdGdyZXNfcXVlcnkoCiAgICAjICAgICBmJ0NSRUFURSBTQ0hFTUEgQVVUSE9SSVpBVElPTiAie3N0YWdpbmdfY3VzdG9tZXJfaWR9IjsnLCAnZXhwbG9yZXInKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2luZHMK</text>
+        <text encoding="base64">ICAgIHByaW50KG9zLmVudmlyb25bJ0RBVEFCQVNFX1VSTCddKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLmNvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9ICdwYXNzd29yZCcK</text>
       </register>
     </registers>
     <search>
-      <last-search>{user</last-search>
+      <last-search>get_kind</last-search>
       <last-offset />
-      <last-pattern>{user</last-pattern>
+      <last-pattern>get_kind</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bpe_vo</entry>
-        <entry>unknown</entry>
-        <entry>PAD</entry>
-        <entry>i.</entry>
-        <entry>i\.</entry>
         <entry>li</entry>
         <entry>li.</entry>
         <entry>li\.</entry>
@@ -377,6 +389,11 @@
         <entry>tqdm</entry>
         <entry>print</entry>
         <entry>{user</entry>
+        <entry>create_ki</entry>
+        <entry>get_db</entry>
+        <entry>list</entry>
+        <entry>create</entry>
+        <entry>get_kind</entry>
       </history-search>
       <history-cmd />
       <history-expr />
