@@ -83,16 +83,22 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508153704787">
+      <file name="/Dummy.txt" timestamp="1508165738504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1507725224029">
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="32" />
-        <mark key="." line="42" column="9" />
-        <mark key="^" line="41" column="27" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/util.py" timestamp="1508165556245">
+        <mark key="[" line="31" column="67" />
+        <mark key="]" line="31" column="67" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="31" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508165945130">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
@@ -190,10 +196,11 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/documents.py" timestamp="1507725905004">
-        <mark key="[" line="7" column="76" />
-        <mark key="]" line="7" column="76" />
-        <mark key="." line="7" column="76" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/documents.py" timestamp="1508164820872">
+        <mark key="'" line="8" column="76" />
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508154139756">
         <mark key="[" line="31" column="33" />
@@ -266,46 +273,47 @@
       <jump line="37" column="32" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/logreg_topk.py" />
       <jump line="91" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/logreg_topk.py" />
       <jump line="53" column="52" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/simple_clf.py" />
+      <jump line="7" column="76" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/documents.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.phrasers</text>
+        <text>InternalError</text>
       </register>
       <register name="-" type="4">
-        <text>.phrasers</text>
+        <text>InternalError</text>
       </register>
       <register name="/" type="4">
         <text>{user</text>
       </register>
       <register name="0" type="4">
-        <text>self._hyperparams</text>
+        <text>require_json_fields</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaWR4IGluIHJhbmdlKHNlbGYubW9kZWxfa3dhcmdzWyduZ3JhbV9kZXB0aCddKTogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlcV9qc29uID0gcmVxdWVzdC5nZXRfanNvbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaWR4IGluIHJhbmdlKHNlbGYubW9kZWxfa3dhcmdzWyduZ3JhbV9kZXB0aCddKTogICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpdCA9IG1vZGVsLmZpdF9kb2NzIGlmIG1vZGVsLgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZpdCA9IG1vZGVsLmZpdF9kb2NzIGlmIG1vZGVsLgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaXRfY2h1bmtzKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYW55KHRva2VuIGluIGMgZm9yIGMgaW4gc2VsZi5jb3VudHMudmFsdWVzKCkpOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBmaXRfY2h1bmtzKHNlbGYpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oZiJEZWljaXNpb24gdHJlZSBkZXRhaWxzOlx0XHRub2RlX2xlZnRzZWxmLmNsZi50cmVlXwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYW55KHRva2VuIGluIGMgZm9yIGMgaW4gc2VsZi5jb3VudHMudmFsdWVzKCkpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfdGVybV9kZW5zaXR5ID0gbWF4KGRlbnNpdGllcykKICAgICAgICBhdmdfdGVybV9kZW5zaXR5ID0gbWVhbihkZW5zaXRpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oZiJEZWljaXNpb24gdHJlZSBkZXRhaWxzOlx0XHRub2RlX2xlZnRzZWxmLmNsZi50cmVlXwo=</text>
       </register>
     </registers>
     <search>
