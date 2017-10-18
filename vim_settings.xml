@@ -9,10 +9,12 @@
         <mark key="^" line="51" column="37" />
         <mark key="." line="36" column="44" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1508255910374">
-        <mark key="[" line="21" column="95" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1508315341153">
+        <mark key="'" line="31" column="23" />
+        <mark key="[" line="77" column="20" />
+        <mark key="]" line="25" column="72" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="25" column="3" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/setup_db.sh" timestamp="1508245846025">
         <mark key="[" line="7" column="53" />
@@ -91,11 +93,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1508311398118">
         <mark key="[" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_events_table.sql" timestamp="1508312192572">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_events_table.sql" timestamp="1508313706082">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508312165227">
         <mark key="[" line="3" column="1" />
@@ -103,12 +105,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508313353785">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508315321384">
         <mark key="'" line="69" column="79" />
-        <mark key="[" line="103" column="59" />
-        <mark key="]" line="103" column="59" />
-        <mark key="." line="103" column="59" />
-        <mark key="^" line="79" column="62" />
+        <mark key="[" line="153" column="70" />
+        <mark key="]" line="153" column="70" />
+        <mark key="." line="153" column="70" />
+        <mark key="^" line="96" column="16" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -147,24 +149,18 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/documents.py" timestamp="1508164820872">
-        <mark key="'" line="8" column="76" />
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508236652604">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="39" column="53" />
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508311621540">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508315261168">
         <mark key="'" line="99" column="0" />
-        <mark key="[" line="113" column="24" />
-        <mark key="]" line="113" column="24" />
-        <mark key="." line="113" column="24" />
-        <mark key="^" line="114" column="32" />
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="49" column="33" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
@@ -188,11 +184,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1508312711651">
-        <mark key="[" line="8" column="71" />
-        <mark key="]" line="8" column="84" />
-        <mark key="^" line="8" column="84" />
-        <mark key="." line="8" column="84" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1508314034734">
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="38" />
+        <mark key="." line="63" column="38" />
+        <mark key="^" line="63" column="38" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
         <mark key="[" line="6" column="28" />
@@ -200,8 +196,8 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kinds_view.sql" timestamp="1508249768517">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kinds_view.sql" timestamp="1508313764482">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="11" column="41" />
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
@@ -212,7 +208,13 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508311824156">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/events.py" timestamp="1508315190860">
+        <mark key="[" line="90" column="26" />
+        <mark key="]" line="90" column="26" />
+        <mark key="." line="90" column="26" />
+        <mark key="^" line="85" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508314439924">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -270,9 +272,9 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/phrases.py" timestamp="1507794267836">
         <mark key="[" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_document_batch_status_view.sql" timestamp="1508249803134">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_document_batch_status_view.sql" timestamp="1508313837611">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="19" column="16" />
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="26" />
       </file>
@@ -349,59 +351,62 @@
       <jump line="87" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="42" column="13" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="99" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="78" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
+      <jump line="10" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
+      <jump line="11" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
+      <jump line="15" column="39" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
+      <jump line="31" column="23" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>get_kind</text>
+        <text>read</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">R1JBTlQgU0VMRUNUIE9OICJldmVudHMte2N1c3RvbWVyX2lkfSIgVE8gIntjdXN0b21lcl9pZH0tcmVhZCI7Cg==</text>
+      <register name="0" type="4">
+        <text>self.crs.execute('SET search_path TO &quot;{}&quot;'.format(self.customer_id))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cGxvcmVyX2Nvbm4gPSBnZXRfZGJfY29ubihyZWFkb25seT1GYWxzZSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHdhbGsgPSBvcy53YWxrKCcvaG9tZS9zdHVhcnQvZGF0YS9hbWF6b24tcmV2aWV3cy1kYXRhc2V0LycpCiAgICBuZXh0KHdhbGspCiAgICBmb3IgYmFzZV9wYXRoLCBfLCBmaWxlbmFtZXMgaW4gdHFkbShsaXN0KHdhbGspKToKICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgogICAgICAgICAgICBsb2dnaW5nLmRlYnVnKGYnUHJvY2Vzc2luZyByZXZpZXdzIGZpbGUge2ZpbGVuYW1lfS4uLicpCiAgICAgICAgICAgIHJldmlld3MgPSBsb2FkX3Jldmlld19iYXRjaChvcy5wYXRoLmpvaW4oYmFzZV9wYXRoLCBmaWxlbmFtZSkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBiYXNlX3BhdGgsIF8sIGZpbGVuYW1lcyBpbiB0cWRtKGxpc3Qod2FsaykpOgogICAgICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6CiAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoZidQcm9jZXNzaW5nIHJldmlld3MgZmlsZSB7ZmlsZW5hbWV9Li4uJykKICAgICAgICAgICAgcmV2aWV3cyA9IGxvYWRfcmV2aWV3X2JhdGNoKG9zLnBhdGguam9pbihiYXNlX3BhdGgsIGZpbGVuYW1lKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihyZXZpZXdzKToK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSByZXF1ZXN0cy5wb3N0KAogICAgICAgICAgICAnaHR0cDovL2xvY2FsaG9zdDo4MDgwL2FwaS92MS9raW5kcy8lMjJBbWF6b24lMjBSZXZpZXdzJTIyL2RvY3VtZW50X2JhdGNoZXMnLAogICAgICAgICAgICBkYXRhPWRpY3RzX3RvX2Nzdl9zdHIocmV2aWV3cykuZW5jb2RlKCkpCiAgICAgICAgYXNzZXJ0IHJlc3VsdC5zdGF0dXNfY29kZSA9PSAyMDAsIGYnRmFpbGVkIHJldmlld3MgaW5zZXJ0IGZvciB7ZnBhdGh9Jwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9VHJ1ZSkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9RmFsc2UpCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgbG9nZ2luZy5pbmZvKCdDcmVhdGluZyBUaG91Z2h0IFZlY3RvciB0YWJsZXMuLi4nKQogICAgIyBsb2dnaW5nLmluZm8oZXhlY3V0ZV9wb3N0Z3Jlc19zY3JpcHQoJ2Fzc2V0cy9zcWwvY3JlYXRlX2V2ZW50c190YWJsZS5zcWwnKSkKICAgICMgbG9nZ2luZy5pbmZvKGV4ZWN1dGVfcG9zdGdyZXNfc2NyaXB0KCdhc3NldHMvc3FsL2NyZWF0ZV9raW5kc192aWV3LnNxbCcpKQogICAgIyBsb2dnaW5nLmluZm8oZXhlY3V0ZV9wb3N0Z3Jlc19zY3JpcHQoJ2Fzc2V0cy9zcWwvY3JlYXRlX2RvY3VtZW50X2JhdGNoX3N0YXR1c192aWV3LnNxbCcpKQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">R1JBTlQgQUxMIFBSSVZJTEVHRVMgT04ga2luZHMgVE8gZXhwbG9yZXI7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RFJPUCBWSUVXIElGIEVYSVNUUyBraW5kczsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGV2ZW50c19jb3JlIFBBUlRJVElPTiBPRiBldmVudHMgRk9SIFZBTFVFUyBJTiAobnVsbCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbm4uZHNuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>get_kind</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>get_kind</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>startswith</entry>
-        <entry>starts with</entry>
         <entry>Starts</entry>
         <entry>TODO</entry>
         <entry>'wa'</entry>
@@ -420,6 +425,8 @@
         <entry>locl</entry>
         <entry>explorer_conn</entry>
         <entry>get_kind</entry>
+        <entry>save_eve</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd />
       <history-expr />
