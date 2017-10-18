@@ -50,6 +50,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.gitignore" timestamp="1508305359091">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/main.py" timestamp="1508144612164">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="31" column="47" />
@@ -99,11 +104,11 @@
         <mark key="." line="103" column="59" />
         <mark key="^" line="79" column="62" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508242633526">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases.py" timestamp="1507732380257">
         <mark key="[" line="17" column="24" />
@@ -201,7 +206,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508288316357">
+      <file name="/Dummy.txt" timestamp="1508305782229">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -211,7 +216,7 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508242387544">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1508144645153">
@@ -336,10 +341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>locl</text>
