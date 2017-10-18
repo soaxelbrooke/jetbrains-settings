@@ -89,12 +89,15 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508255228586">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="93" column="25" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508284113695">
+        <mark key="[" line="0" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508288313063">
+        <mark key="'" line="69" column="79" />
+        <mark key="[" line="103" column="59" />
+        <mark key="]" line="103" column="59" />
+        <mark key="." line="103" column="59" />
+        <mark key="^" line="79" column="62" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508242633526">
         <mark key="[" line="9" column="1" />
@@ -145,12 +148,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508256226906">
-        <mark key="'" line="57" column="16" />
-        <mark key="[" line="115" column="24" />
-        <mark key="]" line="115" column="32" />
-        <mark key="." line="115" column="32" />
-        <mark key="^" line="115" column="32" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508287868519">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="66" column="67" />
+        <mark key="]" line="66" column="67" />
+        <mark key="." line="66" column="67" />
+        <mark key="^" line="114" column="32" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
@@ -198,15 +201,15 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508256536406">
+      <file name="/Dummy.txt" timestamp="1508288316357">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="75" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508236936398">
-        <mark key="[" line="25" column="41" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="29" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508242387544">
         <mark key="[" line="0" column="0" />
@@ -323,63 +326,64 @@
       <jump line="43" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="55" column="8" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="57" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="101" column="49" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="131" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="30" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="32" column="32" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="129" column="46" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="56" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="69" column="79" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9VHJ1ZSkK</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>=customer_id</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>get_kind</text>
+        <text>locl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbm4gPSBnZXRfZGJfY29ubihyZWFkb25seT1GYWxzZSwgdXNlcj1jdXN0b21lcl9pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIHdhbGsgPSBvcy53YWxrKCcvaG9tZS9zdHVhcnQvZGF0YS9hbWF6b24tcmV2aWV3cy1kYXRhc2V0LycpCiAgICBuZXh0KHdhbGspCiAgICBmb3IgYmFzZV9wYXRoLCBfLCBmaWxlbmFtZXMgaW4gdHFkbShsaXN0KHdhbGspKToKICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgogICAgICAgICAgICBsb2dnaW5nLmRlYnVnKGYnUHJvY2Vzc2luZyByZXZpZXdzIGZpbGUge2ZpbGVuYW1lfS4uLicpCiAgICAgICAgICAgIHJldmlld3MgPSBsb2FkX3Jldmlld19iYXRjaChvcy5wYXRoLmpvaW4oYmFzZV9wYXRoLCBmaWxlbmFtZSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIGZvciBiYXNlX3BhdGgsIF8sIGZpbGVuYW1lcyBpbiB0cWRtKGxpc3Qod2FsaykpOgogICAgICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6CiAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoZidQcm9jZXNzaW5nIHJldmlld3MgZmlsZSB7ZmlsZW5hbWV9Li4uJykKICAgICAgICAgICAgcmV2aWV3cyA9IGxvYWRfcmV2aWV3X2JhdGNoKG9zLnBhdGguam9pbihiYXNlX3BhdGgsIGZpbGVuYW1lKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbm4uZHNuKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbm4uZHNuKQo=</text>
+        <text encoding="base64">ICAgIGlmIGxlbihyZXZpZXdzKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmVudmlyb25bJ0RBVEFCQVNFX1VSTCddKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSByZXF1ZXN0cy5wb3N0KAogICAgICAgICAgICAnaHR0cDovL2xvY2FsaG9zdDo4MDgwL2FwaS92MS9raW5kcy8lMjJBbWF6b24lMjBSZXZpZXdzJTIyL2RvY3VtZW50X2JhdGNoZXMnLAogICAgICAgICAgICBkYXRhPWRpY3RzX3RvX2Nzdl9zdHIocmV2aWV3cykuZW5jb2RlKCkpCiAgICAgICAgYXNzZXJ0IHJlc3VsdC5zdGF0dXNfY29kZSA9PSAyMDAsIGYnRmFpbGVkIHJldmlld3MgaW5zZXJ0IGZvciB7ZnBhdGh9Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2luZy5pbmZvKGV4ZWN1dGVfcG9zdGdyZXNfcXVlcnkoCiAgICAjICAgICBmJ0NSRUFURSBST0xFICJ7c3RhZ2luZ19jdXN0b21lcl9pZH0iIFdJVEggUEFTU1dPUkQgXCdwYXNzd29yZFwnIExPR0lOIENSRUFURURCOycsCiAgICAjICAgICAnZXhwbG9yZXInKSkKICAgICMgbG9nZ2luZy5pbmZvKGV4ZWN1dGVfcG9zdGdyZXNfcXVlcnkoCiAgICAjICAgICBmJ0NSRUFURSBTQ0hFTUEgQVVUSE9SSVpBVElPTiAie3N0YWdpbmdfY3VzdG9tZXJfaWR9IjsnLCAnZXhwbG9yZXInKSkK</text>
+        <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9VHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmVudmlyb25bJ0RBVEFCQVNFX1VSTCddKQo=</text>
+        <text encoding="base64">ICAgIGNvbm4uc2V0X3Nlc3Npb24ocmVhZG9ubHk9RmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbm4uZHNuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9ICdwYXNzd29yZCcK</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbm4uZHNuKQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>get_kind</last-search>
+      <last-search>locl</last-search>
       <last-offset />
-      <last-pattern>get_kind</last-pattern>
+      <last-pattern>locl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>li</entry>
-        <entry>li.</entry>
-        <entry>li\.</entry>
-        <entry>is-danger</entry>
-        <entry>size-6</entry>
-        <entry>contains</entry>
         <entry>equals</entry>
         <entry>startswith</entry>
         <entry>starts with</entry>
@@ -394,6 +398,12 @@
         <entry>list</entry>
         <entry>create</entry>
         <entry>get_kind</entry>
+        <entry>8080</entry>
+        <entry>local</entry>
+        <entry>localhost</entry>
+        <entry>list_kinds</entry>
+        <entry>loclho</entry>
+        <entry>locl</entry>
       </history-search>
       <history-cmd />
       <history-expr />
