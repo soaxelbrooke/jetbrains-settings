@@ -107,9 +107,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508316570956">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508409483867">
         <mark key="'" line="69" column="79" />
-        <mark key="[" line="152" column="52" />
+        <mark key="[" line="135" column="19" />
         <mark key="]" line="155" column="70" />
         <mark key="." line="155" column="70" />
         <mark key="^" line="96" column="16" />
@@ -157,12 +157,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508315889884">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="136" column="31" />
-        <mark key="]" line="136" column="35" />
-        <mark key="." line="136" column="35" />
-        <mark key="^" line="136" column="35" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508409677444">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
@@ -192,12 +192,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1508408414582">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1508408732088">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="26" column="40" />
+        <mark key="[" line="75" column="16" />
+        <mark key="]" line="72" column="27" />
+        <mark key="." line="72" column="27" />
+        <mark key="^" line="72" column="27" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
         <mark key="[" line="6" column="28" />
@@ -385,8 +385,8 @@
       <jump line="11" column="27" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/events.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -395,34 +395,34 @@
         <text>mo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R1JBTlQgU0VMRUNUIE9OIEFMTCBUQUJMRVMgSU4gU0NIRU1BICJ7Y3VzdG9tZXJfaWR9IiBUTyAie2N1c3RvbWVyX2lkfS13cml0ZSI7Cg==</text>
+        <text encoding="base64">ICBjb250ZW50IFRFWFQsCiAgc2VudGltZW50IFJFQUwsCiAgcGhyYXNlcyBURVhUW10K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5kb2N1bWVudF9iYXRjaF9zdGF0dXMgVE8gIntjdXN0b21lcl9pZH0tcmVhZCI7Ci0tIEdSQU5UIFNFTEVDVCBPTiAie2N1c3RvbWVyX2lkfSIuZG9jdW1lbnRfYmF0Y2hfc3RhdHVzIFRPICJ7Y3VzdG9tZXJfaWR9LXdyaXRlIjsKLS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5kb2N1bWVudF9iYXRjaF9zdGF0dXMgVE8gZXhwbG9yZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5raW5kcyBUTyAie2N1c3RvbWVyX2lkfS1yZWFkIjsKLS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5raW5kcyBUTyAie2N1c3RvbWVyX2lkfS13cml0ZSI7Ci0tIEdSQU5UIFNFTEVDVCBPTiAie2N1c3RvbWVyX2lkfSIua2luZHMgVE8gZXhwbG9yZXI7Cg==</text>
+        <text encoding="base64">LS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5kb2N1bWVudF9iYXRjaF9zdGF0dXMgVE8gIntjdXN0b21lcl9pZH0tcmVhZCI7Ci0tIEdSQU5UIFNFTEVDVCBPTiAie2N1c3RvbWVyX2lkfSIuZG9jdW1lbnRfYmF0Y2hfc3RhdHVzIFRPICJ7Y3VzdG9tZXJfaWR9LXdyaXRlIjsKLS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5kb2N1bWVudF9iYXRjaF9zdGF0dXMgVE8gZXhwbG9yZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gR1JBTlQgQUxMIFBSSVZJTEVHRVMgT04gIntjdXN0b21lcl9pZH0iLmV2ZW50cyBUTyBleHBsb3JlcjsK</text>
+        <text encoding="base64">LS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5raW5kcyBUTyAie2N1c3RvbWVyX2lkfS1yZWFkIjsKLS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5raW5kcyBUTyAie2N1c3RvbWVyX2lkfS13cml0ZSI7Ci0tIEdSQU5UIFNFTEVDVCBPTiAie2N1c3RvbWVyX2lkfSIua2luZHMgVE8gZXhwbG9yZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gR1JBTlQgSU5TRVJUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5ldmVudHMgVE8gIntjdXN0b21lcl9pZH0td3JpdGUiOwo=</text>
+        <text encoding="base64">LS0gR1JBTlQgQUxMIFBSSVZJTEVHRVMgT04gIntjdXN0b21lcl9pZH0iLmV2ZW50cyBUTyBleHBsb3JlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5ldmVudHMgVE8gIntjdXN0b21lcl9pZH0tcmVhZCI7Cg==</text>
+        <text encoding="base64">LS0gR1JBTlQgSU5TRVJUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5ldmVudHMgVE8gIntjdXN0b21lcl9pZH0td3JpdGUiOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bW9ja19jb25uLCA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">LS0gR1JBTlQgU0VMRUNUIE9OICJ7Y3VzdG9tZXJfaWR9Ii5ldmVudHMgVE8gIntjdXN0b21lcl9pZH0tcmVhZCI7Cg==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">bW9ja19jb25uLCA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHdfY29ubi5zZXRfc2Vzc2lvbihyZWFkb25seT1UcnVlKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">bW9ja19jb25uLCA=</text>
       </register>
     </registers>
     <search>
