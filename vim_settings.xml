@@ -192,9 +192,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1508316897335">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1508408414582">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="60" column="0" />
+        <mark key="[" line="65" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="26" column="40" />
