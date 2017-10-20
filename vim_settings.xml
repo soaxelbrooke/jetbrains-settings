@@ -6,17 +6,18 @@
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508491746541">
+      <file name="/Dummy.txt" timestamp="1508498283753">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="52" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508425590538">
-        <mark key="[" line="130" column="13" />
-        <mark key="]" line="130" column="2" />
-        <mark key="." line="130" column="2" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508499932628">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="147" column="25" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
@@ -57,10 +58,11 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/util.js" timestamp="1508426289089">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/util.js" timestamp="1508495971805">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="24" />
+        <mark key="." line="35" column="24" />
+        <mark key="^" line="34" column="14" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
         <mark key="'" line="26" column="57" />
@@ -75,12 +77,12 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1508428486903">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="149" column="49" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1508499852767">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="223" column="60" />
+        <mark key="]" line="229" column="68" />
+        <mark key="." line="229" column="68" />
+        <mark key="^" line="229" column="68" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
         <mark key="[" line="34" column="14" />
@@ -209,55 +211,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeyBjaGFydCB9ID0gdm5vZGUuYXR0cnM7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAwLjVlbTsK</text>
       </register>
       <register name="-" type="4">
-        <text>#23d160</text>
+        <text>negative</text>
       </register>
       <register name="/" type="4">
-        <text>text</text>
+        <text>material</text>
       </register>
       <register name="0" type="4">
-        <text>hsl(348, 100%, 61%)</text>
+        <text>, title: `${negative} negative texts`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeyBjaGFydCB9ID0gdm5vZGUuYXR0cnM7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAwLjVlbTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBdOwo=</text>
+        <text encoding="base64">ICAgIC8vbWFyZ2luLXJpZ2h0OiAwLjVlbTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gWydQb3NpdGl2ZScsIGRhdGEucG9zaXRpdmUgfHwgMCwgJ2NvbG9yOiBoc2woMTQxLCA3MSUsIDQ4JSknXSwK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFyZ2luUGN0ID0gMS41Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gWydOZXV0cmFsJywgZGF0YS5uZXV0cmFsIHx8IDAsICdjb2xvcjogaHNsKDQ4LCAxMDAlLCA2NyUpJ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gWydOZWdhdGl2ZScsIGRhdGEubmVnYXRpdmUgfHwgMCwgJ2NvbG9yOiBoc2woMzQ4LCAxMDAlLCA2MSUpJ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnQk9PT09PT00nLCB2bm9kZS5hdHRycy5kYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWydOZXV0cmFsJywgZGF0YS5uZXV0cmFsIHx8IDBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAocG9zaXRpdmVQY3QgPj0gbWFyZ2luUGN0KSB7IHBvc2l0aXZlUGN0IC09IG1hcmdpblBjdDsgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWydOZWdhdGl2ZScsIGRhdGEubmVnYXRpdmUgfHwgMF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAobmV1dHJhbFBjdCA+PSBtYXJnaW5QY3QpIHsgbmV1dHJhbFBjdCAtPSBtYXJnaW5QY3Q7IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIFNlbnRpbWVudEhpc3RvZ3JhbUNoYXJ0IGV4dGVuZHMgQ2hhcnQgewogICAgdG9TcWwoc2VsZWN0KSB7CiAgICAgICAgcmV0dXJuIHNlbGVjdAogICAgICAgICAgICAuZmllbGQoYENPVU5UKCopIEZJTFRFUiBXSEVSRSAoJHt0aGlzLmNvbHVtbi5uYW1lfSkuc2VudGltZW50IDwgMCkgQVMgbmVnYXRpdmVgKQogICAgICAgICAgICAuZmllbGQoYENPVU5UKCopIEZJTFRFUiBXSEVSRSAwIDw9ICgke3RoaXMuY29sdW1uLm5hbWV9KS5zZW50aW1lbnQgCiAgICAgICAgICAgICAgICAgICAgQU5EICgke3RoaXMuY29sdW1uLm5hbWV9KS5zZW50aW1lbnQgPCAwLjYpIEFTIG5ldXRyYWxgKQogICAgICAgICAgICAuZmllbGQoYENPVU5UKCopIEZJTFRFUiBXSEVSRSAwLjYgPD0oJHt0aGlzLmNvbHVtbi5uYW1lfSkuc2VudGltZW50KSBBUyBwb3NpdGl2ZWApOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAobmVnYXRpdmVQY3QgPj0gbWFyZ2luUGN0KSB7IG5lZ2F0aXZlUGN0IC09IG1hcmdpblBjdDsgfQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>text</last-search>
+      <last-search>material</last-search>
       <last-offset />
-      <last-pattern>text</last-pattern>
+      <last-pattern>material</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Starts</entry>
         <entry>TODO</entry>
         <entry>class col</entry>
         <entry>class Col</entry>
@@ -277,6 +278,7 @@
         <entry>RuleDrop</entry>
         <entry>remove</entry>
         <entry>text</entry>
+        <entry>material</entry>
       </history-search>
       <history-cmd />
       <history-expr />
