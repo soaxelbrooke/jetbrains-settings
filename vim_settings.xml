@@ -161,11 +161,11 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1508578971913">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="82" column="18" />
-        <mark key="." line="82" column="18" />
-        <mark key="^" line="77" column="34" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1508580368142">
+        <mark key="[" line="57" column="1" />
+        <mark key="]" line="57" column="46" />
+        <mark key="." line="57" column="46" />
+        <mark key="^" line="57" column="46" />
       </file>
       <file name="/Python Console" timestamp="1508423735114">
         <mark key="[" line="0" column="0" />
@@ -398,11 +398,11 @@
       <jump line="76" column="66" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGVfcFZvc3RncmVzX3F1ZXJ5KCIiIgogICAgICAgIENSRUFURSBUWVBFIGFuYWx5emVkX3NlbnRlbmNlIEFTICgKICAgICAgICAgIGNvbnRlbnQgVEVYVCwKICAgICAgICAgIHNlbnRpbWVudCBET1VCTEUgUFJFQ0lTSU9OLAogICAgICAgICAgcGhyYXNlcyBURVhUW10KICAgICAgICApOwoKICAgICAgICBDUkVBVEUgVFlQRSBhbmFseXplZF90ZXh0IEFTICgKICAgICAgICAgIGNvbnRlbnQgVEVYVCwKICAgICAgICAgIHNlbnRpbWVudCBSRUFMLAogICAgICAgICAgcGhyYXNlcyBURVhUW10sCiAgICAgICAgICBzZW50ZW5jZXMgYW5hbHl6ZWRfc2VudGVuY2VbXSwKICAgICAgICAgIG1ldGEganNvbmIKICAgICAgICApOwogICAgIiIiKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="-" type="4">
-        <text>read</text>
+        <text>Iterator[Union[str, AnalyzedText]]</text>
       </register>
       <register name="/" type="4">
         <text>create_tab</text>
@@ -410,32 +410,32 @@
       <register name="0" type="2">
         <text encoding="base64">QUxURVIgUk9MRSAie2N1c3RvbWVyX2lkfS1yZWFkIiBTRVQgU0VBUkNIX1BBVEggVE8gIntjdXN0b21lcl9pZH0iOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGVfcFZvc3RncmVzX3F1ZXJ5KCIiIgogICAgICAgIENSRUFURSBUWVBFIGFuYWx5emVkX3NlbnRlbmNlIEFTICgKICAgICAgICAgIGNvbnRlbnQgVEVYVCwKICAgICAgICAgIHNlbnRpbWVudCBET1VCTEUgUFJFQ0lTSU9OLAogICAgICAgICAgcGhyYXNlcyBURVhUW10KICAgICAgICApOwoKICAgICAgICBDUkVBVEUgVFlQRSBhbmFseXplZF90ZXh0IEFTICgKICAgICAgICAgIGNvbnRlbnQgVEVYVCwKICAgICAgICAgIHNlbnRpbWVudCBSRUFMLAogICAgICAgICAgcGhyYXNlcyBURVhUW10sCiAgICAgICAgICBzZW50ZW5jZXMgYW5hbHl6ZWRfc2VudGVuY2VbXSwKICAgICAgICAgIG1ldGEganNvbmIKICAgICAgICApOwogICAgIiIiKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIlNldHRpbmcgc2VhcmNoIHBhdGggdG8ge30iLmZvcm1hdChzZWxmLmN1c3RvbWVyX2lkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UodGV4dCwgQW5hbHl6ZWRUZXh0KToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R1JBTlQgU0VMRUNUIE9OIEFMTCBUQUJMRVMgSU4gU0NIRU1BICJ7Y3VzdG9tZXJfaWR9IiBUTyAie2N1c3RvbWVyX2lkfS1yZWFkIjsKR1JBTlQgU0VMRUNULCBJTlNFUlQgT04gQUxMIFRBQkxFUyBJTiBTQ0hFTUEgIntjdXN0b21lcl9pZH0iIFRPICJ7Y3VzdG9tZXJfaWR9LXdyaXRlIjsKR1JBTlQgU0VMRUNULCBJTlNFUlQgT04gQUxMIFRBQkxFUyBJTiBTQ0hFTUEgIntjdXN0b21lcl9pZH0iIFRPIGV4cGxvcmVyOwo=</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGVfcFZvc3RncmVzX3F1ZXJ5KCIiIgogICAgICAgIENSRUFURSBUWVBFIGFuYWx5emVkX3NlbnRlbmNlIEFTICgKICAgICAgICAgIGNvbnRlbnQgVEVYVCwKICAgICAgICAgIHNlbnRpbWVudCBET1VCTEUgUFJFQ0lTSU9OLAogICAgICAgICAgcGhyYXNlcyBURVhUW10KICAgICAgICApOwoKICAgICAgICBDUkVBVEUgVFlQRSBhbmFseXplZF90ZXh0IEFTICgKICAgICAgICAgIGNvbnRlbnQgVEVYVCwKICAgICAgICAgIHNlbnRpbWVudCBSRUFMLAogICAgICAgICAgcGhyYXNlcyBURVhUW10sCiAgICAgICAgICBzZW50ZW5jZXMgYW5hbHl6ZWRfc2VudGVuY2VbXSwKICAgICAgICAgIG1ldGEganNvbmIKICAgICAgICApOwogICAgIiIiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">R1JBTlQgU0VMRUNUIE9OIEFMTCBUQUJMRVMgSU4gU0NIRU1BICJ7Y3VzdG9tZXJfaWR9IiBUTyAie2N1c3RvbWVyX2lkfS1yZWFkIjsKR1JBTlQgU0VMRUNULCBJTlNFUlQgT04gQUxMIFRBQkxFUyBJTiBTQ0hFTUEgIntjdXN0b21lcl9pZH0iIFRPICJ7Y3VzdG9tZXJfaWR9LXdyaXRlIjsKR1JBTlQgU0VMRUNULCBJTlNFUlQgT04gQUxMIFRBQkxFUyBJTiBTQ0hFTUEgIntjdXN0b21lcl9pZH0iIFRPIGV4cGxvcmVyOwo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvZ2dpbmcuaW5mbyhmIkN1cnJlbnQgc2VhcmNoIHBhdGg6IHtjcnMuZmV0Y2hhbGwoKX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIlNldHRpbmcgc2VhcmNoIHBhdGggdG8ge30iLmZvcm1hdChzZWxmLmN1c3RvbWVyX2lkKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNycy5leGVjdXRlKCdTSE9XIFNFQVJDSF9QQVRIOycpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvZ2dpbmcuaW5mbyhmIkV4ZWN1dGluZyBzY29wZWQgcXVlcnkgZm9yIHNjb3BlICd7c2NvcGV9Jzoge3F1ZXJ5fSIpCg==</text>
+        <text encoding="base64">R1JBTlQgU0VMRUNUIE9OIEFMTCBUQUJMRVMgSU4gU0NIRU1BICJ7Y3VzdG9tZXJfaWR9IiBUTyAie2N1c3RvbWVyX2lkfS1yZWFkIjsKR1JBTlQgU0VMRUNULCBJTlNFUlQgT04gQUxMIFRBQkxFUyBJTiBTQ0hFTUEgIntjdXN0b21lcl9pZH0iIFRPICJ7Y3VzdG9tZXJfaWR9LXdyaXRlIjsKR1JBTlQgU0VMRUNULCBJTlNFUlQgT04gQUxMIFRBQkxFUyBJTiBTQ0hFTUEgIntjdXN0b21lcl9pZH0iIFRPIGV4cGxvcmVyOwo=</text>
       </register>
     </registers>
     <search>
@@ -482,7 +482,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -503,7 +503,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
