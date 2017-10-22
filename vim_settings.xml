@@ -6,7 +6,7 @@
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508506275012">
+      <file name="/Dummy.txt" timestamp="1508666625157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1507309743318">
@@ -30,12 +30,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1508428580608">
-        <mark key="'" line="607" column="0" />
-        <mark key="[" line="625" column="42" />
-        <mark key="]" line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="56" column="7" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1508666304197">
+        <mark key="'" line="641" column="41" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="56" column="44" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="10" column="0" />
@@ -203,66 +203,71 @@
       <jump line="97" column="12" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
       <jump line="36" column="28" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="622" column="30" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="56" column="7" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="112" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
-      <jump line="607" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="47" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="609" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="408" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="56" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="607" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="53" column="30" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="186" column="6" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="189" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="251" column="6" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="295" column="30" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="319" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="637" column="48" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="641" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
-      </register>
-      <register name="-" type="4">
-        <text>(</text>
-      </register>
-      <register name="/" type="4">
-        <text>material</text>
-      </register>
-      <register name="0" type="4">
-        <text>.line</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMC4yNWVtOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBmbGV4LWdyb3c6IDE7Cg==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>colName.startsWith('time') || colName === 'interval' || colName === 'date') {</text>
+      </register>
+      <register name="/" type="4">
+        <text>SubstringRule</text>
+      </register>
+      <register name="0" type="4">
+        <text>DataTypes.analyzedText(column.type)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ251bWVyaWMnLCAncmVhbCcsICdzbWFsbHNlcmlhbCcsICdzZXJpYWwnLCAnYmlnc2VyaWFsJ107Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgbnVtZXJpY1R5cGVzID0gWydkb3VibGUgcHJlY2lzaW9uJywgJ2ludGVnZXInLCAnc21hbGxpbnQnLCAnYmlnaW50JywgJ2RlY2ltYWwnLAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMnB4Owo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY29sTmFtZSA9IGNvbHVtbi50eXBlLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzcGFuIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGl2LnNlbnRpbWVudC5oYWlybGluZTpob3ZlciBociB7CiAgaGVpZ2h0OiAxLjRlbTsKICBib3gtc2hhZG93OiAwIDAgMnB4OwoKICBzcGFuIHsKICAgIGNvbG9yOiB3aGl0ZTsKICB9Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY29sTmFtZSA9IGNvbHVtbi50eXBlLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXh0LW92ZXJmbG93OiBlbGxpcHNpZGRzOwo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMC4yNWVtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAwLjVlbTsK</text>
+        <text encoding="base64">ICBmbGV4LWdyb3c6IDE7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>material</last-search>
+      <last-search>SubstringRule</last-search>
       <last-offset />
-      <last-pattern>material</last-pattern>
+      <last-pattern>SubstringRule</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TODO</entry>
-        <entry>class col</entry>
-        <entry>class Col</entry>
-        <entry>FilterMana</entry>
-        <entry encoding="base64">XDxyZWRcPg==</entry>
         <entry>grey-</entry>
         <entry>foreach</entry>
         <entry>forEach</entry>
@@ -278,6 +283,11 @@
         <entry>remove</entry>
         <entry>text</entry>
         <entry>material</entry>
+        <entry>regex</entry>
+        <entry>contain</entry>
+        <entry>datatype</entry>
+        <entry>DataType</entry>
+        <entry>SubstringRule</entry>
       </history-search>
       <history-cmd />
       <history-expr />
