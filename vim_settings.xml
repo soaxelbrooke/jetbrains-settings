@@ -106,11 +106,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508424255624">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508665677960">
         <mark key="'" line="109" column="22" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="143" column="68" />
+        <mark key="]" line="143" column="76" />
+        <mark key="." line="143" column="76" />
+        <mark key="^" line="143" column="76" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -161,11 +162,12 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1508591417719">
-        <mark key="[" line="198" column="99" />
-        <mark key="]" line="201" column="0" />
-        <mark key="^" line="198" column="117" />
-        <mark key="." line="201" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1508665861062">
+        <mark key="'" line="181" column="47" />
+        <mark key="[" line="56" column="59" />
+        <mark key="]" line="56" column="59" />
+        <mark key="^" line="57" column="46" />
+        <mark key="." line="56" column="28" />
       </file>
       <file name="/Python Console" timestamp="1508423735114">
         <mark key="[" line="0" column="0" />
@@ -261,12 +263,12 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1508417196762">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1508665754701">
         <mark key="'" line="217" column="34" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="^" line="180" column="40" />
-        <mark key="." line="209" column="0" />
+        <mark key="[" line="174" column="37" />
+        <mark key="]" line="174" column="52" />
+        <mark key="^" line="174" column="52" />
+        <mark key="." line="174" column="52" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -297,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="3" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
       <jump line="72" column="77" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
       <jump line="73" column="73" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
       <jump line="84" column="51" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
@@ -396,19 +397,21 @@
       <jump line="217" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
       <jump line="64" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" />
       <jump line="76" column="66" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="179" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
+      <jump line="180" column="47" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFkZ3JhbV9jb3VudHMgPSBDb3VudGVyKHRvb2x6LmNvbmNhdChxdWFkZ3JhbV9zZW50ZW5jZXMpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>sum(sentiments)/len(sentiments)</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>sum(sentiments)/len(sentiments)</text>
       </register>
       <register name="/" type="4">
-        <text>create_tab</text>
+        <text>terms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiaWdyYW1fY291bnRzID0gQ291bnRlcih0b29sei5jb25jYXQoYmlncmFtX3NlbnRlbmNlcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgQ1JFQVRFIElOREVYICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJBbWF6b24gUmV2aWV3c190aXRsZV9zZWFyY2hfaWR4IiBPTgogICAgICAgICAgICAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iQW1hem9uIFJldmlld3MiIAogICAgICAgICAgICAodG9fdHN2ZWN0b3IoKGNvbnRlbnQpLmNvbnRlbnQpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBxdWFkZ3JhbV9jb3VudHMgPSBDb3VudGVyKHRvb2x6LmNvbmNhdChxdWFkZ3JhbV9zZW50ZW5jZXMpKQo=</text>
@@ -439,15 +442,14 @@
       </register>
     </registers>
     <search>
-      <last-search>create_tab</last-search>
+      <last-search>terms</last-search>
       <last-offset />
-      <last-pattern>create_tab</last-pattern>
+      <last-pattern>terms</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>8080</entry>
         <entry>local</entry>
         <entry>localhost</entry>
         <entry>list_kinds</entry>
@@ -467,6 +469,7 @@
         <entry>10000</entry>
         <entry>print</entry>
         <entry>create_tab</entry>
+        <entry>terms</entry>
       </history-search>
       <history-cmd />
       <history-expr />
