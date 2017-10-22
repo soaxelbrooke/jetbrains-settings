@@ -106,11 +106,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508672926858">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508674715439">
         <mark key="'" line="109" column="22" />
-        <mark key="[" line="152" column="12" />
-        <mark key="]" line="154" column="12" />
-        <mark key="." line="154" column="12" />
+        <mark key="[" line="160" column="67" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="163" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
