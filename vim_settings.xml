@@ -106,12 +106,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508674715439">
-        <mark key="'" line="109" column="22" />
-        <mark key="[" line="160" column="67" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="163" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508680984228">
+        <mark key="[" line="168" column="50" />
+        <mark key="]" line="168" column="89" />
+        <mark key="." line="168" column="89" />
+        <mark key="^" line="168" column="89" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -156,10 +155,10 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508422913268">
-        <mark key="'" line="76" column="66" />
-        <mark key="[" line="144" column="2" />
-        <mark key="]" line="150" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508680055289">
+        <mark key="'" line="94" column="55" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="151" column="93" />
         <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1508665861062">
@@ -299,12 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="77" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
-      <jump line="73" column="73" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
-      <jump line="84" column="51" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
-      <jump line="26" column="57" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" />
-      <jump line="180" column="43" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="200" column="32" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="205" column="34" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="212" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
@@ -399,59 +392,64 @@
       <jump line="76" column="66" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="179" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
       <jump line="180" column="47" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
+      <jump line="175" column="85" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="178" column="116" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="152" column="12" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="156" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="168" column="79" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="94" column="55" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbl8gaHN0b3JlLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG5ld190YWJsZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>term_counts</text>
+        <text encoding="base64">IG5ld190YWJsZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>terms</text>
+        <text>reify</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;cf26eec7-e347-4fec-985c-d225c7ee9b83</text>
+        <text>cf26eec7-e347-4fec-985c-d225c7ee9b83</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbl8gaHN0b3JlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBFTkQgTE9PUDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFkZ3JhbV9jb3VudHMgPSBDb3VudGVyKHRvb2x6LmNvbmNhdChxdWFkZ3JhbV9zZW50ZW5jZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBMT09QCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlncmFtX2NvdW50cyA9IENvdW50ZXIodG9vbHouY29uY2F0KHRyaWdyYW1fc2VudGVuY2VzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZST00gbmV3X3RhYmxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiaWdyYW1fY291bnRzID0gQ291bnRlcih0b29sei5jb25jYXQoYmlncmFtX3NlbnRlbmNlcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaWdyYW1fY291bnRzID0gQ291bnRlcih0b29sei5jb25jYXQoYmlncmFtX3NlbnRlbmNlcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb3ZlcmFsbCBBUyBwX2dyb3VwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb3dzID0gc2VsZi5kYi5leGVjdXRlKCkKICAgICAgICBjb3VudHMgPSBDb3VudGVyKCkKICAgICAgICAKICAgICAgICBmb3Igcm93IGluIHJvd3M6CiAgICAgICAgICAgIHJvd19jb3VudHMgPSBDb3VudGVyKGpzb24ubG9hZHMocm93WzJdKSkKICAgICAgICAgICAgY291bnRzICs9IHJvd19jb3VudHMKICAgICAgICAKICAgICAgICByZXR1cm4gY291bnRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNFTEVDVCBESVNUSU5DVCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRiLmV4ZWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBGT1IgcGFydCBJTiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3NldGl0ZW1fXyhzZWxmLCBrZXksIHZhbHVlKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>tstzrange(date_trunc('month', date), 
+                            date_trunc('month', date) + interval '1 month') AS p_period</text>
       </register>
     </registers>
     <search>
-      <last-search>terms</last-search>
+      <last-search>reify</last-search>
       <last-offset />
-      <last-pattern>terms</last-pattern>
+      <last-pattern>reify</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>local</entry>
-        <entry>localhost</entry>
         <entry>list_kinds</entry>
         <entry>loclho</entry>
         <entry>locl</entry>
@@ -470,6 +468,8 @@
         <entry>print</entry>
         <entry>create_tab</entry>
         <entry>terms</entry>
+        <entry>p_period</entry>
+        <entry>reify</entry>
       </history-search>
       <history-cmd />
       <history-expr />
