@@ -161,6 +161,9 @@
         <mark key="]" line="151" column="93" />
         <mark key="." line="150" column="0" />
       </file>
+      <file name="vim_settings.xml" timestamp="1508834006115">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1508665861062">
         <mark key="'" line="181" column="47" />
         <mark key="[" line="56" column="59" />
@@ -229,7 +232,7 @@
       <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
         <mark key="'" line="197" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508829164057">
+      <file name="/Dummy.txt" timestamp="1508834226010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="34" />
