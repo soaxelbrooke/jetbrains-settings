@@ -76,8 +76,8 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1508506243684">
-        <mark key="'" line="162" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1508753913448">
+        <mark key="'" line="231" column="16" />
         <mark key="[" line="219" column="26" />
         <mark key="]" line="219" column="26" />
         <mark key="." line="219" column="26" />
@@ -217,6 +217,7 @@
       <jump line="319" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="637" column="48" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="641" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="231" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -226,7 +227,7 @@
         <text>colName.startsWith('time') || colName === 'interval' || colName === 'date') {</text>
       </register>
       <register name="/" type="4">
-        <text>SubstringRule</text>
+        <text>toSq</text>
       </register>
       <register name="0" type="4">
         <text>DataTypes.analyzedText(column.type)</text>
@@ -260,16 +261,14 @@
       </register>
     </registers>
     <search>
-      <last-search>SubstringRule</last-search>
+      <last-search>toSq</last-search>
       <last-offset />
-      <last-pattern>SubstringRule</last-pattern>
+      <last-pattern>toSq</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>grey-</entry>
-        <entry>foreach</entry>
         <entry>forEach</entry>
         <entry>debug</entry>
         <entry>debugger</entry>
@@ -288,6 +287,8 @@
         <entry>datatype</entry>
         <entry>DataType</entry>
         <entry>SubstringRule</entry>
+        <entry>tosql</entry>
+        <entry>toSq</entry>
       </history-search>
       <history-cmd />
       <history-expr />
