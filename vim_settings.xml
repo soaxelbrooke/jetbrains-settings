@@ -68,11 +68,11 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/util.py" timestamp="1508165556245">
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="32" column="67" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/util.py" timestamp="1508828718711">
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="33" column="67" />
         <mark key="^" line="5" column="17" />
-        <mark key="." line="32" column="67" />
+        <mark key="." line="33" column="67" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1508418551689">
         <mark key="[" line="3" column="25" />
@@ -106,11 +106,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508749077866">
-        <mark key="[" line="196" column="92" />
-        <mark key="]" line="160" column="48" />
-        <mark key="^" line="160" column="48" />
-        <mark key="." line="160" column="48" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508829063862">
+        <mark key="[" line="203" column="12" />
+        <mark key="]" line="203" column="12" />
+        <mark key="." line="203" column="12" />
+        <mark key="^" line="203" column="16" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -229,10 +229,10 @@
       <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
         <mark key="'" line="197" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508491697337">
+      <file name="/Dummy.txt" timestamp="1508829164057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+        <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
@@ -400,11 +400,11 @@
       <jump line="94" column="55" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdHN0enJhbmdlKGRhdGVfdHJ1bmMoJ21vbnRoJywgTkVXLmRhdGUpLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGVfdHJ1bmMoJ21vbnRoJywgTkVXLmRhdGUpICsgaW50ZXJ2YWwgJzEgbW9udGgnKSBBUyBwX3BlcmlvZCwK</text>
+      <register name="&quot;" type="4">
+        <text>AFTER</text>
       </register>
       <register name="-" type="4">
-        <text>'arguably the best movie in the series'</text>
+        <text>AFTER</text>
       </register>
       <register name="/" type="4">
         <text>reify</text>
@@ -413,31 +413,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdHN0enJhbmdlKGRhdGVfdHJ1bmMoJ21vbnRoJywgTkVXLmRhdGUpLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGVfdHJ1bmMoJ21vbnRoJywgTkVXLmRhdGUpICsgaW50ZXJ2YWwgJzEgbW9udGgnKSBBUyBwX3BlcmlvZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX2JpZ3JhbXMiKFRFWFQpIFJFVFVSTlMgVEVYVFtdCiAgICAgICAgICAgICAgQVMgJGJpZ3JhbXMkCiAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIGFycmF5X2FnZyhfbGVmdCB8fCAnICcgfHwgX3JpZ2h0KQogICAgICAgICAgICAgIEZST00gKAogICAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIHdvcmQgICAgICAgICAgICBBUyBfbGVmdCwKICAgICAgICAgICAgICAgICAgbGVhZCh3b3JkKQogICAgICAgICAgICAgICAgICBPVkVSICgpIDo6IFRFWFQgQVMgX3JpZ2h0CiAgICAgICAgICAgICAgICBGUk9NICgKICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgKgogICAgICAgICAgICAgICAgICAgICAgIEZST00gdW5uZXN0KHRzdmVjdG9yX3RvX2FycmF5KHRvX3RzdmVjdG9yKCQxKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSVRIIE9SRElOQUxJVFkgQVMgd29yZAogICAgICAgICAgICAgICAgICAgICApIHQKICAgICAgICAgICAgICApIHQyCiAgICAgICAgICAgICAgV0hFUkUgX3JpZ2h0IE5PVE5VTEw7CiAgICAgICAgICAgICAgJGJpZ3JhbXMkCiAgICAgICAgICBMQU5HVUFHRSBTUUwKICAgICAgICAgIElNTVVUQUJMRTsKICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBSRVRVUk4gTkVXOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGVfcG9zdGdyZXNfcXVlcnkoJ0NSRUFURSBFWFRFTlNJT04gcGdfdHJnbTsnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBFTkQgTE9PUDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBMT09QCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZST00gbmV3X3RhYmxlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX2JpZ3JhbXMiKFRFWFQpIFJFVFVSTlMgVEVYVFtdCiAgICAgICAgICAgICAgQVMgJGJpZ3JhbXMkCiAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIGFycmF5X2FnZyhfbGVmdCB8fCAnICcgfHwgX3JpZ2h0KQogICAgICAgICAgICAgIEZST00gKAogICAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIHdvcmQgICAgICAgICAgICBBUyBfbGVmdCwKICAgICAgICAgICAgICAgICAgbGVhZCh3b3JkKQogICAgICAgICAgICAgICAgICBPVkVSICgpIDo6IFRFWFQgQVMgX3JpZ2h0CiAgICAgICAgICAgICAgICBGUk9NICgKICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgKgogICAgICAgICAgICAgICAgICAgICAgIEZST00gdW5uZXN0KHRzdmVjdG9yX3RvX2FycmF5KHRvX3RzdmVjdG9yKCQxKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSVRIIE9SRElOQUxJVFkgQVMgd29yZAogICAgICAgICAgICAgICAgICAgICApIHQKICAgICAgICAgICAgICApIHQyCiAgICAgICAgICAgICAgV0hFUkUgX3JpZ2h0IE5PVE5VTEw7CiAgICAgICAgICAgICAgJGJpZ3JhbXMkCiAgICAgICAgICBMQU5HVUFHRSBTUUwKICAgICAgICAgIElNTVVUQUJMRTsK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICc+Jywg</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb3ZlcmFsbCBBUyBwX2dyb3VwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX2JpZ3JhbXMiKFRFWFQpIFJFVFVSTlMgVEVYVFtdCiAgICAgICAgICAgICAgQVMgJGJpZ3JhbXMkCiAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIGFycmF5X2FnZyhfbGVmdCB8fCAnICcgfHwgX3JpZ2h0KQogICAgICAgICAgICAgIEZST00gKAogICAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIHdvcmQgICAgICAgICAgICBBUyBfbGVmdCwKICAgICAgICAgICAgICAgICAgbGVhZCh3b3JkKQogICAgICAgICAgICAgICAgICBPVkVSICgpIDo6IFRFWFQgQVMgX3JpZ2h0CiAgICAgICAgICAgICAgICBGUk9NICgKICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgKgogICAgICAgICAgICAgICAgICAgICAgIEZST00gdW5uZXN0KHRzdmVjdG9yX3RvX2FycmF5KHRvX3RzdmVjdG9yKCQxKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSVRIIE9SRElOQUxJVFkgQVMgd29yZAogICAgICAgICAgICAgICAgICAgICApIHQKICAgICAgICAgICAgICApIHQyCiAgICAgICAgICAgICAgV0hFUkUgX3JpZ2h0IE5PVE5VTEw7CiAgICAgICAgICAgICAgJGJpZ3JhbXMkCiAgICAgICAgICBMQU5HVUFHRSBTUUwKICAgICAgICAgIElNTVVUQUJMRTsKICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNFTEVDVCBESVNUSU5DVCAK</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGVfcG9zdGdyZXNfcXVlcnkoJ0NSRUFURSBFWFRFTlNJT04gcGdfdHJnbTsnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBGT1IgcGFydCBJTiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBFTkQgTE9PUDsK</text>
       </register>
     </registers>
     <search>
