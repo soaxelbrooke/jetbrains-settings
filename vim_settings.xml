@@ -40,18 +40,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk_plus_gensim.py" timestamp="1508155337571">
-        <mark key="[" line="40" column="35" />
-        <mark key="]" line="40" column="33" />
-        <mark key="." line="40" column="33" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.gitignore" timestamp="1508305359091">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/significant_terms_test.py" timestamp="1508577528737">
         <mark key="[" line="0" column="0" />
@@ -88,11 +78,6 @@
         <mark key="]" line="9" column="28" />
         <mark key="^" line="8" column="57" />
         <mark key="." line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1508316826224">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_events_table.sql" timestamp="1508313706082">
         <mark key="[" line="11" column="0" />
@@ -143,11 +128,11 @@
         <mark key="." line="40" column="33" />
         <mark key="^" line="18" column="53" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="50" />
-        <mark key="." line="20" column="50" />
-        <mark key="^" line="20" column="50" />
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1508844824051">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="8" />
+        <mark key="." line="50" column="8" />
+        <mark key="^" line="49" column="26" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508236652604">
         <mark key="[" line="39" column="53" />
@@ -403,44 +388,44 @@
       <jump line="94" column="55" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AFTER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNycy5leGVjdXRlKHF1ZXJ5KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>AFTER</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>reify</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdHN0enJhbmdlKGRhdGVfdHJ1bmMoJ21vbnRoJywgTkVXLmRhdGUpLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGVfdHJ1bmMoJ21vbnRoJywgTkVXLmRhdGUpICsgaW50ZXJ2YWwgJzEgbW9udGgnKSBBUyBwX3BlcmlvZCwK</text>
+      <register name="0" type="4">
+        <text>date,request_screen_name,request_text,reply_screen_name,reply_text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBSRVRVUk4gTkVXOwo=</text>
+        <text encoding="base64">ICAgIGNycy5leGVjdXRlKHF1ZXJ5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIGNyczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBSRVRVUk4gTkVXOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX2JpZ3JhbXMiKFRFWFQpIFJFVFVSTlMgVEVYVFtdCiAgICAgICAgICAgICAgQVMgJGJpZ3JhbXMkCiAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIGFycmF5X2FnZyhfbGVmdCB8fCAnICcgfHwgX3JpZ2h0KQogICAgICAgICAgICAgIEZST00gKAogICAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIHdvcmQgICAgICAgICAgICBBUyBfbGVmdCwKICAgICAgICAgICAgICAgICAgbGVhZCh3b3JkKQogICAgICAgICAgICAgICAgICBPVkVSICgpIDo6IFRFWFQgQVMgX3JpZ2h0CiAgICAgICAgICAgICAgICBGUk9NICgKICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgKgogICAgICAgICAgICAgICAgICAgICAgIEZST00gdW5uZXN0KHRzdmVjdG9yX3RvX2FycmF5KHRvX3RzdmVjdG9yKCQxKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSVRIIE9SRElOQUxJVFkgQVMgd29yZAogICAgICAgICAgICAgICAgICAgICApIHQKICAgICAgICAgICAgICApIHQyCiAgICAgICAgICAgICAgV0hFUkUgX3JpZ2h0IE5PVE5VTEw7CiAgICAgICAgICAgICAgJGJpZ3JhbXMkCiAgICAgICAgICBMQU5HVUFHRSBTUUwKICAgICAgICAgIElNTVVUQUJMRTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LAogICAgICAgICAgICAgICAgICc+Jywg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX2JpZ3JhbXMiKFRFWFQpIFJFVFVSTlMgVEVYVFtdCiAgICAgICAgICAgICAgQVMgJGJpZ3JhbXMkCiAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIGFycmF5X2FnZyhfbGVmdCB8fCAnICcgfHwgX3JpZ2h0KQogICAgICAgICAgICAgIEZST00gKAogICAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIHdvcmQgICAgICAgICAgICBBUyBfbGVmdCwKICAgICAgICAgICAgICAgICAgbGVhZCh3b3JkKQogICAgICAgICAgICAgICAgICBPVkVSICgpIDo6IFRFWFQgQVMgX3JpZ2h0CiAgICAgICAgICAgICAgICBGUk9NICgKICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgKgogICAgICAgICAgICAgICAgICAgICAgIEZST00gdW5uZXN0KHRzdmVjdG9yX3RvX2FycmF5KHRvX3RzdmVjdG9yKCQxKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSVRIIE9SRElOQUxJVFkgQVMgd29yZAogICAgICAgICAgICAgICAgICAgICApIHQKICAgICAgICAgICAgICApIHQyCiAgICAgICAgICAgICAgV0hFUkUgX3JpZ2h0IE5PVE5VTEw7CiAgICAgICAgICAgICAgJGJpZ3JhbXMkCiAgICAgICAgICBMQU5HVUFHRSBTUUwKICAgICAgICAgIElNTVVUQUJMRTsKICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGVfcG9zdGdyZXNfcXVlcnkoJ0NSRUFURSBFWFRFTlNJT04gcGdfdHJnbTsnKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBFTkQgTE9PUDsK</text>
+        <text encoding="base64">ICAgICAgICAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX2JpZ3JhbXMiKFRFWFQpIFJFVFVSTlMgVEVYVFtdCiAgICAgICAgICAgICAgQVMgJGJpZ3JhbXMkCiAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIGFycmF5X2FnZyhfbGVmdCB8fCAnICcgfHwgX3JpZ2h0KQogICAgICAgICAgICAgIEZST00gKAogICAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIHdvcmQgICAgICAgICAgICBBUyBfbGVmdCwKICAgICAgICAgICAgICAgICAgbGVhZCh3b3JkKQogICAgICAgICAgICAgICAgICBPVkVSICgpIDo6IFRFWFQgQVMgX3JpZ2h0CiAgICAgICAgICAgICAgICBGUk9NICgKICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgKgogICAgICAgICAgICAgICAgICAgICAgIEZST00gdW5uZXN0KHRzdmVjdG9yX3RvX2FycmF5KHRvX3RzdmVjdG9yKCQxKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSVRIIE9SRElOQUxJVFkgQVMgd29yZAogICAgICAgICAgICAgICAgICAgICApIHQKICAgICAgICAgICAgICApIHQyCiAgICAgICAgICAgICAgV0hFUkUgX3JpZ2h0IE5PVE5VTEw7CiAgICAgICAgICAgICAgJGJpZ3JhbXMkCiAgICAgICAgICBMQU5HVUFHRSBTUUwKICAgICAgICAgIElNTVVUQUJMRTsKICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
