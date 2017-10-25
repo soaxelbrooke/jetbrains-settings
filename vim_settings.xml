@@ -135,9 +135,9 @@
         <mark key="." line="40" column="33" />
         <mark key="^" line="18" column="53" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1508844824051">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="8" />
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1508900942779">
+        <mark key="[" line="41" column="71" />
+        <mark key="]" line="41" column="50" />
         <mark key="." line="50" column="8" />
         <mark key="^" line="49" column="26" />
       </file>
@@ -224,7 +224,7 @@
       <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
         <mark key="'" line="197" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508899755756">
+      <file name="/Dummy.txt" timestamp="1508901369760">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="13" />
@@ -403,7 +403,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loss =</text>
+        <text encoding="base64">cmVwbHkuZGF0YSAtPj4gJ2luX3JlcGx5X3RvX3N0YXR1c19pZCc=</text>
       </register>
       <register name="-" type="4">
         <text>loss =</text>
@@ -411,8 +411,8 @@
       <register name="/" type="4">
         <text>lr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxlYXJuaW5nX3JhdGU9ZmxvYXQob3MuZW52aXJvbi5nZXQoJ0xFQVJOSU5HX1JBVEUnLCAnMC4wMDUnKSksCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVwbHkuZGF0YSAtPj4gJ2luX3JlcGx5X3RvX3N0YXR1c19pZCc=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
