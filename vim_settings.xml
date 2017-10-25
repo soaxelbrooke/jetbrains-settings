@@ -40,12 +40,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1508911240823">
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1508911946311">
         <mark key="'" line="70" column="36" />
-        <mark key="[" line="61" column="11" />
-        <mark key="]" line="62" column="20" />
-        <mark key="." line="62" column="20" />
-        <mark key="^" line="62" column="20" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="63" column="45" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
@@ -224,7 +224,7 @@
       <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
         <mark key="'" line="197" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508901369760">
+      <file name="/Dummy.txt" timestamp="1508911949544">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="13" />
@@ -403,7 +403,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmVuY29kZXIucGFyYW1ldGVycygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChbKnNlbGYuZGVjb2Rlci5wYXJhbWV0ZXJzKCldKQo=</text>
       </register>
       <register name="-" type="4">
         <text>Adam</text>
@@ -415,34 +415,34 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmVuY29kZXIucGFyYW1ldGVycygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChbKnNlbGYuZGVjb2Rlci5wYXJhbWV0ZXJzKCldKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfZXBvY2hfZW5kKGlkeCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChbKnNlbGYuZW5jb2Rlci5wYXJhbWV0ZXJzKCldKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfbWV0cmljKCdsb3NzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfZXBvY2hfZW5kKGlkeCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfbWV0cmljKCdsb3NzJykK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGVuY29kZXIuZml0KCkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>np.array([
 
         for line in text
     ])</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBEb24ndCByZXBvcnQgcHJvZ3Jlc3Mgb24gZmlyc3QgZXBvY2guLi4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNycy5leGVjdXRlKHF1ZXJ5KQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIGNyczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBEb24ndCByZXBvcnQgcHJvZ3Jlc3Mgb24gZmlyc3QgZXBvY2guLi4K</text>
       </register>
     </registers>
     <search>
