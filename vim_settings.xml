@@ -40,12 +40,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1508897428024">
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1508899699505">
         <mark key="'" line="70" column="36" />
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="70" column="36" />
-        <mark key="." line="70" column="36" />
-        <mark key="^" line="70" column="36" />
+        <mark key="[" line="105" column="41" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="105" column="11" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
@@ -224,10 +224,10 @@
       <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
         <mark key="'" line="197" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508898256012">
+      <file name="/Dummy.txt" timestamp="1508899755756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+        <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
@@ -239,12 +239,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508898680715">
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508899717796">
         <mark key="'" line="29" column="57" />
-        <mark key="[" line="92" column="30" />
-        <mark key="]" line="95" column="29" />
-        <mark key="^" line="95" column="29" />
-        <mark key="." line="95" column="29" />
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="12" />
+        <mark key="^" line="61" column="38" />
+        <mark key="." line="60" column="12" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1508144645153">
         <mark key="[" line="28" column="71" />
@@ -403,46 +403,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, unk)</text>
+        <text>loss =</text>
       </register>
       <register name="-" type="4">
-        <text>, unk)</text>
+        <text>loss =</text>
       </register>
       <register name="/" type="4">
         <text>lr</text>
       </register>
-      <register name="0" type="4">
-        <text>[:10000]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxlYXJuaW5nX3JhdGU9ZmxvYXQob3MuZW52aXJvbi5nZXQoJ0xFQVJOSU5HX1JBVEUnLCAnMC4wMDUnKSksCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfZXBvY2hfZW5kKGlkeCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfbWV0cmljKCdsb3NzJykK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGVuY29kZXIuZml0KCkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>np.array([
 
         for line in text
     ])</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBEb24ndCByZXBvcnQgcHJvZ3Jlc3Mgb24gZmlyc3QgZXBvY2guLi4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNycy5leGVjdXRlKHF1ZXJ5KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIGNyczoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBSRVRVUk4gTkVXOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIGNyczoK</text>
       </register>
     </registers>
     <search>
