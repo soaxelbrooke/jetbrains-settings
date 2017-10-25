@@ -40,6 +40,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1508889528608">
+        <mark key="[" line="164" column="43" />
+        <mark key="]" line="164" column="60" />
+        <mark key="." line="164" column="43" />
+        <mark key="^" line="164" column="42" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
@@ -217,10 +223,10 @@
       <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
         <mark key="'" line="197" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508834226010">
+      <file name="/Dummy.txt" timestamp="1508890031094">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="34" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
@@ -232,12 +238,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508855070010">
-        <mark key="'" line="28" column="57" />
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="28" column="50" />
-        <mark key="^" line="28" column="50" />
-        <mark key="." line="28" column="50" />
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508890027320">
+        <mark key="'" line="29" column="57" />
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="29" column="50" />
+        <mark key="^" line="29" column="50" />
+        <mark key="." line="29" column="50" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1508144645153">
         <mark key="[" line="28" column="71" />
@@ -402,10 +408,10 @@
         <text>[:10000]</text>
       </register>
       <register name="/" type="4">
-        <text>word_vocab</text>
+        <text>expand</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZW5jb2Rlcl9mb3JfbGluZXMgPSBza2xlYXJuX2VuY29kZXJfZm9yX2RhdGEKZW5jb2RlX2RhdGEgPSBza2xlYXJuX2VuY29kZV9kYXRhCg==</text>
+      <register name="0" type="4">
+        <text>[:10000]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVuY29kZXIuZml0KCkK</text>
@@ -439,15 +445,14 @@
       </register>
     </registers>
     <search>
-      <last-search>word_vocab</last-search>
+      <last-search>expand</last-search>
       <last-offset />
-      <last-pattern>word_vocab</last-pattern>
+      <last-pattern>expand</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loclho</entry>
         <entry>locl</entry>
         <entry>explorer_conn</entry>
         <entry>get_kind</entry>
@@ -467,6 +472,7 @@
         <entry>p_period</entry>
         <entry>reify</entry>
         <entry>word_vocab</entry>
+        <entry>expand</entry>
       </history-search>
       <history-cmd />
       <history-expr />
