@@ -135,11 +135,11 @@
         <mark key="." line="40" column="33" />
         <mark key="^" line="18" column="53" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1508900942779">
-        <mark key="[" line="41" column="71" />
-        <mark key="]" line="41" column="50" />
-        <mark key="." line="50" column="8" />
-        <mark key="^" line="49" column="26" />
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1508915572278">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="51" column="25" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508236652604">
         <mark key="[" line="39" column="53" />
@@ -224,7 +224,7 @@
       <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
         <mark key="'" line="197" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508911949544">
+      <file name="/Dummy.txt" timestamp="1508915684747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="13" />
@@ -239,12 +239,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508913098984">
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508914621795">
         <mark key="'" line="29" column="57" />
-        <mark key="[" line="74" column="67" />
-        <mark key="]" line="76" column="16" />
-        <mark key="^" line="76" column="16" />
-        <mark key="." line="76" column="16" />
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="63" column="55" />
+        <mark key="^" line="63" column="38" />
+        <mark key="." line="63" column="39" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1508144645153">
         <mark key="[" line="28" column="71" />
@@ -402,59 +402,58 @@
       <jump line="70" column="36" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNpZ25hdHVyZV9yZWdleCA9IHJlLmNvbXBpbGUocidbXCpeL11bYS16XVthLXpdW2Etel0/KD8hW1wqXSknKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QHtyb3dbM119IA==</text>
       </register>
       <register name="-" type="4">
-        <text>hashtag</text>
+        <text encoding="base64">QHtyb3dbM119IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lr</text>
+        <text>15</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNpZ25hdHVyZV9yZWdleCA9IHJlLmNvbXBpbGUocidbXCpeL11bYS16XVthLXpdW2Etel0/KD8hW1wqXSknKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93WzJdID0gcm93WzJdLnJlcGxhY2UoJ1xuJywgJyAnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChbKnNlbGYuZGVjb2Rlci5wYXJhbWV0ZXJzKCldKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChbKnNlbGYuZW5jb2Rlci5wYXJhbWV0ZXJzKCldKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJhbmRvbV9pZHggPSByYW5kb20uc2FtcGxlKFsqcmFuZ2UobGVuKHgpKV0pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChbKnNlbGYuZGVjb2Rlci5wYXJhbWV0ZXJzKCldKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfZXBvY2hfZW5kKGlkeCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChbKnNlbGYuZW5jb2Rlci5wYXJhbWV0ZXJzKCldKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfbWV0cmljKCdsb3NzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfZXBvY2hfZW5kKGlkeCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZXJpbWVudC5sb2dfbWV0cmljKCdsb3NzJykK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVuY29kZXIuZml0KCkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>np.array([
 
         for line in text
     ])</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBEb24ndCByZXBvcnQgcHJvZ3Jlc3Mgb24gZmlyc3QgZXBvY2guLi4K</text>
-      </register>
     </registers>
     <search>
-      <last-search>lr</last-search>
+      <last-search>15</last-search>
       <last-offset />
-      <last-pattern>lr</last-pattern>
+      <last-pattern>15</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>explorer_conn</entry>
         <entry>get_kind</entry>
         <entry>save_eve</entry>
         <entry>get_event</entry>
@@ -474,6 +473,7 @@
         <entry>word_vocab</entry>
         <entry>expand</entry>
         <entry>lr</entry>
+        <entry>15</entry>
       </history-search>
       <history-cmd />
       <history-expr />
