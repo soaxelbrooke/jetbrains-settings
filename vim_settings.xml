@@ -239,12 +239,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508923472387">
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508926328152">
         <mark key="'" line="29" column="57" />
-        <mark key="[" line="34" column="19" />
-        <mark key="]" line="137" column="29" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
         <mark key="^" line="137" column="29" />
-        <mark key="." line="137" column="29" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1508144645153">
         <mark key="[" line="28" column="71" />
@@ -403,10 +403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
