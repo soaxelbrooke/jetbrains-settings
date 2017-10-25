@@ -40,11 +40,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1508889528608">
-        <mark key="[" line="164" column="43" />
-        <mark key="]" line="164" column="60" />
-        <mark key="." line="164" column="43" />
-        <mark key="^" line="164" column="42" />
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1508897428024">
+        <mark key="'" line="70" column="36" />
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="70" column="36" />
+        <mark key="." line="70" column="36" />
+        <mark key="^" line="70" column="36" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
@@ -223,7 +224,7 @@
       <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
         <mark key="'" line="197" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508890031094">
+      <file name="/Dummy.txt" timestamp="1508898256012">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -238,12 +239,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508890027320">
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508898680715">
         <mark key="'" line="29" column="57" />
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="50" />
-        <mark key="^" line="29" column="50" />
-        <mark key="." line="29" column="50" />
+        <mark key="[" line="92" column="30" />
+        <mark key="]" line="95" column="29" />
+        <mark key="^" line="95" column="29" />
+        <mark key="." line="95" column="29" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1508144645153">
         <mark key="[" line="28" column="71" />
@@ -299,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="34" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="212" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="213" column="49" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="218" column="41" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
@@ -399,16 +399,17 @@
       <jump line="168" column="79" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="94" column="55" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="28" column="57" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" />
+      <jump line="70" column="36" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[:10000]</text>
+        <text>, unk)</text>
       </register>
       <register name="-" type="4">
-        <text>[:10000]</text>
+        <text>, unk)</text>
       </register>
       <register name="/" type="4">
-        <text>expand</text>
+        <text>lr</text>
       </register>
       <register name="0" type="4">
         <text>[:10000]</text>
@@ -445,15 +446,14 @@
       </register>
     </registers>
     <search>
-      <last-search>expand</last-search>
+      <last-search>lr</last-search>
       <last-offset />
-      <last-pattern>expand</last-pattern>
+      <last-pattern>lr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>locl</entry>
         <entry>explorer_conn</entry>
         <entry>get_kind</entry>
         <entry>save_eve</entry>
@@ -473,6 +473,7 @@
         <entry>reify</entry>
         <entry>word_vocab</entry>
         <entry>expand</entry>
+        <entry>lr</entry>
       </history-search>
       <history-cmd />
       <history-expr />
