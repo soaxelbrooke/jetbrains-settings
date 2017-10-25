@@ -40,12 +40,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1508920027830">
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1508928048533">
         <mark key="'" line="70" column="36" />
-        <mark key="[" line="31" column="49" />
-        <mark key="]" line="29" column="35" />
-        <mark key="." line="29" column="35" />
-        <mark key="^" line="29" column="35" />
+        <mark key="[" line="104" column="74" />
+        <mark key="]" line="104" column="54" />
+        <mark key="." line="104" column="54" />
+        <mark key="^" line="104" column="38" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
@@ -224,7 +224,7 @@
       <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
         <mark key="'" line="197" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508923710895">
+      <file name="/Dummy.txt" timestamp="1508928161356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -239,10 +239,10 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508926328152">
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1508928035709">
         <mark key="'" line="29" column="57" />
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="13" />
+        <mark key="[" line="77" column="55" />
+        <mark key="]" line="77" column="76" />
         <mark key="^" line="137" column="29" />
         <mark key="." line="23" column="13" />
       </file>
@@ -403,16 +403,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
       </register>
       <register name="0" type="4">
-        <text>decoder_outputs[input_idx, :]</text>
+        <text encoding="base64">J3s6LjRmfScuZm9ybWF0KGxvc3MpIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGVzdF95LnNoYXBlKQo=</text>
