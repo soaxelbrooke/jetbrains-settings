@@ -86,6 +86,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509091567223">
+        <mark key="[" line="58" column="40" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="58" column="41" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_events_table.sql" timestamp="1508313706082">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -147,11 +153,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1508680055289">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509091292892">
         <mark key="'" line="94" column="55" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="151" column="93" />
-        <mark key="." line="150" column="0" />
+        <mark key="[" line="112" column="31" />
+        <mark key="]" line="112" column="31" />
+        <mark key="." line="112" column="31" />
+        <mark key="^" line="112" column="19" />
       </file>
       <file name="vim_settings.xml" timestamp="1508834006115">
         <mark key="[" line="0" column="0" />
@@ -403,43 +410,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">J3s6LjRmfScuZm9ybWF0KGxvc3MpIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3RfZXZlbnQgPSBLaW5kQ3JlYXRlUmVxdWVzdEV2ZW50Lm5ldyhjcmVhdGVfcmVxdWVzdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGVzdF95LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgIGZvciBjb2wgaW4gY29sczoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGVzdF94LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwa2V5ID0gJ19fZG9jX2lkJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdF9pbnB1dHMgPSAK</text>
+        <text encoding="base64">ICAgIHByaW1hcnlfa2V5JywgT3B0aW9uYWxbc3RyXSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgR2V0IHRoZSBoaWdoZXN0IHZhbHVlcyBhbmQgdGhlaXIgaW5kZXhlcyBvdmVyIGF4aXMgMQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dG9vX21hbnlfY29sc19nZW4gPSBsaXN0cyhjb2xfZ2VuLCBtaW5fc2l6ZT1tYXhfY29scyArIDEpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9yZXF1ZXN0ID0gS2luZENyZWF0ZVJlcXVlc3QoVE9ETykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlY29kZXJfaW5wdXQgPSB0YXJnZXRfdmFyX2JhdGNoW2lucHV0X2lkeCwgOl0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBLaW5kQ3JlYXRlUmVxdWVzdCh0ZXh0KCksICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2hvdWxkX3VzZV90ZWFjaGVyOgo=</text>
+        <text encoding="base64">ZGVmIGdlbl9raW5kX2Zyb21fY29scyhjb2xzKToK</text>
       </register>
     </registers>
     <search>
