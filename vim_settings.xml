@@ -9,11 +9,11 @@
         <mark key="^" line="51" column="37" />
         <mark key="." line="36" column="44" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1508491851077">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1509092632116">
         <mark key="'" line="32" column="23" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="20" />
-        <mark key="." line="85" column="20" />
+        <mark key="[" line="75" column="99" />
+        <mark key="]" line="86" column="20" />
+        <mark key="." line="86" column="20" />
         <mark key="^" line="39" column="12" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507381960165">
@@ -86,11 +86,11 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509091567223">
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="40" />
-        <mark key="^" line="58" column="41" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509093148853">
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="48" column="50" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_events_table.sql" timestamp="1508313706082">
         <mark key="[" line="11" column="0" />
@@ -153,12 +153,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509091292892">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509093544723">
         <mark key="'" line="94" column="55" />
-        <mark key="[" line="112" column="31" />
-        <mark key="]" line="112" column="31" />
-        <mark key="." line="112" column="31" />
-        <mark key="^" line="112" column="19" />
+        <mark key="[" line="116" column="4" />
+        <mark key="]" line="116" column="4" />
+        <mark key="." line="116" column="4" />
+        <mark key="^" line="116" column="3" />
       </file>
       <file name="vim_settings.xml" timestamp="1508834006115">
         <mark key="[" line="0" column="0" />
@@ -197,9 +197,9 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1508423178901">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="8" column="26" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1509093699720">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="72" column="0" />
         <mark key="]" line="8" column="26" />
         <mark key="." line="8" column="26" />
         <mark key="^" line="7" column="66" />
@@ -222,16 +222,13 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/events.py" timestamp="1508316021988">
-        <mark key="[" line="95" column="18" />
-        <mark key="]" line="95" column="17" />
-        <mark key="." line="95" column="17" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/events.py" timestamp="1509092704447">
+        <mark key="[" line="90" column="72" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
         <mark key="^" line="85" column="18" />
       </file>
-      <file name="/usr/local/lib/python3.6/dist-packages/nltk/tokenize/regexp.py" timestamp="1508411350895">
-        <mark key="'" line="197" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508928161356">
+      <file name="/Dummy.txt" timestamp="1509093482751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -410,55 +407,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>asd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>asd</text>
       </register>
       <register name="/" type="4">
-        <text>15</text>
+        <text>commit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfZXZlbnQgPSBLaW5kQ3JlYXRlUmVxdWVzdEV2ZW50Lm5ldyhjcmVhdGVfcmVxdWVzdCkK</text>
+        <text encoding="base64">QGdpdmVuKGtpbmRfZnJvbV9jb2xzKGNvbHNfZ2VuKS5tYXAoS2luZENyZWF0ZVJlcXVlc3RFdmVudC5uZXcpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBjb2wgaW4gY29sczoK</text>
+        <text encoding="base64">ICAgIGluc2VydF9ldmVudCh3X2Nvbm4sIHJlc3VsdCkKICAgIHdfY29ubi5jb21taXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwa2V5ID0gJ19fZG9jX2lkJwo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9yZXF1ZXN0ID0gS2luZENyZWF0ZVJlcXVlc3QoJ2NhdHMnLCAnQ1JFQVRFIFRBQkxFIGNhdHMgKGlkIHRleHQsIG5hbWUgdGV4dCknKQogICAgcmVxdWVzdF9ldmVudCA9IEtpbmRDcmVhdGVSZXF1ZXN0RXZlbnQubmV3KGNyZWF0ZV9yZXF1ZXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW1hcnlfa2V5JywgT3B0aW9uYWxbc3RyXSksCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnNraXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbm4uY29tbWl0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dG9vX21hbnlfY29sc19nZW4gPSBsaXN0cyhjb2xfZ2VuLCBtaW5fc2l6ZT1tYXhfY29scyArIDEpCg==</text>
+        <text encoding="base64">ICAgIGNvbm4uY29tbWl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9yZXF1ZXN0ID0gS2luZENyZWF0ZVJlcXVlc3QoVE9ETykK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RfZXZlbnQgPSBLaW5kQ3JlYXRlUmVxdWVzdEV2ZW50Lm5ldyhjcmVhdGVfcmVxdWVzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9yZXF1ZXN0ID0gS2luZENyZWF0ZVJlcXVlc3QoJ2NhdHMnLCAnQ1JFQVRFIFRBQkxFIGNhdHMgKGlkIHRleHQsIG5hbWUgdGV4dCknKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBLaW5kQ3JlYXRlUmVxdWVzdCh0ZXh0KCksICkK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RfZXZlbnQgPSBLaW5kQ3JlYXRlUmVxdWVzdEV2ZW50Lm5ldyhjcmVhdGVfcmVxdWVzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdlbl9raW5kX2Zyb21fY29scyhjb2xzKToK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RfZXZlbnQgPSBLaW5kQ3JlYXRlUmVxdWVzdEV2ZW50Lm5ldyhjcmVhdGVfcmVxdWVzdCkK</text>
       </register>
     </registers>
     <search>
-      <last-search>15</last-search>
+      <last-search>commit</last-search>
       <last-offset />
-      <last-pattern>15</last-pattern>
+      <last-pattern>commit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_kind</entry>
         <entry>save_eve</entry>
         <entry>get_event</entry>
         <entry>SELECT * FROM document_batch_status</entry>
@@ -478,6 +474,7 @@
         <entry>expand</entry>
         <entry>lr</entry>
         <entry>15</entry>
+        <entry>commit</entry>
       </history-search>
       <history-cmd />
       <history-expr />
