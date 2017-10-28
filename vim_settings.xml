@@ -6,9 +6,6 @@
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508666625157">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1507309743318">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,24 +15,8 @@
         <mark key="^" line="180" column="1" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1507309521591">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1508163769303">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="35" column="33" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1508666304197">
-        <mark key="'" line="641" column="41" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="56" column="44" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="10" column="0" />
@@ -57,10 +38,53 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/util.js" timestamp="1508495971805">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1509103194842">
+        <mark key="'" line="134" column="62" />
+        <mark key="[" line="157" column="20" />
+        <mark key="]" line="134" column="62" />
+        <mark key="." line="134" column="62" />
+        <mark key="^" line="134" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/common_views.js" timestamp="1507718849692">
+        <mark key="[" line="54" column="50" />
+        <mark key="]" line="54" column="50" />
+        <mark key="." line="54" column="50" />
+        <mark key="^" line="15" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509097339122">
+        <mark key="[" line="19" column="69" />
+        <mark key="]" line="19" column="69" />
+        <mark key="^" line="77" column="55" />
+        <mark key="." line="19" column="69" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509103519947">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509103508389">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="45" />
+        <mark key="." line="60" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509103458951">
+        <mark key="'" line="641" column="41" />
+        <mark key="[" line="461" column="21" />
+        <mark key="]" line="461" column="21" />
+        <mark key="^" line="56" column="44" />
+        <mark key="." line="461" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/view_spec.js" timestamp="1509103369536">
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="69" />
+        <mark key="." line="10" column="69" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/util.js" timestamp="1509103255868">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="38" />
         <mark key="^" line="34" column="14" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
@@ -76,24 +100,11 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1508753913448">
-        <mark key="'" line="231" column="16" />
-        <mark key="[" line="219" column="26" />
-        <mark key="]" line="219" column="26" />
-        <mark key="." line="219" column="26" />
-        <mark key="^" line="219" column="25" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
         <mark key="[" line="34" column="14" />
         <mark key="]" line="32" column="3" />
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/common_views.js" timestamp="1507718849692">
-        <mark key="[" line="54" column="50" />
-        <mark key="]" line="54" column="50" />
-        <mark key="." line="54" column="50" />
-        <mark key="^" line="15" column="38" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -106,12 +117,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="32" column="44" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509097339122">
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="19" column="69" />
-        <mark key="^" line="77" column="55" />
-        <mark key="." line="19" column="69" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -218,16 +223,18 @@
       <jump line="637" column="48" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="641" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="231" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
+      <jump line="5" column="12" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
+      <jump line="134" column="62" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>toSq</text>
+        <text>toSql</text>
       </register>
       <register name="0" type="4">
         <text>DataTypes.analyzedText(column.type)</text>
@@ -261,15 +268,14 @@
       </register>
     </registers>
     <search>
-      <last-search>toSq</last-search>
+      <last-search>toSql</last-search>
       <last-offset />
-      <last-pattern>toSq</last-pattern>
+      <last-pattern>toSql</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>forEach</entry>
         <entry>debug</entry>
         <entry>debugger</entry>
         <entry>close</entry>
@@ -289,6 +295,7 @@
         <entry>SubstringRule</entry>
         <entry>tosql</entry>
         <entry>toSq</entry>
+        <entry>toSql</entry>
       </history-search>
       <history-cmd />
       <history-expr />
