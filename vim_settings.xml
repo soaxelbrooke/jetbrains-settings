@@ -9,12 +9,12 @@
         <mark key="^" line="51" column="37" />
         <mark key="." line="36" column="44" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1509092632116">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1509096123267">
         <mark key="'" line="32" column="23" />
-        <mark key="[" line="75" column="99" />
-        <mark key="]" line="86" column="20" />
-        <mark key="." line="86" column="20" />
-        <mark key="^" line="39" column="12" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="15" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1507381960165">
         <mark key="[" line="9" column="0" />
@@ -86,11 +86,11 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509093148853">
-        <mark key="[" line="54" column="44" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="48" column="50" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="49" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_events_table.sql" timestamp="1508313706082">
         <mark key="[" line="11" column="0" />
@@ -104,11 +104,10 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1508829063862">
-        <mark key="[" line="203" column="12" />
-        <mark key="]" line="203" column="12" />
-        <mark key="." line="203" column="12" />
-        <mark key="^" line="203" column="16" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1509096897036">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -153,12 +152,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509093544723">
-        <mark key="'" line="94" column="55" />
-        <mark key="[" line="116" column="4" />
-        <mark key="]" line="116" column="4" />
-        <mark key="." line="116" column="4" />
-        <mark key="^" line="116" column="3" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509102566711">
+        <mark key="'" line="90" column="45" />
+        <mark key="[" line="95" column="18" />
+        <mark key="]" line="161" column="39" />
+        <mark key="." line="161" column="39" />
+        <mark key="^" line="161" column="39" />
       </file>
       <file name="vim_settings.xml" timestamp="1508834006115">
         <mark key="[" line="0" column="0" />
@@ -197,12 +196,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1509093699720">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="7" column="66" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1509095918402">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="86" column="2" />
+        <mark key="]" line="86" column="2" />
+        <mark key="." line="86" column="2" />
+        <mark key="^" line="86" column="6" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
         <mark key="[" line="6" column="28" />
@@ -228,7 +227,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="85" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509093482751">
+      <file name="/Dummy.txt" timestamp="1509103037840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -268,12 +267,12 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1508665754701">
-        <mark key="'" line="217" column="34" />
-        <mark key="[" line="174" column="37" />
-        <mark key="]" line="174" column="52" />
-        <mark key="^" line="174" column="52" />
-        <mark key="." line="174" column="52" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1509102820611">
+        <mark key="'" line="103" column="30" />
+        <mark key="[" line="167" column="35" />
+        <mark key="]" line="167" column="35" />
+        <mark key="^" line="103" column="30" />
+        <mark key="." line="167" column="35" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -304,10 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="213" column="49" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="218" column="41" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="222" column="50" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="236" column="31" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="265" column="16" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="267" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
@@ -401,63 +396,64 @@
       <jump line="152" column="12" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="156" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="168" column="79" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
-      <jump line="94" column="55" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="28" column="57" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" />
       <jump line="70" column="36" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
+      <jump line="150" column="24" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="94" column="42" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="90" column="45" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
+      <jump line="103" column="30" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>asd</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>asd</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>commit</text>
+        <text>INSERT INTO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGdpdmVuKGtpbmRfZnJvbV9jb2xzKGNvbHNfZ2VuKS5tYXAoS2luZENyZWF0ZVJlcXVlc3RFdmVudC5uZXcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogJ1Jldmlld0lEJywgJ3R5cGUnOiAndGV4dCd9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluc2VydF9ldmVudCh3X2Nvbm4sIHJlc3VsdCkKICAgIHdfY29ubi5jb21taXQoKQo=</text>
+        <text encoding="base64">UG9zdGdyZXNDb2x1bW4gPSBOYW1lZFR1cGxlKCdQb3N0Z3Jlc0NvbHVtbicsIFsoJ25hbWUnLCBzdHIpLCAoJ3R5cGUnLCBzdHIpXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9yZXF1ZXN0ID0gS2luZENyZWF0ZVJlcXVlc3QoJ2NhdHMnLCAnQ1JFQVRFIFRBQkxFIGNhdHMgKGlkIHRleHQsIG5hbWUgdGV4dCknKQogICAgcmVxdWVzdF9ldmVudCA9IEtpbmRDcmVhdGVSZXF1ZXN0RXZlbnQubmV3KGNyZWF0ZV9yZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAjICdjcmVhdGVfcXVlcnknOiAiIiIKICAgICAgICAjICAgQ1JFQVRFIFRBQkxFICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJBbWF6b24gUmV2aWV3cyIgKAogICAgICAgICMgICAgIFJldmlld0lEIFRFWFQgUFJJTUFSWSBLRVksCiAgICAgICAgIyAgICAgVGl0bGUgQU5BTFlaRURfVEVYVCwKICAgICAgICAjICAgICBPdmVyYWxsIERPVUJMRSBQUkVDSVNJT04sCiAgICAgICAgIyAgICAgRGF0ZSBEQVRFLAogICAgICAgICMgICAgIENvbnRlbnQgQU5BTFlaRURfVEVYVCwKICAgICAgICAjICAgICBBdXRob3IgVEVYVAogICAgICAgICMgICApOwogICAgICAgICMKICAgICAgICAjICAgQ1JFQVRFIElOREVYICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMuQW1hem9uIFJldmlld3NfdGl0bGVfc2VhcmNoX2lkeCIgT04KICAgICAgICAjICAgICAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iQW1hem9uIFJldmlld3MiIFVTSU5HIEdJTgogICAgICAgICMgICAgICh0b190c3ZlY3RvcignZW5nbGlzaCcsICh0aXRsZSkuY29udGVudCkpOwogICAgICAgICMKICAgICAgICAjICAgQ1JFQVRFIElOREVYICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMuQW1hem9uIFJldmlld3NfY29udGVudF9zZWFyY2hfaWR4IiBPTgogICAgICAgICMgICAgICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJBbWF6b24gUmV2aWV3cyIgVVNJTkcgR0lOCiAgICAgICAgIyAgICAgKHRvX3RzdmVjdG9yKCdlbmdsaXNoJywgKGNvbnRlbnQpLmNvbnRlbnQpKTsKICAgICAgICAjCiAgICAgICAgIyAgIENSRUFURSBUQUJMRSAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX3Rlcm1fY291bnRzIiAoCiAgICAgICAgIyAgICAgcF9ncm91cCBURVhULAogICAgICAgICMgICAgIHBfcGVyaW9kIHRzdHpyYW5nZSwKICAgICAgICAjICAgICB3b3JkIFRFWFQsCiAgICAgICAgIyAgICAgbmRvYyBJTlRFR0VSLAogICAgICAgICMgICAgIG5lbnRyeSBJTlRFR0VSLAogICAgICAgICMgICAgIFBSSU1BUlkgS0VZIChwX2dyb3VwLCBwX3BlcmlvZCwgd29yZCkKICAgICAgICAjICAgKTsKICAgICAgICAjCiAgICAgICAgIyAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX2JpZ3JhbXMiKFRFWFQpIFJFVFVSTlMgVEVYVFtdCiAgICAgICAgIyAgICAgICBBUyAkYmlncmFtcyQKICAgICAgICAjICAgICAgIFNFTEVDVAogICAgICAgICMgICAgICAgICAgIGFycmF5X2FnZyhfbGVmdCB8fCAnICcgfHwgX3JpZ2h0KQogICAgICAgICMgICAgICAgRlJPTSAoCiAgICAgICAgIyAgICAgICAgIFNFTEVDVAogICAgICAgICMgICAgICAgICAgIHdvcmQgICAgICAgICAgICBBUyBfbGVmdCwKICAgICAgICAjICAgICAgICAgICBsZWFkKHdvcmQpCiAgICAgICAgIyAgICAgICAgICAgT1ZFUiAoKSA6OiBURVhUIEFTIF9yaWdodAogICAgICAgICMgICAgICAgICBGUk9NICgKICAgICAgICAjICAgICAgICAgICAgICAgIFNFTEVDVCAqCiAgICAgICAgIyAgICAgICAgICAgICAgICBGUk9NIHVubmVzdCh0c3ZlY3Rvcl90b19hcnJheSh0b190c3ZlY3RvcigkMSkpKQogICAgICAgICMgICAgICAgICAgICAgICAgICAgICBXSVRIIE9SRElOQUxJVFkgQVMgd29yZAogICAgICAgICMgICAgICAgICAgICAgICkgdAogICAgICAgICMgICAgICAgKSB0MgogICAgICAgICMgICAgICAgV0hFUkUgX3JpZ2h0IE5PVE5VTEw7CiAgICAgICAgIyAgICAgICAkYmlncmFtcyQKICAgICAgICAjICAgTEFOR1VBR0UgU1FMCiAgICAgICAgIyAgIElNTVVUQUJMRTsKICAgICAgICAjCiAgICAgICAgIyAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iQW1hem9uIFJldmlld3NfY291bnRfdG9rZW5zIigpCiAgICAgICAgIyAgIFJFVFVSTlMgVFJJR0dFUiBBUyAkY291bnRfdG9rZW5zJAogICAgICAgICMgICAgIEJFR0lOCiAgICAgICAgIyAgICAgICAgIElOU0VSVCBJTlRPICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJfdGVybV9jb3VudHMiIEFTIHRjcwogICAgICAgICMgICAgICAgICBTRUxFQ1QKICAgICAgICAjICAgICAgICAgICBORVcub3ZlcmFsbDo6VEVYVCBBUyBwX2dyb3VwLAogICAgICAgICMgICAgICAgICAgIHRzdHpyYW5nZShkYXRlX3RydW5jKCdtb250aCcsIE5FVy5kYXRlKSwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgZGF0ZV90cnVuYygnbW9udGgnLCBORVcuZGF0ZSkgKyBpbnRlcnZhbCAnMSBtb250aCcpIEFTIHBfcGVyaW9kLAogICAgICAgICMgICAgICAgICAgICh0c19zdGF0KCdTRUxFQ1QgdG9fdHN2ZWN0b3IoJHJldmlld190ZXh0JCcgfHwgKE5FVy50aXRsZSkuY29udGVudCB8fCAnXG4nIHx8IChORVcuY29udGVudCkuY29udGVudCB8fCAnJHJldmlld190ZXh0JCknKSkuKgogICAgICAgICMgICAgICAgICBPTiBDT05GTElDVCAocF9ncm91cCwgcF9wZXJpb2QsIHdvcmQpIERPIFVQREFURQogICAgICAgICMgICAgICAgICBTRVQgbmRvYyA9IHRjcy5uZG9jICsgZXhjbHVkZWQubmRvYywgbmVudHJ5ID0gdGNzLm5lbnRyeSArIGV4Y2x1ZGVkLm5lbnRyeTsKICAgICAgICAjCiAgICAgICAgIyAgICAgICAgIC0tIElOU0VSVCBJTlRPICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJfdGVybV9jb3VudHMiIEFTIHRjcwogICAgICAgICMgICAgICAgICAtLSBTRUxFQ1QKICAgICAgICAjICAgICAgICAgLS0gICBORVcuT3ZlcmFsbDo6VEVYVCBBUyBwZ19ncm91cCwKICAgICAgICAjICAgICAgICAgLS0gICB0c3R6cmFuZ2UoZGF0ZV90cnVuYygnbW9udGgnLCBORVcuZGF0ZSksCiAgICAgICAgIyAgICAgICAgIC0tICAgICAgICAgICAgIGRhdGVfdHJ1bmMoJ21vbnRoJywgTkVXLmRhdGUpICsgaW50ZXJ2YWwgJzEgbW9udGgnKSBBUyBwX3BlcmlvZCwKICAgICAgICAjCiAgICAgICAgIwogICAgICAgICMgICAgICAgUkVUVVJOIE5FVzsKICAgICAgICAjICAgICBFTkQ7CiAgICAgICAgIyAgICRjb3VudF90b2tlbnMkIExBTkdVQUdFIHBscGdzcWw7CiAgICAgICAgIwogICAgICAgICMgICBDUkVBVEUgVFJJR0dFUiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzLkFtYXpvbiBSZXZpZXdzX3RyaWdnZXIiCiAgICAgICAgIyAgICAgQkVGT1JFIElOU0VSVCBPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iQW1hem9uIFJldmlld3MiCiAgICAgICAgIyAgICAgRk9SIEVBQ0ggUk9XCiAgICAgICAgIyAgICAgRVhFQ1VURSBQUk9DRURVUkUgImNmMjZlZWM3LWUzNDctNGZlYy05ODVjLWQyMjVjN2VlOWI4MyIuIkFtYXpvbiBSZXZpZXdzX2NvdW50X3Rva2VucyIoKTsKICAgICAgICAjCiAgICAgICAgIyAgIEdSQU5UIFNFTEVDVCBPTiBBTEwgVEFCTEVTIElOIFNDSEVNQSAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIiBUTyAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzLXJlYWQiOwogICAgICAgICMgICBHUkFOVCBTRUxFQ1QsIElOU0VSVCBPTiBBTEwgVEFCTEVTIElOIFNDSEVNQSAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIiBUTyAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzLXdyaXRlIjsKICAgICAgICAjICIiIlYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnNraXAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbm4uY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgIGlmICdhbmFseXplZF90ZXh0JyBpbiBjb2xfbmFtZXM6CiAgICAgICAgc3RhdGVtZW50cy5hcHBlbmQoZiIiIgogICAgICAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iQW1hem9uIFJldmlld3NfY291bnRfdG9rZW5zIigpCiAgICAgICAgICBSRVRVUk5TIFRSSUdHRVIgQVMgJGNvdW50X3Rva2VucyQKICAgICAgICAgICAgQkVHSU4KICAgICAgICAgICAgICAgIElOU0VSVCBJTlRPICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJfdGVybV9jb3VudHMiIEFTIHRjcwogICAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICAgIE5FVy5vdmVyYWxsOjpURVhUIEFTIHBfZ3JvdXAsCiAgICAgICAgICAgICAgICAgIHRzdHpyYW5nZShkYXRlX3RydW5jKCdtb250aCcsIE5FVy5kYXRlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGVfdHJ1bmMoJ21vbnRoJywgTkVXLmRhdGUpICsgaW50ZXJ2YWwgJzEgbW9udGgnKSBBUyBwX3BlcmlvZCwKICAgICAgICAgICAgICAgICAgKHRzX3N0YXQoJ1NFTEVDVCB0b190c3ZlY3RvcigkcmV2aWV3X3RleHQkJyB8fCAoTkVXLnRpdGxlKS5jb250ZW50IHx8ICdcbicgfHwgKE5FVy5jb250ZW50KS5jb250ZW50IHx8ICckcmV2aWV3X3RleHQkKScpKS4qCiAgICAgICAgICAgICAgICBPTiBDT05GTElDVCAocF9ncm91cCwgcF9wZXJpb2QsIHdvcmQpIERPIFVQREFURQogICAgICAgICAgICAgICAgU0VUIG5kb2MgPSB0Y3MubmRvYyArIGV4Y2x1ZGVkLm5kb2MsIG5lbnRyeSA9IHRjcy5uZW50cnkgKyBleGNsdWRlZC5uZW50cnk7CiAgICAgICAKICAgICAgICAgICAgICAgIC0tIElOU0VSVCBJTlRPICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJfdGVybV9jb3VudHMiIEFTIHRjcwogICAgICAgICAgICAgICAgLS0gU0VMRUNUCiAgICAgICAgICAgICAgICAtLSAgIE5FVy5PdmVyYWxsOjpURVhUIEFTIHBnX2dyb3VwLAogICAgICAgICAgICAgICAgLS0gICB0c3R6cmFuZ2UoZGF0ZV90cnVuYygnbW9udGgnLCBORVcuZGF0ZSksCiAgICAgICAgICAgICAgICAtLSAgICAgICAgICAgICBkYXRlX3RydW5jKCdtb250aCcsIE5FVy5kYXRlKSArIGludGVydmFsICcxIG1vbnRoJykgQVMgcF9wZXJpb2QsCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgICAgICAgUkVUVVJOIE5FVzsKICAgICAgICAgICAgRU5EOwogICAgICAgICAgJGNvdW50X3Rva2VucyQgTEFOR1VBR0UgcGxwZ3NxbDsKICAgICAgICAiIiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbm4uY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHF1ZXJ5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfZXZlbnQgPSBLaW5kQ3JlYXRlUmVxdWVzdEV2ZW50Lm5ldyhjcmVhdGVfcmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgICAgICBmcV9pZHhfbmFtZSA9IGYnIntldmVudC5jdXN0b21lcl9pZH0ge2V2ZW50LmRhdGEubmFtZX1fe2NvbC5uYW1lfV9pZHgiJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9yZXF1ZXN0ID0gS2luZENyZWF0ZVJlcXVlc3QoJ2NhdHMnLCAnQ1JFQVRFIFRBQkxFIGNhdHMgKGlkIHRleHQsIG5hbWUgdGV4dCknKQo=</text>
+        <text encoding="base64">ICAgIGluc2VydF9ldmVudCh3X2Nvbm4sIHJlc3VsdCkKICAgIHdfY29ubi5jb21taXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfZXZlbnQgPSBLaW5kQ3JlYXRlUmVxdWVzdEV2ZW50Lm5ldyhjcmVhdGVfcmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9yZXF1ZXN0ID0gS2luZENyZWF0ZVJlcXVlc3QoJ2NhdHMnLCAnQ1JFQVRFIFRBQkxFIGNhdHMgKGlkIHRleHQsIG5hbWUgdGV4dCknKQogICAgcmVxdWVzdF9ldmVudCA9IEtpbmRDcmVhdGVSZXF1ZXN0RXZlbnQubmV3KGNyZWF0ZV9yZXF1ZXN0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfZXZlbnQgPSBLaW5kQ3JlYXRlUmVxdWVzdEV2ZW50Lm5ldyhjcmVhdGVfcmVxdWVzdCkK</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnNraXAK</text>
       </register>
     </registers>
     <search>
-      <last-search>commit</last-search>
+      <last-search>INSERT INTO</last-search>
       <last-offset />
-      <last-pattern>commit</last-pattern>
+      <last-pattern>INSERT INTO</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>save_eve</entry>
-        <entry>get_event</entry>
-        <entry>SELECT * FROM document_batch_status</entry>
         <entry>read</entry>
         <entry>get_batch_id</entry>
         <entry>get_batch</entry>
@@ -475,6 +471,9 @@
         <entry>lr</entry>
         <entry>15</entry>
         <entry>commit</entry>
+        <entry>col</entry>
+        <entry>mismat</entry>
+        <entry>INSERT INTO</entry>
       </history-search>
       <history-cmd />
       <history-expr />
