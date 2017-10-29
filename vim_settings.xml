@@ -152,12 +152,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509102566711">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509260518392">
         <mark key="'" line="90" column="45" />
-        <mark key="[" line="95" column="18" />
-        <mark key="]" line="161" column="39" />
-        <mark key="." line="161" column="39" />
-        <mark key="^" line="161" column="39" />
+        <mark key="[" line="122" column="25" />
+        <mark key="]" line="123" column="103" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="122" column="15" />
       </file>
       <file name="vim_settings.xml" timestamp="1508834006115">
         <mark key="[" line="0" column="0" />
@@ -195,6 +195,12 @@
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1509261543860">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1509246076911">
         <mark key="'" line="70" column="0" />
@@ -405,17 +411,17 @@
       <jump line="103" column="30" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAKICAp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFICJ7Y3VzdG9tZXJfaWR9Ii4ie2tpbmRfbmFtZX1fYW5hbHl6ZWRfdGV4dCIgKAogIGFuYWx5emVkX3RleHRfaWQgQklHSU5ULAogIHBhcmVudF9pZCBCSUdJTlQgUkVGRVJFTkNFUyAie2N1c3RvbWVyX2lkfSIuIntraW5kX25hbWV9IiAoX19kb2NfaWQpLAogIHNlbnRpbWVudCBET1VCTEUgUFJFQ0lTSU9OLAogIHRlcm1zIFRFWFRbXSwKICBzZW50aW1lbnRfbW9kZWxfaWQgVVVJRCwKICB0ZXJtc19tb2RlbF9pZCBVVUlECik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>UUID</text>
       </register>
       <register name="/" type="4">
         <text>INSERT INTO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogJ1Jldmlld0lEJywgJ3R5cGUnOiAndGV4dCd9LAo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFICJ7Y3VzdG9tZXJfaWR9Ii4ie2tpbmRfbmFtZX1fYW5hbHl6ZWRfdGV4dCIgKAogIGFuYWx5emVkX3RleHRfaWQgQklHSU5ULAogIHBhcmVudF9pZCBCSUdJTlQgUkVGRVJFTkNFUyAie2N1c3RvbWVyX2lkfSIuIntraW5kX25hbWV9IiAoX19kb2NfaWQpLAogIHNlbnRpbWVudCBET1VCTEUgUFJFQ0lTSU9OLAogIHRlcm1zIFRFWFRbXSwKICBzZW50aW1lbnRfbW9kZWxfaWQgVVVJRCwKICB0ZXJtc19tb2RlbF9pZCBVVUlECik7Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAKICAp</text>
