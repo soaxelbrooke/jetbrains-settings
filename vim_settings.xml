@@ -162,12 +162,11 @@
       <file name="vim_settings.xml" timestamp="1508834006115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1509263278902">
-        <mark key="'" line="183" column="47" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="58" column="59" />
-        <mark key="^" line="59" column="46" />
-        <mark key="." line="58" column="28" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1509265115358">
+        <mark key="'" line="194" column="47" />
+        <mark key="[" line="84" column="57" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="/Python Console" timestamp="1508423735114">
         <mark key="[" line="0" column="0" />
@@ -273,12 +272,12 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1509263913542">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1509264225980">
         <mark key="'" line="112" column="46" />
-        <mark key="[" line="218" column="37" />
-        <mark key="]" line="216" column="85" />
-        <mark key="^" line="216" column="85" />
-        <mark key="." line="216" column="85" />
+        <mark key="[" line="191" column="83" />
+        <mark key="]" line="191" column="83" />
+        <mark key="^" line="191" column="79" />
+        <mark key="." line="191" column="83" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -411,11 +410,11 @@
       <jump line="93" column="39" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>{type(self).__name__}:{git_sha()}'</text>
       </register>
       <register name="/" type="4">
         <text>__doc_id</text>
@@ -424,43 +423,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd3MgPSBhbmFseXplX3RleHQoa2luZCwgaGVhZGVyLCBsaXN0KGNzdi5yZWFkZXIoaW5maWxlKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcm93cyA9IGFuYWx5emVfdGV4dChraW5kLCBoZWFkZXIsIGxpc3QoY3N2LnJlYWRlcihpbmZpbGUpKSkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVVVJRCgnMDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAwJykK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gQ1JFQVRFIEFOQUxZWkVEIERPQ1VNRU5UUyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZV9uYW1lID0ga2luZC5uYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q1JFQVRFIFRZUEUgIntjdXN0b21lcl9pZH0iLmFuYWx5emVkX3NlbnRlbmNlIEFTICgKICBjb250ZW50IFRFWFQsCiAgc2VudGltZW50IERPVUJMRSBQUkVDSVNJT04sCiAgdGVybXMgVEVYVFtdCik7CgpDUkVBVEUgVFlQRSAie2N1c3RvbWVyX2lkfSIuYW5hbHl6ZWRfdGV4dCBBUyAoCiAgY29udGVudCBURVhULAogIHNlbnRpbWVudCBSRUFMLAogIHRlcm1zIFRFWFRbXSwKICBzZW50ZW5jZXMgIntjdXN0b21lcl9pZH0iLmFuYWx5emVkX3NlbnRlbmNlW10sCiAgbWV0YSBqc29uYgopOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcm93cyA9IGFuYWx5emVfdGV4dChraW5kLCBoZWFkZXIsIGxpc3QoY3N2LnJlYWRlcihpbmZpbGUpKSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">LS0gQ1JFQVRFIEFOQUxZWkVEIERPQ1VNRU5UUyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>fq_content_idx_name = f'&quot;{event.customer_id} {event.data.name}_{col.name}_search_idx&quot;'
-            fq_sentiment_idx_name = f'&quot;{event.customer_id} {event.data.name}_{col.name}_sentiment_idx&quot;'
-            fq_terms_idx_name = f'&quot;{event.customer_id} {event.data.name}_{col.name}_terms_idx&quot;'
-            statements.append(f&quot;&quot;&quot;
-                CREATE INDEX {fq_content_idx_name} ON {fq_table_name} USING GIN
-                    (to_tsvector('english', &quot;{col.name}&quot;));
-
-                CREATE INDEX {fq_sentiment_idx_name} ON {fq_table_name} (((&quot;{col.name}&quot;).sentiment));
-
-                CREATE INDEX {fq_terms_idx_name} ON {fq_table_name} USING GIN
-                    (((&quot;{col.name}&quot;).terms));
-            &quot;&quot;&quot;)
-        else:</text>
+      <register name="7" type="2">
+        <text encoding="base64">Q1JFQVRFIFRZUEUgIntjdXN0b21lcl9pZH0iLmFuYWx5emVkX3NlbnRlbmNlIEFTICgKICBjb250ZW50IFRFWFQsCiAgc2VudGltZW50IERPVUJMRSBQUkVDSVNJT04sCiAgdGVybXMgVEVYVFtdCik7CgpDUkVBVEUgVFlQRSAie2N1c3RvbWVyX2lkfSIuYW5hbHl6ZWRfdGV4dCBBUyAoCiAgY29udGVudCBURVhULAogIHNlbnRpbWVudCBSRUFMLAogIHRlcm1zIFRFWFRbXSwKICBzZW50ZW5jZXMgIntjdXN0b21lcl9pZH0iLmFuYWx5emVkX3NlbnRlbmNlW10sCiAgbWV0YSBqc29uYgopOwoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRlbWVudHMgPSBbZiIiIkNSRUFURSBUQUJMRSB7ZnFfdGFibGVfbmFtZX0gKHtjb2xzX3N0YXRlbWVudH0pOyIiIl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
