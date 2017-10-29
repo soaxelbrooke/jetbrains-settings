@@ -152,12 +152,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509260518392">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509262802308">
         <mark key="'" line="90" column="45" />
-        <mark key="[" line="122" column="25" />
-        <mark key="]" line="123" column="103" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="122" column="15" />
+        <mark key="[" line="96" column="46" />
+        <mark key="]" line="96" column="46" />
+        <mark key="." line="96" column="46" />
+        <mark key="^" line="98" column="52" />
       </file>
       <file name="vim_settings.xml" timestamp="1508834006115">
         <mark key="[" line="0" column="0" />
@@ -196,18 +196,18 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1509261543860">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1509262603516">
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="42" column="14" />
+        <mark key="." line="42" column="14" />
+        <mark key="^" line="39" column="56" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1509246076911">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1509262665649">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="57" column="42" />
-        <mark key="]" line="57" column="41" />
-        <mark key="." line="57" column="41" />
-        <mark key="^" line="57" column="40" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="102" column="43" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
         <mark key="[" line="6" column="28" />
@@ -233,7 +233,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="85" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509246317550">
+      <file name="/Dummy.txt" timestamp="1509263003783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -273,12 +273,12 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1509102820611">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1509263060341">
         <mark key="'" line="103" column="30" />
-        <mark key="[" line="167" column="35" />
-        <mark key="]" line="167" column="35" />
-        <mark key="^" line="103" column="30" />
-        <mark key="." line="167" column="35" />
+        <mark key="[" line="223" column="94" />
+        <mark key="]" line="206" column="0" />
+        <mark key="^" line="206" column="46" />
+        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -412,43 +412,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFICJ7Y3VzdG9tZXJfaWR9Ii4ie2tpbmRfbmFtZX1fYW5hbHl6ZWRfdGV4dCIgKAogIGFuYWx5emVkX3RleHRfaWQgQklHSU5ULAogIHBhcmVudF9pZCBCSUdJTlQgUkVGRVJFTkNFUyAie2N1c3RvbWVyX2lkfSIuIntraW5kX25hbWV9IiAoX19kb2NfaWQpLAogIHNlbnRpbWVudCBET1VCTEUgUFJFQ0lTSU9OLAogIHRlcm1zIFRFWFRbXSwKICBzZW50aW1lbnRfbW9kZWxfaWQgVVVJRCwKICB0ZXJtc19tb2RlbF9pZCBVVUlECik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcm93cyA9IGFuYWx5emVfdGV4dChraW5kLCBoZWFkZXIsIGxpc3QoY3N2LnJlYWRlcihpbmZpbGUpKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>UUID</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>INSERT INTO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFICJ7Y3VzdG9tZXJfaWR9Ii4ie2tpbmRfbmFtZX1fYW5hbHl6ZWRfdGV4dCIgKAogIGFuYWx5emVkX3RleHRfaWQgQklHSU5ULAogIHBhcmVudF9pZCBCSUdJTlQgUkVGRVJFTkNFUyAie2N1c3RvbWVyX2lkfSIuIntraW5kX25hbWV9IiAoX19kb2NfaWQpLAogIHNlbnRpbWVudCBET1VCTEUgUFJFQ0lTSU9OLAogIHRlcm1zIFRFWFRbXSwKICBzZW50aW1lbnRfbW9kZWxfaWQgVVVJRCwKICB0ZXJtc19tb2RlbF9pZCBVVUlECik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd3MgPSBhbmFseXplX3RleHQoa2luZCwgaGVhZGVyLCBsaXN0KGNzdi5yZWFkZXIoaW5maWxlKSkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAKICAp</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcm93cyA9IGFuYWx5emVfdGV4dChraW5kLCBoZWFkZXIsIGxpc3QoY3N2LnJlYWRlcihpbmZpbGUpKSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZGF0YSAtPj4gJ2tpbmRfbmFtZScgTk9UIExJS0UgJyUiJScKICAgIEFORCAoU0VMRUNUIGJvb2xfYW5kKGNvbF9jb3JyZWN0KSBGUk9NICgKICAgICAgU0VMRUNUICclIiUnIE5PVCBMSUtFIGpzb25iX2FycmF5X2VsZW1lbnRzKGRhdGEgLT4gJ2NvbHVtbnMnKSAtPj4gJ25hbWUnIEFTIGNvbF9jb3JyZWN0CiAgICApIGNvbHMp</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gQ1JFQVRFIEFOQUxZWkVEIERPQ1VNRU5UUyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRZUEUgIntjdXN0b21lcl9pZH0iLmFuYWx5emVkX3NlbnRlbmNlIEFTICgKICBjb250ZW50IFRFWFQsCiAgc2VudGltZW50IERPVUJMRSBQUkVDSVNJT04sCiAgdGVybXMgVEVYVFtdCik7CgpDUkVBVEUgVFlQRSAie2N1c3RvbWVyX2lkfSIuYW5hbHl6ZWRfdGV4dCBBUyAoCiAgY29udGVudCBURVhULAogIHNlbnRpbWVudCBSRUFMLAogIHRlcm1zIFRFWFRbXSwKICBzZW50ZW5jZXMgIntjdXN0b21lcl9pZH0iLmFuYWx5emVkX3NlbnRlbmNlW10sCiAgbWV0YSBqc29uYgopOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gS2luZCBFdmVudCBDb25zdHJhaW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDSEVDSyAobGFiZWwgIT0gJ0tpbmRDcmVhdGVSZXF1ZXN0JyBPUiAoZGF0YSAtPj4gJ2tpbmRfbmFtZScgTk9UIExJS0UgJyUiJScpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgIntjdXN0b21lcl9pZH0iLmV2ZW50cyBBREQgQ09OU1RSQUlOVCBraW5kX29yX2NvbF9uYW1lX25vX3F1b3Rlc19jb25zdHJhaW50Cg==</text>
+      <register name="7" type="4">
+        <text>fq_content_idx_name = f'&quot;{event.customer_id} {event.data.name}_{col.name}_search_idx&quot;'
+            fq_sentiment_idx_name = f'&quot;{event.customer_id} {event.data.name}_{col.name}_sentiment_idx&quot;'
+            fq_terms_idx_name = f'&quot;{event.customer_id} {event.data.name}_{col.name}_terms_idx&quot;'
+            statements.append(f&quot;&quot;&quot;
+                CREATE INDEX {fq_content_idx_name} ON {fq_table_name} USING GIN
+                    (to_tsvector('english', &quot;{col.name}&quot;));
+
+                CREATE INDEX {fq_sentiment_idx_name} ON {fq_table_name} (((&quot;{col.name}&quot;).sentiment));
+
+                CREATE INDEX {fq_terms_idx_name} ON {fq_table_name} USING GIN
+                    (((&quot;{col.name}&quot;).terms));
+            &quot;&quot;&quot;)
+        else:</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UG9zdGdyZXNDb2x1bW4gPSBOYW1lZFR1cGxlKCdQb3N0Z3Jlc0NvbHVtbicsIFsoJ25hbWUnLCBzdHIpLCAoJ3R5cGUnLCBzdHIpXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICdjcmVhdGVfcXVlcnknOiAiIiIKICAgICAgICAjICAgQ1JFQVRFIFRBQkxFICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJBbWF6b24gUmV2aWV3cyIgKAogICAgICAgICMgICAgIFJldmlld0lEIFRFWFQgUFJJTUFSWSBLRVksCiAgICAgICAgIyAgICAgVGl0bGUgQU5BTFlaRURfVEVYVCwKICAgICAgICAjICAgICBPdmVyYWxsIERPVUJMRSBQUkVDSVNJT04sCiAgICAgICAgIyAgICAgRGF0ZSBEQVRFLAogICAgICAgICMgICAgIENvbnRlbnQgQU5BTFlaRURfVEVYVCwKICAgICAgICAjICAgICBBdXRob3IgVEVYVAogICAgICAgICMgICApOwogICAgICAgICMKICAgICAgICAjICAgQ1JFQVRFIElOREVYICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMuQW1hem9uIFJldmlld3NfdGl0bGVfc2VhcmNoX2lkeCIgT04KICAgICAgICAjICAgICAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iQW1hem9uIFJldmlld3MiIFVTSU5HIEdJTgogICAgICAgICMgICAgICh0b190c3ZlY3RvcignZW5nbGlzaCcsICh0aXRsZSkuY29udGVudCkpOwogICAgICAgICMKICAgICAgICAjICAgQ1JFQVRFIElOREVYICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMuQW1hem9uIFJldmlld3NfY29udGVudF9zZWFyY2hfaWR4IiBPTgogICAgICAgICMgICAgICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJBbWF6b24gUmV2aWV3cyIgVVNJTkcgR0lOCiAgICAgICAgIyAgICAgKHRvX3RzdmVjdG9yKCdlbmdsaXNoJywgKGNvbnRlbnQpLmNvbnRlbnQpKTsKICAgICAgICAjCiAgICAgICAgIyAgIENSRUFURSBUQUJMRSAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX3Rlcm1fY291bnRzIiAoCiAgICAgICAgIyAgICAgcF9ncm91cCBURVhULAogICAgICAgICMgICAgIHBfcGVyaW9kIHRzdHpyYW5nZSwKICAgICAgICAjICAgICB3b3JkIFRFWFQsCiAgICAgICAgIyAgICAgbmRvYyBJTlRFR0VSLAogICAgICAgICMgICAgIG5lbnRyeSBJTlRFR0VSLAogICAgICAgICMgICAgIFBSSU1BUlkgS0VZIChwX2dyb3VwLCBwX3BlcmlvZCwgd29yZCkKICAgICAgICAjICAgKTsKICAgICAgICAjCiAgICAgICAgIyAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iX2JpZ3JhbXMiKFRFWFQpIFJFVFVSTlMgVEVYVFtdCiAgICAgICAgIyAgICAgICBBUyAkYmlncmFtcyQKICAgICAgICAjICAgICAgIFNFTEVDVAogICAgICAgICMgICAgICAgICAgIGFycmF5X2FnZyhfbGVmdCB8fCAnICcgfHwgX3JpZ2h0KQogICAgICAgICMgICAgICAgRlJPTSAoCiAgICAgICAgIyAgICAgICAgIFNFTEVDVAogICAgICAgICMgICAgICAgICAgIHdvcmQgICAgICAgICAgICBBUyBfbGVmdCwKICAgICAgICAjICAgICAgICAgICBsZWFkKHdvcmQpCiAgICAgICAgIyAgICAgICAgICAgT1ZFUiAoKSA6OiBURVhUIEFTIF9yaWdodAogICAgICAgICMgICAgICAgICBGUk9NICgKICAgICAgICAjICAgICAgICAgICAgICAgIFNFTEVDVCAqCiAgICAgICAgIyAgICAgICAgICAgICAgICBGUk9NIHVubmVzdCh0c3ZlY3Rvcl90b19hcnJheSh0b190c3ZlY3RvcigkMSkpKQogICAgICAgICMgICAgICAgICAgICAgICAgICAgICBXSVRIIE9SRElOQUxJVFkgQVMgd29yZAogICAgICAgICMgICAgICAgICAgICAgICkgdAogICAgICAgICMgICAgICAgKSB0MgogICAgICAgICMgICAgICAgV0hFUkUgX3JpZ2h0IE5PVE5VTEw7CiAgICAgICAgIyAgICAgICAkYmlncmFtcyQKICAgICAgICAjICAgTEFOR1VBR0UgU1FMCiAgICAgICAgIyAgIElNTVVUQUJMRTsKICAgICAgICAjCiAgICAgICAgIyAgIENSRUFURSBGVU5DVElPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iQW1hem9uIFJldmlld3NfY291bnRfdG9rZW5zIigpCiAgICAgICAgIyAgIFJFVFVSTlMgVFJJR0dFUiBBUyAkY291bnRfdG9rZW5zJAogICAgICAgICMgICAgIEJFR0lOCiAgICAgICAgIyAgICAgICAgIElOU0VSVCBJTlRPICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJfdGVybV9jb3VudHMiIEFTIHRjcwogICAgICAgICMgICAgICAgICBTRUxFQ1QKICAgICAgICAjICAgICAgICAgICBORVcub3ZlcmFsbDo6VEVYVCBBUyBwX2dyb3VwLAogICAgICAgICMgICAgICAgICAgIHRzdHpyYW5nZShkYXRlX3RydW5jKCdtb250aCcsIE5FVy5kYXRlKSwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgZGF0ZV90cnVuYygnbW9udGgnLCBORVcuZGF0ZSkgKyBpbnRlcnZhbCAnMSBtb250aCcpIEFTIHBfcGVyaW9kLAogICAgICAgICMgICAgICAgICAgICh0c19zdGF0KCdTRUxFQ1QgdG9fdHN2ZWN0b3IoJHJldmlld190ZXh0JCcgfHwgKE5FVy50aXRsZSkuY29udGVudCB8fCAnXG4nIHx8IChORVcuY29udGVudCkuY29udGVudCB8fCAnJHJldmlld190ZXh0JCknKSkuKgogICAgICAgICMgICAgICAgICBPTiBDT05GTElDVCAocF9ncm91cCwgcF9wZXJpb2QsIHdvcmQpIERPIFVQREFURQogICAgICAgICMgICAgICAgICBTRVQgbmRvYyA9IHRjcy5uZG9jICsgZXhjbHVkZWQubmRvYywgbmVudHJ5ID0gdGNzLm5lbnRyeSArIGV4Y2x1ZGVkLm5lbnRyeTsKICAgICAgICAjCiAgICAgICAgIyAgICAgICAgIC0tIElOU0VSVCBJTlRPICJjZjI2ZWVjNy1lMzQ3LTRmZWMtOTg1Yy1kMjI1YzdlZTliODMiLiJfdGVybV9jb3VudHMiIEFTIHRjcwogICAgICAgICMgICAgICAgICAtLSBTRUxFQ1QKICAgICAgICAjICAgICAgICAgLS0gICBORVcuT3ZlcmFsbDo6VEVYVCBBUyBwZ19ncm91cCwKICAgICAgICAjICAgICAgICAgLS0gICB0c3R6cmFuZ2UoZGF0ZV90cnVuYygnbW9udGgnLCBORVcuZGF0ZSksCiAgICAgICAgIyAgICAgICAgIC0tICAgICAgICAgICAgIGRhdGVfdHJ1bmMoJ21vbnRoJywgTkVXLmRhdGUpICsgaW50ZXJ2YWwgJzEgbW9udGgnKSBBUyBwX3BlcmlvZCwKICAgICAgICAjCiAgICAgICAgIwogICAgICAgICMgICAgICAgUkVUVVJOIE5FVzsKICAgICAgICAjICAgICBFTkQ7CiAgICAgICAgIyAgICRjb3VudF90b2tlbnMkIExBTkdVQUdFIHBscGdzcWw7CiAgICAgICAgIwogICAgICAgICMgICBDUkVBVEUgVFJJR0dFUiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzLkFtYXpvbiBSZXZpZXdzX3RyaWdnZXIiCiAgICAgICAgIyAgICAgQkVGT1JFIElOU0VSVCBPTiAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIi4iQW1hem9uIFJldmlld3MiCiAgICAgICAgIyAgICAgRk9SIEVBQ0ggUk9XCiAgICAgICAgIyAgICAgRVhFQ1VURSBQUk9DRURVUkUgImNmMjZlZWM3LWUzNDctNGZlYy05ODVjLWQyMjVjN2VlOWI4MyIuIkFtYXpvbiBSZXZpZXdzX2NvdW50X3Rva2VucyIoKTsKICAgICAgICAjCiAgICAgICAgIyAgIEdSQU5UIFNFTEVDVCBPTiBBTEwgVEFCTEVTIElOIFNDSEVNQSAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIiBUTyAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzLXJlYWQiOwogICAgICAgICMgICBHUkFOVCBTRUxFQ1QsIElOU0VSVCBPTiBBTEwgVEFCTEVTIElOIFNDSEVNQSAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzIiBUTyAiY2YyNmVlYzctZTM0Ny00ZmVjLTk4NWMtZDIyNWM3ZWU5YjgzLXdyaXRlIjsKICAgICAgICAjICIiIlYK</text>
+        <text encoding="base64">ICAgIHN0YXRlbWVudHMgPSBbZiIiIkNSRUFURSBUQUJMRSB7ZnFfdGFibGVfbmFtZX0gKHtjb2xzX3N0YXRlbWVudH0pOyIiIl0K</text>
       </register>
     </registers>
     <search>
