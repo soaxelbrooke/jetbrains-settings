@@ -152,22 +152,22 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509262802308">
-        <mark key="'" line="90" column="45" />
-        <mark key="[" line="96" column="46" />
-        <mark key="]" line="96" column="46" />
-        <mark key="." line="96" column="46" />
-        <mark key="^" line="98" column="52" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1509263813461">
+        <mark key="'" line="93" column="39" />
+        <mark key="[" line="109" column="20" />
+        <mark key="]" line="109" column="17" />
+        <mark key="." line="109" column="17" />
+        <mark key="^" line="93" column="39" />
       </file>
       <file name="vim_settings.xml" timestamp="1508834006115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1508665861062">
-        <mark key="'" line="181" column="47" />
-        <mark key="[" line="56" column="59" />
-        <mark key="]" line="56" column="59" />
-        <mark key="^" line="57" column="46" />
-        <mark key="." line="56" column="28" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1509263278902">
+        <mark key="'" line="183" column="47" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="58" column="59" />
+        <mark key="^" line="59" column="46" />
+        <mark key="." line="58" column="28" />
       </file>
       <file name="/Python Console" timestamp="1508423735114">
         <mark key="[" line="0" column="0" />
@@ -196,11 +196,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1509262603516">
-        <mark key="[" line="42" column="14" />
-        <mark key="]" line="42" column="14" />
-        <mark key="." line="42" column="14" />
-        <mark key="^" line="39" column="56" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1509263834569">
+        <mark key="[" line="28" column="61" />
+        <mark key="]" line="28" column="68" />
+        <mark key="." line="28" column="68" />
+        <mark key="^" line="28" column="68" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1509262665649">
         <mark key="'" line="70" column="0" />
@@ -273,12 +273,12 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1509263060341">
-        <mark key="'" line="103" column="30" />
-        <mark key="[" line="223" column="94" />
-        <mark key="]" line="206" column="0" />
-        <mark key="^" line="206" column="46" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1509263913542">
+        <mark key="'" line="112" column="46" />
+        <mark key="[" line="218" column="37" />
+        <mark key="]" line="216" column="85" />
+        <mark key="^" line="216" column="85" />
+        <mark key="." line="216" column="85" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -309,8 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="31" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="265" column="16" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="267" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="33" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="37" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
@@ -409,16 +407,18 @@
       <jump line="94" column="42" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="90" column="45" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="103" column="30" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
+      <jump line="112" column="46" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
+      <jump line="93" column="39" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcm93cyA9IGFuYWx5emVfdGV4dChraW5kLCBoZWFkZXIsIGxpc3QoY3N2LnJlYWRlcihpbmZpbGUpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>INSERT INTO</text>
+        <text>__doc_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd3MgPSBhbmFseXplX3RleHQoa2luZCwgaGVhZGVyLCBsaXN0KGNzdi5yZWFkZXIoaW5maWxlKSkpCg==</text>
@@ -464,15 +464,14 @@
       </register>
     </registers>
     <search>
-      <last-search>INSERT INTO</last-search>
+      <last-search>__doc_id</last-search>
       <last-offset />
-      <last-pattern>INSERT INTO</last-pattern>
+      <last-pattern>__doc_id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>read</entry>
         <entry>get_batch_id</entry>
         <entry>get_batch</entry>
         <entry>get_batch_status</entry>
@@ -492,6 +491,7 @@
         <entry>col</entry>
         <entry>mismat</entry>
         <entry>INSERT INTO</entry>
+        <entry>__doc_id</entry>
       </history-search>
       <history-cmd />
       <history-expr />
