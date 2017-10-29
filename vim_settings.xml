@@ -63,11 +63,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509103508389">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509290083970">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="60" column="45" />
-        <mark key="]" line="60" column="45" />
-        <mark key="." line="60" column="45" />
+        <mark key="[" line="74" column="45" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509103458951">
         <mark key="'" line="641" column="41" />
@@ -228,8 +228,8 @@
       <jump line="181" column="71" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -241,19 +241,22 @@
         <text>DataTypes.analyzedText(column.type)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ251bWVyaWMnLCAncmVhbCcsICdzbWFsbHNlcmlhbCcsICdzZXJpYWwnLCAnYmlnc2VyaWFsJ107Cg==</text>
+      <register name="2" type="4">
+        <text>let baseQuery = squel.select().from('&quot;Amazon Reviews&quot;');
+        if (this.where !== null) {
+            baseQuery = baseQuery.where(this.where);
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbnVtZXJpY1R5cGVzID0gWydkb3VibGUgcHJlY2lzaW9uJywgJ2ludGVnZXInLCAnc21hbGxpbnQnLCAnYmlnaW50JywgJ2RlY2ltYWwnLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ251bWVyaWMnLCAncmVhbCcsICdzbWFsbHNlcmlhbCcsICdzZXJpYWwnLCAnYmlnc2VyaWFsJ107Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY29sTmFtZSA9IGNvbHVtbi50eXBlLnRvTG93ZXJDYXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbnVtZXJpY1R5cGVzID0gWydkb3VibGUgcHJlY2lzaW9uJywgJ2ludGVnZXInLCAnc21hbGxpbnQnLCAnYmlnaW50JywgJ2RlY2ltYWwnLAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -262,10 +265,10 @@
         <text encoding="base64">ICAgICAgICBsZXQgY29sTmFtZSA9IGNvbHVtbi50eXBlLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMC4yNWVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmbGV4LWdyb3c6IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY29sTmFtZSA9IGNvbHVtbi50eXBlLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
     </registers>
     <search>
