@@ -51,30 +51,31 @@
         <mark key="." line="54" column="50" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509097339122">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509292063382">
+        <mark key="'" line="76" column="52" />
         <mark key="[" line="19" column="69" />
         <mark key="]" line="19" column="69" />
         <mark key="^" line="77" column="55" />
         <mark key="." line="19" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509242535475">
+      <file name="/Dummy.txt" timestamp="1509293188855">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509290083970">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="74" column="45" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509291586728">
+        <mark key="[" line="74" column="69" />
+        <mark key="]" line="77" column="55" />
+        <mark key="." line="77" column="55" />
+        <mark key="^" line="77" column="55" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509103458951">
-        <mark key="'" line="641" column="41" />
-        <mark key="[" line="461" column="21" />
-        <mark key="]" line="461" column="21" />
-        <mark key="^" line="56" column="44" />
-        <mark key="." line="461" column="21" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509293188128">
+        <mark key="'" line="355" column="31" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="241" column="33" />
+        <mark key="^" line="241" column="33" />
+        <mark key="." line="241" column="33" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/view_spec.js" timestamp="1509103369536">
         <mark key="[" line="10" column="69" />
@@ -147,10 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="3" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
-      <jump line="72" column="77" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
-      <jump line="73" column="73" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
-      <jump line="84" column="51" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
       <jump line="90" column="0" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" />
       <jump line="26" column="57" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" />
       <jump line="180" column="43" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
@@ -226,16 +223,41 @@
       <jump line="5" column="12" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
       <jump line="134" column="62" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
       <jump line="181" column="71" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
+      <jump line="301" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="29" column="36" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
+      <jump line="13" column="13" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
+      <jump line="23" column="38" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
+      <jump line="25" column="32" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
+      <jump line="71" column="51" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
+      <jump line="73" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
+      <jump line="76" column="52" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
+      <jump line="467" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="633" column="56" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="52" column="45" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="325" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="291" column="42" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="455" column="67" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="136" column="66" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="241" column="33" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="448" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="453" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="537" column="51" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="549" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="74" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="134" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="222" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="305" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
+      <jump line="355" column="31" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      <register name="&quot;" type="4">
+        <text>texts</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>texts</text>
       </register>
       <register name="/" type="4">
-        <text>).</text>
+        <text>toSql</text>
       </register>
       <register name="0" type="4">
         <text>DataTypes.analyzedText(column.type)</text>
@@ -272,20 +294,14 @@
       </register>
     </registers>
     <search>
-      <last-search>).</last-search>
+      <last-search>toSql</last-search>
       <last-offset />
-      <last-pattern>).</last-pattern>
+      <last-pattern>toSql</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>debugger</entry>
-        <entry>close</entry>
-        <entry>events</entry>
-        <entry>week</entry>
-        <entry>'date'</entry>
-        <entry>console.</entry>
         <entry>dropdown</entry>
         <entry>RuleDrop</entry>
         <entry>remove</entry>
@@ -298,8 +314,14 @@
         <entry>SubstringRule</entry>
         <entry>tosql</entry>
         <entry>toSq</entry>
-        <entry>toSql</entry>
         <entry>).</entry>
+        <entry>columns</entry>
+        <entry>range</entry>
+        <entry>Range</entry>
+        <entry>addRule</entry>
+        <entry>toSqlQ</entry>
+        <entry>SqlQ</entry>
+        <entry>toSql</entry>
       </history-search>
       <history-cmd />
       <history-expr />
