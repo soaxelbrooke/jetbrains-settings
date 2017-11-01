@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1507893562890">
-        <mark key="[" line="36" column="44" />
-        <mark key="]" line="36" column="66" />
-        <mark key="^" line="51" column="37" />
-        <mark key="." line="36" column="44" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1509541997686">
+        <mark key="[" line="89" column="31" />
+        <mark key="]" line="89" column="31" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="89" column="31" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1509096123267">
         <mark key="'" line="32" column="23" />
@@ -194,6 +194,12 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509543171424">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
       </file>
@@ -234,7 +240,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509289114689">
+      <file name="/Dummy.txt" timestamp="1509542037472">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -412,44 +418,46 @@
       <jump line="289" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>['Tweet ID', 'Author ID', 'Inbound', 'Created At', 'Text', 
+                                     'Response Tweet ID']</text>
       </register>
       <register name="-" type="4">
-        <text>, %s, %s, %s, %s, %s, %s, %s)</text>
+        <text>tweet</text>
       </register>
       <register name="/" type="4">
         <text>__doc_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBjb2wudHlwZS5sb3dlcigpID09ICdhbmFseXplZF90ZXh0J10KICAgICAgICBpZiBub3QgYW5hbHl6ZWRfdGV4dF9maWVsZHM6Cg==</text>
+        <text encoding="base64">ICAgIHR3ZWV0X2lkcyA9IGRlZmF1bHRkaWN0KGxhbWJkYSA6IGxlbih0d2VldF9pZHMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>['Tweet ID', 'Author ID', 'Inbound', 'Created At', 'Text', 
+                                     'Response Tweet ID']</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR3ZWV0X2lkcyA9IGRlZmF1bHRkaWN0KGxhbWJkYSA6IGxlbih0d2VldF9pZHMpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuYWx5emVkX3NlbnRlbmNlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGZpbGUud3JpdGUobGluZS5zdHJpcCgpICsgJ1xuJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxpbmUgaW4gb3V0cHV0X2xpbmVzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNycy5leGVjdXRlKCdTRVQgc2VhcmNoX3BhdGggVE8gInt9IicuZm9ybWF0KGV2ZW50LmN1c3RvbWVyX2lkKSkK</text>
+        <text encoding="base64">ICAgIG91dHB1dF9saW5lcyA9IGV4cG9ydF9saW5lcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JzLmV4ZWN1dGUoJ1NFVCBzZWFyY2hfcGF0aCBUTyAie30iJy5mb3JtYXQoZXZlbnQuY3VzdG9tZXJfaWQpKQo=</text>
+        <text encoding="base64">ICAgIGlmIG91dHBhdGg6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGFuYWx5emVfdGV4dChraW5kOiBLaW5kLCBoZWFkZXI6IExpc3Rbc3RyXSwgcm93czogTGlzdFtsaXN0XSkgLT4gTGlzdFtsaXN0XToKICAgICIiIiBBbmFseXplcyB0ZXh0IHJlcXVpcmVkIGJ5IHRoZSBwcm92aWRlZCBraW5kICIiIgogICAgYW5hbHl6ZV9pZHhzID0gW10KICAgIGhlYWRlcl9sb3dlciA9IFsqbWFwKHN0ci5sb3dlciwgaGVhZGVyKV0KICAgIGZvciBjb2wgaW4ga2luZC5jb2x1bW5zOgogICAgICAgIGlmIGNvbFsndHlwZSddLmxvd2VyKCkgPT0gJ2FuYWx5emVkX3RleHQnOgogICAgICAgICAgICBhbmFseXplX2lkeHMuYXBwZW5kKGhlYWRlcl9sb3dlci5pbmRleChjb2xbJ25hbWUnXS5sb3dlcigpKSkKCiAgICBpZiBub3QgYW5hbHl6ZV9pZHhzOgogICAgICAgIGxvZ2dpbmcuaW5mbygiTm8gdGV4dCBjb2x1bW5zIHRvIGFuYWx5emUsIHJldHVybmluZyByb3dzLi4uIikKICAgICAgICByZXR1cm4gcm93cwoKICAgIGxvZ2dpbmcuaW5mbyhmIkFuYWx5emluZyB7bGVuKGFuYWx5emVfaWR4cyl9IHRleHQgY29sdW1ucy4uLiIpCgogICAgZm9yIGlkeCBpbiBhbmFseXplX2lkeHM6CiAgICAgICAgdGV4dHMgPSBbcm93W2lkeF0gZm9yIHJvdyBpbiByb3dzXQogICAgICAgIGZvciByb3dfaWR4LCBhbmFseXplZCBpbiBlbnVtZXJhdGUoYW5hbHl6ZXIudHJhbnNmb3JtKGtpbmQuY3VzdG9tZXJfaWQsIHRleHRzKSk6CiAgICAgICAgICAgIHJvd3Nbcm93X2lkeF1baWR4XSA9IGFuYWx5emVkCgogICAgcmV0dXJuIHJvd3MKCg==</text>
+        <text encoding="base64">ICAgIG91dHBhdGggPSBvcy5lbnZpcm9uLmdldCgnT1VUUFVUX1BBVEgnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuYWx5emVyID0gSnVzdFNlbnRpbWVudEFuYWx5emVyKGtpbmQuY3VzdG9tZXJfaWQpCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dF9saW5lcyA9IGV4cG9ydF9saW5lcygpCg==</text>
       </register>
     </registers>
     <search>
