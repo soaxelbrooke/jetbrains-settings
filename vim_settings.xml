@@ -194,11 +194,11 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509547122430">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="89" column="12" />
-        <mark key="." line="89" column="12" />
-        <mark key="^" line="83" column="11" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509549266776">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="8" />
+        <mark key="." line="76" column="8" />
+        <mark key="^" line="76" column="11" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -240,7 +240,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509542037472">
+      <file name="/Dummy.txt" timestamp="1509547988601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -422,10 +422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNjX3JlLnN1YigpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29kZS5pbnRlcmFjdChsb2NhbD1kaWN0KGdsb2JhbHMoKSwgKipsb2NhbHMoKSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>regex</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>__doc_id</text>
@@ -434,32 +434,31 @@
         <text encoding="base64">ICAgIHR3ZWV0X2lkcyA9IGRlZmF1bHRkaWN0KGxhbWJkYSA6IGxlbih0d2VldF9pZHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNjX3JlLnN1YigpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29kZS5pbnRlcmFjdChsb2NhbD1kaWN0KGdsb2JhbHMoKSwgKipsb2NhbHMoKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdfX2VtYWlsX18nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWxfcmUuc3ViKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGNvZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFtYmRhIHNuOiB1c2VyX2lkc1tzY3JlZW5fbmFtZV90b19pZFtzbl1dLAo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc25fcmUuc3ViKAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>['Tweet ID', 'Author ID', 'Inbound', 'Created At', 'Text', 
-                                     'Response Tweet ID']</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR3ZWV0X2lkcyA9IGRlZmF1bHRkaWN0KGxhbWJkYSA6IGxlbih0d2VldF9pZHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc24gaW4gc25fcmUuZmluZGFsbChyb3dbNF0pOgogICAgICAgICAgICBzY3JlZW5fbmFtZV90b19pZFtzbi5ncm91cCgwKS5zdHJpcCgnQCcpLmxvd2VyKCldID0gLTEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGZpbGUud3JpdGUobGluZS5zdHJpcCgpICsgJ1xuJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyZWVuX25hbWVfdG9faWRbc24uZ3JvdXAoMCkuc3RyaXAoJ0AnKS5sb3dlcigpXSA9IC0xCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxpbmUgaW4gb3V0cHV0X2xpbmVzOgo=</text>
+        <text encoding="base64">ICAgIHNuX3JlID0gcmUuY29tcGlsZSgnQFthLXpBLVowLTlfXSsnKQo=</text>
       </register>
     </registers>
     <search>
