@@ -194,11 +194,11 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509605143543">
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="75" column="43" />
-        <mark key="." line="75" column="43" />
-        <mark key="^" line="75" column="43" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509606609507">
+        <mark key="[" line="92" column="70" />
+        <mark key="]" line="92" column="70" />
+        <mark key="." line="92" column="70" />
+        <mark key="^" line="82" column="56" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -422,16 +422,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>.M</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>.M</text>
       </register>
       <register name="/" type="4">
         <text>__doc_id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcGxpZXMgPSBkZWZhdWx0ZGljdChsaXN0KQo=</text>
+      <register name="0" type="4">
+        <text>, flags=re.M</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29kZS5pbnRlcmFjdChsb2NhbD1kaWN0KGdsb2JhbHMoKSwgKipsb2NhbHMoKSkpCg==</text>
