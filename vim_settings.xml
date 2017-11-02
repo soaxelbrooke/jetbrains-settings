@@ -194,11 +194,11 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509549266776">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="8" />
-        <mark key="." line="76" column="8" />
-        <mark key="^" line="76" column="11" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509605143543">
+        <mark key="[" line="52" column="38" />
+        <mark key="]" line="75" column="43" />
+        <mark key="." line="75" column="43" />
+        <mark key="^" line="75" column="43" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -421,17 +421,17 @@
       <jump line="289" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZS5pbnRlcmFjdChsb2NhbD1kaWN0KGdsb2JhbHMoKSwgKipsb2NhbHMoKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>list</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text>__doc_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHR3ZWV0X2lkcyA9IGRlZmF1bHRkaWN0KGxhbWJkYSA6IGxlbih0d2VldF9pZHMpKQo=</text>
+        <text encoding="base64">ICAgIHJlcGxpZXMgPSBkZWZhdWx0ZGljdChsaXN0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29kZS5pbnRlcmFjdChsb2NhbD1kaWN0KGdsb2JhbHMoKSwgKipsb2NhbHMoKSkpCg==</text>
