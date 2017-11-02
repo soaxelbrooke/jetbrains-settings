@@ -194,11 +194,11 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509607479523">
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="92" column="70" />
-        <mark key="." line="92" column="70" />
-        <mark key="^" line="82" column="56" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509608821959">
+        <mark key="[" line="80" column="20" />
+        <mark key="]" line="80" column="20" />
+        <mark key="." line="80" column="20" />
+        <mark key="^" line="80" column="20" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -240,7 +240,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509547988601">
+      <file name="/Dummy.txt" timestamp="1509609296447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -422,10 +422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.M</text>
+        <text>_sn</text>
       </register>
       <register name="-" type="4">
-        <text>.M</text>
+        <text>_sn</text>
       </register>
       <register name="/" type="4">
         <text>__doc_id</text>
@@ -434,31 +434,31 @@
         <text>, flags=re.M</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZS5pbnRlcmFjdChsb2NhbD1kaWN0KGdsb2JhbHMoKSwgKipsb2NhbHMoKSkpCg==</text>
+        <text encoding="base64">ICAgIHBob25lX3JlID0gcmUuY29tcGlsZShjb21tb25yZWdleC5waG9uZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgIGFkZHJlc3NfcmUgPSByZS5jb21waWxlKGNvbW1vbnJlZ2V4LnN0cmVldF9hZGRyZXNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGNvZGUK</text>
+        <text encoding="base64">ICAgIHBob25lX3Nhbml0aXplID0gbGFtYmRhIHRleHQ6IHBob25lX3JlLnN1YignX19waG9uZV9fJywgdGV4dCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">ICAgIGFkZHJlc3Nfc2FuaXRpemUgPSBsYW1iZGEgdGV4dDogYWRkcmVzc19yZS5zdWIoJ19fYWRkcmVzc19fJywgdGV4dCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjYWRkcmVzc19zYW5pdGl6ZSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc24gaW4gc25fcmUuZmluZGFsbChyb3dbNF0pOgogICAgICAgICAgICBzY3JlZW5fbmFtZV90b19pZFtzbi5ncm91cCgwKS5zdHJpcCgnQCcpLmxvd2VyKCldID0gLTEK</text>
+        <text encoding="base64">ICAgICMgICAgIHVzZXJfaWRzW3NuXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NyZWVuX25hbWVfdG9faWRbc24uZ3JvdXAoMCkuc3RyaXAoJ0AnKS5sb3dlcigpXSA9IC0xCg==</text>
+        <text encoding="base64">ICAgICMgZm9yIHNuIGluIENVU1RPTUVSX1NVUFBPUlRfU05TOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNuX3JlID0gcmUuY29tcGlsZSgnQFthLXpBLVowLTlfXSsnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyb3dbMV0sIGF1dGhvcl9pZCwgcm93WzJdLmxvd2VyKCksIHNjcmVlbl9uYW1lX3RvX2lkW3Jvd1syXS5sb3dlcigpXSkK</text>
       </register>
     </registers>
     <search>
