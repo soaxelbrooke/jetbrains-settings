@@ -51,31 +51,31 @@
         <mark key="." line="54" column="50" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509292063382">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509714716817">
         <mark key="'" line="76" column="52" />
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="19" column="69" />
-        <mark key="^" line="77" column="55" />
-        <mark key="." line="19" column="69" />
+        <mark key="[" line="46" column="33" />
+        <mark key="]" line="46" column="53" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="46" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509293188855">
+      <file name="/Dummy.txt" timestamp="1509714740401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509291586728">
-        <mark key="[" line="74" column="69" />
-        <mark key="]" line="77" column="55" />
-        <mark key="." line="77" column="55" />
-        <mark key="^" line="77" column="55" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509714737830">
+        <mark key="[" line="81" column="30" />
+        <mark key="]" line="81" column="49" />
+        <mark key="." line="81" column="49" />
+        <mark key="^" line="81" column="49" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509293188128">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509714752300">
         <mark key="'" line="355" column="31" />
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="241" column="33" />
-        <mark key="^" line="241" column="33" />
-        <mark key="." line="241" column="33" />
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/view_spec.js" timestamp="1509103369536">
         <mark key="[" line="10" column="69" />
@@ -251,16 +251,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>texts</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>texts</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>toSql</text>
       </register>
       <register name="0" type="4">
-        <text>DataTypes.analyzedText(column.type)</text>
+        <text>api.thoughtvector.dev</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
