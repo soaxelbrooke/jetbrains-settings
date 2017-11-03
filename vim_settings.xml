@@ -71,7 +71,7 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="33" column="67" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1508418551689">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1509723265020">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -80,11 +80,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1508412544959">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="8" column="57" />
-        <mark key="." line="9" column="12" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1509724120136">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="48" />
+        <mark key="^" line="27" column="1" />
+        <mark key="." line="27" column="1" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
@@ -222,11 +222,11 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1509716107131">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1509724184297">
+        <mark key="[" line="5" column="60" />
+        <mark key="]" line="5" column="60" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kinds_view.sql" timestamp="1508313764482">
         <mark key="[" line="1" column="0" />
@@ -428,43 +428,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>api.thoughtvector.dev</text>
+        <text>.thoughtvector.dev.key;</text>
       </register>
       <register name="-" type="4">
-        <text>api.thoughtvector.dev</text>
+        <text>.thoughtvector.dev.key;</text>
       </register>
       <register name="/" type="4">
         <text>__doc_id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA0NDMgc3NsIGh0dHAyIGFwaS50aG91Z2h0dmVjdG9yLmRldjsK</text>
+      <register name="0" type="4">
+        <text>/etc/ssl/private/nginx-selfsigned.key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA0NDMgc3NsIGh0dHAyIGFwaS50aG91Z2h0dmVjdG9yLmRldjsK</text>
+        <text encoding="base64">ICAgIHNzbF9wcm90b2NvbHMgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDsK</text>
+        <text encoding="base64">ICAgIGxpc3RlbiA0NDMgc3NsIGh0dHAyIGFwaS50aG91Z2h0dmVjdG9yLmRldjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBob25lX3JlID0gcmUuY29tcGlsZShjb21tb25yZWdleC5waG9uZSkK</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3NfcmUgPSByZS5jb21waWxlKGNvbW1vbnJlZ2V4LnN0cmVldF9hZGRyZXNzKQo=</text>
+        <text encoding="base64">ICAgIHBob25lX3JlID0gcmUuY29tcGlsZShjb21tb25yZWdleC5waG9uZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBob25lX3Nhbml0aXplID0gbGFtYmRhIHRleHQ6IHBob25lX3JlLnN1YignX19waG9uZV9fJywgdGV4dCkK</text>
+        <text encoding="base64">ICAgIGFkZHJlc3NfcmUgPSByZS5jb21waWxlKGNvbW1vbnJlZ2V4LnN0cmVldF9hZGRyZXNzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3Nfc2FuaXRpemUgPSBsYW1iZGEgdGV4dDogYWRkcmVzc19yZS5zdWIoJ19fYWRkcmVzc19fJywgdGV4dCkK</text>
+        <text encoding="base64">ICAgIHBob25lX3Nhbml0aXplID0gbGFtYmRhIHRleHQ6IHBob25lX3JlLnN1YignX19waG9uZV9fJywgdGV4dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjYWRkcmVzc19zYW5pdGl6ZSkK</text>
+        <text encoding="base64">ICAgIGFkZHJlc3Nfc2FuaXRpemUgPSBsYW1iZGEgdGV4dDogYWRkcmVzc19yZS5zdWIoJ19fYWRkcmVzc19fJywgdGV4dCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjYWRkcmVzc19zYW5pdGl6ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgICAgIHVzZXJfaWRzW3NuXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -543,6 +543,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
