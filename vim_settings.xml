@@ -51,28 +51,28 @@
         <mark key="." line="54" column="50" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509714716817">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509726926437">
         <mark key="'" line="76" column="52" />
-        <mark key="[" line="46" column="33" />
-        <mark key="]" line="46" column="53" />
-        <mark key="^" line="19" column="45" />
-        <mark key="." line="46" column="54" />
+        <mark key="[" line="46" column="55" />
+        <mark key="]" line="46" column="55" />
+        <mark key="^" line="46" column="54" />
+        <mark key="." line="46" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509714740401">
+      <file name="/Dummy.txt" timestamp="1509726947930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509714737830">
-        <mark key="[" line="81" column="30" />
-        <mark key="]" line="81" column="49" />
-        <mark key="." line="81" column="49" />
-        <mark key="^" line="81" column="49" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509726945537">
+        <mark key="[" line="81" column="25" />
+        <mark key="]" line="81" column="26" />
+        <mark key="." line="81" column="26" />
+        <mark key="^" line="81" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509714752300">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509726897919">
         <mark key="'" line="355" column="31" />
-        <mark key="[" line="14" column="25" />
+        <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="45" />
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="45" />
@@ -251,10 +251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>:8080</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>:8080</text>
       </register>
       <register name="/" type="4">
         <text>toSql</text>
