@@ -194,11 +194,12 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510044149742">
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510049550432">
+        <mark key="'" line="94" column="11" />
         <mark key="[" line="80" column="20" />
-        <mark key="]" line="80" column="20" />
-        <mark key="." line="80" column="20" />
-        <mark key="^" line="80" column="20" />
+        <mark key="]" line="64" column="17" />
+        <mark key="." line="64" column="17" />
+        <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -234,10 +235,11 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/validate_export.py" timestamp="1510046461377">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/validate_export.py" timestamp="1510049471300">
+        <mark key="[" line="34" column="41" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="40" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507380398199">
         <mark key="[" line="8" column="28" />
@@ -333,11 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="37" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="39" column="21" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="97" column="36" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="101" column="28" filename="$USER_HOME$/code/datasci/python-bpe/bpe/test/encoder_test.py" />
       <jump line="171" column="50" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="187" column="56" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="249" column="28" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
@@ -433,58 +430,66 @@
       <jump line="112" column="46" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
       <jump line="93" column="39" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
       <jump line="289" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
+      <jump line="64" column="17" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="67" column="11" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="68" column="35" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="69" column="23" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="94" column="11" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFuZCB0LmluX3Jlc3BvbnNlX3RvX3R3ZWV0X2lkID09ICcn</text>
       </register>
       <register name="-" type="4">
-        <text>http2</text>
+        <text encoding="base64">IGFuZCB0LmluX3Jlc3BvbnNlX3RvX3R3ZWV0X2lkID09ICcn</text>
       </register>
       <register name="/" type="4">
-        <text>bss</text>
+        <text>row[5</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuYmFzaWNDb25maWcoCiAgICAgICAgZm9ybWF0PSclKGxldmVsbmFtZSlzOiUoYXNjdGltZSlzLiUobXNlY3MpMDNkIFslKHRocmVhZE5hbWUpc10gLSAlKG1lc3NhZ2UpcycsCiAgICAgICAgZGF0ZWZtdD0nJVktJW0tJWQsJUg6JU06JVMnLAogICAgICAgIGxldmVsPWdldGF0dHIobG9nZ2luZywgb3MuZW52aXJvbi5nZXQoJ0xPR19MRVZFTCcsICdJTkZPJykpKQo=</text>
+      <register name="0" type="4">
+        <text>tweets[t.response_tweet_id]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>list(toolz.concat(
+        [tweets[int(tid)] for tid in t.response_tweet_id.split(',') if tweets[int(tid)].inbound]
+        for t in tweets.values()
+        if len(t.response_tweet_id) != '' and t.in_response_to_tweet_id == ''
+    ))</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0d2VldC50d2VldF9pZCBpbiBoYW5kbGVkX3R3ZWV0czoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciB0d2VldCBpbiB0d2VldHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0d2VldC50d2VldF9pZCBpbiBoYW5kbGVkX3R3ZWV0czoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciB0d2VldCBpbiB0d2VldHM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbnNlcnRfdHdlZXQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBpbnNlcnRfdHdlZXQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZWRfdHdlZXRzID0gc2V0KCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
-      <last-search>bss</last-search>
+      <last-search>row[5</last-search>
       <last-offset />
-      <last-pattern>bss</last-pattern>
+      <last-pattern>row[5</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_batch</entry>
         <entry>get_batch_status</entry>
         <entry>mo</entry>
         <entry>word_tokenizer</entry>
@@ -504,6 +509,7 @@
         <entry>INSERT INTO</entry>
         <entry>__doc_id</entry>
         <entry>bss</entry>
+        <entry>row[5</entry>
       </history-search>
       <history-cmd />
       <history-expr />
