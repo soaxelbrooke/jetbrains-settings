@@ -194,12 +194,12 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510049550432">
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510050526524">
         <mark key="'" line="94" column="11" />
-        <mark key="[" line="80" column="20" />
-        <mark key="]" line="64" column="17" />
-        <mark key="." line="64" column="17" />
-        <mark key="^" line="64" column="17" />
+        <mark key="[" line="104" column="38" />
+        <mark key="]" line="104" column="54" />
+        <mark key="." line="104" column="54" />
+        <mark key="^" line="106" column="30" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -438,16 +438,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFuZCB0LmluX3Jlc3BvbnNlX3RvX3R3ZWV0X2lkID09ICcn</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCB0LmluX3Jlc3BvbnNlX3RvX3R3ZWV0X2lkID09ICcn</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>row[5</text>
       </register>
       <register name="0" type="4">
-        <text>tweets[t.response_tweet_id]</text>
+        <text>tweet_ids[row[5]]]</text>
       </register>
       <register name="1" type="4">
         <text>list(toolz.concat(
