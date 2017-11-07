@@ -194,12 +194,12 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510053538291">
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510056924528">
         <mark key="'" line="94" column="11" />
-        <mark key="[" line="94" column="40" />
-        <mark key="]" line="94" column="40" />
-        <mark key="." line="94" column="40" />
-        <mark key="^" line="94" column="39" />
+        <mark key="[" line="95" column="71" />
+        <mark key="]" line="95" column="71" />
+        <mark key="." line="95" column="65" />
+        <mark key="^" line="95" column="74" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -438,10 +438,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>len(replies[row[5]]) == 0:</text>
+        <text>row[5]</text>
       </register>
       <register name="-" type="4">
-        <text>len(replies[row[5]]) == 0:</text>
+        <text>row[5]</text>
       </register>
       <register name="/" type="4">
         <text>row[5</text>
@@ -449,36 +449,32 @@
       <register name="0" type="4">
         <text>tweet_ids[row[5]]]</text>
       </register>
-      <register name="1" type="4">
-        <text>list(toolz.concat(
-        [tweets[int(tid)] for tid in t.response_tweet_id.split(',') if tweets[int(tid)].inbound]
-        for t in tweets.values()
-        if len(t.response_tweet_id) != '' and t.in_response_to_tweet_id == ''
-    ))</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBTa2lwIHR3ZWV0cyB3aXRoIG5vIHJlcGxpZXMgdGhhdCBkb24ndCByZXBseSB0byBvdGhlcnMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiByb3dbMF0gbm90IGluIHJlcGxpZXNfdG8gYW5kIG5vdCByb3dbNV06Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0d2VldC50d2VldF9pZCBpbiBoYW5kbGVkX3R3ZWV0czoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciB0d2VldCBpbiB0d2VldHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByb3dbMl0gaW4gQ1VTVE9NRVJfU1VQUE9SVF9TTlMgYW5kIHJvd1s1XToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciByb3cgaW4gcm93czoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbnNlcnRfdHdlZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcnNfcmVwbGllZF90by5hZGQocm93c1tdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHVzZXJzX3JlcGxpZWRfdG8gPSBzZXQoKQo=</text>
       </register>
     </registers>
     <search>
