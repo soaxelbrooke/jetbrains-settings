@@ -80,11 +80,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1509724120136">
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="48" />
-        <mark key="^" line="27" column="1" />
-        <mark key="." line="27" column="1" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1509726808576">
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="2" />
+        <mark key="^" line="27" column="30" />
+        <mark key="." line="32" column="2" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
@@ -222,11 +222,11 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1509724184297">
-        <mark key="[" line="5" column="60" />
-        <mark key="]" line="5" column="60" />
-        <mark key="." line="5" column="60" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1509727199864">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kinds_view.sql" timestamp="1508313764482">
         <mark key="[" line="1" column="0" />
@@ -270,6 +270,9 @@
         <mark key="]" line="77" column="76" />
         <mark key="^" line="137" column="29" />
         <mark key="." line="23" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1508144645153">
         <mark key="[" line="28" column="71" />
@@ -428,55 +431,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.thoughtvector.dev.key;</text>
+        <text>http2</text>
       </register>
       <register name="-" type="4">
-        <text>.thoughtvector.dev.key;</text>
+        <text>http2</text>
       </register>
       <register name="/" type="4">
-        <text>__doc_id</text>
+        <text>bss</text>
       </register>
       <register name="0" type="4">
-        <text>/etc/ssl/private/nginx-selfsigned.key</text>
+        <text>assets/conf/openssl.cnf</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNzbF9wcm90b2NvbHMgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>sudo openssl req -x509 -nodes -days 3650 -newkey rsa:2048 \
+    -extensions SAN -reqexts SAN \
+    -keyout /etc/ssl/private/nginx-selfsigned.key \
+    -out /etc/ssl/certs/nginx-selfsigned.crt \
+    -subj /CN=api.thoughtvector.dev</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA0NDMgc3NsIGh0dHAyIGFwaS50aG91Z2h0dmVjdG9yLmRldjsK</text>
+        <text encoding="base64">ICAgICAgICA8KHByaW50ZiAnW1NBTl1cbnN1YmplY3RBbHROYW1lPUROUzphcGkudGhvdWdodHZlY3Rvci5kZXYnKSkgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDsK</text>
+        <text encoding="base64">ICAgIC1jb25maWcgPChjYXQgL3Vzci9saWIvc3NsL29wZW5zc2wuY25mIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBob25lX3JlID0gcmUuY29tcGlsZShjb21tb25yZWdleC5waG9uZSkK</text>
+        <text encoding="base64">ICAgIHNzbF9wcm90b2NvbHMgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3NfcmUgPSByZS5jb21waWxlKGNvbW1vbnJlZ2V4LnN0cmVldF9hZGRyZXNzKQo=</text>
+        <text encoding="base64">ICAgIGxpc3RlbiA0NDMgc3NsIGh0dHAyIGFwaS50aG91Z2h0dmVjdG9yLmRldjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBob25lX3Nhbml0aXplID0gbGFtYmRhIHRleHQ6IHBob25lX3JlLnN1YignX19waG9uZV9fJywgdGV4dCkK</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3Nfc2FuaXRpemUgPSBsYW1iZGEgdGV4dDogYWRkcmVzc19yZS5zdWIoJ19fYWRkcmVzc19fJywgdGV4dCkK</text>
+        <text encoding="base64">ICAgIHBob25lX3JlID0gcmUuY29tcGlsZShjb21tb25yZWdleC5waG9uZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjYWRkcmVzc19zYW5pdGl6ZSkK</text>
+        <text encoding="base64">ICAgIGFkZHJlc3NfcmUgPSByZS5jb21waWxlKGNvbW1vbnJlZ2V4LnN0cmVldF9hZGRyZXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBob25lX3Nhbml0aXplID0gbGFtYmRhIHRleHQ6IHBob25lX3JlLnN1YignX19waG9uZV9fJywgdGV4dCkK</text>
       </register>
     </registers>
     <search>
-      <last-search>__doc_id</last-search>
+      <last-search>bss</last-search>
       <last-offset />
-      <last-pattern>__doc_id</last-pattern>
+      <last-pattern>bss</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_batch_id</entry>
         <entry>get_batch</entry>
         <entry>get_batch_status</entry>
         <entry>mo</entry>
@@ -496,6 +502,7 @@
         <entry>mismat</entry>
         <entry>INSERT INTO</entry>
         <entry>__doc_id</entry>
+        <entry>bss</entry>
       </history-search>
       <history-cmd />
       <history-expr />
