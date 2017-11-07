@@ -170,10 +170,10 @@
         <mark key="." line="133" column="17" />
         <mark key="^" line="133" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1508423735114">
+      <file name="/Python Console" timestamp="1510053380644">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1507309521591">
+      <file name="/fragment.py" timestamp="1510053808577">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508153482493">
@@ -194,12 +194,12 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510050526524">
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510053538291">
         <mark key="'" line="94" column="11" />
-        <mark key="[" line="104" column="38" />
-        <mark key="]" line="104" column="54" />
-        <mark key="." line="104" column="54" />
-        <mark key="^" line="106" column="30" />
+        <mark key="[" line="94" column="40" />
+        <mark key="]" line="94" column="40" />
+        <mark key="." line="94" column="40" />
+        <mark key="^" line="94" column="39" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -438,10 +438,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>len(replies[row[5]]) == 0:</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>len(replies[row[5]]) == 0:</text>
       </register>
       <register name="/" type="4">
         <text>row[5</text>
