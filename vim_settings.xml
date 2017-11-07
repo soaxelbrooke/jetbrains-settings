@@ -53,9 +53,9 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/significant_terms_test.py" timestamp="1508577528737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/main.py" timestamp="1508144612164">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="31" column="47" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/main.py" timestamp="1510043838445">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="24" column="67" />
         <mark key="^" line="31" column="47" />
         <mark key="." line="31" column="47" />
       </file>
@@ -194,7 +194,7 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1509608821959">
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510044149742">
         <mark key="[" line="80" column="20" />
         <mark key="]" line="80" column="20" />
         <mark key="." line="80" column="20" />
@@ -233,6 +233,12 @@
         <mark key="]" line="11" column="41" />
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/validate_export.py" timestamp="1510044206015">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1507380398199">
         <mark key="[" line="8" column="28" />
@@ -430,8 +436,8 @@
       <jump line="289" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>http2</text>
@@ -439,39 +445,39 @@
       <register name="/" type="4">
         <text>bss</text>
       </register>
-      <register name="0" type="4">
-        <text>assets/conf/openssl.cnf</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuYmFzaWNDb25maWcoCiAgICAgICAgZm9ybWF0PSclKGxldmVsbmFtZSlzOiUoYXNjdGltZSlzLiUobXNlY3MpMDNkIFslKHRocmVhZE5hbWUpc10gLSAlKG1lc3NhZ2UpcycsCiAgICAgICAgZGF0ZWZtdD0nJVktJW0tJWQsJUg6JU06JVMnLAogICAgICAgIGxldmVsPWdldGF0dHIobG9nZ2luZywgb3MuZW52aXJvbi5nZXQoJ0xPR19MRVZFTCcsICdJTkZPJykpKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>sudo openssl req -x509 -nodes -days 3650 -newkey rsa:2048 \
     -extensions SAN -reqexts SAN \
     -keyout /etc/ssl/private/nginx-selfsigned.key \
     -out /etc/ssl/certs/nginx-selfsigned.crt \
     -subj /CN=api.thoughtvector.dev</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA8KHByaW50ZiAnW1NBTl1cbnN1YmplY3RBbHROYW1lPUROUzphcGkudGhvdWdodHZlY3Rvci5kZXYnKSkgXAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC1jb25maWcgPChjYXQgL3Vzci9saWIvc3NsL29wZW5zc2wuY25mIFwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHNzbF9wcm90b2NvbHMgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGxpc3RlbiA0NDMgc3NsIGh0dHAyIGFwaS50aG91Z2h0dmVjdG9yLmRldjsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBob25lX3JlID0gcmUuY29tcGlsZShjb21tb25yZWdleC5waG9uZSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3NfcmUgPSByZS5jb21waWxlKGNvbW1vbnJlZ2V4LnN0cmVldF9hZGRyZXNzKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBob25lX3Nhbml0aXplID0gbGFtYmRhIHRleHQ6IHBob25lX3JlLnN1YignX19waG9uZV9fJywgdGV4dCkK</text>
+        <text encoding="base64">ICAgIHBob25lX3JlID0gcmUuY29tcGlsZShjb21tb25yZWdleC5waG9uZSkK</text>
       </register>
     </registers>
     <search>
