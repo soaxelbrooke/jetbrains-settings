@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1510124987548">
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1510139149065">
         <mark key="'" line="163" column="3" />
-        <mark key="[" line="169" column="17" />
-        <mark key="]" line="167" column="71" />
-        <mark key="^" line="167" column="71" />
-        <mark key="." line="167" column="71" />
+        <mark key="[" line="54" column="74" />
+        <mark key="]" line="54" column="73" />
+        <mark key="^" line="57" column="47" />
+        <mark key="." line="54" column="27" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1509096123267">
         <mark key="'" line="32" column="23" />
@@ -237,12 +237,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510060837947">
-        <mark key="'" line="94" column="11" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="73" column="40" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510139740585">
+        <mark key="'" line="104" column="59" />
+        <mark key="[" line="75" column="45" />
+        <mark key="]" line="104" column="69" />
+        <mark key="." line="104" column="69" />
+        <mark key="^" line="104" column="69" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -302,12 +302,6 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510125141841">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
         <mark key="[" line="44" column="20" />
@@ -398,12 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="57" filename="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" />
-      <jump line="180" column="43" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="200" column="32" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="205" column="34" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="212" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="213" column="49" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="218" column="41" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="222" column="50" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="236" column="31" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
@@ -498,16 +486,22 @@
       <jump line="305" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="355" column="31" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="163" column="3" filename="$USER_HOME$/code/twitter-customer-support-collector/db.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="107" column="59" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="131" column="75" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="66" column="24" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="75" column="44" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="104" column="59" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tweet_ids</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>tweet_ids</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>commit</text>
+        <text>[4]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbmFjY2Vzc2libGVfdHdlZXRzID0geyptYXAoaW50LCB0d2VldF9pZHMpfS5kaWZmZXJlbmNlKHtpbnQodC5pZCkgZm9yIHQgaW4gdHdlZXRzfSkK</text>
@@ -544,16 +538,14 @@
       </register>
     </registers>
     <search>
-      <last-search>commit</last-search>
+      <last-search>[4]</last-search>
       <last-offset />
-      <last-pattern>commit</last-pattern>
+      <last-pattern>[4]</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mo</entry>
-        <entry>word_tokenizer</entry>
         <entry>10000</entry>
         <entry>print</entry>
         <entry>create_tab</entry>
@@ -572,6 +564,8 @@
         <entry>row[5</entry>
         <entry>GetStatus</entry>
         <entry>commit</entry>
+        <entry>[5]</entry>
+        <entry>[4]</entry>
       </history-search>
       <history-cmd />
       <history-expr />
