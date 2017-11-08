@@ -237,12 +237,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510139740585">
-        <mark key="'" line="104" column="59" />
-        <mark key="[" line="75" column="45" />
-        <mark key="]" line="104" column="69" />
-        <mark key="." line="104" column="69" />
-        <mark key="^" line="104" column="69" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/export.py" timestamp="1510184136666">
+        <mark key="'" line="85" column="24" />
+        <mark key="[" line="84" column="21" />
+        <mark key="]" line="84" column="20" />
+        <mark key="." line="84" column="20" />
+        <mark key="^" line="84" column="20" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -392,10 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="41" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="222" column="50" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="236" column="31" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="265" column="16" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="267" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="33" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="37" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
@@ -492,61 +488,64 @@
       <jump line="66" column="24" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="75" column="44" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="104" column="59" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="39" column="32" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="70" column="48" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="84" column="28" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="85" column="24" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>user_ids[row[1]]</text>
       </register>
       <register name="/" type="4">
-        <text>[4]</text>
+        <text>[1]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbmFjY2Vzc2libGVfdHdlZXRzID0geyptYXAoaW50LCB0d2VldF9pZHMpfS5kaWZmZXJlbmNlKHtpbnQodC5pZCkgZm9yIHQgaW4gdHdlZXRzfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzbi5sb3dlcigpIGluIENVU1RPTUVSX1NVUFBPUlRfU05TOgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>let baseQuery = squel.select().from('&quot;Amazon Reviews&quot;');
         if (this.where !== null) {
             baseQuery = baseQuery.where(this.where);
         }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ251bWVyaWMnLCAncmVhbCcsICdzbWFsbHNlcmlhbCcsICdzZXJpYWwnLCAnYmlnc2VyaWFsJ107Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbnVtZXJpY1R5cGVzID0gWydkb3VibGUgcHJlY2lzaW9uJywgJ2ludGVnZXInLCAnc21hbGxpbnQnLCAnYmlnaW50JywgJ2RlY2ltYWwnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ251bWVyaWMnLCAncmVhbCcsICdzbWFsbHNlcmlhbCcsICdzZXJpYWwnLCAnYmlnc2VyaWFsJ107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY29sTmFtZSA9IGNvbHVtbi50eXBlLnRvTG93ZXJDYXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbnVtZXJpY1R5cGVzID0gWydkb3VibGUgcHJlY2lzaW9uJywgJ2ludGVnZXInLCAnc21hbGxpbnQnLCAnYmlnaW50JywgJ2RlY2ltYWwnLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>[4]</last-search>
+      <last-search>[1]</last-search>
       <last-offset />
-      <last-pattern>[4]</last-pattern>
+      <last-pattern>[1]</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>10000</entry>
         <entry>print</entry>
         <entry>create_tab</entry>
         <entry>terms</entry>
@@ -566,6 +565,7 @@
         <entry>commit</entry>
         <entry>[5]</entry>
         <entry>[4]</entry>
+        <entry>[1]</entry>
       </history-search>
       <history-cmd />
       <history-expr />
