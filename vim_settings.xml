@@ -68,6 +68,13 @@
       <file name="$USER_HOME$/code/twitter-customer-support-collector/first_request_and_response_kernel.py" timestamp="1510068442990">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/extern/python-twitter/twitter/api.py" timestamp="1510117723904">
+        <mark key="'" line="5044" column="7" />
+        <mark key="[" line="839" column="96" />
+        <mark key="]" line="5044" column="7" />
+        <mark key="^" line="5044" column="7" />
+        <mark key="." line="5044" column="7" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/util.py" timestamp="1508828718711">
         <mark key="[" line="24" column="52" />
         <mark key="]" line="33" column="67" />
@@ -256,7 +263,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510060848996">
+      <file name="/Dummy.txt" timestamp="1510117798323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -284,11 +291,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1508144645153">
-        <mark key="[" line="28" column="71" />
-        <mark key="]" line="28" column="70" />
-        <mark key="^" line="28" column="70" />
-        <mark key="." line="28" column="70" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1510117793572">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_plus_gensim.py" timestamp="1507904866242">
         <mark key="[" line="34" column="33" />
@@ -338,10 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="50" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="187" column="56" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="249" column="28" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="17" column="19" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="26" column="80" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="49" column="19" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="547" column="53" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
@@ -438,16 +441,20 @@
       <jump line="68" column="35" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="69" column="23" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="94" column="11" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="101" column="31" filename="$USER_HOME$/code/extern/python-twitter/twitter/api.py" />
+      <jump line="5044" column="8" filename="$USER_HOME$/code/extern/python-twitter/twitter/api.py" />
+      <jump line="125" column="16" filename="$USER_HOME$/code/extern/python-twitter/twitter/api.py" />
+      <jump line="5045" column="7" filename="$USER_HOME$/code/extern/python-twitter/twitter/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcmVwbGllc190byA9IGRlZmF1bHRkaWN0KGludCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>row[5</text>
+        <text>GetStatus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd3JpdHRlbl90d2VldF9pZHMuYWRkKF9yb3dbMF0pCg==</text>
@@ -481,15 +488,14 @@
       </register>
     </registers>
     <search>
-      <last-search>row[5</last-search>
+      <last-search>GetStatus</last-search>
       <last-offset />
-      <last-pattern>row[5</last-pattern>
+      <last-pattern>GetStatus</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_batch_status</entry>
         <entry>mo</entry>
         <entry>word_tokenizer</entry>
         <entry>10000</entry>
@@ -509,6 +515,7 @@
         <entry>__doc_id</entry>
         <entry>bss</entry>
         <entry>row[5</entry>
+        <entry>GetStatus</entry>
       </history-search>
       <history-cmd />
       <history-expr />
