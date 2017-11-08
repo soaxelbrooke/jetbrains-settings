@@ -266,10 +266,10 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1509727199864">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1510147167384">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
         <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kinds_view.sql" timestamp="1508313764482">
