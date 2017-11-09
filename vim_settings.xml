@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1510141108234">
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1510191780850">
         <mark key="'" line="163" column="3" />
         <mark key="[" line="165" column="61" />
         <mark key="]" line="165" column="60" />
@@ -303,8 +303,10 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510190426182">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1510190564613">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
         <mark key="[" line="44" column="20" />
@@ -497,11 +499,11 @@
       <jump line="85" column="24" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>user_ids[row[1]]</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>[1]</text>
