@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1510191780850">
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1510192851106">
         <mark key="'" line="163" column="3" />
-        <mark key="[" line="165" column="61" />
-        <mark key="]" line="165" column="60" />
-        <mark key="^" line="165" column="60" />
-        <mark key="." line="165" column="60" />
+        <mark key="[" line="92" column="46" />
+        <mark key="]" line="92" column="46" />
+        <mark key="^" line="93" column="31" />
+        <mark key="." line="92" column="20" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1509096123267">
         <mark key="'" line="32" column="23" />
@@ -500,10 +500,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>estimate_daily_volume(conn</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>estimate_daily_volume(conn</text>
       </register>
       <register name="/" type="4">
         <text>[1]</text>
@@ -512,34 +512,31 @@
         <text encoding="base64">ICAgICAgICBpbmFjY2Vzc2libGVfdHdlZXRzID0geyptYXAoaW50LCB0d2VldF9pZHMpfS5kaWZmZXJlbmNlKHtpbnQodC5pZCkgZm9yIHQgaW4gdHdlZXRzfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzbi5sb3dlcigpIGluIENVU1RPTUVSX1NVUFBPUlRfU05TOgo=</text>
+        <text encoding="base64">ICAgICAgICAgIEFORCB0d2VldHMuZGF0YSAjPj4gJ3t1c2VyLHNjcmVlbl9uYW1lfScgSUxJS0UgJShzbilzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRSB0d2VldHMuY3JlYXRlZF9hdCA+IChsYXN0X3NjcmFwZS5sYXN0IC0gSU5URVJWQUwgJzMgZGF5cycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgY291bnQoKikgLyAzLjAgQVMgZGFpbHlfdHdlZXRzIEZST00gdHdlZXRzLCBsYXN0X3NjcmFwZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>let baseQuery = squel.select().from('&quot;Amazon Reviews&quot;');
-        if (this.where !== null) {
-            baseQuery = baseQuery.where(this.where);
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBXSVRIIGxhc3Rfc2NyYXBlIEFTIChTRUxFQ1QgbWF4KGNyZWF0ZWRfYXQpIEFTIGxhc3QgRlJPTSByZXF1ZXN0cyBXSEVSRSBzY3JlZW5fbmFtZT0lKHNuKXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ251bWVyaWMnLCAncmVhbCcsICdzbWFsbHNlcmlhbCcsICdzZXJpYWwnLCAnYmlnc2VyaWFsJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzbi5sb3dlcigpIGluIENVU1RPTUVSX1NVUFBPUlRfU05TOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbnVtZXJpY1R5cGVzID0gWydkb3VibGUgcHJlY2lzaW9uJywgJ2ludGVnZXInLCAnc21hbGxpbnQnLCAnYmlnaW50JywgJ2RlY2ltYWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
     </registers>
     <search>
