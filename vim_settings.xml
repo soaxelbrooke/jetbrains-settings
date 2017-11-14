@@ -253,12 +253,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1510657185973">
-        <mark key="'" line="63" column="23" />
-        <mark key="[" line="49" column="48" />
-        <mark key="]" line="49" column="51" />
-        <mark key="." line="49" column="51" />
-        <mark key="^" line="49" column="51" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1510659188123">
+        <mark key="'" line="65" column="23" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1509262665649">
         <mark key="'" line="70" column="0" />
@@ -506,8 +506,8 @@
       <jump line="63" column="23" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb250ZW50X3RzX3ZlY3RvciB0c192ZWN0b3IgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -515,8 +515,8 @@
       <register name="/" type="4">
         <text>10000</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">V0lUSCBsYXN0X3NjcmFwZSBBUyAoCiAgICAgICAgICBTRUxFQ1Qgc2NyZWVuX25hbWUsIG1heChjcmVhdGVkX2F0KSBBUyBsYXN0IEZST00gcmVxdWVzdHMgR1JPVVAgQlkgc2NyZWVuX25hbWUKICAgICAgICApLCBzbl90d2VldHMgQVMgKAogICAgICAgICAgU0VMRUNUIGRhdGEgIz4+ICd7dXNlcixzY3JlZW5fbmFtZX0nIGFzIHNuLCBjcmVhdGVkX2F0IEZST00gdHdlZXRzIAogICAgICAgICAgT1JERVIgQlkgY3JlYXRlZF9hdCBERVNDIExJTUlUIDIwMDAwMAogICAgICAgICkgU0VMRUNUIHNjcmVlbl9uYW1lLCBjb3VudCgqKSAvIDMuMCBBUyBkYWlseV90d2VldHMgCiAgICAgICAgRlJPTSBsYXN0X3NjcmFwZSBKT0lOIHNuX3R3ZWV0cyBPTiBzbiBJTElLRSBzY3JlZW5fbmFtZSAKICAgICAgICBXSEVSRSBjcmVhdGVkX2F0ID4gbGFzdF9zY3JhcGUubGFzdCAtIElOVEVSVkFMICczIGRheXMnIEdST1VQIEJZIHNjcmVlbl9uYW1lOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb250ZW50X3RzX3ZlY3RvciB0c192ZWN0b3IgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgcmF3X2VzdGltYXRlcyA9IGVzdGltYXRlX2RhaWx5X3ZvbHVtZShjb25uKQogICAgIyBkYWlseV92b2xfZXN0aW1hdGVzID0ge3NuOiByYXdfZXN0aW1hdGVzLmdldChzbiwgMS4wKSBmb3Igc24gaW4gc2NyZWVuX25hbWVzfQogICAgIyBsb2dnaW5nLmluZm8oIkZldGNoaW5nIGRheXMgc2luY2UgY29sbGVjdGlvbiBmb3IgZWFjaCBhcHAuLi4iKQogICAgIyBjb2xsZWN0X2FnZSA9IHtzbjogZGF5c19zaW5jZV9jb2xsZWN0KGNvbm4sIHNuKSBmb3Igc24gaW4gc2NyZWVuX25hbWVzfQogICAgIwogICAgIyBpbmZlcnJlZF9taXNzaW5nID0ge3NuOiBjb2xsZWN0X2FnZS5nZXQoc24sIDEwMCkgKiBkYWlseV92b2xfZXN0aW1hdGVzLmdldChzbiwgMSkKICAgICMgICAgICAgICAgICAgICAgICAgICBmb3Igc24gaW4gc2NyZWVuX25hbWVzfQogICAgIwogICAgIyBmb3Igc24sIG1pc3NpbmcgaW4gc29ydGVkKGluZmVycmVkX21pc3NpbmcuaXRlbXMoKSwga2V5PWxhbWJkYSBwOiAtcFsxXSk6CiAgICAjICAgICBsb2dnaW5nLmluZm8oZiJ7c259IG1pc3Npbmc6IHttaXNzaW5nfSIpCiAgICAjCiAgICAjIHJldHVybiBzb3J0ZWQoc2NyZWVuX25hbWVzLCBrZXk9bGFtYmRhIHNuOiAtaW5mZXJyZWRfbWlzc2luZ1tzbl0pCgo=</text>
