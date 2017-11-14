@@ -10,11 +10,11 @@
         <mark key="." line="106" column="34" />
         <mark key="^" line="106" column="34" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1509096123267">
-        <mark key="'" line="32" column="23" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1510657064416">
+        <mark key="'" line="26" column="72" />
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="56" />
         <mark key="^" line="47" column="15" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508505823973">
@@ -89,10 +89,10 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="33" column="67" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1509723265020">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1510657116460">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="55" />
         <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
@@ -140,8 +140,8 @@
         <mark key="." line="23" column="2" />
         <mark key="^" line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1509267202869">
-        <mark key="[" line="66" column="31" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1510657615080">
+        <mark key="[" line="35" column="0" />
         <mark key="]" line="71" column="46" />
         <mark key="." line="71" column="46" />
         <mark key="^" line="71" column="46" />
@@ -253,11 +253,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1510649972719">
-        <mark key="[" line="60" column="1" />
-        <mark key="]" line="58" column="35" />
-        <mark key="." line="58" column="2" />
-        <mark key="^" line="58" column="1" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1510657185973">
+        <mark key="'" line="63" column="23" />
+        <mark key="[" line="49" column="48" />
+        <mark key="]" line="49" column="51" />
+        <mark key="." line="49" column="51" />
+        <mark key="^" line="49" column="51" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1509262665649">
         <mark key="'" line="70" column="0" />
@@ -309,7 +310,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510585122052">
+      <file name="/Dummy.txt" timestamp="1510657029581">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -403,9 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="62" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="33" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="37" column="13" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="39" column="21" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="97" column="36" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="101" column="28" filename="$USER_HOME$/code/datasci/python-bpe/bpe/test/encoder_test.py" />
@@ -503,16 +501,19 @@
       <jump line="70" column="48" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="84" column="28" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="85" column="24" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
+      <jump line="26" column="72" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
+      <jump line="63" column="23" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GROUP BY word ORDER BY count DESC</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>GROUP BY word ORDER BY count DESC</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>[1]</text>
+        <text>10000</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">V0lUSCBsYXN0X3NjcmFwZSBBUyAoCiAgICAgICAgICBTRUxFQ1Qgc2NyZWVuX25hbWUsIG1heChjcmVhdGVkX2F0KSBBUyBsYXN0IEZST00gcmVxdWVzdHMgR1JPVVAgQlkgc2NyZWVuX25hbWUKICAgICAgICApLCBzbl90d2VldHMgQVMgKAogICAgICAgICAgU0VMRUNUIGRhdGEgIz4+ICd7dXNlcixzY3JlZW5fbmFtZX0nIGFzIHNuLCBjcmVhdGVkX2F0IEZST00gdHdlZXRzIAogICAgICAgICAgT1JERVIgQlkgY3JlYXRlZF9hdCBERVNDIExJTUlUIDIwMDAwMAogICAgICAgICkgU0VMRUNUIHNjcmVlbl9uYW1lLCBjb3VudCgqKSAvIDMuMCBBUyBkYWlseV90d2VldHMgCiAgICAgICAgRlJPTSBsYXN0X3NjcmFwZSBKT0lOIHNuX3R3ZWV0cyBPTiBzbiBJTElLRSBzY3JlZW5fbmFtZSAKICAgICAgICBXSEVSRSBjcmVhdGVkX2F0ID4gbGFzdF9zY3JhcGUubGFzdCAtIElOVEVSVkFMICczIGRheXMnIEdST1VQIEJZIHNjcmVlbl9uYW1lOw==</text>
@@ -546,17 +547,14 @@
       </register>
     </registers>
     <search>
-      <last-search>[1]</last-search>
+      <last-search>10000</last-search>
       <last-offset />
-      <last-pattern>[1]</last-pattern>
+      <last-pattern>10000</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>create_tab</entry>
-        <entry>terms</entry>
         <entry>p_period</entry>
         <entry>reify</entry>
         <entry>word_vocab</entry>
@@ -574,6 +572,9 @@
         <entry>[5]</entry>
         <entry>[4]</entry>
         <entry>[1]</entry>
+        <entry>5434</entry>
+        <entry>kind_id</entry>
+        <entry>10000</entry>
       </history-search>
       <history-cmd />
       <history-expr />
