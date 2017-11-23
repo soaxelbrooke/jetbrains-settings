@@ -25,6 +25,9 @@
       <file name="/a.dummy" timestamp="1508577524689">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/twitter/api.py" timestamp="1511454510731">
+        <mark key="'" line="158" column="17" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/filtered_partitioned_topk_plus_gensim.py" timestamp="1507904177171">
         <mark key="[" line="15" column="24" />
       </file>
@@ -326,10 +329,10 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511453218453">
+      <file name="/Dummy.txt" timestamp="1511454859458">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="23" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
         <mark key="[" line="44" column="20" />
@@ -337,8 +340,8 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511449002487">
-        <mark key="[" line="5" column="4" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511454803634">
+        <mark key="[" line="4" column="11" />
         <mark key="]" line="5" column="86" />
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="86" />
@@ -375,11 +378,11 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1510117793572">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="23" column="13" />
-        <mark key="." line="21" column="14" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1511454844949">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="28" column="31" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_plus_gensim.py" timestamp="1507904866242">
         <mark key="[" line="34" column="33" />
@@ -429,8 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="80" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="49" column="19" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="547" column="53" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="549" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="579" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
@@ -529,19 +530,21 @@
       <jump line="103" column="1" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
       <jump line="102" column="28" filename="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/encoder.py" />
       <jump line="24" column="68" filename="$USER_HOME$/code/twitter-customer-support-collector/main.py" />
+      <jump line="143" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/twitter/api.py" />
+      <jump line="158" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/twitter/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QHJldHJ5KHN0b3BfbWF4X2F0dGVtcHRfbnVtYmVyPTUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>timeout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGYiUmVtb3Zpbmcgb2xkIHR3ZWV0cyBmcm9tIGZ7bGVuKHR3ZWV0cyl9IGZldGNoZWQuLi4iKQo=</text>
+        <text encoding="base64">QHJldHJ5KHN0b3BfbWF4X2F0dGVtcHRfbnVtYmVyPTUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGpzb24K</text>
@@ -572,15 +575,14 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>timeout</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>timeout</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>15</entry>
         <entry>col</entry>
         <entry>mismat</entry>
         <entry>INSERT INTO</entry>
@@ -600,6 +602,7 @@
         <entry>search_idx</entry>
         <entry>load</entry>
         <entry>save</entry>
+        <entry>timeout</entry>
       </history-search>
       <history-cmd />
       <history-expr />
