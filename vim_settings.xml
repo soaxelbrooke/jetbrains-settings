@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1511078907048">
-        <mark key="'" line="179" column="3" />
-        <mark key="[" line="112" column="43" />
-        <mark key="]" line="106" column="34" />
-        <mark key="." line="106" column="34" />
-        <mark key="^" line="106" column="34" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/db.py" timestamp="1511450368678">
+        <mark key="'" line="192" column="3" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1510988085786">
         <mark key="'" line="25" column="56" />
@@ -61,11 +60,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/significant_terms_test.py" timestamp="1508577528737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/main.py" timestamp="1510584953815">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="78" column="49" />
-        <mark key="^" line="78" column="49" />
-        <mark key="." line="78" column="49" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/main.py" timestamp="1511451623187">
+        <mark key="'" line="24" column="68" />
+        <mark key="[" line="52" column="52" />
+        <mark key="]" line="52" column="52" />
+        <mark key="." line="52" column="52" />
+        <mark key="^" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507904885002">
         <mark key="[" line="36" column="33" />
@@ -103,6 +103,12 @@
         <mark key="]" line="32" column="2" />
         <mark key="^" line="27" column="30" />
         <mark key="." line="32" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sentiment_analyzer.py" timestamp="1511448726102">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509726945537">
         <mark key="[" line="81" column="25" />
@@ -158,6 +164,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/README.md" timestamp="1511448837932">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases.py" timestamp="1507732380257">
         <mark key="[" line="17" column="24" />
@@ -230,6 +239,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="12" column="37" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/encoder.py" timestamp="1511448416932">
+        <mark key="'" line="102" column="28" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
         <mark key="[" line="34" column="22" />
@@ -310,10 +326,10 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511078975698">
+      <file name="/Dummy.txt" timestamp="1511451624898">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
         <mark key="[" line="44" column="20" />
@@ -321,11 +337,11 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511447571689">
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511449002487">
         <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+        <mark key="]" line="5" column="86" />
+        <mark key="^" line="5" column="86" />
+        <mark key="." line="5" column="86" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509726897919">
         <mark key="'" line="355" column="31" />
@@ -336,6 +352,12 @@
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sst_binary_demo.py" timestamp="1511448366424">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
         <mark key="'" line="26" column="57" />
@@ -407,8 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="28" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
-      <jump line="17" column="19" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="26" column="80" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="49" column="19" filename="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" />
       <jump line="547" column="53" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
@@ -507,59 +527,59 @@
       <jump line="221" column="23" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="25" column="56" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
       <jump line="103" column="1" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
+      <jump line="102" column="28" filename="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/encoder.py" />
+      <jump line="24" column="68" filename="$USER_HOME$/code/twitter-customer-support-collector/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>to_tsvector</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>search_idx</text>
+        <text>save</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;{customer_id}&quot;.&quot;{kind_name}_atrc&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGYiUmVtb3Zpbmcgb2xkIHR3ZWV0cyBmcm9tIGZ7bGVuKHR3ZWV0cyl9IGZldGNoZWQuLi4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKHRzX2xleGl6ZSgnZW5nbGlzaF9zdGVtJywgd29yZCkpWzBdIEFTIHN0ZW0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gQ1JFQVRFIE1BVEVSSUFMSVpFRCBWSUVXICJ7Y3VzdG9tZXJfaWR9Ii4ie2tpbmRfbmFtZX1fYXRyYyIgYXMKLS0gSU5TRVJUIElOVE8gIntjdXN0b21lcl9pZH0iLiJ7a2luZF9uYW1lfV9hdGJnIiAoCi0tICAgU0VMRUNUCi0tICAgICB3b3JkLAotLSAgICAgY291bnQoKikKLS0gICBGUk9NICgKLS0gICAgICAgICAgU0VMRUNUIHJlZ2V4cF9zcGxpdF90b190YWJsZShjb250ZW50LCAnXFcnKSBBUyB3b3JkCi0tICAgICAgICAgIEZST00gIntjdXN0b21lcl9pZH0iLiJ7a2luZF9uYW1lfV9hbmFseXplZF90ZXh0cyIKLS0gICAgICAgICkgdDEKLS0gICBHUk9VUCBCWSB3b3JkIE9SREVSIEJZIGNvdW50IERFU0MKLS0gKQotLSBPTiBDT05GTElDVCAod29yZCkgRE8gVVBEQVRFIFNFVCBjb3VudD1jb3VudCtFWENMVURFRC5jb3VudDsKCgotLSBDUkVBVEUgSU5ERVggIntraW5kX25hbWV9X2F0cmNfc2VhcmNoX2lkeCIgT04gIntraW5kX25hbWV9X2F0cmMiCi0tICAgVVNJTkcgR0lOICh0b190c3ZlY3RvcignZW5nbGlzaCcsIHdvcmQpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SU1NVVRBQkxFOwo=</text>
+        <text encoding="base64">ICAgICAgICAjIFBvcHVsYXRlIGNhY2hlIHdpdGggYWxsIHR3ZWV0IHRleHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoUkVWSUVXU19MSU1JVCkK</text>
+        <text encoding="base64">ICAgIGlmIGFuYWx5emVfc2VudGltZW50Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gTmVlZCB0byBSRUZSRVNIIE1BVEVSSUFMSVpFRCBWSUVXIENPTkNVUlJFTlRMWSBhdCBlbmQgb2YgYmF0Y2ggaW5zZXJ0cy4uLj8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CkNSRUFURSBUQUJMRSAie2N1c3RvbWVyX2lkfSIuIntraW5kX25hbWV9X2F0cmMiICgKICB3b3JkIFRFWFQgUFJJTUFSWSBLRVksCiAgbmRvYyBCSUdJTlQsCiAgbmVudHJ5IEJJR0lOVAopOwo=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X3JlcGx5X2lkID0gZGIubGFzdF9yZXBseV9pZChjbGVhbl9zbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q1JFQVRFIE9SIFJFUExBQ0UgRlVOQ1RJT04gIntjdXN0b21lcl9pZH0ue2tpbmRfbmFtZX1fc3RlbV9jb3VudCIoKSBSRVRVUk5TIFRSSUdHRVIgQVMKJCQKQkVHSU4KICBJTlNFUlQgSU5UTyAie2N1c3RvbWVyX2lkfSIuIntraW5kX25hbWV9X2F0YmciICgKICAgIFNFTEVDVCAodHNfc3RhdChORVcuY29udGVudF90c3ZlY3RvcikpLioKICApCiAgT04gQ09ORkxJQ1QgKHdvcmQpIERPIFVQREFURSBTRVQgbmRvYz1uZG9jKzEsIG5lbnRyeSA9IG5lbnRyeSArIEVYQ0xVREVELm5lbnRyeTsKRU5ECiQkCiAgTEFOR1VBR0UgUExQR1NRTAogIElNTVVUQUJMRTsKCkNSRUFURSBPUiBSRVBMQUNFIEZVTkNUSU9OICJ7Y3VzdG9tZXJfaWR9LntraW5kX25hbWV9X3dvcmRfY291bnQiKCkgUkVUVVJOUyBUUklHR0VSIEFTCiQkCkJFR0lOCiAgSU5TRVJUIElOVE8gIntjdXN0b21lcl9pZH0iLiJ7a2luZF9uYW1lfV9hdHJjIiAoCiAgICBTRUxFQ1QKICAgICAgd29yZCwKICAgICAgMSBhcyBuZG9jLAogICAgICBjb3VudCgqKSBBUyBuZW50cnkKICAgIEZST00gKAogICAgICAgICAgIFNFTEVDVCByZWdleHBfc3BsaXRfdG9fdGFibGUoY29udGVudCwgJ1xXJykgQVMgd29yZAogICAgICAgICAgIEZST00gIntjdXN0b21lcl9pZH0iLiJ7a2luZF9uYW1lfV9hbmFseXplZF90ZXh0cyIKICAgICAgICAgKSB0MQogICAgR1JPVVAgQlkgd29yZAogICkKICBPTiBDT05GTElDVCAod29yZCkgRE8gVVBEQVRFIFNFVCBuZG9jPW5kb2MrMSwgbmVudHJ5ID0gbmVudHJ5ICsgRVhDTFVERUQubmVudHJ5OwpFTkQKJCQKICBMQU5HVUFHRSBQTFBHU1FMCiAgSU1NVVRBQkxFOwoK</text>
+        <text encoding="base64">ICAgIHNlbnQgPSBnZXRfc2VudGltZW50KHR3ZWV0LnRleHQgb3IgdHdlZXQuZnVsbF90ZXh0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVAogICAgICB3b3JkLAogICAgICBjb3VudCgqKQogICAgRlJPTSAoCiAgICAgICAgICAgU0VMRUNUIHJlZ2V4cF9zcGxpdF90b190YWJsZShjb250ZW50LCAnXFcnKSBBUyB3b3JkCiAgICAgICAgICAgRlJPTSAie2N1c3RvbWVyX2lkfSIuIntraW5kX25hbWV9X2FuYWx5emVkX3RleHRzIgogICAgICAgICApIHQxCiAgICBHUk9VUCBCWSB3b3JkIE9SREVSIEJZIGNvdW50IERFU0MK</text>
+        <text encoding="base64">ICAgIGpzb25fc3RyaW5nID0ganNvbi5sb2FkcygpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>search_idx</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>search_idx</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>expand</entry>
-        <entry>lr</entry>
         <entry>15</entry>
         <entry>col</entry>
         <entry>mismat</entry>
@@ -578,6 +598,8 @@
         <entry>at_content_</entry>
         <entry>543</entry>
         <entry>search_idx</entry>
+        <entry>load</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd />
       <history-expr />
