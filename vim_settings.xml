@@ -321,8 +321,11 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1509546044221">
-        <mark key="[" line="3" column="5" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511447571689">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509726897919">
         <mark key="'" line="355" column="31" />
