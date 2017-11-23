@@ -51,8 +51,11 @@
         <mark key="." line="95" column="66" />
         <mark key="^" line="95" column="66" />
       </file>
-      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/setup.py" timestamp="1511463216196">
-        <mark key="[" line="7" column="26" />
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/setup.py" timestamp="1511464217954">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
@@ -336,7 +339,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511463263048">
+      <file name="/Dummy.txt" timestamp="1511464235637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -544,8 +547,8 @@
       <jump line="158" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/twitter/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>json_strings = []</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcGFja2FnZV9kYXRhPXsnc2VudGltZW50X25ldXJvbic6IFsnbW9kZWwvKiddfSwK</text>
       </register>
       <register name="-" type="4">
         <text>json_strings = []</text>
@@ -557,31 +560,31 @@
         <text encoding="base64">ICAgIGZvciB0d2VldF9pZCwgY3JlYXRlZF9hdCwganNvbl9zdHJpbmcgaW4gcmVjb3JkczoKICAgICAgICB0d2VldCA9IGpzb24ubG9hZHMoanNvbl9zdHJpbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFja2FnZV9kYXRhPXsnc2VudGltZW50X25ldXJvbic6IFsnbW9kZWwvKiddfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFBvcHVsYXRlIGNhY2hlIHdpdGggYWxsIHR3ZWV0IHRleHQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGFuYWx5emVfc2VudGltZW50Ogo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIFBvcHVsYXRlIGNhY2hlIHdpdGggYWxsIHR3ZWV0IHRleHQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIGFuYWx5emVfc2VudGltZW50Ogo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X3JlcGx5X2lkID0gZGIubGFzdF9yZXBseV9pZChjbGVhbl9zbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbnQgPSBnZXRfc2VudGltZW50KHR3ZWV0LnRleHQgb3IgdHdlZXQuZnVsbF90ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X3JlcGx5X2lkID0gZGIubGFzdF9yZXBseV9pZChjbGVhbl9zbikK</text>
       </register>
     </registers>
     <search>
