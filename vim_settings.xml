@@ -46,8 +46,8 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1511652584144">
-        <mark key="[" line="15" column="25" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1511655415416">
+        <mark key="[" line="44" column="0" />
         <mark key="]" line="15" column="14" />
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
@@ -98,11 +98,11 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1511653106005">
-        <mark key="[" line="46" column="49" />
-        <mark key="]" line="46" column="56" />
-        <mark key="." line="46" column="56" />
-        <mark key="^" line="36" column="34" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1511655232424">
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="33" column="11" />
+        <mark key="." line="33" column="11" />
+        <mark key="^" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/bow_lin_reg.py" timestamp="1511649049750">
         <mark key="[" line="1" column="0" />
@@ -463,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>
