@@ -103,11 +103,11 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1511660197277">
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="35" column="11" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="35" column="11" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1511662133771">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/bow_lin_reg.py" timestamp="1511649049750">
         <mark key="[" line="1" column="0" />
@@ -164,6 +164,12 @@
       </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/README.md" timestamp="1511448837932">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_svr.py" timestamp="1511661852246">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases.py" timestamp="1507732380257">
         <mark key="[" line="17" column="24" />
@@ -468,43 +474,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LinearRegression</text>
+        <text>gbt</text>
       </register>
       <register name="-" type="4">
-        <text>LinearRegression</text>
+        <text>gbt</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>
       </register>
-      <register name="0" type="4">
-        <text>(1 + numpy.exp(float(r[1])))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVsaWYgZXhwZXJpbWVudF9uYW1lID09ICd0ZmlkZl9nYnQnOgogICAgICAgIGZyb20gZXhwZXJpbWVudGFsLnNlbnRpbWVudC50ZmlkZl9nYnQgaW1wb3J0IHJ1bl9leHBlcmltZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHkgPSB5ICsgYWJzKHkubWluKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIGlmIGV4cGVyaW1lbnRfbmFtZSA9PSAndGZpZGZfbGluX3JlZyc6CiAgICAgICAgZnJvbSBleHBlcmltZW50YWwuc2VudGltZW50LnRmaWRmX2xpbl9yZWcgaW1wb3J0IHJ1bl9leHBlcmltZW50CiAgICBlbGlmIGV4cGVyaW1lbnRfbmFtZSA9PSAndGZpZGZfZ2J0JzoKICAgICAgICBmcm9tIGV4cGVyaW1lbnRhbC5zZW50aW1lbnQudGZpZGZfZ2J0IGltcG9ydCBydW5fZXhwZXJpbWVudAogICAgZWxzZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0X3hbOjEwXSkK</text>
+        <text encoding="base64">ICAgIHkgPSB5ICsgYWJzKHkubWluKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRyYWluX3hbOjEwXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0X3hbOjEwXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gWypyZWFkZXJdCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRyYWluX3hbOjEwXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignJykK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gWypyZWFkZXJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignJykK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0pCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRhdGFzZXQgPSBudW1weS5oc3RhY2soWywK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">XSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RhdGFzZXQgPSBudW1weS5oc3RhY2soW3ZlY3Rvcml6ZXIudHJhbnNmb3JtKFtyWzBdIGZvciByIGluIHRyYWluXSksIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtcHkuYXJyYXkoW3JbMV0gZm9yIHIgaW4gdHJhaW5dKV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
