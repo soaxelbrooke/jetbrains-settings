@@ -297,11 +297,11 @@
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1511668528184">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="55" column="28" />
-        <mark key="." line="55" column="28" />
-        <mark key="^" line="47" column="68" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1511739601643">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="51" column="24" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
@@ -479,8 +479,8 @@
       <jump line="158" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/twitter/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_backend</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCkK</text>
       </register>
       <register name="-" type="4">
         <text>_backend</text>
@@ -492,31 +492,31 @@
         <text encoding="base64">ICAgIG1zZXMuYXBwZW5kKHIyX3Njb3JlKHRyYWluX3ksIG1vZGVsLnByZWRpY3QodHJhaW5feCkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IHIyX3Njb3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBtc2VzLmFwcGVuZChtb2RlbC5ldmFsdWF0ZSh0ZXN0X3gsIHRlc3RfeSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0X3ggPSBvbmVfaG90KFtyb3dbMF0gZm9yIHJvdyBpbiB0ZXN0XSwgTUFYX1ZPQ0FCX1NJWkUpCg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IHIyX3Njb3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIGlmIGV4cGVyaW1lbnRfbmFtZSA9PSAndGZpZGZfbGluX3JlZyc6CiAgICAgICAgZnJvbSBleHBlcmltZW50YWwuc2VudGltZW50LnRmaWRmX2xpbl9yZWcgaW1wb3J0IHJ1bl9leHBlcmltZW50CiAgICBlbGlmIGV4cGVyaW1lbnRfbmFtZSA9PSAndGZpZGZfZ2J0JzoKICAgICAgICBmcm9tIGV4cGVyaW1lbnRhbC5zZW50aW1lbnQudGZpZGZfZ2J0IGltcG9ydCBydW5fZXhwZXJpbWVudAogICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHkgPSB5ICsgYWJzKHkubWluKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0X3ggPSBvbmVfaG90KFtyb3dbMF0gZm9yIHJvdyBpbiB0ZXN0XSwgTUFYX1ZPQ0FCX1NJWkUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0X3hbOjEwXSkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIGlmIGV4cGVyaW1lbnRfbmFtZSA9PSAndGZpZGZfbGluX3JlZyc6CiAgICAgICAgZnJvbSBleHBlcmltZW50YWwuc2VudGltZW50LnRmaWRmX2xpbl9yZWcgaW1wb3J0IHJ1bl9leHBlcmltZW50CiAgICBlbGlmIGV4cGVyaW1lbnRfbmFtZSA9PSAndGZpZGZfZ2J0JzoKICAgICAgICBmcm9tIGV4cGVyaW1lbnRhbC5zZW50aW1lbnQudGZpZGZfZ2J0IGltcG9ydCBydW5fZXhwZXJpbWVudAogICAgZWxzZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRyYWluX3hbOjEwXSkK</text>
+        <text encoding="base64">ICAgIHkgPSB5ICsgYWJzKHkubWluKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gWypyZWFkZXJdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0X3hbOjEwXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
