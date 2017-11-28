@@ -16,11 +16,11 @@
         <mark key="^" line="180" column="1" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru_attn.py" timestamp="1511858551988">
-        <mark key="[" line="69" column="11" />
-        <mark key="]" line="69" column="11" />
-        <mark key="." line="69" column="11" />
-        <mark key="^" line="91" column="46" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru_attn.py" timestamp="1511859776093">
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1511649184774">
         <mark key="[" line="0" column="0" />
@@ -489,13 +489,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dot</text>
+        <text>embedding_dropout</text>
       </register>
       <register name="-" type="4">
-        <text>dot</text>
+        <text>embedding_dropout</text>
       </register>
       <register name="/" type="4">
-        <text>timeout</text>
+        <text>symbolic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ0V2YWx1YXRpbmcgdGVzdCBzZXQgcjIuLi4nKQo=</text>
@@ -532,16 +532,14 @@
       </register>
     </registers>
     <search>
-      <last-search>timeout</last-search>
+      <last-search>symbolic</last-search>
       <last-offset />
-      <last-pattern>timeout</last-pattern>
+      <last-pattern>symbolic</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>col</entry>
-        <entry>mismat</entry>
         <entry>INSERT INTO</entry>
         <entry>__doc_id</entry>
         <entry>bss</entry>
@@ -560,6 +558,8 @@
         <entry>load</entry>
         <entry>save</entry>
         <entry>timeout</entry>
+        <entry>Symbolic</entry>
+        <entry>symbolic</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
