@@ -16,10 +16,11 @@
         <mark key="^" line="180" column="1" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru_attn.py" timestamp="1511857166680">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru_attn.py" timestamp="1511858551988">
+        <mark key="[" line="69" column="11" />
+        <mark key="]" line="69" column="11" />
+        <mark key="." line="69" column="11" />
+        <mark key="^" line="91" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1511649184774">
         <mark key="[" line="0" column="0" />
@@ -488,16 +489,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>dot</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>dot</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgZXhwZXJpbWVudF9uYW1lID09ICdrZXJhc19ncnUnOgogICAgICAgIGZyb20gZXhwZXJpbWVudGFsLnNlbnRpbWVudC5rZXJhc19ncnUgaW1wb3J0IHJ1bl9leHBlcmltZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ0V2YWx1YXRpbmcgdGVzdCBzZXQgcjIuLi4nKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
