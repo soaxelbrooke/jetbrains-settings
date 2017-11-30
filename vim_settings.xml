@@ -106,11 +106,11 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1511861548473">
-        <mark key="[" line="53" column="51" />
-        <mark key="]" line="53" column="51" />
-        <mark key="^" line="53" column="63" />
-        <mark key="." line="53" column="51" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512015781210">
+        <mark key="[" line="54" column="51" />
+        <mark key="]" line="54" column="51" />
+        <mark key="^" line="54" column="61" />
+        <mark key="." line="54" column="51" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/bow_lin_reg.py" timestamp="1511649049750">
         <mark key="[" line="1" column="0" />
@@ -295,10 +295,10 @@
         <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_cnn.py" timestamp="1511860371755">
-        <mark key="[" line="64" column="9" />
-        <mark key="]" line="64" column="11" />
-        <mark key="." line="64" column="11" />
-        <mark key="^" line="64" column="11" />
+        <mark key="[" line="63" column="9" />
+        <mark key="]" line="63" column="11" />
+        <mark key="." line="63" column="11" />
+        <mark key="^" line="63" column="11" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
         <mark key="[" line="4" column="11" />
@@ -306,12 +306,12 @@
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1511860889909">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1512015862163">
         <mark key="'" line="51" column="15" />
-        <mark key="[" line="61" column="29" />
-        <mark key="]" line="61" column="29" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
         <mark key="^" line="64" column="34" />
-        <mark key="." line="61" column="29" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
@@ -490,43 +490,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sentiment_data</text>
+        <text>1024</text>
       </register>
       <register name="-" type="4">
-        <text>sentiment_data</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
         <text>symbolic</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBHUlUoRU1CRURfU0laRSksCg==</text>
+      <register name="0" type="4">
+        <text>load_treebank_part</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZicvaG9tZS9zdHVhcnQvZGF0YS9zdGFuZm9yZFNlbnRpbWVudFRyZWViYW5rL3tmbmFtZX0uY3N2JykgYXMgaW5maWxlOgogICAgICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICAgICAgbmV4dChyZWFkZXIpICAjIGlnbm9yZSBoZWFkZXIKICAgICAgICAgICAgZGF0YSA9IFsoc3RyKHJbMF0pLCBmbG9hdChyWzFdKSkgZm9yIHIgaW4gcmVhZGVyXQogICAgICAgICAgICBkYXRhc2V0LmV4dGVuZChkYXRhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF0dGVudGlvbiA9IE11bHRpcGx5KCkoW2F0dGVudGlvbl9zb2Z0bWF4LCBhbGxfZW1iZWRkZWRdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF0dGVudGlvbiA9IE11bHRpcGx5KCkoW2F0dGVudGlvbl9zb2Z0bWF4LCBhbGxfZW1iZWRkZWRdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF0dGVudGlvbl9zb2Z0bWF4ID0gUmVwZWF0VmVjdG9yKEVNQkVEX1NJWkUpKGdydSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF0dGVudGlvbl9zb2Z0bWF4ID0gUmVwZWF0VmVjdG9yKEVNQkVEX1NJWkUpKGdydSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFsbF9lbWJlZGRlZCA9IFJlc2hhcGUoKEVNQkVEX1NJWkUsIE1FU1NBR0VfTEVOKSkoVGltZURpc3RyaWJ1dGVkKGVtYmVkZGluZ19kcm9wb3V0KSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgU2VxdWVuY2Ugb2YgYWxsIGVtYmVkZGVkIGZvciBhdHRlbnRpb24K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFsbF9lbWJlZGRlZCA9IFJlc2hhcGUoKEVNQkVEX1NJWkUsIE1FU1NBR0VfTEVOKSkoVGltZURpc3RyaWJ1dGVkKGVtYmVkZGluZ19kcm9wb3V0KSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgU2VxdWVuY2Ugb2YgYWxsIGVtYmVkZGVkIGZvciBhdHRlbnRpb24K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gKFsKICAgICAgICAsCiAgICAgICAgRHJvcG91dChEUk9QT1VUKSwKICAgICAgICBHUlUoCiAgICAgICAgICAgIEVNQkVEX1NJWkUsCiAgICAgICAgICAgICMgcmVjdXJyZW50X3JlZ3VsYXJpemVyPWwyKFdFSUdIVF9MMiksCiAgICAgICAgICAgICMga2VybmVsX3JlZ3VsYXJpemVyPWwyKFdFSUdIVF9MMiksCiAgICAgICAgKSwKICAgICAgICBEcm9wb3V0KERST1BPVVQpLAogICAgICAgIERlbnNlKDEsIGFjdGl2YXRpb249J3JlbHUnLCBrZXJuZWxfcmVndWxhcml6ZXI9bDIoV0VJR0hUX0wyKSksCiAgICBdKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
