@@ -306,12 +306,12 @@
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1512020374662">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1512022460649">
         <mark key="'" line="51" column="15" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="13" />
-        <mark key="^" line="64" column="34" />
-        <mark key="." line="16" column="13" />
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="83" column="34" />
+        <mark key="^" line="79" column="42" />
+        <mark key="." line="83" column="34" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
@@ -490,16 +490,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gru</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>gru</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>symbolic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBvcy5lbnZpcm9uLmdldCgnVFdJVFRFUl9QQVRIJywgJy9ob21lL3N0dWFydC9kYXRhL3R3aXR0ZXItc2VudGltZW50L3NlbnRpbWVudF9kYXRhLmNzdicpCiAgICBsb2dnaW5nLmluZm8oZidMb2FkaW5nIHR3aXR0ZXIgdGVzdCBkYXRhc2V0IGZyb20ge3BhdGh9Li4uJykK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiQ2FsY3VsYXRpbmcgdHJhaW5pbmcgbG9zcy4uLiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5ldHdvcmtfaW5wdXQgPSBJbnB1dChzaGFwZT0oTUVTU0FHRV9MRU4sICkpCiAgICBlbWJlZGRpbmcgPSBFbWJlZGRpbmcoTUFYX1ZPQ0FCX1NJWkUsIEVNQkVEX1NJWkUsIGVtYmVkZGluZ3NfcmVndWxhcml6ZXI9bDIoRU1CRURESU5HX0wyKSlcCiAgICAgICAgKG5ldHdvcmtfaW5wdXQpCiAgICBlbWJlZGRpbmdfZHJvcG91dCA9IERyb3BvdXQoRFJPUE9VVCkoZW1iZWRkaW5nKQoKICAgIGNvbnZvbHV0aW9ucyA9IFtdCiAgICBmb3IgZmlsdGVyX2xlbiBpbiBGSUxURVJfU0laRVM6CiAgICAgICAgY29udm9sdXRpb25zLmFwcGVuZChDb252b2x1dGlvbjFEKE5VTV9GSUxURVIpKQo=</text>
