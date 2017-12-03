@@ -46,6 +46,9 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/data/amazon-reviews-sentiment/requirements.txt" timestamp="1512329000116">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
@@ -106,11 +109,12 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512020467799">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="35" />
-        <mark key="^" line="47" column="39" />
-        <mark key="." line="16" column="35" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512336317162">
+        <mark key="'" line="70" column="41" />
+        <mark key="[" line="71" column="34" />
+        <mark key="]" line="71" column="34" />
+        <mark key="^" line="71" column="34" />
+        <mark key="." line="71" column="34" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/bow_lin_reg.py" timestamp="1511649049750">
         <mark key="[" line="1" column="0" />
@@ -210,7 +214,7 @@
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1512020772634">
+      <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507309521591">
@@ -283,7 +287,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512020483050">
+      <file name="/Dummy.txt" timestamp="1512329094542">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -367,6 +371,12 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
+        <mark key="[" line="52" column="43" />
+        <mark key="]" line="52" column="43" />
+        <mark key="^" line="45" column="26" />
+        <mark key="." line="52" column="43" />
+      </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -387,9 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="549" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
-      <jump line="579" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
-      <jump line="187" column="31" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="233" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="234" column="48" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="392" column="18" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
@@ -487,19 +494,22 @@
       <jump line="143" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/twitter/api.py" />
       <jump line="158" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/twitter/api.py" />
       <jump line="36" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
+      <jump line="69" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>model.predict([text_to_word_idxs(example)])</text>
+        <text>train</text>
       </register>
       <register name="-" type="4">
-        <text>model.predict([text_to_word_idxs(example)])</text>
+        <text>train</text>
       </register>
       <register name="/" type="4">
-        <text>symbolic</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4YW1wbGVzID0gWwogICAgICAgICdUaGlzIGlzIGhvdyB3ZSBkbyBpdC4nLAogICAgICAgICdJIGxvdmUgdGhpcyBzb25nIScsCiAgICAgICAgIk5vdGhpbmcgdG8gd3JpdGUgaG9tZSBhYm91dC4iLAogICAgICAgICJJdCdzIG5vdCBiYWQsIGJ1dC4uLiIsCiAgICAgICAgIk5vdGhpbmcgdG8gY29tcGxhaW4gYWJvdXQhIiwKICAgICAgICAiUmVhbGx5IHdpc2ggaXQgaGFkIGJsdWV0b290aC4iLAogICAgXQoKICAgIGZvciBleGFtcGxlIGluIGV4YW1wbGVzOgogICAgICAgIGxvZ2dpbmcuaW5mbyhmJzwge2V4YW1wbGV9XHRcdD4ge21vZGVsLnByZWRpY3QodmVjdG9yaXplci50cmFuc2Zvcm0oW2V4YW1wbGVdKSl9JykK</text>
+        <text encoding="base64">CgpkZWYgbG9hZF9hbWF6b25fZGF0YV90cmFpbigpIC0+IExpc3RbVHVwbGVbc3RyLCBmbG9hdF1dOgogICAgIiIiIExvYWRzIHRyYWluIGRhdGFzZXQgZm9yIGFtYXpvbiByZXZpZXdzICIiIgogICAgcGF0aCA9IG9zLmVudmlyb24uZ2V0KCdBTUFaT05fUEFUSCcsICcvaG9tZS9zdHVhcnQvZGF0YS9hbWF6b24tcmV2aWV3cy1zZW50aW1lbnQvdHJhaW4uY3N2JykKICAgIGxvZ2dpbmcuaW5mbyhmJ0xvYWRpbmcgYW1hem9uIHRyYWluIGRhdGEgZnJvbSB7cGF0aH0uLi4nKQogICAgd2l0aCBvcGVuKHBhdGgpIGFzIGluZmlsZToKICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICByZXR1cm4gWyhyWzJdICsgJ1x0JyArIHJbM10sIHJbMV0gLyA1LjAgLSAwLjEpIGZvciByIGluIHJlYWRlcl0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBleGFtcGxlcyA9IFsKICAgICAgICAnVGhpcyBpcyBob3cgd2UgZG8gaXQuJywKICAgICAgICAnSSBsb3ZlIHRoaXMgc29uZyEnLAogICAgICAgICJOb3RoaW5nIHRvIHdyaXRlIGhvbWUgYWJvdXQuIiwKICAgICAgICAiSXQncyBub3QgYmFkLCBidXQuLi4iLAogICAgICAgICJOb3RoaW5nIHRvIGNvbXBsYWluIGFib3V0ISIsCiAgICAgICAgIlJlYWxseSB3aXNoIGl0IGhhZCBibHVldG9vdGguIiwKICAgIF0K</text>
@@ -529,20 +539,20 @@
         <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZicvaG9tZS9zdHVhcnQvZGF0YS9zdGFuZm9yZFNlbnRpbWVudFRyZWViYW5rL3tmbmFtZX0uY3N2JykgYXMgaW5maWxlOgogICAgICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICAgICAgbmV4dChyZWFkZXIpICAjIGlnbm9yZSBoZWFkZXIKICAgICAgICAgICAgZGF0YSA9IFsoc3RyKHJbMF0pLCBmbG9hdChyWzFdKSkgZm9yIHIgaW4gcmVhZGVyXQogICAgICAgICAgICBkYXRhc2V0LmV4dGVuZChkYXRhKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>symbolic</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>symbolic</last-pattern>
+      <last-pattern>test</last-pattern>
+      <last-replace>dev</last-replace>
+      <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>INSERT INTO</entry>
-        <entry>__doc_id</entry>
         <entry>bss</entry>
         <entry>row[5</entry>
         <entry>GetStatus</entry>
@@ -561,9 +571,13 @@
         <entry>timeout</entry>
         <entry>Symbolic</entry>
         <entry>symbolic</entry>
+        <entry>train</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>s/train/test/g</entry>
+        <entry>s/test/dev/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
