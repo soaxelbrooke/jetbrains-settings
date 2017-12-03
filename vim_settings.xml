@@ -109,12 +109,12 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512336317162">
-        <mark key="'" line="70" column="41" />
-        <mark key="[" line="71" column="34" />
-        <mark key="]" line="71" column="34" />
-        <mark key="^" line="71" column="34" />
-        <mark key="." line="71" column="34" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512338026861">
+        <mark key="'" line="73" column="41" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="117" column="46" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/bow_lin_reg.py" timestamp="1511649049750">
         <mark key="[" line="1" column="0" />
@@ -310,12 +310,12 @@
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1512261440055">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1512337070059">
         <mark key="'" line="51" column="15" />
-        <mark key="[" line="89" column="51" />
-        <mark key="]" line="89" column="51" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
         <mark key="^" line="89" column="7" />
-        <mark key="." line="89" column="8" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
@@ -499,11 +499,11 @@
       <jump line="69" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>train</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhc2V0LmV4dGVuZChyYW5kb20uc2FtcGxlKGRzLCBzaGFwZShsZW4oZHMpLCBkc19sZW5zKSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text>min([left_to_sample, len(ds)])</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -512,31 +512,31 @@
         <text encoding="base64">CgpkZWYgbG9hZF9hbWF6b25fZGF0YV90cmFpbigpIC0+IExpc3RbVHVwbGVbc3RyLCBmbG9hdF1dOgogICAgIiIiIExvYWRzIHRyYWluIGRhdGFzZXQgZm9yIGFtYXpvbiByZXZpZXdzICIiIgogICAgcGF0aCA9IG9zLmVudmlyb24uZ2V0KCdBTUFaT05fUEFUSCcsICcvaG9tZS9zdHVhcnQvZGF0YS9hbWF6b24tcmV2aWV3cy1zZW50aW1lbnQvdHJhaW4uY3N2JykKICAgIGxvZ2dpbmcuaW5mbyhmJ0xvYWRpbmcgYW1hem9uIHRyYWluIGRhdGEgZnJvbSB7cGF0aH0uLi4nKQogICAgd2l0aCBvcGVuKHBhdGgpIGFzIGluZmlsZToKICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICByZXR1cm4gWyhyWzJdICsgJ1x0JyArIHJbM10sIHJbMV0gLyA1LjAgLSAwLjEpIGZvciByIGluIHJlYWRlcl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBleGFtcGxlcyA9IFsKICAgICAgICAnVGhpcyBpcyBob3cgd2UgZG8gaXQuJywKICAgICAgICAnSSBsb3ZlIHRoaXMgc29uZyEnLAogICAgICAgICJOb3RoaW5nIHRvIHdyaXRlIGhvbWUgYWJvdXQuIiwKICAgICAgICAiSXQncyBub3QgYmFkLCBidXQuLi4iLAogICAgICAgICJOb3RoaW5nIHRvIGNvbXBsYWluIGFib3V0ISIsCiAgICAgICAgIlJlYWxseSB3aXNoIGl0IGhhZCBibHVldG9vdGguIiwKICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBkYXRhc2V0LmV4dGVuZChyYW5kb20uc2FtcGxlKGRzLCBzaGFwZShsZW4oZHMpLCBkc19sZW5zKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBleGFtcGxlIGluIGV4YW1wbGVzOgogICAgICAgIGxvZ2dpbmcuaW5mbyhmJzwge2V4YW1wbGV9XHRcdD4ge21vZGVsLnByZWRpY3QoW3RleHRfdG9fd29yZF9pZHhzKGV4YW1wbGUpXSl9JykKCg==</text>
+        <text encoding="base64">ICAgIHJhbmRvbS5zaHVmZmxlKGRhdGFzZXQpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oZidFcG9jaCB7ZXBvY2ggKyAxfS97RVBPQ0hTfS4uLicpCg==</text>
+        <text encoding="base64">CiAgICBleGFtcGxlcyA9IFsKICAgICAgICAnVGhpcyBpcyBob3cgd2UgZG8gaXQuJywKICAgICAgICAnSSBsb3ZlIHRoaXMgc29uZyEnLAogICAgICAgICJOb3RoaW5nIHRvIHdyaXRlIGhvbWUgYWJvdXQuIiwKICAgICAgICAiSXQncyBub3QgYmFkLCBidXQuLi4iLAogICAgICAgICJOb3RoaW5nIHRvIGNvbXBsYWluIGFib3V0ISIsCiAgICAgICAgIlJlYWxseSB3aXNoIGl0IGhhZCBibHVldG9vdGguIiwKICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZXBvY2ggaW4gcmFuZ2UoRVBPQ0hTKToK</text>
+        <text encoding="base64">ICAgIGZvciBleGFtcGxlIGluIGV4YW1wbGVzOgogICAgICAgIGxvZ2dpbmcuaW5mbyhmJzwge2V4YW1wbGV9XHRcdD4ge21vZGVsLnByZWRpY3QoW3RleHRfdG9fd29yZF9pZHhzKGV4YW1wbGUpXSl9JykKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtfaW5wdXQgPSBJbnB1dChzaGFwZT0oTUVTU0FHRV9MRU4sICkpCiAgICBlbWJlZGRpbmcgPSBFbWJlZGRpbmcoTUFYX1ZPQ0FCX1NJWkUsIEVNQkVEX1NJWkUsIGVtYmVkZGluZ3NfcmVndWxhcml6ZXI9bDIoRU1CRURESU5HX0wyKSlcCiAgICAgICAgKG5ldHdvcmtfaW5wdXQpCiAgICBlbWJlZGRpbmdfZHJvcG91dCA9IERyb3BvdXQoRFJPUE9VVCkoZW1iZWRkaW5nKQoKICAgIGNvbnZvbHV0aW9ucyA9IFtdCiAgICBmb3IgZmlsdGVyX2xlbiBpbiBGSUxURVJfU0laRVM6CiAgICAgICAgY29udm9sdXRpb25zLmFwcGVuZChDb252b2x1dGlvbjFEKE5VTV9GSUxURVIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdydSA9IEdSVShNRVNTQUdFX0xFTiwgYWN0aXZhdGlvbj0nc29mdG1heCcpKGVtYmVkZGluZ19kcm9wb3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oZidFcG9jaCB7ZXBvY2ggKyAxfS97RVBPQ0hTfS4uLicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTG9hZGluZyB0d2l0dGVyIHRyYWluIGRhdGFzZXQuLi4nKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZXBvY2ggaW4gcmFuZ2UoRVBPQ0hTKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZicvaG9tZS9zdHVhcnQvZGF0YS9zdGFuZm9yZFNlbnRpbWVudFRyZWViYW5rL3tmbmFtZX0uY3N2JykgYXMgaW5maWxlOgogICAgICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICAgICAgbmV4dChyZWFkZXIpICAjIGlnbm9yZSBoZWFkZXIKICAgICAgICAgICAgZGF0YSA9IFsoc3RyKHJbMF0pLCBmbG9hdChyWzFdKSkgZm9yIHIgaW4gcmVhZGVyXQogICAgICAgICAgICBkYXRhc2V0LmV4dGVuZChkYXRhKQo=</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtfaW5wdXQgPSBJbnB1dChzaGFwZT0oTUVTU0FHRV9MRU4sICkpCiAgICBlbWJlZGRpbmcgPSBFbWJlZGRpbmcoTUFYX1ZPQ0FCX1NJWkUsIEVNQkVEX1NJWkUsIGVtYmVkZGluZ3NfcmVndWxhcml6ZXI9bDIoRU1CRURESU5HX0wyKSlcCiAgICAgICAgKG5ldHdvcmtfaW5wdXQpCiAgICBlbWJlZGRpbmdfZHJvcG91dCA9IERyb3BvdXQoRFJPUE9VVCkoZW1iZWRkaW5nKQoKICAgIGNvbnZvbHV0aW9ucyA9IFtdCiAgICBmb3IgZmlsdGVyX2xlbiBpbiBGSUxURVJfU0laRVM6CiAgICAgICAgY29udm9sdXRpb25zLmFwcGVuZChDb252b2x1dGlvbjFEKE5VTV9GSUxURVIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
