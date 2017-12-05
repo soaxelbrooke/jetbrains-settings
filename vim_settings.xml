@@ -109,11 +109,11 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512404893800">
-        <mark key="'" line="77" column="41" />
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="50" column="22" />
-        <mark key="." line="50" column="22" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512449317496">
+        <mark key="'" line="79" column="41" />
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/bow_lin_reg.py" timestamp="1511649049750">
@@ -251,6 +251,11 @@
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/utils.py" timestamp="1511462936170">
         <mark key="[" line="33" column="25" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_lstm.py" timestamp="1512449284941">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="8" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="22" column="47" />
@@ -287,7 +292,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512329094542">
+      <file name="/Dummy.txt" timestamp="1512449198600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -499,16 +504,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAjICAgICAgICAgICAgICAgICAgICAgWzAuMTc2MDY3NTkyNjUyMDQ0NjQsIDAuNzE5NDY0NzA4MzUxNTQ4NDFdCiAgICAjIHJldHVybiAtMC4xICsgMSAvICgwLjggKyBudW1weS5leHAoMyAqIC15KSkgICMgWzAuMDgyMzk3ODAyMzUzMTE0MzM2LCAwLjczMDk3NzA1MjcxNDIzMjg2XQogICAgIyByZXR1cm4geSAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbLTUuMDAwMTg1NzM0NjQxMDg1LCAwLjcxOTQ2NDcxODY5NDQ3NjkyXQ==</text>
+        <text>gru</text>
       </register>
       <register name="-" type="4">
-        <text>experiment_name</text>
+        <text>gru</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CgpkZWYgbG9hZF9hbWF6b25fZGF0YV90cmFpbigpIC0+IExpc3RbVHVwbGVbc3RyLCBmbG9hdF1dOgogICAgIiIiIExvYWRzIHRyYWluIGRhdGFzZXQgZm9yIGFtYXpvbiByZXZpZXdzICIiIgogICAgcGF0aCA9IG9zLmVudmlyb24uZ2V0KCdBTUFaT05fUEFUSCcsICcvaG9tZS9zdHVhcnQvZGF0YS9hbWF6b24tcmV2aWV3cy1zZW50aW1lbnQvdHJhaW4uY3N2JykKICAgIGxvZ2dpbmcuaW5mbyhmJ0xvYWRpbmcgYW1hem9uIHRyYWluIGRhdGEgZnJvbSB7cGF0aH0uLi4nKQogICAgd2l0aCBvcGVuKHBhdGgpIGFzIGluZmlsZToKICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICByZXR1cm4gWyhyWzJdICsgJ1x0JyArIHJbM10sIHJbMV0gLyA1LjAgLSAwLjEpIGZvciByIGluIHJlYWRlcl0K</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGV4cGVyaW1lbnRfbmFtZSA9PSAna2VyYXNfZ3J1JzoKICAgICAgICAgICAgZnJvbSBleHBlcmltZW50YWwuc2VudGltZW50LmtlcmFzX2dydSBpbXBvcnQgcnVuX2V4cGVyaW1lbnQK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAjICAgICAgICAgICAgICAgICAgICAgWzAuMTc2MDY3NTkyNjUyMDQ0NjQsIDAuNzE5NDY0NzA4MzUxNTQ4NDFdCiAgICAjIHJldHVybiAtMC4xICsgMSAvICgwLjggKyBudW1weS5leHAoMyAqIC15KSkgICMgWzAuMDgyMzk3ODAyMzUzMTE0MzM2LCAwLjczMDk3NzA1MjcxNDIzMjg2XQogICAgIyByZXR1cm4geSAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbLTUuMDAwMTg1NzM0NjQxMDg1LCAwLjcxOTQ2NDcxODY5NDQ3NjkyXQ==</text>
