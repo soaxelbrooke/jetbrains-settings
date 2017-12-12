@@ -85,7 +85,8 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="33" column="67" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1513051063534">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1513060136000">
+        <mark key="[" line="11" column="44" />
         <mark key="]" line="0" column="55" />
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
@@ -145,8 +146,8 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1513050994960">
-        <mark key="[" line="4" column="6" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1513060125549">
+        <mark key="[" line="10" column="21" />
         <mark key="]" line="3" column="23" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -290,7 +291,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513051016569">
+      <file name="/Dummy.txt" timestamp="1513060173880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -307,11 +308,11 @@
         <mark key="." line="63" column="11" />
         <mark key="^" line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1513055107893">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1513060195049">
+        <mark key="[" line="71" column="98" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
         <mark key="[" line="4" column="11" />
@@ -502,11 +503,11 @@
       <jump line="36" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>threads</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text>symbolic</text>
