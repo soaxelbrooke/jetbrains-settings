@@ -214,14 +214,14 @@
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513051714075">
+      <file name="/Python Console" timestamp="1513054921749">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1513052514465">
+      <file name="/fragment.py" timestamp="1513055070779">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508153482493">
         <mark key="[" line="15" column="25" />
@@ -307,10 +307,11 @@
         <mark key="." line="63" column="11" />
         <mark key="^" line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1513052506506">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1513055107893">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
         <mark key="[" line="4" column="11" />
@@ -502,43 +503,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVGl0bGU6ICIsIHN1Ym1pc3Npb24udGl0bGUpCiAgICAgICAgcHJpbnQoIlRleHQ6ICIsIHN1Ym1pc3Npb24uc2VsZnRleHQpCiAgICAgICAgcHJpbnQoIlNjb3JlOiAiLCBzdWJtaXNzaW9uLnNjb3JlKQogICAgICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SINCE</text>
+        <text>threads</text>
       </register>
       <register name="/" type="4">
         <text>symbolic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvYWRfZG90ZW52KCcuZW52JykK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbyhmJ1dyaXRpbmcge2xlbih0aHJlYWRzKX0gdG8gdGhyZWFkcy5qc29uLi4uJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVGl0bGU6ICIsIHN1Ym1pc3Npb24udGl0bGUpCiAgICAgICAgcHJpbnQoIlRleHQ6ICIsIHN1Ym1pc3Npb24uc2VsZnRleHQpCiAgICAgICAgcHJpbnQoIlNjb3JlOiAiLCBzdWJtaXNzaW9uLnNjb3JlKQogICAgICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBlb3BsZSA9IFtdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcGVvcGxlLmFwcGVuZCh7CiAgICAgICAgICAgIAogICAgICAgIH0pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxpc3Qoc3VicmVkZGl0LmhvdChsaW1pdD01KSkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IS8uZW52Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTG9hZGluZyB0d2l0dGVyIHRyYWluIGRhdGFzZXQuLi4nKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZicvaG9tZS9zdHVhcnQvZGF0YS9zdGFuZm9yZFNlbnRpbWVudFRyZWViYW5rL3tmbmFtZX0uY3N2JykgYXMgaW5maWxlOgogICAgICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICAgICAgbmV4dChyZWFkZXIpICAjIGlnbm9yZSBoZWFkZXIKICAgICAgICAgICAgZGF0YSA9IFsoc3RyKHJbMF0pLCBmbG9hdChyWzFdKSkgZm9yIHIgaW4gcmVhZGVyXQogICAgICAgICAgICBkYXRhc2V0LmV4dGVuZChkYXRhKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29tbWVudC5hdXRob3IgaXMgTm9uZToKICAgICAgICAgICAgICAgIHByaW50KCdOb25lIEF1dGhvcicpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgaWYgc3VibWlzc2lvbi5hdXRob3IgaXMgTm9uZToKICAgICAgICAgICAgcHJpbnQoJ05vbmUgQXV0aG9yJykKCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBoYW5kbGVyID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKICAgIGhhbmRsZXIuc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykKICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdwcmF3Y29yZScpCiAgICBsb2dnZXIuc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykKICAgIGxvZ2dlci5hZGRIYW5kbGVyKGhhbmRsZXI=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiVGl0bGU6ICIsIHN1Ym1pc3Npb24udGl0bGUpCiAgICAgICAgcHJpbnQoIlRleHQ6ICIsIHN1Ym1pc3Npb24uc2VsZnRleHQpCiAgICAgICAgcHJpbnQoIlNjb3JlOiAiLCBzdWJtaXNzaW9uLnNjb3JlKQogICAgICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBlb3BsZSA9IFtdCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgcGVvcGxlLmFwcGVuZCh7CiAgICAgICAgICAgIAogICAgICAgIH0pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxpc3Qoc3VicmVkZGl0LmhvdChsaW1pdD01KSkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0dGVudGlvbiA9IE11bHRpcGx5KCkoW2F0dGVudGlvbl9zb2Z0bWF4LCBhbGxfZW1iZWRkZWRdKQo=</text>
+        <text encoding="base64">IS8uZW52Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
