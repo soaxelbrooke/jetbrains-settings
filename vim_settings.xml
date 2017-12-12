@@ -49,6 +49,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.gitignore" timestamp="1513051020890">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1511664330974">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="35" />
@@ -80,8 +85,7 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="33" column="67" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1510988195552">
-        <mark key="[" line="0" column="65" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1513051063534">
         <mark key="]" line="0" column="55" />
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
@@ -141,8 +145,8 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508312165227">
-        <mark key="[" line="3" column="1" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1513050994960">
+        <mark key="[" line="4" column="6" />
         <mark key="]" line="3" column="23" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -210,11 +214,14 @@
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1511078849052">
+      <file name="/Python Console" timestamp="1513051714075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1507309521591">
+      <file name="/fragment.py" timestamp="1513052514465">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508153482493">
         <mark key="[" line="15" column="25" />
@@ -283,14 +290,14 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512974454944">
+      <file name="/Dummy.txt" timestamp="1513051016569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="45" column="37" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1513051146799">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="22" />
         <mark key="." line="45" column="37" />
         <mark key="^" line="27" column="29" />
       </file>
@@ -299,6 +306,11 @@
         <mark key="]" line="63" column="11" />
         <mark key="." line="63" column="11" />
         <mark key="^" line="63" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1513052506506">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
         <mark key="[" line="4" column="11" />
@@ -489,44 +501,44 @@
       <jump line="36" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiVGl0bGU6ICIsIHN1Ym1pc3Npb24udGl0bGUpCiAgICAgICAgcHJpbnQoIlRleHQ6ICIsIHN1Ym1pc3Npb24uc2VsZnRleHQpCiAgICAgICAgcHJpbnQoIlNjb3JlOiAiLCBzdWJtaXNzaW9uLnNjb3JlKQogICAgICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>SINCE</text>
       </register>
       <register name="/" type="4">
         <text>symbolic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBvcy5lbnZpcm9uLmdldCgnVFdJVFRFUl9QQVRIJywgJy9ob21lL3N0dWFydC9kYXRhL3R3aXR0ZXItc2VudGltZW50L3NlbnRpbWVudF9kYXRhLmNzdicpCiAgICBsb2dnaW5nLmluZm8oZidMb2FkaW5nIHR3aXR0ZXIgdGVzdCBkYXRhc2V0IGZyb20ge3BhdGh9Li4uJykK</text>
+        <text encoding="base64">ICAgIGxvYWRfZG90ZW52KCcuZW52JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTG9hZGluZyB0d2l0dGVyIHRyYWluIGRhdGFzZXQuLi4nKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiVGl0bGU6ICIsIHN1Ym1pc3Npb24udGl0bGUpCiAgICAgICAgcHJpbnQoIlRleHQ6ICIsIHN1Ym1pc3Npb24uc2VsZnRleHQpCiAgICAgICAgcHJpbnQoIlNjb3JlOiAiLCBzdWJtaXNzaW9uLnNjb3JlKQogICAgICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZicvaG9tZS9zdHVhcnQvZGF0YS9zdGFuZm9yZFNlbnRpbWVudFRyZWViYW5rL3tmbmFtZX0uY3N2JykgYXMgaW5maWxlOgogICAgICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICAgICAgbmV4dChyZWFkZXIpICAjIGlnbm9yZSBoZWFkZXIKICAgICAgICAgICAgZGF0YSA9IFsoc3RyKHJbMF0pLCBmbG9hdChyWzFdKSkgZm9yIHIgaW4gcmVhZGVyXQogICAgICAgICAgICBkYXRhc2V0LmV4dGVuZChkYXRhKQo=</text>
+        <text encoding="base64">ICAgIHBlb3BsZSA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcGVvcGxlLmFwcGVuZCh7CiAgICAgICAgICAgIAogICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF0dGVudGlvbiA9IE11bHRpcGx5KCkoW2F0dGVudGlvbl9zb2Z0bWF4LCBhbGxfZW1iZWRkZWRdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxpc3Qoc3VicmVkZGl0LmhvdChsaW1pdD01KSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IS8uZW52Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF0dGVudGlvbl9zb2Z0bWF4ID0gUmVwZWF0VmVjdG9yKEVNQkVEX1NJWkUpKGdydSkK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTG9hZGluZyB0d2l0dGVyIHRyYWluIGRhdGFzZXQuLi4nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZicvaG9tZS9zdHVhcnQvZGF0YS9zdGFuZm9yZFNlbnRpbWVudFRyZWViYW5rL3tmbmFtZX0uY3N2JykgYXMgaW5maWxlOgogICAgICAgICAgICByZWFkZXIgPSBjc3YucmVhZGVyKGluZmlsZSkKICAgICAgICAgICAgbmV4dChyZWFkZXIpICAjIGlnbm9yZSBoZWFkZXIKICAgICAgICAgICAgZGF0YSA9IFsoc3RyKHJbMF0pLCBmbG9hdChyWzFdKSkgZm9yIHIgaW4gcmVhZGVyXQogICAgICAgICAgICBkYXRhc2V0LmV4dGVuZChkYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsbF9lbWJlZGRlZCA9IFJlc2hhcGUoKEVNQkVEX1NJWkUsIE1FU1NBR0VfTEVOKSkoVGltZURpc3RyaWJ1dGVkKGVtYmVkZGluZ19kcm9wb3V0KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgU2VxdWVuY2Ugb2YgYWxsIGVtYmVkZGVkIGZvciBhdHRlbnRpb24K</text>
+        <text encoding="base64">ICAgIGF0dGVudGlvbiA9IE11bHRpcGx5KCkoW2F0dGVudGlvbl9zb2Z0bWF4LCBhbGxfZW1iZWRkZWRdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
