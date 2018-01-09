@@ -230,6 +230,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515477355700">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
       </file>
@@ -263,6 +269,9 @@
         <mark key="]" line="116" column="32" />
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515476651779">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -380,6 +389,9 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1515477192773">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
         <mark key="[" line="0" column="0" />
       </file>
@@ -460,8 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="622" column="30" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
       <jump line="47" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="609" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="408" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
@@ -560,13 +570,15 @@
       <jump line="397" column="41" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="430" column="16" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>div</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDZweDsK</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>small</text>
       </register>
       <register name="/" type="4">
         <text>querySelector</text>
@@ -575,31 +587,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lm5hdmJhci1pdGVtOmhvdmVyIHsKICAgIGNvbG9yOiAjZmZmOwp9Cgo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDZweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lm5hdmJhci1pdGVtIHsKICAgIGNvbG9yOiBncmV5Owp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmF2Lm5hdmJhciBoMSB7CiAgICBjb2xvcjogI2ZmZjsKfQoK</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImlzLXNtYWxsIHRpdGxlLXN1cGVyc2NyaXB0Ij5UaG91Z2h0IFZlY3RvcjwvbGFiZWw+CiAgICAgICAgPGgxIGNsYXNzPSJ0aXRsZSI+Q29tbXVuaXR5IE1vbml0b3I8L2gxPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lm5hdmJhci1pdGVtOmhvdmVyIHsKICAgIGNvbG9yOiAjZmZmOwp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Lm5hdmJhciAgewogICAgZm9udC1zaXplOiAxLjVlbTsKICAgIGNvbG9yOiAjY2NjOwp9Cg==</text>
+        <text encoding="base64">Lm5hdmJhci1pdGVtIHsKICAgIGNvbG9yOiBncmV5Owp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmF2Lm5hdmJhciBoMSB7CiAgICBjb2xvcjogI2ZmZjsKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aDEudGl0bGUgewogICAgZm9udC13ZWlnaHQ6IDYwMDsKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qZm9udC1zaXplOiAyZW07Ki8K</text>
+        <text encoding="base64">Lm5hdmJhciAgewogICAgZm9udC1zaXplOiAxLjVlbTsKICAgIGNvbG9yOiAjY2NjOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8qLm5hdmJhciB7Ki8KICAgIC8qcGFkZGluZzogMCAxZW07Ki8KLyp9Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%y+</text>
