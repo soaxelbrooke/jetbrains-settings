@@ -270,8 +270,10 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515476651779">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515481176541">
+        <mark key="[" line="45" column="53" />
+        <mark key="]" line="45" column="8" />
+        <mark key="." line="45" column="8" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -389,8 +391,12 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1515477192773">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1515481409981">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="66" />
+        <mark key="]" line="8" column="102" />
+        <mark key="^" line="8" column="102" />
+        <mark key="." line="8" column="102" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
         <mark key="[" line="0" column="0" />
@@ -574,44 +580,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDZweDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHNjcmk=</text>
       </register>
       <register name="-" type="4">
-        <text>small</text>
+        <text encoding="base64">PHNjcmk=</text>
       </register>
       <register name="/" type="4">
         <text>querySelector</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text>vega-dashboard</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDZweDsK</text>
+        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvdmVnYS10b29sdGlwLzMuMC44L3ZlZ2EtdG9vbHRpcC5taW4uY3NzIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImlzLXNtYWxsIHRpdGxlLXN1cGVyc2NyaXB0Ij5UaG91Z2h0IFZlY3RvcjwvbGFiZWw+CiAgICAgICAgPGgxIGNsYXNzPSJ0aXRsZSI+Q29tbXVuaXR5IE1vbml0b3I8L2gxPgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lm5hdmJhci1pdGVtOmhvdmVyIHsKICAgIGNvbG9yOiAjZmZmOwp9Cgo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5jb21tZW50cyA9IGNvbW1lbnRzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Lm5hdmJhci1pdGVtIHsKICAgIGNvbG9yOiBncmV5Owp9Cgo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3ZlZ2EtbGl0ZS8yLjAuMy92ZWdhLWxpdGUuanMiCiAgICAgICAgaW50ZWdyaXR5PSJzaGEyNTYtT0hKVVBjQWpGekEvUGNuMzJqbGhlbnA4U2lVeDJaZXJaNkU2bFBzRkxaaz0iCiAgICAgICAgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmF2Lm5hdmJhciBoMSB7CiAgICBjb2xvcjogI2ZmZjsKfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHVwZGF0ZURhdGEoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Lm5hdmJhciAgewogICAgZm9udC1zaXplOiAxLjVlbTsKICAgIGNvbG9yOiAjY2NjOwp9Cg==</text>
+        <text encoding="base64">CiAgICBmdW5jdGlvbiBidWlsZFF1ZXJ5KGRhdGFRdWVyeSkgewogICAgICAgIHJldHVybiBkYXRhUXVlcnkgKyAnIHdoZXJlICcgKyBjdXJyZW50RmlsdGVyOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGN1cnJlbnRGaWx0ZXIgPSAnJzsK</text>
       </register>
       <register name=":" type="4">
         <text>%y+</text>
