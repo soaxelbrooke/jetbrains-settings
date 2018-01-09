@@ -230,11 +230,11 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515477355700">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515483519977">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
@@ -270,10 +270,11 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515481176541">
-        <mark key="[" line="45" column="53" />
-        <mark key="]" line="45" column="8" />
-        <mark key="." line="45" column="8" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515485257298">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -391,12 +392,11 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1515481409981">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1515482292427">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="66" />
-        <mark key="]" line="8" column="102" />
-        <mark key="^" line="8" column="102" />
-        <mark key="." line="8" column="102" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
         <mark key="[" line="0" column="0" />
@@ -581,43 +581,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHNjcmk=</text>
+        <text>bar</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNjcmk=</text>
+        <text>bar</text>
       </register>
       <register name="/" type="4">
         <text>querySelector</text>
       </register>
-      <register name="0" type="4">
-        <text>vega-dashboard</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldE1pbGxpc2Vjb25kcygwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvdmVnYS10b29sdGlwLzMuMC44L3ZlZ2EtdG9vbHRpcC5taW4uY3NzIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldE1pbGxpc2Vjb25kcygwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldFNlY29uZHMoMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldE1pbnV0ZXMoMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5jb21tZW50cyA9IGNvbW1lbnRzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldEhvdXJzKDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3ZlZ2EtbGl0ZS8yLjAuMy92ZWdhLWxpdGUuanMiCiAgICAgICAgaW50ZWdyaXR5PSJzaGEyNTYtT0hKVVBjQWpGekEvUGNuMzJqbGhlbnA4U2lVeDJaZXJaNkU2bFBzRkxaaz0iCiAgICAgICAgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldCgwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHVwZGF0ZURhdGEoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZmllbGQ6ICdTdWJtaXR0ZWQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBmdW5jdGlvbiBidWlsZFF1ZXJ5KGRhdGFRdWVyeSkgewogICAgICAgIHJldHVybiBkYXRhUXVlcnkgKyAnIHdoZXJlICcgKyBjdXJyZW50RmlsdGVyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBkZXRhaWw6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIGN1cnJlbnRGaWx0ZXIgPSAnJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHRyYW5zZm9ybTpbCiAgICAgICAgICAgICAgICAge3RpbWVVbml0OiAneWVhcm1vbnRoZGF0ZScsIGZpZWxkOiAnU3VibWl0dGVkJ30KICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>%y+</text>
