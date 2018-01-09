@@ -270,11 +270,11 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515530804401">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="30" column="21" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515541073449">
+        <mark key="[" line="85" column="53" />
+        <mark key="]" line="85" column="53" />
+        <mark key="." line="85" column="53" />
+        <mark key="^" line="89" column="22" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -580,11 +580,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBheGlzRm9udDogJ1JvYm90bycK</text>
+      <register name="&quot;" type="4">
+        <text>.map(function(comment) {
+                // comment.Submitted = new Date(comment.Submitted);
+                return comment;
+            });</text>
       </register>
       <register name="-" type="4">
-        <text>bar</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>querySelector</text>
@@ -592,32 +595,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxsaW5rIGhyZWY9J2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Sb2JvdG86NjAwLDMwMCw0MDAnIHJlbD0nc3R5bGVzaGVldCcKICAgICAgICAgIHR5cGU9J3RleHQvY3NzJz4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBheGlzRm9udDogJ1JvYm90bycK</text>
+      <register name="1" type="4">
+        <text>.map(function(comment) {
+                // comment.Submitted = new Date(comment.Submitted);
+                return comment;
+            });</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldE1pbGxpc2Vjb25kcygwKTsK</text>
+        <text encoding="base64">ICAgIC8vIGZldGNoRGF0YSgnc2VsZWN0ICogZnJvbSB0aHJlYWRzJykudGhlbihmdW5jdGlvbihhcGlfdGhyZWFkcykgewogICAgLy8gICAgIHRocmVhZHMgPSBhcGlfdGhyZWFkczsKICAgIC8vIH0pLnRoZW4odXBkYXRlVmVnYSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldFNlY29uZHMoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihmdW5jdGlvbihhcGlfY29tbWVudHMpIHsKICAgICAgICAgICAgYXBpX2NvbW1lbnRzOwogICAgICAgICAgICB3aW5kb3cuY29tbWVudHMgPSBjb21tZW50czsKICAgICAgICB9KS50aGVuKHVwZGF0ZVZlZ2EpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldE1pbnV0ZXMoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBheGlzRm9udDogJ1JvYm90bycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldEhvdXJzKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldE1pbGxpc2Vjb25kcygwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldCgwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldFNlY29uZHMoMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldE1pbnV0ZXMoMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZmllbGQ6ICdTdWJtaXR0ZWQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldEhvdXJzKDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkZXRhaWw6IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldCgwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%y+</text>
