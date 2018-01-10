@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="mithril" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_mithril_mithril.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_mithril_mithril.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vega" type="javaScript">
       <properties>
         <sourceFilesUrls>
