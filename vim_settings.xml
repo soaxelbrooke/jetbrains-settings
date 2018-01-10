@@ -230,11 +230,11 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515483519977">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515548990463">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
@@ -270,11 +270,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515541073449">
-        <mark key="[" line="85" column="53" />
-        <mark key="]" line="85" column="53" />
-        <mark key="." line="85" column="53" />
-        <mark key="^" line="89" column="22" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515548236808">
+        <mark key="'" line="28" column="34" />
+        <mark key="[" line="167" column="34" />
+        <mark key="]" line="167" column="34" />
+        <mark key="." line="167" column="34" />
+        <mark key="^" line="90" column="40" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -286,6 +287,12 @@
         <mark key="[" line="53" column="8" />
         <mark key="]" line="53" column="8" />
         <mark key="." line="53" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1515543865107">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="54" />
+        <mark key="^" line="16" column="358" />
+        <mark key="." line="16" column="358" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
         <mark key="[" line="6" column="28" />
@@ -330,7 +337,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515364431452">
+      <file name="/Dummy.txt" timestamp="1515548428750">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -392,11 +399,8 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1515530715240">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1515542610498">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="61" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
         <mark key="[" line="0" column="0" />
@@ -478,7 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="609" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="408" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="56" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
@@ -578,61 +581,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="6" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" />
+      <jump line="28" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.map(function(comment) {
-                // comment.Submitted = new Date(comment.Submitted);
-                return comment;
-            });</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>querySelector</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9J2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Sb2JvdG86NjAwLDMwMCw0MDAnIHJlbD0nc3R5bGVzaGVldCcKICAgICAgICAgIHR5cGU9J3RleHQvY3NzJz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXI6IHtmaWVsZDogJ1NvcnQnLCB0eXBlOiAncXVhbGl0YXRpdmUnfSwK</text>
       </register>
-      <register name="1" type="4">
-        <text>.map(function(comment) {
-                // comment.Submitted = new Date(comment.Submitted);
-                return comment;
-            });</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGZldGNoRGF0YSgnc2VsZWN0ICogZnJvbSB0aHJlYWRzJykudGhlbihmdW5jdGlvbihhcGlfdGhyZWFkcykgewogICAgLy8gICAgIHRocmVhZHMgPSBhcGlfdGhyZWFkczsKICAgIC8vIH0pLnRoZW4odXBkYXRlVmVnYSk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihmdW5jdGlvbihhcGlfY29tbWVudHMpIHsKICAgICAgICAgICAgYXBpX2NvbW1lbnRzOwogICAgICAgICAgICB3aW5kb3cuY29tbWVudHMgPSBjb21tZW50czsKICAgICAgICB9KS50aGVuKHVwZGF0ZVZlZ2EpOwo=</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHJlZCBzb2xpZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBheGlzRm9udDogJ1JvYm90bycK</text>
+        <text encoding="base64">I3ZlZ2EtZGFzaGJvYXJkIC5iYWNrZ3JvdW5kIGcubWFya3Mgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldE1pbGxpc2Vjb25kcygwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldFNlY29uZHMoMCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldE1pbnV0ZXMoMCk7Cg==</text>
+        <text encoding="base64">ICAgIC8qbWFyZ2luOiAycHg7Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldEhvdXJzKDApOwo=</text>
+        <text encoding="base64">Lm5hdmJhciAuYnJhbmQtdGl0bGUtY29udGFpbmVyIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnQuU3VibWl0dGVkLnNldCgwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%y+</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>querySelector</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern>querySelector</last-pattern>
+      <last-pattern>var</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -640,8 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>material</entry>
-        <entry>regex</entry>
         <entry>contain</entry>
         <entry>datatype</entry>
         <entry>DataType</entry>
@@ -660,9 +656,12 @@
         <entry>email</entry>
         <entry>getElementById</entry>
         <entry>querySelector</entry>
+        <entry>console.log</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
