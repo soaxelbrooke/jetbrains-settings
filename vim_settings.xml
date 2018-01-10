@@ -270,12 +270,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515548236808">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515613271868">
         <mark key="'" line="28" column="34" />
-        <mark key="[" line="167" column="34" />
-        <mark key="]" line="167" column="34" />
-        <mark key="." line="167" column="34" />
-        <mark key="^" line="90" column="40" />
+        <mark key="[" line="131" column="10" />
+        <mark key="]" line="167" column="12" />
+        <mark key="." line="167" column="12" />
+        <mark key="^" line="132" column="78" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -585,10 +585,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0tIEp1c3QgZWRpdCBNWV9UQUJMRSwgTVlfVEVYVF9DT0wsIGFuZCBNWV9QS0VZX0NPTCwgYW5kIHdhdGNoIGl0IGdvIQo=</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>MY_TEXT_COL</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -597,31 +597,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXI6IHtmaWVsZDogJ1NvcnQnLCB0eXBlOiAncXVhbGl0YXRpdmUnfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0tIEp1c3QgZWRpdCBNWV9UQUJMRSwgTVlfVEVYVF9DT0wsIGFuZCBNWV9QS0VZX0NPTCwgYW5kIHdhdGNoIGl0IGdvIQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHJlZCBzb2xpZDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">I3ZlZ2EtZGFzaGJvYXJkIC5iYWNrZ3JvdW5kIGcubWFya3Mgewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHJlZCBzb2xpZDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I3ZlZ2EtZGFzaGJvYXJkIC5iYWNrZ3JvdW5kIGcubWFya3Mgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qbWFyZ2luOiAycHg7Ki8K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Lm5hdmJhciAuYnJhbmQtdGl0bGUtY29udGFpbmVyIHsK</text>
+        <text encoding="base64">ICAgIC8qbWFyZ2luOiAycHg7Ki8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Lm5hdmJhciAuYnJhbmQtdGl0bGUtY29udGFpbmVyIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
