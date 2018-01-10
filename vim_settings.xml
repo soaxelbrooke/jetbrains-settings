@@ -270,12 +270,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515614972122">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515615658991">
         <mark key="'" line="28" column="34" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="161" column="34" />
-        <mark key="." line="161" column="34" />
-        <mark key="^" line="161" column="34" />
+        <mark key="[" line="201" column="75" />
+        <mark key="]" line="201" column="75" />
+        <mark key="." line="201" column="75" />
+        <mark key="^" line="201" column="75" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -589,10 +589,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wVegaSummaryView</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>wVegaSummaryView</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
