@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508505823973">
-        <mark key="[" line="181" column="25" />
-        <mark key="]" line="181" column="25" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1515778304981">
+        <mark key="'" line="220" column="10" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="223" column="0" />
         <mark key="^" line="180" column="1" />
         <mark key="." line="181" column="0" />
       </file>
@@ -59,7 +60,7 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1509289218024">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1515778079444">
         <mark key="'" line="181" column="71" />
         <mark key="[" line="178" column="67" />
         <mark key="]" line="178" column="43" />
@@ -230,11 +231,11 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515712848595">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515778435475">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="49" column="29" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
@@ -270,12 +271,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515733396508">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515778627708">
         <mark key="'" line="434" column="7" />
-        <mark key="[" line="450" column="35" />
-        <mark key="]" line="450" column="34" />
-        <mark key="." line="450" column="34" />
-        <mark key="^" line="445" column="25" />
+        <mark key="[" line="461" column="38" />
+        <mark key="]" line="486" column="78" />
+        <mark key="." line="483" column="0" />
+        <mark key="^" line="484" column="43" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -337,7 +338,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515733528696">
+      <file name="/Dummy.txt" timestamp="1515778048422">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -486,11 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="71" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
-      <jump line="301" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="29" column="36" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
-      <jump line="13" column="13" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
-      <jump line="23" column="38" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
       <jump line="25" column="32" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
       <jump line="71" column="51" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
       <jump line="73" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
@@ -586,55 +582,65 @@
       <jump line="287" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="240" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="434" column="7" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="13" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="222" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="221" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="220" column="10" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYm94IGxldmVsIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibGV2ZWwtaXRlbSBoYXMtdGV4dC1jZW50ZXJlZCI+CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJoZWFkaW5nIj5Db21tZW50IFZvbHVtZSBPdmVyIFRpbWU8L3A+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBpZD0idm9sLW92ZXItdGltZSI+PC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJsZXZlbC1pdGVtIGhhcy10ZXh0LWNlbnRlcmVkIj4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImhlYWRpbmciPlNpZ25pZmljYW50IFRlcm1zPC9wPgogICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9InRlcm1zLXRhYmxlIj48L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2Rpdi5zZW50aW1lbnQuaGFpcmxpbmUubGluZScsCiAgICAgICAgICAgICAgICAgICAgeyBzdHlsZTogYGZsZXgtZ3JvdzogJHtwb3NpdGl2ZVBjdH1gLAogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogYEZpbHRlciB0byAke3Bvc2l0aXZlfSBwb3NpdGl2ZSB0ZXh0c2AgfSwKICAgICAgICAgICAgICAgICAgICBtKCdoci5zZW50aW1lbnQuaGFpcmxpbmUucG9zaXRpdmUnLCBtKCdzcGFuJywgcG9zaXRpdmUpKSksCg==</text>
       </register>
       <register name="-" type="4">
         <text>full</text>
       </register>
       <register name="/" type="4">
-        <text>legend</text>
+        <text>green</text>
       </register>
       <register name="0" type="4">
-        <text>coalesce(scored_entities.word, scored_words.word)</text>
+        <text>div.sentiment.hairline.line</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYm94IGxldmVsIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibGV2ZWwtaXRlbSBoYXMtdGV4dC1jZW50ZXJlZCI+CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJoZWFkaW5nIj5Db21tZW50IFZvbHVtZSBPdmVyIFRpbWU8L3A+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBpZD0idm9sLW92ZXItdGltZSI+PC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJsZXZlbC1pdGVtIGhhcy10ZXh0LWNlbnRlcmVkIj4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImhlYWRpbmciPlNpZ25pZmljYW50IFRlcm1zPC9wPgogICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9InRlcm1zLXRhYmxlIj48L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2Rpdi5zZW50aW1lbnQuaGFpcmxpbmUubGluZScsCiAgICAgICAgICAgICAgICAgICAgeyBzdHlsZTogYGZsZXgtZ3JvdzogJHtwb3NpdGl2ZVBjdH1gLAogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogYEZpbHRlciB0byAke3Bvc2l0aXZlfSBwb3NpdGl2ZSB0ZXh0c2AgfSwKICAgICAgICAgICAgICAgICAgICBtKCdoci5zZW50aW1lbnQuaGFpcmxpbmUucG9zaXRpdmUnLCBtKCdzcGFuJywgcG9zaXRpdmUpKSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgdGFnQ2xhc3MgPSByb3cudHlwZSA9PT0gJ3Rva2VuJyA/ICdpcy1saWdodCcgOiAnaXMtaW5mbyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2Rpdi5zZW50aW1lbnQuaGFpcmxpbmUubGluZScsCiAgICAgICAgICAgICAgICAgICAgeyBzdHlsZTogYGZsZXgtZ3JvdzogJHtuZWdhdGl2ZVBjdH1gLAogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogYEZpbHRlciB0byAke25lZ2F0aXZlfSBuZWdhdGl2ZSB0ZXh0c2AgfSwKICAgICAgICAgICAgICAgICAgICBtKCdoci5zZW50aW1lbnQuaGFpcmxpbmUubmVnYXRpdmUnLCBtKCdzcGFuJywgbmVnYXRpdmUpKSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbSgndGQnKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtKCd0aCcsICdBdmcgVXB2b3RlcycpLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtKCcnKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text>span {
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+  }</text>
+      </register>
+      <register name="6" type="4">
+        <text>span {
+    color: white;
+  }</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJib3ggdm9sdW1lLXN1bW1hcmllcyI+CiAgICAgICAgICAgIDxkaXYgaWQ9InRlcm1zLXRhYmxlIj48L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vdmVnYS5naXRodWIuaW8vdmVnYS1saXRlL2RvY3MvYmFyLmh0bWwjZ3JvdXBlZC1iYXItY2hhcnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBpZD0idm9sLW92ZXItdGltZSI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIC8vIERhbW4gZG8gc29tZXRoaW5nIGxpa2UgdGhpcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>legend</last-search>
+      <last-search>green</last-search>
       <last-offset />
-      <last-pattern>legend</last-pattern>
+      <last-pattern>green</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -642,7 +648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toSq</entry>
         <entry>).</entry>
         <entry>columns</entry>
         <entry>range</entry>
@@ -662,6 +667,7 @@
         <entry>score</entry>
         <entry>Score</entry>
         <entry>legend</entry>
+        <entry>green</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
