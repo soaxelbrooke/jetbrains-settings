@@ -231,11 +231,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515793432262">
-        <mark key="[" line="99" column="30" />
-        <mark key="]" line="99" column="31" />
-        <mark key="^" line="94" column="28" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515796697971">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
@@ -271,12 +272,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515792860477">
-        <mark key="'" line="434" column="7" />
-        <mark key="[" line="492" column="20" />
-        <mark key="]" line="491" column="49" />
-        <mark key="." line="489" column="0" />
-        <mark key="^" line="489" column="19" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515796096500">
+        <mark key="'" line="458" column="75" />
+        <mark key="[" line="491" column="46" />
+        <mark key="]" line="475" column="88" />
+        <mark key="." line="475" column="88" />
+        <mark key="^" line="475" column="88" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -338,7 +339,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515793887581">
+      <file name="/Dummy.txt" timestamp="1515797043000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -487,8 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="32" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
-      <jump line="71" column="51" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
       <jump line="73" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
       <jump line="76" column="52" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" />
       <jump line="467" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
@@ -587,68 +586,57 @@
       <jump line="222" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
       <jump line="221" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
       <jump line="220" column="10" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="457" column="75" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aHIuc2VudGltZW50LmhhaXJsaW5lLm5vaG92ZXIgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>FBC02D;</text>
+        <text>scored_words</text>
       </register>
       <register name="/" type="4">
-        <text>green</text>
+        <text>0.2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aHIuc2VudGltZW50LmhhaXJsaW5lLm5vaG92ZXIgewo=</text>
+      <register name="0" type="4">
+        <text>to_tsvector(scored_entities.word) = to_tsvector(scored_words.word)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGl2LnNlbnRpbWVudC5oYWlybGluZS5saW5lOmhvdmVyIHNwYW4ubm9ob3ZlciB7Cg==</text>
+        <text encoding="base64">ICAgIG1pbi13aWR0aDogMjUwcHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dGguc2VudGltZW50IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbSgnc3Bhbi5ub2hvdmVyJywgcGFydENvdW50KSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-                m('div.sentiment.hairline.line',
-                    { style: `flex-grow: ${negativePct}`,
-                        title: `Filter to ${negative} negative texts` },
-                    m('hr.sentiment.hairline.negative', m('span', negative))),
-                m('div.sentiment.hairline.line',
-                    { style: `flex-grow: ${neutralPct}`,
-                        title: `Filter to ${neutral} neutral texts` },
-                    m('hr.sentiment.hairline.neutral', m('span', neutral))),
-                m('div.sentiment.hairline.line',
-                    { style: `flex-grow: ${positivePct}`,
-                        title: `Filter to ${positive} positive texts` },
-                    m('hr.sentiment.hairline.positive', m('span', positive))),
-            ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGl2LnNlbnRpbWVudC5oYWlybGluZS5saW5lIHNwYW4gewogICAgcGFkZGluZy1sZWZ0OiAwLjJlbTsKICAgIHBhZGRpbmctcmlnaHQ6IDAuMmVtOwp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qY29sb3I6IGhzbCg0OCwgMTAwJSwgNjclKTsqLwogICAgLypiYWNrZ3JvdW5kLWNvbG9yOiBoc2woNDgsIDEwMCUsIDY3JSk7Ki8KICAgIC8qYm9yZGVyLWNvbG9yOiBoc2woNDgsIDEwMCUsIDY3JSk7Ki8K</text>
+        <text encoding="base64">dGFibGUudGVybXMtdGFibGUgdGQgewogICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qY29sb3I6IGhzbCgxNDEsIDcxJSwgNDglKTsqLwogICAgLypiYWNrZ3JvdW5kLWNvbG9yOiBoc2woMTQxLCA3MSUsIDQ4JSk7Ki8KICAgIC8qYm9yZGVyLWNvbG9yOiBoc2woMTQxLCA3MSUsIDQ4JSk7Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJJRCIsIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>green</last-search>
+      <last-search>0.2</last-search>
       <last-offset />
-      <last-pattern>green</last-pattern>
+      <last-pattern>0.2</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -656,8 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>).</entry>
-        <entry>columns</entry>
         <entry>range</entry>
         <entry>Range</entry>
         <entry>addRule</entry>
@@ -676,6 +662,8 @@
         <entry>Score</entry>
         <entry>legend</entry>
         <entry>green</entry>
+        <entry>%</entry>
+        <entry>0.2</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
