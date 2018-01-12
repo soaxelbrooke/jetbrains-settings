@@ -231,11 +231,11 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515778435475">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="49" column="29" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515790979929">
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="28" column="2" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="2" />
       </file>
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
@@ -271,12 +271,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515778627708">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515791019151">
         <mark key="'" line="434" column="7" />
-        <mark key="[" line="461" column="38" />
-        <mark key="]" line="486" column="78" />
-        <mark key="." line="483" column="0" />
-        <mark key="^" line="484" column="43" />
+        <mark key="[" line="467" column="30" />
+        <mark key="]" line="215" column="54" />
+        <mark key="." line="484" column="0" />
+        <mark key="^" line="485" column="43" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -589,17 +589,17 @@
       <jump line="220" column="10" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2Rpdi5zZW50aW1lbnQuaGFpcmxpbmUubGluZScsCiAgICAgICAgICAgICAgICAgICAgeyBzdHlsZTogYGZsZXgtZ3JvdzogJHtwb3NpdGl2ZVBjdH1gLAogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogYEZpbHRlciB0byAke3Bvc2l0aXZlfSBwb3NpdGl2ZSB0ZXh0c2AgfSwKICAgICAgICAgICAgICAgICAgICBtKCdoci5zZW50aW1lbnQuaGFpcmxpbmUucG9zaXRpdmUnLCBtKCdzcGFuJywgcG9zaXRpdmUpKSksCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDwgZGl2LnNlbnRpbWVudC5oYWlybGluZSB7</text>
       </register>
       <register name="-" type="4">
-        <text>full</text>
+        <text encoding="base64">IDwgZGl2LnNlbnRpbWVudC5oYWlybGluZSB7</text>
       </register>
       <register name="/" type="4">
         <text>green</text>
       </register>
       <register name="0" type="4">
-        <text>div.sentiment.hairline.line</text>
+        <text>FBC02D</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2Rpdi5zZW50aW1lbnQuaGFpcmxpbmUubGluZScsCiAgICAgICAgICAgICAgICAgICAgeyBzdHlsZTogYGZsZXgtZ3JvdzogJHtwb3NpdGl2ZVBjdH1gLAogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogYEZpbHRlciB0byAke3Bvc2l0aXZlfSBwb3NpdGl2ZSB0ZXh0c2AgfSwKICAgICAgICAgICAgICAgICAgICBtKCdoci5zZW50aW1lbnQuaGFpcmxpbmUucG9zaXRpdmUnLCBtKCdzcGFuJywgcG9zaXRpdmUpKSksCg==</text>
