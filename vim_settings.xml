@@ -231,11 +231,11 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515790979929">
-        <mark key="[" line="28" column="2" />
-        <mark key="]" line="28" column="2" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="2" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515793432262">
+        <mark key="[" line="99" column="30" />
+        <mark key="]" line="99" column="31" />
+        <mark key="^" line="94" column="28" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
@@ -271,12 +271,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515791019151">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1515792860477">
         <mark key="'" line="434" column="7" />
-        <mark key="[" line="467" column="30" />
-        <mark key="]" line="215" column="54" />
-        <mark key="." line="484" column="0" />
-        <mark key="^" line="485" column="43" />
+        <mark key="[" line="492" column="20" />
+        <mark key="]" line="491" column="49" />
+        <mark key="." line="489" column="0" />
+        <mark key="^" line="489" column="19" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -338,7 +338,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515778048422">
+      <file name="/Dummy.txt" timestamp="1515793887581">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -589,49 +589,57 @@
       <jump line="220" column="10" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDwgZGl2LnNlbnRpbWVudC5oYWlybGluZSB7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aHIuc2VudGltZW50LmhhaXJsaW5lLm5vaG92ZXIgewo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDwgZGl2LnNlbnRpbWVudC5oYWlybGluZSB7</text>
+        <text>FBC02D;</text>
       </register>
       <register name="/" type="4">
         <text>green</text>
       </register>
-      <register name="0" type="4">
-        <text>FBC02D</text>
+      <register name="0" type="2">
+        <text encoding="base64">aHIuc2VudGltZW50LmhhaXJsaW5lLm5vaG92ZXIgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2Rpdi5zZW50aW1lbnQuaGFpcmxpbmUubGluZScsCiAgICAgICAgICAgICAgICAgICAgeyBzdHlsZTogYGZsZXgtZ3JvdzogJHtwb3NpdGl2ZVBjdH1gLAogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogYEZpbHRlciB0byAke3Bvc2l0aXZlfSBwb3NpdGl2ZSB0ZXh0c2AgfSwKICAgICAgICAgICAgICAgICAgICBtKCdoci5zZW50aW1lbnQuaGFpcmxpbmUucG9zaXRpdmUnLCBtKCdzcGFuJywgcG9zaXRpdmUpKSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2Rpdi5zZW50aW1lbnQuaGFpcmxpbmUubGluZScsCiAgICAgICAgICAgICAgICAgICAgeyBzdHlsZTogYGZsZXgtZ3JvdzogJHtuZWdhdGl2ZVBjdH1gLAogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogYEZpbHRlciB0byAke25lZ2F0aXZlfSBuZWdhdGl2ZSB0ZXh0c2AgfSwKICAgICAgICAgICAgICAgICAgICBtKCdoci5zZW50aW1lbnQuaGFpcmxpbmUubmVnYXRpdmUnLCBtKCdzcGFuJywgbmVnYXRpdmUpKSksCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGl2LnNlbnRpbWVudC5oYWlybGluZS5saW5lOmhvdmVyIHNwYW4ubm9ob3ZlciB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>span {
-    padding-left: 0.2em;
-    padding-right: 0.2em;
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>span {
-    color: white;
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbSgnc3Bhbi5ub2hvdmVyJywgcGFydENvdW50KSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>[
+                m('div.sentiment.hairline.line',
+                    { style: `flex-grow: ${negativePct}`,
+                        title: `Filter to ${negative} negative texts` },
+                    m('hr.sentiment.hairline.negative', m('span', negative))),
+                m('div.sentiment.hairline.line',
+                    { style: `flex-grow: ${neutralPct}`,
+                        title: `Filter to ${neutral} neutral texts` },
+                    m('hr.sentiment.hairline.neutral', m('span', neutral))),
+                m('div.sentiment.hairline.line',
+                    { style: `flex-grow: ${positivePct}`,
+                        title: `Filter to ${positive} positive texts` },
+                    m('hr.sentiment.hairline.positive', m('span', positive))),
+            ]</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vdmVnYS5naXRodWIuaW8vdmVnYS1saXRlL2RvY3MvYmFyLmh0bWwjZ3JvdXBlZC1iYXItY2hhcnQK</text>
+        <text encoding="base64">ICAgIC8qY29sb3I6IGhzbCg0OCwgMTAwJSwgNjclKTsqLwogICAgLypiYWNrZ3JvdW5kLWNvbG9yOiBoc2woNDgsIDEwMCUsIDY3JSk7Ki8KICAgIC8qYm9yZGVyLWNvbG9yOiBoc2woNDgsIDEwMCUsIDY3JSk7Ki8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIERhbW4gZG8gc29tZXRoaW5nIGxpa2UgdGhpcwo=</text>
+        <text encoding="base64">ICAgIC8qY29sb3I6IGhzbCgxNDEsIDcxJSwgNDglKTsqLwogICAgLypiYWNrZ3JvdW5kLWNvbG9yOiBoc2woMTQxLCA3MSUsIDQ4JSk7Ki8KICAgIC8qYm9yZGVyLWNvbG9yOiBoc2woMTQxLCA3MSUsIDQ4JSk7Ki8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
