@@ -401,11 +401,12 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1516141012693">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1516146400561">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="83" column="1" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="5" column="42" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
         <mark key="[" line="0" column="0" />
@@ -589,8 +590,8 @@
       <jump line="17" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaW5kZXguY3NzIi8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -598,8 +599,8 @@
       <register name="/" type="4">
         <text>diabetes</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGZpbHRlciAod2hlcmUgIlN1YnJlZGRpdCI9JyR7Y29tbXVuaXR5fScp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaW5kZXguY3NzIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdpbmRvdy54ID0gc2VhcmNoUGFyYW1zOwo=</text>
