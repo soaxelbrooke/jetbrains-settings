@@ -272,12 +272,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516144591390">
-        <mark key="'" line="16" column="30" />
-        <mark key="[" line="585" column="19" />
-        <mark key="]" line="585" column="19" />
-        <mark key="." line="585" column="19" />
-        <mark key="^" line="585" column="27" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516147888314">
+        <mark key="'" line="591" column="33" />
+        <mark key="[" line="584" column="26" />
+        <mark key="]" line="584" column="26" />
+        <mark key="." line="584" column="26" />
+        <mark key="^" line="584" column="26" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -488,7 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="467" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="633" column="56" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="52" column="45" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="325" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
@@ -588,6 +587,7 @@
       <jump line="26" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="530" column="4" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="17" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="591" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -597,7 +597,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>diabetes</text>
+        <text>thoughtve</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaW5kZXguY3NzIi8+Cg==</text>
@@ -634,9 +634,9 @@
       </register>
     </registers>
     <search>
-      <last-search>diabetes</last-search>
+      <last-search>thoughtve</last-search>
       <last-offset />
-      <last-pattern>diabetes</last-pattern>
+      <last-pattern>thoughtve</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -644,7 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addRule</entry>
         <entry>toSqlQ</entry>
         <entry>SqlQ</entry>
         <entry>toSql</entry>
@@ -664,6 +663,7 @@
         <entry>0.2</entry>
         <entry>firefox</entry>
         <entry>diabetes</entry>
+        <entry>thoughtve</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
