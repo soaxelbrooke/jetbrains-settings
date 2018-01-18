@@ -272,12 +272,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516227994888">
-        <mark key="'" line="506" column="30" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516300928111">
+        <mark key="'" line="522" column="37" />
+        <mark key="[" line="591" column="28" />
+        <mark key="]" line="591" column="28" />
         <mark key="^" line="507" column="30" />
-        <mark key="." line="47" column="0" />
+        <mark key="." line="591" column="28" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -339,7 +339,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516228001700">
+      <file name="/Dummy.txt" timestamp="1516301006216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -488,32 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="355" column="31" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="163" column="3" filename="$USER_HOME$/code/twitter-customer-support-collector/db.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="107" column="59" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="131" column="75" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="66" column="24" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="75" column="44" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="104" column="59" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="39" column="32" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="70" column="48" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="84" column="28" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="85" column="24" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="26" column="72" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="63" column="23" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="21" column="1" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="32" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
-      <jump line="221" column="23" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
-      <jump line="25" column="56" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
-      <jump line="103" column="1" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="102" column="28" filename="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/encoder.py" />
-      <jump line="24" column="68" filename="$USER_HOME$/code/twitter-customer-support-collector/main.py" />
-      <jump line="143" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/twitter/api.py" />
-      <jump line="158" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/twitter/api.py" />
-      <jump line="36" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" />
       <jump line="66" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
       <jump line="68" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
       <jump line="69" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
@@ -555,12 +529,10 @@
       <jump line="189" column="79" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="185" column="79" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="129" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="228" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="152" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="173" column="19" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="156" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="177" column="28" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="232" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="287" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="240" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="434" column="7" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -575,7 +547,6 @@
       <jump line="17" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="591" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="29" column="15" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="47" column="43" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="458" column="53" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="91" column="40" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="82" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
@@ -588,16 +559,45 @@
       <jump line="92" column="19" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="29" column="12" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="506" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="228" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="232" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="241" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="251" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="254" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="255" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="256" column="50" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="257" column="51" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="258" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="265" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="268" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="269" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="270" column="50" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="271" column="51" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="272" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="301" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="353" column="85" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="354" column="63" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="359" column="61" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="369" column="60" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="371" column="60" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="437" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="444" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="449" column="41" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="465" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="479" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="492" column="79" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="522" column="37" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocXVlcnkod2hlcmVDbGF1c2UpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Score</text>
       </register>
       <register name="-" type="4">
         <text>Score</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>Score</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29hbGVzY2UoZW50aXR5X3N0YXRzLiJTY29yZSIsIHdvcmRfc3RhdHMuIlNjb3JlIikgYXMgIlNjb3JlIiwK</text>
@@ -634,9 +634,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>Score</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>Score</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -650,7 +650,6 @@
         <entry>console.log</entry>
         <entry>var</entry>
         <entry>group</entry>
-        <entry>Score</entry>
         <entry>legend</entry>
         <entry>green</entry>
         <entry>%</entry>
@@ -658,12 +657,13 @@
         <entry>firefox</entry>
         <entry>diabetes</entry>
         <entry>thoughtve</entry>
-        <entry>score</entry>
         <entry>scored_entities</entry>
         <entry>hover</entry>
         <entry>:hover</entry>
         <entry>pointer</entry>
         <entry>console</entry>
+        <entry>score</entry>
+        <entry>Score</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
