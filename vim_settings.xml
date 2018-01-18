@@ -231,12 +231,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1515796697971">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1516227629973">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="32" column="0" />
         <mark key="^" line="26" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
@@ -272,12 +272,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516223019257">
-        <mark key="'" line="29" column="15" />
-        <mark key="[" line="476" column="58" />
-        <mark key="]" line="476" column="57" />
-        <mark key="." line="476" column="57" />
-        <mark key="^" line="476" column="57" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516227994888">
+        <mark key="'" line="506" column="30" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="507" column="30" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -339,7 +339,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516223285107">
+      <file name="/Dummy.txt" timestamp="1516228001700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -488,19 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="45" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="325" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="291" column="42" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="455" column="67" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="136" column="66" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="241" column="33" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="448" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="453" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="537" column="51" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="549" column="34" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="74" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="134" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
-      <jump line="222" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="305" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="355" column="31" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="163" column="3" filename="$USER_HOME$/code/twitter-customer-support-collector/db.py" />
@@ -588,55 +575,68 @@
       <jump line="17" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="591" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="29" column="15" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="47" column="43" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="458" column="53" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="91" column="40" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="82" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="104" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="69" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="74" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="78" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="101" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="92" column="19" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="29" column="12" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="506" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocXVlcnkod2hlcmVDbGF1c2UpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>Score</text>
       </register>
       <register name="/" type="4">
-        <text>score</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZCB3b3JkICE9ICcxJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29hbGVzY2UoZW50aXR5X3N0YXRzLiJTY29yZSIsIHdvcmRfc3RhdHMuIlNjb3JlIikgYXMgIlNjb3JlIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZCB3b3JkICE9ICcxJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocXVlcnkod2hlcmVDbGF1c2UpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlcmUgd29yZCAhfiBFJ15bKy1dP1swLTldKyhcXFxcXFxcXC5bMC05XSopPyhbRWVdWystXT9bMC05XSspP1xcJCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlcmUgd29yZCAhfiBFJ15bKy1dP1swLTldKyhcXFxcXFxcXC5bMC05XSopPyhbRWVdWystXT9bMC05XSspP1xcJCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd29yZF9zZW50aW1lbnRfY291bnRzLiJOZWdhdGl2ZSIgYXMgbmVnYXRpdmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZCB3b3JkICE9ICcxJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd29yZF9zZW50aW1lbnRfY291bnRzLiJOZXV0cmFsIiBhcyBuZXV0cmFsLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZXJlIG5vdCAoc2NvcmVkX3dvcmRzLndvcmQgfiAnLT9bMC05XT9cLj9bMC05XScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd29yZF9zZW50aW1lbnRfY291bnRzLiJQb3NpdGl2ZSIgYXMgcG9zaXRpdmUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gIlNjb3JlIiA8IDEgdGhlbiAnMCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gIlNjb3JlIiA8IDIgYW5kICJTY29yZSIgPj0gMSB0aGVuICcxJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiAiU2NvcmUiIDwgNSBhbmQgIlNjb3JlIiA+PSAyIHRoZW4gJzInCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuICJTY29yZSIgPCAxMCBhbmQgIlNjb3JlIiA+PSA1IHRoZW4gJzMnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuICJTY29yZSIgPj0gMTAgdGhlbiAnNCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgJzUnCiAgICAgICAgICAgICAgICAgICAgICAgIGVuZCBhcyAiU29ydCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gIlNjb3JlIiA8IDEgdGhlbiAnMCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gIlNjb3JlIiA8IDIgYW5kICJTY29yZSIgPj0gMSB0aGVuICcxJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiAiU2NvcmUiIDwgNSBhbmQgIlNjb3JlIiA+PSAyIHRoZW4gJzInCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuICJTY29yZSIgPCAxMCBhbmQgIlNjb3JlIiA+PSA1IHRoZW4gJzMnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuICJTY29yZSIgPj0gMTAgdGhlbiAnNCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgJzUnCiAgICAgICAgICAgICAgICAgICAgICAgIGVuZCBhcyAiU29ydCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29hbGVzY2UoZW50aXR5X3N0YXRzLndvcmQsIHdvcmRfc3RhdHMud29yZCkgYXMgd29yZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnbG9hZGVkLicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29hbGVzY2Uoc2NvcmVkX2VudGl0aWVzLndvcmQsIHNjb3JlZF93b3Jkcy53b3JkKSBhcyB3b3JkLAogICAgICAgICAgICAgICAgICAgICAgICBjb2FsZXNjZShzY29yZWRfZW50aXRpZXMudHlwZSwgc2NvcmVkX3dvcmRzLnR5cGUpIGFzIHR5cGUsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvYWxlc2NlKHNjb3JlZF93b3Jkcy5mZ19jb3VudCwgc2NvcmVkX2VudGl0aWVzLmZnX2NvdW50KSBhcyBmZ19jb3VudCwKICAgICAgICAgICAgICAgICAgICAgICAgY29hbGVzY2Uoc2NvcmVkX3dvcmRzLmJnX2NvdW50LCBzY29yZWRfZW50aXRpZXMuYmdfY291bnQpIGFzIGJnX2NvdW50LAogICAgICAgICAgICAgICAgICAgICAgICBjb2FsZXNjZShzY29yZWRfd29yZHMuc2NvcmUsIHNjb3JlZF9lbnRpdGllcy5zY29yZSkgYXMgc2NvcmUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8oJ3VwZGF0aW5nIHdoZXJlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gd29yZF9zdGF0cyBmdWxsIG91dGVyIGpvaW4gZW50aXR5X3N0YXRzIG9uIHdvcmRfc3RhdHMud29yZCA9IGVudGl0eV9zdGF0cy53b3JkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>score</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>score</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -644,17 +644,12 @@
     </search>
     <history>
       <history-search>
-        <entry>toSqlQ</entry>
-        <entry>SqlQ</entry>
-        <entry>toSql</entry>
-        <entry>center</entry>
         <entry>email</entry>
         <entry>getElementById</entry>
         <entry>querySelector</entry>
         <entry>console.log</entry>
         <entry>var</entry>
         <entry>group</entry>
-        <entry>console</entry>
         <entry>Score</entry>
         <entry>legend</entry>
         <entry>green</entry>
@@ -664,6 +659,11 @@
         <entry>diabetes</entry>
         <entry>thoughtve</entry>
         <entry>score</entry>
+        <entry>scored_entities</entry>
+        <entry>hover</entry>
+        <entry>:hover</entry>
+        <entry>pointer</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
