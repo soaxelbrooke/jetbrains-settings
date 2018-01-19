@@ -237,6 +237,11 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/postgrest-read-api.conf" timestamp="1516399328828">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
       </file>
@@ -503,11 +508,11 @@
       <jump line="69" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBsb2dnaW5nLmluZm8oIlN0b3BwaW5nIHNlbnRpbWVudCBjb25zdW1lci4uLiIpCiAgICAgICAgd2l0aCBvcGVuKCcvdmFyL3J1bi90aG91Z2h0dmVjdG9yL3NlbnRpbWVudC1jb25zdW1lci1zdGFnaW5nLnBpZCcpIGFzIGluZmlsZToKICAgICAgICAgICAgcGlkID0gaW50KGluZmlsZS5yZWFkKCkuc3RyaXAoKSkKICAgICAgICBjaGVja19vdXRwdXQoWydzdWRvJywgJ2tpbGwnLCBzdHIocGlkKV0pCiAgICBleGNlcHQgKENhbGxlZFByb2Nlc3NFcnJvciwgRmlsZU5vdEZvdW5kRXJyb3IpOgogICAgICAgIGxvZ2dpbmcuZXJyb3IoJ0ZhaWxlZCB0byBraWxsIHNlbnRpbWVudCBjb25zdW1lci4gIE1heWJlIGl0cyBhbHJlYWR5IGRlYWQ/JykKCiAgICB0cnk6CiAgICAgICAgbG9nZ2luZy5pbmZvKCJTdG9wcGluZyByZWFkIEFQSSBzZXJ2ZXIuLi4iKQogICAgICAgIHdpdGggb3BlbignL3Zhci9ydW4vdGhvdWdodHZlY3Rvci9wb3N0Z3Jlc3QtcmVhZC1hcGkucGlkJykgYXMgaW5maWxlOgogICAgICAgICAgICBwaWQgPSBpbnQoaW5maWxlLnJlYWQoKS5zdHJpcCgpKQogICAgICAgIGNoZWNrX291dHB1dChbJ3N1ZG8nLCAna2lsbCcsIHN0cihwaWQpXSkKICAgIGV4Y2VwdCAoQ2FsbGVkUHJvY2Vzc0Vycm9yLCBGaWxlTm90Rm91bmRFcnJvcik6CiAgICAgICAgbG9nZ2luZy5lcnJvcignRmFpbGVkIHRvIGtpbGwgcmVhZCBBUEkgc2VydmVyLiAgTWF5YmUgaXRzIGFscmVhZHkgZGVhZD8nKQoKICAgIHRyeToKICAgICAgICBsb2dnaW5nLmluZm8oIlN0b3BwaW5nIGJhdGNoIGNvbnN1bWVyLi4uIikKICAgICAgICB3aXRoIG9wZW4oJy92YXIvcnVuL3Rob3VnaHR2ZWN0b3IvYmF0Y2gtY29uc3VtZXItc3RhZ2luZy5waWQnKSBhcyBpbmZpbGU6CiAgICAgICAgICAgIHBpZCA9IGludChpbmZpbGUucmVhZCgpLnN0cmlwKCkpCiAgICAgICAgY2hlY2tfb3V0cHV0KFsnc3VkbycsICdraWxsJywgc3RyKHBpZCldKQogICAgZXhjZXB0IChDYWxsZWRQcm9jZXNzRXJyb3IsIEZpbGVOb3RGb3VuZEVycm9yKToKICAgICAgICBsb2dnaW5nLmVycm9yKCdGYWlsZWQgdG8ga2lsbCBiYXRjaCBjb25zdW1lci4gIE1heWJlIGl0cyBhbHJlYWR5IGRlYWQ/JykK</text>
+      <register name="&quot;" type="4">
+        <text>anon</text>
       </register>
       <register name="-" type="4">
-        <text>sentiment consumer</text>
+        <text>anon</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
