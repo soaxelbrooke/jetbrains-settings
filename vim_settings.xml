@@ -241,6 +241,10 @@
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/create_tables.sql" timestamp="1516400065285">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="44" column="28" />
+      </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,12 +276,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516300928111">
-        <mark key="'" line="522" column="37" />
-        <mark key="[" line="591" column="28" />
-        <mark key="]" line="591" column="28" />
-        <mark key="^" line="507" column="30" />
-        <mark key="." line="591" column="28" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516399969551">
+        <mark key="'" line="590" column="34" />
+        <mark key="[" line="586" column="34" />
+        <mark key="]" line="590" column="47" />
+        <mark key="^" line="590" column="47" />
+        <mark key="." line="590" column="47" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -488,18 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
-      <jump line="69" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" />
-      <jump line="405" column="0" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
-      <jump line="406" column="0" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
-      <jump line="83" column="66" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
-      <jump line="423" column="55" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
-      <jump line="56" column="50" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
-      <jump line="427" column="0" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
-      <jump line="82" column="38" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
-      <jump line="183" column="12" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
-      <jump line="376" column="46" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="380" column="70" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="394" column="35" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="87" column="92" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
@@ -535,7 +527,6 @@
       <jump line="177" column="28" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="287" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="240" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="434" column="7" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="161" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
       <jump line="13" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
       <jump line="222" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
@@ -588,19 +579,32 @@
       <jump line="479" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="492" column="79" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="522" column="37" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="336" column="23" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="8" column="72" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="78" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="149" column="38" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="250" column="38" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="358" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="431" column="53" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="432" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="434" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="677" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="583" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="584" column="10" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="590" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Score</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3JlYXRlIGZ1bmN0aW9uIHF1ZXJ5KHF1ZXJ5X3NxbCB0ZXh0KSByZXR1cm5zIHNldG9mIGpzb24gYXMgJGYkCiAgICAgICAgYmVnaW4KICAgICAgICAgICAgICAgIHJldHVybiBxdWVyeSBleGVjdXRlIGZvcm1hdCgnd2l0aCB0bXAgYXMgKCVzKSBzZWxlY3Qgcm93X3RvX2pzb24odG1wLiopIGZyb20gdG1wOycsIHF1ZXJ5X3NxbCk7IAogICAgICAgIGVuZAogICAgICAgICRmJCBsYW5ndWFnZSBwbHBnc3FsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Score</text>
+        <text>comments</text>
       </register>
       <register name="/" type="4">
-        <text>Score</text>
+        <text>comments</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29hbGVzY2UoZW50aXR5X3N0YXRzLiJTY29yZSIsIHdvcmRfc3RhdHMuIlNjb3JlIikgYXMgIlNjb3JlIiwK</text>
+        <text encoding="base64">Y3JlYXRlIGZ1bmN0aW9uIHF1ZXJ5KHF1ZXJ5X3NxbCB0ZXh0KSByZXR1cm5zIHNldG9mIGpzb24gYXMgJGYkCiAgICAgICAgYmVnaW4KICAgICAgICAgICAgICAgIHJldHVybiBxdWVyeSBleGVjdXRlIGZvcm1hdCgnd2l0aCB0bXAgYXMgKCVzKSBzZWxlY3Qgcm93X3RvX2pzb24odG1wLiopIGZyb20gdG1wOycsIHF1ZXJ5X3NxbCk7IAogICAgICAgIGVuZAogICAgICAgICRmJCBsYW5ndWFnZSBwbHBnc3FsOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocXVlcnkod2hlcmVDbGF1c2UpKTsK</text>
@@ -634,9 +638,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Score</last-search>
+      <last-search>comments</last-search>
       <last-offset />
-      <last-pattern>Score</last-pattern>
+      <last-pattern>comments</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -644,9 +648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
-        <entry>getElementById</entry>
-        <entry>querySelector</entry>
         <entry>console.log</entry>
         <entry>var</entry>
         <entry>group</entry>
@@ -664,6 +665,9 @@
         <entry>console</entry>
         <entry>score</entry>
         <entry>Score</entry>
+        <entry>fetch</entry>
+        <entry>comment</entry>
+        <entry>comments</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
