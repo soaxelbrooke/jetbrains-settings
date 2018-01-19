@@ -116,6 +116,7 @@
         <mark key="." line="81" column="26" />
         <mark key="^" line="81" column="26" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/auth.py" timestamp="1516398324703" />
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="12" column="38" />
@@ -153,10 +154,10 @@
         <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1516395015455">
-        <mark key="[" line="149" column="23" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-        <mark key="^" line="149" column="0" />
+        <mark key="[" line="150" column="23" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="150" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
