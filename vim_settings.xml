@@ -210,6 +210,13 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1516407737340">
+        <mark key="'" line="168" column="8" />
+        <mark key="[" line="129" column="50" />
+        <mark key="]" line="132" column="16" />
+        <mark key="^" line="124" column="11" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="vim_settings.xml" timestamp="1507726974540">
         <mark key="[" line="0" column="0" />
       </file>
@@ -421,7 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="40" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="291" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="463" column="44" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
       <jump line="15" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filter.js" />
@@ -521,19 +527,20 @@
       <jump line="155" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
       <jump line="284" column="86" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
       <jump line="9" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
+      <jump line="163" column="8" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DOUBLE PRECISION,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZnFfaWR4X25hbWUgPSBmJyJ7a2luZF9pZH1fe2NvbC5uYW1lfV9pZHgiJwogICAgICAgICAgICBzdGF0ZW1lbnRzLmFwcGVuZChmIiIiCiAgICAgICAgICAgICAgICBDUkVBVEUgSU5ERVgge2ZxX2lkeF9uYW1lfSBPTiB7ZnFfdGFibGVfbmFtZX0gKCJ7Y29sLm5hbWV9Iik7CiAgICAgICAgICAgICIiIikK</text>
       </register>
       <register name="-" type="4">
         <text>DOUBLE PRECISION,</text>
       </register>
       <register name="/" type="4">
-        <text>search</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBsb2dnaW5nLmluZm8oIlN0b3BwaW5nIHNlbnRpbWVudCBjb25zdW1lci4uLiIpCiAgICAgICAgd2l0aCBvcGVuKCcvdmFyL3J1bi90aG91Z2h0dmVjdG9yL3NlbnRpbWVudC1jb25zdW1lci1zdGFnaW5nLnBpZCcpIGFzIGluZmlsZToKICAgICAgICAgICAgcGlkID0gaW50KGluZmlsZS5yZWFkKCkuc3RyaXAoKSkKICAgICAgICBjaGVja19vdXRwdXQoWydzdWRvJywgJ2tpbGwnLCBzdHIocGlkKV0pCiAgICBleGNlcHQgKENhbGxlZFByb2Nlc3NFcnJvciwgRmlsZU5vdEZvdW5kRXJyb3IpOgogICAgICAgIGxvZ2dpbmcuZXJyb3IoJ0ZhaWxlZCB0byBraWxsIHNlbnRpbWVudCBjb25zdW1lci4gIE1heWJlIGl0cyBhbHJlYWR5IGRlYWQ/JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnFfaWR4X25hbWUgPSBmJyJ7a2luZF9pZH1fe2NvbC5uYW1lfV9pZHgiJwogICAgICAgICAgICBzdGF0ZW1lbnRzLmFwcGVuZChmIiIiCiAgICAgICAgICAgICAgICBDUkVBVEUgSU5ERVgge2ZxX2lkeF9uYW1lfSBPTiB7ZnFfdGFibGVfbmFtZX0gKCJ7Y29sLm5hbWV9Iik7CiAgICAgICAgICAgICIiIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRyeToKICAgICAgICBsb2dnaW5nLmluZm8oIlN0b3BwaW5nIHNlbnRpbWVudCBjb25zdW1lci4uLiIpCiAgICAgICAgd2l0aCBvcGVuKCcvdmFyL3J1bi90aG91Z2h0dmVjdG9yL3NlbnRpbWVudC1jb25zdW1lci1zdGFnaW5nLnBpZCcpIGFzIGluZmlsZToKICAgICAgICAgICAgcGlkID0gaW50KGluZmlsZS5yZWFkKCkuc3RyaXAoKSkKICAgICAgICBjaGVja19vdXRwdXQoWydzdWRvJywgJ2tpbGwnLCBzdHIocGlkKV0pCiAgICBleGNlcHQgKENhbGxlZFByb2Nlc3NFcnJvciwgRmlsZU5vdEZvdW5kRXJyb3IpOgogICAgICAgIGxvZ2dpbmcuZXJyb3IoJ0ZhaWxlZCB0byBraWxsIHNlbnRpbWVudCBjb25zdW1lci4gIE1heWJlIGl0cyBhbHJlYWR5IGRlYWQ/JykKCiAgICB0cnk6CiAgICAgICAgbG9nZ2luZy5pbmZvKCJTdG9wcGluZyByZWFkIEFQSSBzZXJ2ZXIuLi4iKQogICAgICAgIHdpdGggb3BlbignL3Zhci9ydW4vdGhvdWdodHZlY3Rvci9wb3N0Z3Jlc3QtcmVhZC1hcGkucGlkJykgYXMgaW5maWxlOgogICAgICAgICAgICBwaWQgPSBpbnQoaW5maWxlLnJlYWQoKS5zdHJpcCgpKQogICAgICAgIGNoZWNrX291dHB1dChbJ3N1ZG8nLCAna2lsbCcsIHN0cihwaWQpXSkKICAgIGV4Y2VwdCAoQ2FsbGVkUHJvY2Vzc0Vycm9yLCBGaWxlTm90Rm91bmRFcnJvcik6CiAgICAgICAgbG9nZ2luZy5lcnJvcignRmFpbGVkIHRvIGtpbGwgcmVhZCBBUEkgc2VydmVyLiAgTWF5YmUgaXRzIGFscmVhZHkgZGVhZD8nKQoKICAgIHRyeToKICAgICAgICBsb2dnaW5nLmluZm8oIlN0b3BwaW5nIGJhdGNoIGNvbnN1bWVyLi4uIikKICAgICAgICB3aXRoIG9wZW4oJy92YXIvcnVuL3Rob3VnaHR2ZWN0b3IvYmF0Y2gtY29uc3VtZXItc3RhZ2luZy5waWQnKSBhcyBpbmZpbGU6CiAgICAgICAgICAgIHBpZCA9IGludChpbmZpbGUucmVhZCgpLnN0cmlwKCkpCiAgICAgICAgY2hlY2tfb3V0cHV0KFsnc3VkbycsICdraWxsJywgc3RyKHBpZCldKQogICAgZXhjZXB0IChDYWxsZWRQcm9jZXNzRXJyb3IsIEZpbGVOb3RGb3VuZEVycm9yKToKICAgICAgICBsb2dnaW5nLmVycm9yKCdGYWlsZWQgdG8ga2lsbCBiYXRjaCBjb25zdW1lci4gIE1heWJlIGl0cyBhbHJlYWR5IGRlYWQ/JykK</text>
@@ -567,9 +574,9 @@
       </register>
     </registers>
     <search>
-      <last-search>search</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>search</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -577,8 +584,6 @@
     </search>
     <history>
       <history-search>
-        <entry>[5]</entry>
-        <entry>[4]</entry>
         <entry>[1]</entry>
         <entry>5434</entry>
         <entry>kind_id</entry>
@@ -597,6 +602,8 @@
         <entry>sum</entry>
         <entry>sum(</entry>
         <entry>search</entry>
+        <entry>idx</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
