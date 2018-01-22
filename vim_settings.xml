@@ -276,12 +276,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516645096324">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516647720474">
         <mark key="'" line="246" column="42" />
         <mark key="[" line="547" column="61" />
-        <mark key="]" line="547" column="60" />
-        <mark key="^" line="580" column="11" />
-        <mark key="." line="547" column="60" />
+        <mark key="]" line="600" column="83" />
+        <mark key="^" line="600" column="83" />
+        <mark key="." line="600" column="83" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -343,7 +343,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516645562425">
+      <file name="/Dummy.txt" timestamp="1516647736125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
