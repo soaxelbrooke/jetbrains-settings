@@ -321,7 +321,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516649860753">
+      <file name="/Dummy.txt" timestamp="1516654379400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -394,12 +394,12 @@
         <mark key="^" line="32" column="44" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1516652012359">
-        <mark key="'" line="51" column="6" />
-        <mark key="[" line="281" column="28" />
-        <mark key="]" line="281" column="27" />
-        <mark key="." line="281" column="27" />
-        <mark key="^" line="281" column="27" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1516654345522">
+        <mark key="'" line="229" column="4" />
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+        <mark key="^" line="283" column="35" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -445,9 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="43" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
-      <jump line="154" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
-      <jump line="26" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
       <jump line="102" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
       <jump line="37" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/document_table.js" />
       <jump line="97" column="12" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" />
@@ -545,55 +542,58 @@
       <jump line="286" column="54" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
       <jump line="51" column="6" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
       <jump line="201" column="36" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="270" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
+      <jump line="271" column="45" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
+      <jump line="229" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[getattr(row, kind.primary_key) for row in crs.fetchall()]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGVzZV9kb2NfaWRzID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[getattr(row, kind.primary_key) for row in crs.fetchall()]</text>
+        <text>these_doc_ids</text>
       </register>
       <register name="/" type="4">
-        <text>document_id</text>
+        <text>100</text>
       </register>
       <register name="0" type="4">
         <text>'17e77423-4133-40f8-811b-4fc0cdcb1b74'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGVzZV9kb2NfaWRzID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcud2FybmluZyhmJ1BLRVkgTkFNRSEhIVxuXG5cblxue3BrZXlfbmFtZX0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oZidJbnNlcnRlZCB7bGVuKHRoZXNlX2RvY19pZHMpfSBuZXcgZG9jdW1lbnRzLCB7bGVuKGRvY19pZHMpfSB0b3RhbC4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwYXJlbnRfaWQgQklHSU5UIFJFRkVSRU5DRVMgIntjdXN0b21lcl9pZH0iLiJ7a2luZF9uYW1lfSIgKGRvY3VtZW50X2lkKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8odGhlc2VfZG9jX2lkcykK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlmIHBrZXlfbmFtZSA9PSAnZG9jdW1lbnRfaWQnIGVsc2UgW10gXAogICAgICAgICs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcud2FybmluZyhmJ1BLRVkgTkFNRSEhIVxuXG5cblxue3BrZXlfbmFtZX0nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGV2ZW50LmRhdGEucHJpbWFyeV9rZXkgaXMgTm9uZToKICAgICAgICBwa2V5X25hbWUgPSAnZG9jdW1lbnRfaWQnCiAgICBlbHNlOgogICAgICAgIHBrZXlfbmFtZSA9IGV2ZW50LmRhdGEucHJpbWFyeV9rZXkK</text>
+        <text encoding="base64">ICBwYXJlbnRfaWQgQklHSU5UIFJFRkVSRU5DRVMgIntjdXN0b21lcl9pZH0iLiJ7a2luZF9uYW1lfSIgKGRvY3VtZW50X2lkKSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xzID0gZXZlbnQuZGF0YS5jb2x1bW5zCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGlmIHBrZXlfbmFtZSA9PSAnZG9jdW1lbnRfaWQnIGVsc2UgW10gXAogICAgICAgICs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnQuZGF0YS5jb2x1bW5zKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwa2V5X2NvbCA9IG5leHQoaXRlcihmaWx0ZXIobGFtYmRhIGNvbDogY29sLm5hbWUgPT0gZXZlbnQuZGF0YS5wcmltYXJ5X2tleSwK</text>
+        <text encoding="base64">ICAgIGlmIGV2ZW50LmRhdGEucHJpbWFyeV9rZXkgaXMgTm9uZToKICAgICAgICBwa2V5X25hbWUgPSAnZG9jdW1lbnRfaWQnCiAgICBlbHNlOgogICAgICAgIHBrZXlfbmFtZSA9IGV2ZW50LmRhdGEucHJpbWFyeV9rZXkK</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>document_id</last-search>
+      <last-search>100</last-search>
       <last-offset />
-      <last-pattern>document_id</last-pattern>
+      <last-pattern>100</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -601,7 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry>at_content_</entry>
         <entry>543</entry>
         <entry>search_idx</entry>
         <entry>load</entry>
@@ -621,6 +620,7 @@
         <entry>Success</entry>
         <entry>.document_id</entry>
         <entry>document_id</entry>
+        <entry>100</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
