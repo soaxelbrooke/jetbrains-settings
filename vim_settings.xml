@@ -276,9 +276,9 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516651095106">
-        <mark key="'" line="491" column="5" />
-        <mark key="[" line="507" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1516652289482">
+        <mark key="'" line="71" column="8" />
+        <mark key="[" line="366" column="27" />
         <mark key="]" line="507" column="0" />
         <mark key="^" line="507" column="5" />
         <mark key="." line="507" column="0" />
@@ -492,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="27" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="155" column="33" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="156" column="17" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="168" column="30" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
@@ -592,6 +591,7 @@
       <jump line="457" column="43" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="519" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="491" column="5" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="71" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
