@@ -394,12 +394,12 @@
         <mark key="^" line="32" column="44" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1516649712448">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1516652012359">
         <mark key="'" line="51" column="6" />
-        <mark key="[" line="279" column="37" />
-        <mark key="]" line="279" column="65" />
-        <mark key="." line="279" column="65" />
-        <mark key="^" line="279" column="65" />
+        <mark key="[" line="281" column="28" />
+        <mark key="]" line="281" column="27" />
+        <mark key="." line="281" column="27" />
+        <mark key="^" line="281" column="27" />
       </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
@@ -547,11 +547,11 @@
       <jump line="201" column="36" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+      <register name="&quot;" type="4">
+        <text>[getattr(row, kind.primary_key) for row in crs.fetchall()]</text>
       </register>
       <register name="-" type="4">
-        <text>document_id</text>
+        <text>[getattr(row, kind.primary_key) for row in crs.fetchall()]</text>
       </register>
       <register name="/" type="4">
         <text>document_id</text>
