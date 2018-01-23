@@ -321,7 +321,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516691350149">
+      <file name="/Dummy.txt" timestamp="1516730996559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -338,11 +338,11 @@
         <mark key="." line="17" column="13" />
         <mark key="^" line="85" column="48" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1516690980092">
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="88" column="16" />
-        <mark key="^" line="80" column="15" />
-        <mark key="." line="88" column="16" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1516730979196">
+        <mark key="[" line="100" column="98" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="39" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
         <mark key="[" line="4" column="11" />
@@ -554,10 +554,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>user_ids</text>
+        <text>user['</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
@@ -566,31 +566,31 @@
         <text>logging.error(f'Failed to fetch user IDs: {user_ids}')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBiYXRjaCBpbiB0b29sei5wYXJ0aXRpb25fYWxsKDEwMCwgbGlzdCh1c2VyX2lkcykpOgo=</text>
+        <text encoding="base64">ICAgIHB1bGxlZF91c2VyX2lkcyA9IHNldCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oZidQdWxsaW5nIHVzZXIgYmF0Y2ggb2YgbGVuZ3RoIHtsZW4oYmF0Y2gpfS4uLicpCiAgICAgICAgdXNlcl9yZXNwb25zZSA9IHJlZGRpdC5nZXQoJ2FwaS91c2VyX2RhdGFfYnlfYWNjb3VudF9pZHMnLCBwYXJhbXM9eydpZHMnOiAnLCcuam9pbihiYXRjaCl9KQogICAgICAgIGZvciB1c2VyX2Z1bGxuYW1lLCB1c2VyIGluIHVzZXJfcmVzcG9uc2UuaXRlbXMoKToKICAgICAgICAgICAgdXNlcnMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICdJRCc6IHVzZXJfZnVsbG5hbWUsCiAgICAgICAgICAgICAgICAnQ29tbWVudCBLYXJtYSc6IHVzZXJbJ2NvbW1lbnRfa2FybWEnXSwKICAgICAgICAgICAgICAgICdMaW5rIEthcm1hJzogdXNlclsnbGlua19rYXJtYSddLAogICAgICAgICAgICAgICAgJ05hbWUnOiB1c2VyWyduYW1lJ10sCiAgICAgICAgICAgICAgICAnUHJvZmlsZSBJbWFnZSc6IHVzZXJbJ3Byb2ZpbGVfaW1nJ10sCiAgICAgICAgICAgICAgICAnQ3JlYXRlZCBBdCc6IHVzZXJbJ2NyZWF0ZWRfdXRjJ10sCiAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHVzZXJfaWRzID0gc2V0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZmlsbF91c2VycygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICdiYWNrZmlsbC11c2VycycgaW4gc3lzLmFyZ3Y6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdWJtaXNzaW9uLmF1dGhvcjoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdXNlcl9pZHMuYWRkKHN1Ym1pc3Npb24uYXV0aG9yLmZ1bGxuYW1lKQogICAgICAgICAgICBleGNlcHQgTm90Rm91bmQ6CiAgICAgICAgICAgICAgICBwYXNzCgogICAgdHJ5OgogICAgICAgIHVzZXJzLmV4dGVuZChwdWxsX3VzZXJzKHJlZGRpdCwgdXNlcl9pZHMpKQogICAgZXhjZXB0IE5vdEZvdW5kOgogICAgICAgIGxvZ2dpbmcuZXJyb3IoZidGYWlsZWQgdG8gZmV0Y2ggdXNlciBJRHM6IHt1c2VyX2lkc30nKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWYgY29tbWVudC5hdXRob3IgYW5kIGNvbW1lbnQuYXV0aG9yLmZ1bGxuYW1lIG5vdCBpbiBwdWxsZWRfdXNlcl9pZHM6CiAgICAgICAgICAgICAgICAgICAgdXNlcl9pZHMuYWRkKGNvbW1lbnQuYXV0aG9yLmZ1bGxuYW1lKQogICAgICAgICAgICAgICAgICAgIGlmIGxlbih1c2VyX2lkcykgPj0gVVNFUl9CQVRDSF9TSVpFOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcnMuZXh0ZW5kKHB1bGxfdXNlcnMocmVkZGl0LCB1c2VyX2lkcykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWxsZWRfdXNlcl9pZHMgfD0gdXNlcl9pZHMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJfaWRzID0gc2V0KCkKICAgICAgICAgICAgZXhjZXB0IE5vdEZvdW5kOgogICAgICAgICAgICAgICAgbG9nZ2luZy5lcnJvcihmJ0ZhaWxlZCB0byBmZXRjaCB1c2VyIElEczoge3VzZXJfaWRzfScpCiAgICAgICAgICAgICAgICB1c2VyX2lkcyA9IHNldCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIiBSZWFkIGxpbmUtc2VwYXJhdGVkICAiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
