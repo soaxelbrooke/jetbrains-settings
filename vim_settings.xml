@@ -338,11 +338,11 @@
         <mark key="." line="17" column="13" />
         <mark key="^" line="85" column="48" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1516665377562">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="12" column="4" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1516668992231">
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
+        <mark key="^" line="65" column="8" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
         <mark key="[" line="4" column="11" />
@@ -554,14 +554,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Reddit(client_id=os.environ['REDDIT_CLIENT_ID'],
-                    client_secret=os.environ['REDDIT_CLIENT_SECRET'],
-                    username=os.environ['REDDIT_USERNAME'],
-                    password=os.environ['REDDIT_PASSWORD'],
-                    user_agent=os.environ['REDDIT_USER_AGENT'])</text>
+        <text>reddit.get('api/user_data_by_account_ids', params={'ids': ','.join(user_ids)})</text>
       </register>
       <register name="-" type="4">
-        <text>these_doc_ids</text>
+        <text>reddit.get('api/user_data_by_account_ids', params={'ids': ','.join(user_ids)})</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
