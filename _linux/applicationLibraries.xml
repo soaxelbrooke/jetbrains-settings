@@ -1,0 +1,48 @@
+<application>
+  <component name="libraryTable">
+    <library name="mithril" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_mithril_mithril.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_mithril_mithril.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vega" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_vega_3.0.8_vega.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_vega_3.0.8_vega.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vega-embed" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_vega-embed_3.0.0-rc7_vega-embed.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_vega-embed_3.0.0-rc7_vega-embed.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vega-lite" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_vega-lite_2.0.3_vega-lite.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_vega-lite_2.0.3_vega-lite.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
