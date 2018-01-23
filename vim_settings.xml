@@ -338,6 +338,12 @@
         <mark key="." line="17" column="13" />
         <mark key="^" line="85" column="48" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1516665377562">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="5" column="86" />
@@ -547,8 +553,12 @@
       <jump line="150" column="65" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGVzZV9kb2NfaWRzID0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>Reddit(client_id=os.environ['REDDIT_CLIENT_ID'],
+                    client_secret=os.environ['REDDIT_CLIENT_SECRET'],
+                    username=os.environ['REDDIT_USERNAME'],
+                    password=os.environ['REDDIT_PASSWORD'],
+                    user_agent=os.environ['REDDIT_USER_AGENT'])</text>
       </register>
       <register name="-" type="4">
         <text>these_doc_ids</text>
@@ -559,32 +569,36 @@
       <register name="0" type="4">
         <text>'17e77423-4133-40f8-811b-4fc0cdcb1b74'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGVzZV9kb2NfaWRzID0gCg==</text>
+      <register name="1" type="4">
+        <text>Reddit(client_id=os.environ['REDDIT_CLIENT_ID'],
+                    client_secret=os.environ['REDDIT_CLIENT_SECRET'],
+                    username=os.environ['REDDIT_USERNAME'],
+                    password=os.environ['REDDIT_PASSWORD'],
+                    user_agent=os.environ['REDDIT_USER_AGENT'])</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oZidJbnNlcnRlZCB7bGVuKHRoZXNlX2RvY19pZHMpfSBuZXcgZG9jdW1lbnRzLCB7bGVuKGRvY19pZHMpfSB0b3RhbC4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGVzZV9kb2NfaWRzID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8odGhlc2VfZG9jX2lkcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oZidJbnNlcnRlZCB7bGVuKHRoZXNlX2RvY19pZHMpfSBuZXcgZG9jdW1lbnRzLCB7bGVuKGRvY19pZHMpfSB0b3RhbC4nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8odGhlc2VfZG9jX2lkcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcud2FybmluZyhmJ1BLRVkgTkFNRSEhIVxuXG5cblxue3BrZXlfbmFtZX0nKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcud2FybmluZyhmJ1BLRVkgTkFNRSEhIVxuXG5cblxue3BrZXlfbmFtZX0nKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBwYXJlbnRfaWQgQklHSU5UIFJFRkVSRU5DRVMgIntjdXN0b21lcl9pZH0iLiJ7a2luZF9uYW1lfSIgKGRvY3VtZW50X2lkKSwK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGlmIHBrZXlfbmFtZSA9PSAnZG9jdW1lbnRfaWQnIGVsc2UgW10gXAogICAgICAgICs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGV2ZW50LmRhdGEucHJpbWFyeV9rZXkgaXMgTm9uZToKICAgICAgICBwa2V5X25hbWUgPSAnZG9jdW1lbnRfaWQnCiAgICBlbHNlOgogICAgICAgIHBrZXlfbmFtZSA9IGV2ZW50LmRhdGEucHJpbWFyeV9rZXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
