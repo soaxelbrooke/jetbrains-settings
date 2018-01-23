@@ -321,7 +321,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516657870007">
+      <file name="/Dummy.txt" timestamp="1516670062120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -338,11 +338,11 @@
         <mark key="." line="17" column="13" />
         <mark key="^" line="85" column="48" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1516668992231">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="65" column="8" />
-        <mark key="." line="65" column="8" />
-        <mark key="^" line="65" column="8" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1516669795806">
+        <mark key="[" line="67" column="91" />
+        <mark key="]" line="67" column="91" />
+        <mark key="^" line="67" column="51" />
+        <mark key="." line="67" column="91" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
         <mark key="[" line="4" column="11" />
@@ -554,10 +554,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reddit.get('api/user_data_by_account_ids', params={'ids': ','.join(user_ids)})</text>
+        <text>user_ids</text>
       </register>
       <register name="-" type="4">
-        <text>reddit.get('api/user_data_by_account_ids', params={'ids': ','.join(user_ids)})</text>
+        <text>user_ids</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
@@ -565,36 +565,36 @@
       <register name="0" type="4">
         <text>'17e77423-4133-40f8-811b-4fc0cdcb1b74'</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZmlsbF91c2VycygpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICdiYWNrZmlsbC11c2VycycgaW4gc3lzLmFyZ3Y6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICIiIiBSZWFkIGxpbmUtc2VwYXJhdGVkICAiIiIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIGJhY2tmaWxsX3VzZXJzKCk6Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>Reddit(client_id=os.environ['REDDIT_CLIENT_ID'],
                     client_secret=os.environ['REDDIT_CLIENT_SECRET'],
                     username=os.environ['REDDIT_USERNAME'],
                     password=os.environ['REDDIT_PASSWORD'],
                     user_agent=os.environ['REDDIT_USER_AGENT'])</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGVzZV9kb2NfaWRzID0gCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oZidJbnNlcnRlZCB7bGVuKHRoZXNlX2RvY19pZHMpfSBuZXcgZG9jdW1lbnRzLCB7bGVuKGRvY19pZHMpfSB0b3RhbC4nKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8odGhlc2VfZG9jX2lkcykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcud2FybmluZyhmJ1BLRVkgTkFNRSEhIVxuXG5cblxue3BrZXlfbmFtZX0nKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwYXJlbnRfaWQgQklHSU5UIFJFRkVSRU5DRVMgIntjdXN0b21lcl9pZH0iLiJ7a2luZF9uYW1lfSIgKGRvY3VtZW50X2lkKSwK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGlmIHBrZXlfbmFtZSA9PSAnZG9jdW1lbnRfaWQnIGVsc2UgW10gXAogICAgICAgICs=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGVzZV9kb2NfaWRzID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
