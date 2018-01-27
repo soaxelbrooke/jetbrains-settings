@@ -162,12 +162,12 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1516924515503">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1516998924473">
         <mark key="'" line="156" column="65" />
-        <mark key="[" line="113" column="86" />
-        <mark key="]" line="113" column="86" />
-        <mark key="^" line="113" column="85" />
-        <mark key="." line="113" column="86" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="^" line="264" column="30" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -227,7 +227,7 @@
         <mark key="^" line="171" column="47" />
         <mark key="." line="171" column="47" />
       </file>
-      <file name="vim_settings.xml" timestamp="1507726974540">
+      <file name="vim_settings.xml" timestamp="1516992948303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1516649653374">
@@ -277,12 +277,11 @@
         <mark key="]" line="53" column="8" />
         <mark key="." line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1516992383908">
-        <mark key="'" line="181" column="22" />
-        <mark key="[" line="212" column="40" />
-        <mark key="]" line="212" column="68" />
-        <mark key="." line="212" column="68" />
-        <mark key="^" line="270" column="3" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1517012986042">
+        <mark key="'" line="299" column="65" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1516924659047">
         <mark key="[" line="108" column="0" />
@@ -455,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="609" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="408" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="56" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
@@ -555,57 +553,56 @@
       <jump line="113" column="55" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="150" column="65" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="177" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
+      <jump line="286" column="65" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAodHNfbGV4aXplKCdlbmdsaXNoX3N0ZW0nKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
-        <text>phrase_stemmed</text>
+        <text>ence&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>cron.database_name='explorer'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVyZSBwaHJhc2Vfc3RlbSBub3RudWxsIGFuZCBwaHJhc2Vfc3RlbSAhPSAnJyBhbmQgcGhyYXNlX3N0ZW0gIT0gJyAnCiAgICAgICAgICAgICAgQU5EIGNhbmRpZGF0ZXMubGVmdF9zdGVtICE9ICcnIEFORCBjYW5kaWRhdGVzLnJpZ2h0X3N0ZW0gIT0gJycKICAgICAgICAgICAgICBBTkQgY2FuZGlkYXRlcy5sZWZ0X3N0ZW0gIT0gJyAnIEFORCBjYW5kaWRhdGVzLnJpZ2h0X3N0ZW0gIT0gJyAnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAodHNfbGV4aXplKCdlbmdsaXNoX3N0ZW0nKSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>)
-  select count(*) from updates</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLS0gVE9ETyB3b3JkIG9yZGVyaW5nIGlzIGZ1Y2tlZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>,
-  updates as (</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRvY19waHJhc2VzIGFzICgKICAgICAgU0VMRUNUCiAgICAgICAgcGFyZW50X2lkLAogICAgICAgIGNvYWxlc2NlKGFycmF5X2FnZyhESVNUSU5DVCBwaHJhc2Vfc3RlbSksIEFSUkFZW106OnRleHRbXSkgYXMgcGhyYXNlcwogICAgICBGUk9NIGRvY19waHJhc2VfY2FuZGlkYXRlcyBjYW5kaWRhdGVzCiAgICAgICAgbGVmdCBvdXRlciBKT0lOIGRpc3RpbmN0X3BocmFzZXMgVVNJTkcgKHBocmFzZV9zdGVtKQogICAgICAgIHdoZXJlIHBocmFzZV9zdGVtIG5vdG51bGwgYW5kIHBocmFzZV9zdGVtICE9ICcnIGFuZCBwaHJhc2Vfc3RlbSAhPSAnICcKICAgICAgICAgICAgICBBTkQgY2FuZGlkYXRlcy5sZWZ0X3N0ZW0gIT0gJycgQU5EIGNhbmRpZGF0ZXMucmlnaHRfc3RlbSAhPSAnJwogICAgICAgICAgICAgIEFORCBjYW5kaWRhdGVzLmxlZnRfc3RlbSAhPSAnICcgQU5EIGNhbmRpZGF0ZXMucmlnaHRfc3RlbSAhPSAnICcKICAgICAgR1JPVVAgQlkgcGFyZW50X2lkCiAgKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1tdXRhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBBTkQgbGVmdF9zdGVtICE9ICcnIEFORCByaWdodF9zdGVtICE9ICcnCiAgICAgICAgICAgICAgQU5EIGxlZnRfc3RlbSAhPSAnICcgQU5EIHJpZ2h0X3N0ZW0gIT0gJyAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAodHNfbGV4aXplKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmVnaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE9aW5maWxlLnJlYWQoKS5lbmNvZGUoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIEVYVEVOU0lPTiBwZ19jcm9uOwo=</text>
+        <text encoding="base64">ICAgICAgc2VudGVuY2VfbnVtYmVyLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZW50ZW5jZV9udW1iZXIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZW50ZW5jZV9udW1iZXIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>phrase_stemmed</last-search>
+      <last-search>ence&quot;</last-search>
       <last-offset />
-      <last-pattern>phrase_stemmed</last-pattern>
+      <last-pattern>ence&quot;</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -613,7 +610,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
         <entry>timeout</entry>
         <entry>Symbolic</entry>
         <entry>symbolic</entry>
@@ -633,6 +629,7 @@
         <entry>uwsgi</entry>
         <entry>localhost</entry>
         <entry>phrase_stemmed</entry>
+        <entry>ence&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
