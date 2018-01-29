@@ -277,11 +277,12 @@
         <mark key="]" line="53" column="8" />
         <mark key="." line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1517012986042">
-        <mark key="'" line="299" column="65" />
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1517258322840">
+        <mark key="'" line="199" column="43" />
+        <mark key="[" line="268" column="48" />
+        <mark key="]" line="268" column="56" />
+        <mark key="." line="268" column="56" />
+        <mark key="^" line="268" column="56" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1516924659047">
         <mark key="[" line="108" column="0" />
@@ -454,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="609" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="408" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="56" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
       <jump line="607" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" />
@@ -554,16 +554,17 @@
       <jump line="150" column="65" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="177" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
       <jump line="286" column="65" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
+      <jump line="199" column="43" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAodHNfbGV4aXplKCdlbmdsaXNoX3N0ZW0nKSkK</text>
+      <register name="&quot;" type="4">
+        <text>middle_stem</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>middle_stem</text>
       </register>
       <register name="/" type="4">
-        <text>ence&quot;</text>
+        <text>middle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aGVyZSBwaHJhc2Vfc3RlbSBub3RudWxsIGFuZCBwaHJhc2Vfc3RlbSAhPSAnJyBhbmQgcGhyYXNlX3N0ZW0gIT0gJyAnCiAgICAgICAgICAgICAgQU5EIGNhbmRpZGF0ZXMubGVmdF9zdGVtICE9ICcnIEFORCBjYW5kaWRhdGVzLnJpZ2h0X3N0ZW0gIT0gJycKICAgICAgICAgICAgICBBTkQgY2FuZGlkYXRlcy5sZWZ0X3N0ZW0gIT0gJyAnIEFORCBjYW5kaWRhdGVzLnJpZ2h0X3N0ZW0gIT0gJyAnCg==</text>
@@ -600,9 +601,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ence&quot;</last-search>
+      <last-search>middle</last-search>
       <last-offset />
-      <last-pattern>ence&quot;</last-pattern>
+      <last-pattern>middle</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -610,8 +611,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timeout</entry>
-        <entry>Symbolic</entry>
         <entry>symbolic</entry>
         <entry>train</entry>
         <entry>test</entry>
@@ -630,6 +629,8 @@
         <entry>localhost</entry>
         <entry>phrase_stemmed</entry>
         <entry>ence&quot;</entry>
+        <entry>candidates</entry>
+        <entry>middle</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
