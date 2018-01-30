@@ -276,11 +276,11 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1517281197495">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1517291927573">
         <mark key="'" line="176" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
         <mark key="^" line="571" column="20" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
@@ -343,7 +343,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517281202292">
+      <file name="/Dummy.txt" timestamp="1517292504276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -594,11 +594,11 @@
       <jump line="176" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>http://127.0.0.1:3002</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>http://127.0.0.1:3002</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
