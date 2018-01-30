@@ -276,12 +276,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1517276707114">
-        <mark key="'" line="513" column="26" />
-        <mark key="[" line="568" column="24" />
-        <mark key="]" line="513" column="26" />
-        <mark key="." line="513" column="26" />
-        <mark key="^" line="513" column="26" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1517279127057">
+        <mark key="'" line="568" column="23" />
+        <mark key="[" line="545" column="0" />
+        <mark key="]" line="545" column="0" />
+        <mark key="." line="545" column="0" />
+        <mark key="^" line="492" column="78" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -492,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="32" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="227" column="43" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="397" column="41" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
       <jump line="430" column="16" filename="$USER_HOME$/code/thoughtvector/index/index.html" />
@@ -592,55 +591,56 @@
       <jump line="464" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="486" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="513" column="26" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="568" column="23" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8oZmdNZXRhUXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tKGNhc3QoZmcubmRvYyBhcyBmbG9hdCkgLyBmZ19tZXRhLnRvdGFsX2NvdW50KSAvIChjYXN0KGJnLm5kb2MgYXMgZmxvYXQpIC8gYmdfbWV0YS50b3RhbF9jb3VudCkgYXMgc2NvcmUK</text>
       </register>
       <register name="-" type="4">
         <text>query</text>
       </register>
       <register name="/" type="4">
-        <text>phrase_scores</text>
+        <text>--</text>
       </register>
       <register name="0" type="4">
         <text>select cast(reltuples as bigint) as total_count from pg_class where relname='${tableName}'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8oZmdNZXRhUXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tKGNhc3QoZmcubmRvYyBhcyBmbG9hdCkgLyBmZ19tZXRhLnRvdGFsX2NvdW50KSAvIChjYXN0KGJnLm5kb2MgYXMgZmxvYXQpIC8gYmdfbWV0YS50b3RhbF9jb3VudCkgYXMgc2NvcmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZ3AsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tIChjYXN0KGZnLm5kb2MgYXMgZmxvYXQpIC8gZmdfbWV0YS50b3RhbF9jb3VudCkgLyAoY2FzdChiZy5uZG9jIGFzIGZsb2F0KSAvIGJnX21ldGEudG90YWxfY291bnQpIGFzIHNjb3JlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZ3AsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cod2hlcmUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZ3AgLyBiZ3AgKiAoKGZnX2NvdW50ICsgMS45MjA4KSAvIG1heF9jb3VudCAtIDEuOTYgKiBTUVJUKGZnX2NvdW50ICogKG1heF9jb3VudCAtIGZnX2NvdW50KSAvIG1heF9jb3VudCArIDAuOTYwNCkgLyBtYXhfY291bnQpIC8gKDEgKyAzLjg0MTYgLyAobWF4X2NvdW50KSkgQVMgc2NvcmUzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8oZmdNZXRhUXVlcnkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmdwIC8gYmdwICogKChmZ19jb3VudCArIDEuOTIwOCkgLyBtYXhfY291bnQgLSAxLjk2ICogU1FSVChmZ19jb3VudCAqIChtYXhfY291bnQgLSBmZ19jb3VudCkgLyBtYXhfY291bnQgKyAwLjk2MDQpIC8gbWF4X2NvdW50KSAvICgxICsgMy44NDE2IC8gKG1heF9jb3VudCkpIEFTIHNjb3JlMwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZ3AsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmdwIC8gYmdwICogKChmZ19jb3VudCArIDEuOTIwOCkgLyBtYXhfY291bnQgLSAxLjk2ICogU1FSVChmZ19jb3VudCAqIChtYXhfY291bnQgLSBmZ19jb3VudCkgLyBtYXhfY291bnQgKyAwLjk2MDQpIC8gbWF4X2NvdW50KSAvICgxICsgMy44NDE2IC8gKG1heF9jb3VudCkpIEFTIHNjb3JlMwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZ3AsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYmdwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZ3AgLyBiZ3AgKiAoKGZnX2NvdW50ICsgMS45MjA4KSAvIG1heF9jb3VudCAtIDEuOTYgKiBTUVJUKGZnX2NvdW50ICogKG1heF9jb3VudCAtIGZnX2NvdW50KSAvIG1heF9jb3VudCArIDAuOTYwNCkgLyBtYXhfY291bnQpIC8gKDEgKyAzLjg0MTYgLyAobWF4X2NvdW50KSkgQVMgc2NvcmUzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmdwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmdwIC8gYmdwICogKChmZ19jb3VudCArIDEuOTIwOCkgLyBtYXhfY291bnQgLSAxLjk2ICogU1FSVChmZ19jb3VudCAqIChtYXhfY291bnQgLSBmZ19jb3VudCkgLyBtYXhfY291bnQgKyAwLjk2MDQpIC8gbWF4X2NvdW50KSAvICgxICsgMy44NDE2IC8gKG1heF9jb3VudCkpIEFTIHNjb3JlMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heChmZy5uZG9jKSBPVkVSICgpIEFTIG1heF9jb3VudCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmdwIC8gYmdwICogKChmZ19jb3VudCArIDEuOTIwOCkgLyBtYXhfY291bnQgLSAxLjk2ICogU1FSVChmZ19jb3VudCAqIChtYXhfY291bnQgLSBmZ19jb3VudCkgLyBtYXhfY291bnQgKyAwLjk2MDQpIC8gbWF4X2NvdW50KSAvICgxICsgMy44NDE2IC8gKG1heF9jb3VudCkpIEFTIHNjb3JlMwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>phrase_scores</last-search>
+      <last-search>--</last-search>
       <last-offset />
-      <last-pattern>phrase_scores</last-pattern>
+      <last-pattern>--</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -648,8 +648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>firefox</entry>
-        <entry>diabetes</entry>
         <entry>thoughtve</entry>
         <entry>scored_entities</entry>
         <entry>hover</entry>
@@ -668,6 +666,8 @@
         <entry>fgp</entry>
         <entry>score3</entry>
         <entry>phrase_scores</entry>
+        <entry>sentiment</entry>
+        <entry>--</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
