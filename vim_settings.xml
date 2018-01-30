@@ -39,6 +39,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="50" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/heroku-gateway/Dockerfile.web" timestamp="1517298409361">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="4" column="55" />
+      </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/setup.py" timestamp="1511464217954">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="8" column="0" />
@@ -91,6 +97,9 @@
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1517297649058">
+        <mark key="[" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sentiment_analyzer.py" timestamp="1511448726102">
         <mark key="[" line="11" column="55" />
@@ -347,17 +356,16 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/heroku-gateway/api_nginx.prod" timestamp="1517297711637">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="5" column="86" />
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="86" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1512846419353">
-        <mark key="'" line="62" column="15" />
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="53" column="22" />
-        <mark key="." line="53" column="22" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_jenkins_exporter.sh" timestamp="1512846607121">
         <mark key="[" line="4" column="0" />
@@ -376,6 +384,7 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/heroku-gateway/api_nginx.staging" timestamp="1517298237391" />
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
         <mark key="[" line="34" column="14" />
         <mark key="]" line="32" column="3" />
@@ -557,43 +566,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>127.0.0.1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>split</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZSBwaHJhc2Vfc3RlbSBub3RudWxsIGFuZCBwaHJhc2Vfc3RlbSAhPSAnJyBhbmQgcGhyYXNlX3N0ZW0gIT0gJyAnCiAgICAgICAgICAgICAgQU5EIGNhbmRpZGF0ZXMubGVmdF9zdGVtICE9ICcnIEFORCBjYW5kaWRhdGVzLnJpZ2h0X3N0ZW0gIT0gJycKICAgICAgICAgICAgICBBTkQgY2FuZGlkYXRlcy5sZWZ0X3N0ZW0gIT0gJyAnIEFORCBjYW5kaWRhdGVzLnJpZ2h0X3N0ZW0gIT0gJyAnCg==</text>
+      <register name="0" type="4">
+        <text>/etc/nginx/sites-enabled/api_nginx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gamxoKGZnV29yZENvdW50IG51bWVyaWMsIGJnV29yZENvdW50IG51bWVyaWMsIGZnRG9jQ291bnQgbnVtZXJpYywgYmdEb2NDb3VudCBudW1lcmljKSByZXR1cm5zIERPVUJMRSBQUkVDSVNJT04KICBhcyAkJAogICAgc2VsZWN0ICgoY2FzdChmZ1dvcmRDb3VudCBhcyBET1VCTEUgUFJFQ0lTSU9OKSAvIGZnRG9jQ291bnQpIC8gKGNhc3QoYmdXb3JkQ291bnQgYXMgRE9VQkxFIFBSRUNJU0lPTikgLyBiZ0RvY0NvdW50KSkgKgogICAgICAgICAgICgoY2FzdChmZ1dvcmRDb3VudCBhcyBET1VCTEUgUFJFQ0lTSU9OKSAvIGZnRG9jQ291bnQpIC0gKGNhc3QoYmdXb3JkQ291bnQgYXMgRE9VQkxFIFBSRUNJU0lPTikgLyBiZ0RvY0NvdW50KSk7CiQkIGxhbmd1YWdlIHNxbCBpbW11dGFibGU7Cg==</text>
+        <text encoding="base64">ICAgIHNzbF9jZXJ0aWZpY2F0ZSAgICAgL2V0Yy9zc2wvY2VydHMvbmdpbngtc2VsZnNpZ25lZC5jcnQ7CiAgICBzc2xfY2VydGlmaWNhdGVfa2V5IC9ldGMvc3NsL3ByaXZhdGUvbmdpbngtc2VsZnNpZ25lZC5rZXk7CiAgICBzc2xfcHJvdG9jb2xzICAgICAgIFRMU3YxIFRMU3YxLjEgVExTdjEuMjsKICAgIHNzbF9jaXBoZXJzICAgICAgICAgSElHSDohYU5VTEw6IU1ENTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNzbF9jZXJ0aWZpY2F0ZSAgICAgL2V0Yy9zc2wvY2VydHMvbmdpbngtc2VsZnNpZ25lZC5jcnQ7CiAgICBzc2xfY2VydGlmaWNhdGVfa2V5IC9ldGMvc3NsL3ByaXZhdGUvbmdpbngtc2VsZnNpZ25lZC5rZXk7CiAgICBzc2xfcHJvdG9jb2xzICAgICAgIFRMU3YxIFRMU3YxLjEgVExTdjEuMjsKICAgIHNzbF9jaXBoZXJzICAgICAgICAgSElHSDohYU5VTEw6IU1ENTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gamxoKGZnV29yZENvdW50IG51bWVyaWMsIGJnV29yZENvdW50IG51bWVyaWMsIGZnRG9jQ291bnQgbnVtZXJpYywgYmdEb2NDb3VudCBudW1lcmljKSByZXR1cm5zIERPVUJMRSBQUkVDSVNJT04KICBhcyAkJAogICAgc2VsZWN0ICgoY2FzdChmZ1dvcmRDb3VudCBhcyBET1VCTEUgUFJFQ0lTSU9OKSAvIGZnRG9jQ291bnQpIC8gKGNhc3QoYmdXb3JkQ291bnQgYXMgRE9VQkxFIFBSRUNJU0lPTikgLyBiZ0RvY0NvdW50KSkgKgogICAgICAgICAgICgoY2FzdChmZ1dvcmRDb3VudCBhcyBET1VCTEUgUFJFQ0lTSU9OKSAvIGZnRG9jQ291bnQpIC0gKGNhc3QoYmdXb3JkQ291bnQgYXMgRE9VQkxFIFBSRUNJU0lPTikgLyBiZ0RvY0NvdW50KSk7CiQkIGxhbmd1YWdlIHNxbCBpbW11dGFibGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gVE9ETyBjcmVhdGUgY3JvbiBmdW5jdGlvbiB0aGF0IGFkZHMgcGhyYXNlIGxhYmVscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAodHNfbGV4aXplKCdlbmdsaXNoX3N0ZW0nKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLS0gVE9ETyB3b3JkIG9yZGVyaW5nIGlzIGZ1Y2tlZAo=</text>
+        <text encoding="base64">LS0gVE9ETyBjcmVhdGUgY3JvbiBmdW5jdGlvbiB0aGF0IGFkZHMgcGhyYXNlIGxhYmVscwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvY19waHJhc2VzIGFzICgKICAgICAgU0VMRUNUCiAgICAgICAgcGFyZW50X2lkLAogICAgICAgIGNvYWxlc2NlKGFycmF5X2FnZyhESVNUSU5DVCBwaHJhc2Vfc3RlbSksIEFSUkFZW106OnRleHRbXSkgYXMgcGhyYXNlcwogICAgICBGUk9NIGRvY19waHJhc2VfY2FuZGlkYXRlcyBjYW5kaWRhdGVzCiAgICAgICAgbGVmdCBvdXRlciBKT0lOIGRpc3RpbmN0X3BocmFzZXMgVVNJTkcgKHBocmFzZV9zdGVtKQogICAgICAgIHdoZXJlIHBocmFzZV9zdGVtIG5vdG51bGwgYW5kIHBocmFzZV9zdGVtICE9ICcnIGFuZCBwaHJhc2Vfc3RlbSAhPSAnICcKICAgICAgICAgICAgICBBTkQgY2FuZGlkYXRlcy5sZWZ0X3N0ZW0gIT0gJycgQU5EIGNhbmRpZGF0ZXMucmlnaHRfc3RlbSAhPSAnJwogICAgICAgICAgICAgIEFORCBjYW5kaWRhdGVzLmxlZnRfc3RlbSAhPSAnICcgQU5EIGNhbmRpZGF0ZXMucmlnaHRfc3RlbSAhPSAnICcKICAgICAgR1JPVVAgQlkgcGFyZW50X2lkCiAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAodHNfbGV4aXplKCdlbmdsaXNoX3N0ZW0nKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBBTkQgbGVmdF9zdGVtICE9ICcnIEFORCByaWdodF9zdGVtICE9ICcnCiAgICAgICAgICAgICAgQU5EIGxlZnRfc3RlbSAhPSAnICcgQU5EIHJpZ2h0X3N0ZW0gIT0gJyAnCg==</text>
+        <text encoding="base64">ICAgICAgLS0gVE9ETyB3b3JkIG9yZGVyaW5nIGlzIGZ1Y2tlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAodHNfbGV4aXplKCkpCg==</text>
+        <text encoding="base64">ICAgIGRvY19waHJhc2VzIGFzICgKICAgICAgU0VMRUNUCiAgICAgICAgcGFyZW50X2lkLAogICAgICAgIGNvYWxlc2NlKGFycmF5X2FnZyhESVNUSU5DVCBwaHJhc2Vfc3RlbSksIEFSUkFZW106OnRleHRbXSkgYXMgcGhyYXNlcwogICAgICBGUk9NIGRvY19waHJhc2VfY2FuZGlkYXRlcyBjYW5kaWRhdGVzCiAgICAgICAgbGVmdCBvdXRlciBKT0lOIGRpc3RpbmN0X3BocmFzZXMgVVNJTkcgKHBocmFzZV9zdGVtKQogICAgICAgIHdoZXJlIHBocmFzZV9zdGVtIG5vdG51bGwgYW5kIHBocmFzZV9zdGVtICE9ICcnIGFuZCBwaHJhc2Vfc3RlbSAhPSAnICcKICAgICAgICAgICAgICBBTkQgY2FuZGlkYXRlcy5sZWZ0X3N0ZW0gIT0gJycgQU5EIGNhbmRpZGF0ZXMucmlnaHRfc3RlbSAhPSAnJwogICAgICAgICAgICAgIEFORCBjYW5kaWRhdGVzLmxlZnRfc3RlbSAhPSAnICcgQU5EIGNhbmRpZGF0ZXMucmlnaHRfc3RlbSAhPSAnICcKICAgICAgR1JPVVAgQlkgcGFyZW50X2lkCiAgKSwK</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
