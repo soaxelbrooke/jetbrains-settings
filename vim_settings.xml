@@ -98,7 +98,7 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1517299173518">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1517301320012">
         <mark key="[" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sentiment_analyzer.py" timestamp="1511448726102">
@@ -165,12 +165,12 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1516998924473">
-        <mark key="'" line="156" column="65" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="^" line="264" column="30" />
-        <mark key="." line="267" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1517301960643">
+        <mark key="'" line="189" column="65" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="116" column="9" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -333,7 +333,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517299250042">
+      <file name="/Dummy.txt" timestamp="1517302366875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -565,11 +565,11 @@
       <jump line="88" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRiX2Vudl9yZXBsYWNlID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>db_env_replace</text>
       </register>
       <register name="/" type="4">
         <text>split</text>
@@ -578,31 +578,34 @@
         <text>/etc/nginx/sites-enabled/api_nginx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNzbF9jZXJ0aWZpY2F0ZSAgICAgL2V0Yy9zc2wvY2VydHMvbmdpbngtc2VsZnNpZ25lZC5jcnQ7CiAgICBzc2xfY2VydGlmaWNhdGVfa2V5IC9ldGMvc3NsL3ByaXZhdGUvbmdpbngtc2VsZnNpZ25lZC5rZXk7CiAgICBzc2xfcHJvdG9jb2xzICAgICAgIFRMU3YxIFRMU3YxLjEgVExTdjEuMjsKICAgIHNzbF9jaXBoZXJzICAgICAgICAgSElHSDohYU5VTEw6IU1ENTsK</text>
+        <text encoding="base64">ICAgIGRiX2Vudl9yZXBsYWNlID0gCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNzbF9jZXJ0aWZpY2F0ZSAgICAgL2V0Yy9zc2wvY2VydHMvbmdpbngtc2VsZnNpZ25lZC5jcnQ7CiAgICBzc2xfY2VydGlmaWNhdGVfa2V5IC9ldGMvc3NsL3ByaXZhdGUvbmdpbngtc2VsZnNpZ25lZC5rZXk7CiAgICBzc2xfcHJvdG9jb2xzICAgICAgIFRMU3YxIFRMU3YxLjEgVExTdjEuMjsKICAgIHNzbF9jaXBoZXJzICAgICAgICAgSElHSDohYU5VTEw6IU1ENTsK</text>
+      <register name="2" type="4">
+        <text>{
+        'DATABASE_URL': f'postgres://explorer:password@localhost:{get_postgres_port()}/explorer',
+        'PYTHONPATH': os.getcwd(),
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gamxoKGZnV29yZENvdW50IG51bWVyaWMsIGJnV29yZENvdW50IG51bWVyaWMsIGZnRG9jQ291bnQgbnVtZXJpYywgYmdEb2NDb3VudCBudW1lcmljKSByZXR1cm5zIERPVUJMRSBQUkVDSVNJT04KICBhcyAkJAogICAgc2VsZWN0ICgoY2FzdChmZ1dvcmRDb3VudCBhcyBET1VCTEUgUFJFQ0lTSU9OKSAvIGZnRG9jQ291bnQpIC8gKGNhc3QoYmdXb3JkQ291bnQgYXMgRE9VQkxFIFBSRUNJU0lPTikgLyBiZ0RvY0NvdW50KSkgKgogICAgICAgICAgICgoY2FzdChmZ1dvcmRDb3VudCBhcyBET1VCTEUgUFJFQ0lTSU9OKSAvIGZnRG9jQ291bnQpIC0gKGNhc3QoYmdXb3JkQ291bnQgYXMgRE9VQkxFIFBSRUNJU0lPTikgLyBiZ0RvY0NvdW50KSk7CiQkIGxhbmd1YWdlIHNxbCBpbW11dGFibGU7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbyhmJ1N0YXJ0aW5nIEFQSSBzZXJ2ZXIuLi4nKQogICAgZGJfZW52X3JlcGxhY2UgPSB7CiAgICAgICAgJ0RBVEFCQVNFX1VSTCc6IGYncG9zdGdyZXM6Ly9leHBsb3JlcjpwYXNzd29yZEBsb2NhbGhvc3Q6e2dldF9wb3N0Z3Jlc19wb3J0KCl9L2V4cGxvcmVyJywKICAgICAgICAnUFlUSE9OUEFUSCc6IG9zLmdldGN3ZCgpLAogICAgfQogICAgc3RhcnRfc2VydmVyc19hbmRfY29uc3VtZXJzKGRiX2Vudl9yZXBsYWNlKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoZWNrX291dHB1dChbCiAgICAgICAgJ3V3c2dpJywgZictLWh0dHAtc29ja2V0PTAuMC4wLjA6e0FQSV9QT1JUfScsICctLXNvY2tldD0xMjcuMC4wLjE6MzAzMScsCiAgICAgICAgZictLXdzZ2ktZmlsZT1hcGkvc2VydmVyLnB5JywgJy0tY2FsbGFibGU9YXBwJywgJy0tcHJvY2Vzc2VzPTQnLAogICAgICAgICctLXRocmVhZHM9MicsICctLXN0YXRzPTAuMC4wLjA6OTE5MScsICctLXBpZGZpbGU9L3Zhci9ydW4vdGhvdWdodHZlY3Rvci9hcGktc3RhZ2luZy5waWQnLAogICAgICAgICctLWRhZW1vbml6ZT0vdmFyL2xvZy90aG91Z2h0dmVjdG9yL2FwaS1zdGFnaW5nLmxvZycsCiAgICBdLCBlbnY9dG9vbHoubWVyZ2Uob3MuZW52aXJvbiwgZGJfZW52X3JlcGxhY2UpKQoKICAgIHN0YXJ0X2JhdGNoX2NvbnN1bWVyKGRiX2Vudl9yZXBsYWNlKQogICAgc3RhcnRfc2VudGltZW50X2FuYWx5c2lzX2NvbnN1bWVyKGRiX2Vudl9yZXBsYWNlKQogICAgc3RhcnRfcmVhZF9hcGkoZGJfZW52X3JlcGxhY2UpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gVE9ETyBjcmVhdGUgY3JvbiBmdW5jdGlvbiB0aGF0IGFkZHMgcGhyYXNlIGxhYmVscwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja19vdXRwdXQoWydzdWRvJywgJ3N5c3RlbWN0bCcsICdzdG9wJywgZidwb3N0Z3Jlc3FsQDEwLXtDTFVTVEVSX05BTUV9J10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAodHNfbGV4aXplKCdlbmdsaXNoX3N0ZW0nKSkK</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBsb2dnaW5nLmluZm8oJ1N0b3BwaW5nIHdlYiBzZXJ2ZXIuLi4nKQogICAgICAgIGNoZWNrX291dHB1dChbJ3V3c2dpJywgJy0tc3RvcCcsICcvcnVuL3Rob3VnaHR2ZWN0b3IvYXBpLXN0YWdpbmcucGlkJ10pCiAgICBleGNlcHQgQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgIGxvZ2dpbmcuZXJyb3IoJ0ZhaWxlZCB0byBzdG9wIEFQSSBzZXJ2ZXIuICBNYXliZSBpdHMgYWxyZWFkeSBkZWFkPycpCgogICAgc3RvcF9ieV9waWRfZm5hbWUoJ3NlbnRpbWVudC1jb25zdW1lci1zdGFnaW5nJykKICAgIHN0b3BfYnlfcGlkX2ZuYW1lKCdwb3N0Z3Jlc3QtcmVhZC1hcGknKQogICAgc3RvcF9ieV9waWRfZm5hbWUoJ2JhdGNoLWNvbnN1bWVyLXN0YWdpbmcnKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLS0gVE9ETyB3b3JkIG9yZGVyaW5nIGlzIGZ1Y2tlZAo=</text>
+        <text encoding="base64">ICAgIHNzbF9jZXJ0aWZpY2F0ZSAgICAgL2V0Yy9zc2wvY2VydHMvbmdpbngtc2VsZnNpZ25lZC5jcnQ7CiAgICBzc2xfY2VydGlmaWNhdGVfa2V5IC9ldGMvc3NsL3ByaXZhdGUvbmdpbngtc2VsZnNpZ25lZC5rZXk7CiAgICBzc2xfcHJvdG9jb2xzICAgICAgIFRMU3YxIFRMU3YxLjEgVExTdjEuMjsKICAgIHNzbF9jaXBoZXJzICAgICAgICAgSElHSDohYU5VTEw6IU1ENTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvY19waHJhc2VzIGFzICgKICAgICAgU0VMRUNUCiAgICAgICAgcGFyZW50X2lkLAogICAgICAgIGNvYWxlc2NlKGFycmF5X2FnZyhESVNUSU5DVCBwaHJhc2Vfc3RlbSksIEFSUkFZW106OnRleHRbXSkgYXMgcGhyYXNlcwogICAgICBGUk9NIGRvY19waHJhc2VfY2FuZGlkYXRlcyBjYW5kaWRhdGVzCiAgICAgICAgbGVmdCBvdXRlciBKT0lOIGRpc3RpbmN0X3BocmFzZXMgVVNJTkcgKHBocmFzZV9zdGVtKQogICAgICAgIHdoZXJlIHBocmFzZV9zdGVtIG5vdG51bGwgYW5kIHBocmFzZV9zdGVtICE9ICcnIGFuZCBwaHJhc2Vfc3RlbSAhPSAnICcKICAgICAgICAgICAgICBBTkQgY2FuZGlkYXRlcy5sZWZ0X3N0ZW0gIT0gJycgQU5EIGNhbmRpZGF0ZXMucmlnaHRfc3RlbSAhPSAnJwogICAgICAgICAgICAgIEFORCBjYW5kaWRhdGVzLmxlZnRfc3RlbSAhPSAnICcgQU5EIGNhbmRpZGF0ZXMucmlnaHRfc3RlbSAhPSAnICcKICAgICAgR1JPVVAgQlkgcGFyZW50X2lkCiAgKSwK</text>
+        <text encoding="base64">ICAgIHNzbF9jZXJ0aWZpY2F0ZSAgICAgL2V0Yy9zc2wvY2VydHMvbmdpbngtc2VsZnNpZ25lZC5jcnQ7CiAgICBzc2xfY2VydGlmaWNhdGVfa2V5IC9ldGMvc3NsL3ByaXZhdGUvbmdpbngtc2VsZnNpZ25lZC5rZXk7CiAgICBzc2xfcHJvdG9jb2xzICAgICAgIFRMU3YxIFRMU3YxLjEgVExTdjEuMjsKICAgIHNzbF9jaXBoZXJzICAgICAgICAgSElHSDohYU5VTEw6IU1ENTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
