@@ -284,11 +284,11 @@
         <mark key="]" line="53" column="8" />
         <mark key="." line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1517442112164">
-        <mark key="'" line="244" column="4" />
-        <mark key="[" line="241" column="9" />
-        <mark key="]" line="241" column="7" />
-        <mark key="." line="241" column="7" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1517444152698">
+        <mark key="[" line="291" column="45" />
+        <mark key="]" line="291" column="44" />
+        <mark key="." line="291" column="44" />
+        <mark key="^" line="291" column="44" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1517352964056">
         <mark key="[" line="115" column="60" />
@@ -570,7 +570,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFdIRVJFIHJlbG5hbWUgPQ==</text>
+        <text encoding="base64">d2l0aCB2b2NhYl9tZXRhIGFzICgKICAgICAgICBTRUxFQ1QgcmVsdHVwbGVzIEFTIHNpemUKICAgICAgICBGUk9NIHBnX2NsYXNzCiAgICAgICAgV0hFUkUgcmVsbmFtZSA9ICd7a2luZF9uYW1lfV9hdGJnJwogICAgKSwKICAgIHNjb3JlZF9waHJhc2VzIGFzICgKICAgICAgU0VMRUNUCiAgICAgICAgcGhyYXNlX3N0ZW0sCiAgICAgICAgcGhyYXNlcy5uZG9jLAogICAgICAgIGNhc3QocGhyYXNlcy5uZG9jIC0gNSBBUyBET1VCTEUgUFJFQ0lTSU9OKSAvIGxlZnRfY291bnRzLm5kb2MgLyByaWdodF9jb3VudHMubmRvYyAqIHZvY2FiX21ldGEuc2l6ZSBBUyBzY29yZQogICAgICBGUk9NICJ7a2luZF9uYW1lfV9hdHBiZ2MiIHBocmFzZXMKICAgICAgICBKT0lOICJ7a2luZF9uYW1lfV9hdGJnIiBsZWZ0X2NvdW50cwogICAgICAgICAgT04gbGVmdF9zdGVtID0gbGVmdF9jb3VudHMud29yZAogICAgICAgIEpPSU4gIntraW5kX25hbWV9X2F0YmciIHJpZ2h0X2NvdW50cwogICAgICAgICAgT04gcmlnaHRfc3RlbSA9IHJpZ2h0X2NvdW50cy53b3JkCiAgICAgICAgLCB2b2NhYl9tZXRhCiAgICAgIHdoZXJlIHBocmFzZXMubmRvYyA+PSA1CiAgKSwKICAgIGRldGVjdGVkX3BocmFzZXMgYXMgKAogICAgICBTRUxFQ1QgKgogICAgICBGUk9NIHNjb3JlZF9waHJhc2VzCiAgICAgIFdIRVJFIHNjb3JlID4gNSBhbmQgbmRvYyA+IDQKICApLAogICAgZnVsbF9waHJhc2VzIGFzICgKICAgICAgU0VMRUNUCiAgICAgICAgZmlyc3RfdmFsdWUocGhyYXNlX2NvdW50cy5waHJhc2UpIG92ZXIgKHBhcnRpdGlvbiBieSBwaHJhc2Vfc3RlbSBvcmRlciBieSBwaHJhc2VfY291bnRzLm5kb2MgZGVzYykgYXMgcGhyYXNlLAogICAgICAgIHBocmFzZV9zdGVtLAogICAgICAgIGZpcnN0X3ZhbHVlKHBocmFzZV9jb3VudHMubmRvYykgb3ZlciAocGFydGl0aW9uIGJ5IHBocmFzZV9zdGVtIG9yZGVyIGJ5IHBocmFzZV9jb3VudHMubmRvYyBkZXNjKSBhcyBuZG9jLAogICAgICAgIGRldGVjdGVkX3BocmFzZXMuc2NvcmUKICAgICAgRlJPTSBkZXRlY3RlZF9waHJhc2VzCiAgICAgICAgSk9JTiAie2tpbmRfbmFtZX1fYXRwYmdjIiBwaHJhc2VfY291bnRzIFVTSU5HIChwaHJhc2Vfc3RlbSkKICApLAogICAgZGlzdGluY3RfcGhyYXNlcyBhcyAoCiAgICAgIFNFTEVDVCBESVNUSU5DVCBPTiAocGhyYXNlX3N0ZW0pICoKICAgICAgRlJPTSBmdWxsX3BocmFzZXMKICApLA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFdIRVJFIHJlbG5hbWUgPQ==</text>
@@ -581,35 +581,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBORVcudGltZV9idWNrZXQgPSBkYXRlX3RydW5jKCdtb250aCcsIE5FVy50aW1lX2J1Y2tldCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgcmVsdHVwbGVzIEFTIHNpemUKICAgICAgICBGUk9NIHBnX2NsYXNzCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">d2l0aCB2b2NhYl9tZXRhIGFzICgKICAgICAgICBTRUxFQ1QgcmVsdHVwbGVzIEFTIHNpemUKICAgICAgICBGUk9NIHBnX2NsYXNzCiAgICAgICAgV0hFUkUgcmVsbmFtZSA9ICd7a2luZF9uYW1lfV9hdGJnJwogICAgKSwKICAgIHNjb3JlZF9waHJhc2VzIGFzICgKICAgICAgU0VMRUNUCiAgICAgICAgcGhyYXNlX3N0ZW0sCiAgICAgICAgcGhyYXNlcy5uZG9jLAogICAgICAgIGNhc3QocGhyYXNlcy5uZG9jIC0gNSBBUyBET1VCTEUgUFJFQ0lTSU9OKSAvIGxlZnRfY291bnRzLm5kb2MgLyByaWdodF9jb3VudHMubmRvYyAqIHZvY2FiX21ldGEuc2l6ZSBBUyBzY29yZQogICAgICBGUk9NICJ7a2luZF9uYW1lfV9hdHBiZ2MiIHBocmFzZXMKICAgICAgICBKT0lOICJ7a2luZF9uYW1lfV9hdGJnIiBsZWZ0X2NvdW50cwogICAgICAgICAgT04gbGVmdF9zdGVtID0gbGVmdF9jb3VudHMud29yZAogICAgICAgIEpPSU4gIntraW5kX25hbWV9X2F0YmciIHJpZ2h0X2NvdW50cwogICAgICAgICAgT04gcmlnaHRfc3RlbSA9IHJpZ2h0X2NvdW50cy53b3JkCiAgICAgICAgLCB2b2NhYl9tZXRhCiAgICAgIHdoZXJlIHBocmFzZXMubmRvYyA+PSA1CiAgKSwKICAgIGRldGVjdGVkX3BocmFzZXMgYXMgKAogICAgICBTRUxFQ1QgKgogICAgICBGUk9NIHNjb3JlZF9waHJhc2VzCiAgICAgIFdIRVJFIHNjb3JlID4gNSBhbmQgbmRvYyA+IDQKICApLAogICAgZnVsbF9waHJhc2VzIGFzICgKICAgICAgU0VMRUNUCiAgICAgICAgZmlyc3RfdmFsdWUocGhyYXNlX2NvdW50cy5waHJhc2UpIG92ZXIgKHBhcnRpdGlvbiBieSBwaHJhc2Vfc3RlbSBvcmRlciBieSBwaHJhc2VfY291bnRzLm5kb2MgZGVzYykgYXMgcGhyYXNlLAogICAgICAgIHBocmFzZV9zdGVtLAogICAgICAgIGZpcnN0X3ZhbHVlKHBocmFzZV9jb3VudHMubmRvYykgb3ZlciAocGFydGl0aW9uIGJ5IHBocmFzZV9zdGVtIG9yZGVyIGJ5IHBocmFzZV9jb3VudHMubmRvYyBkZXNjKSBhcyBuZG9jLAogICAgICAgIGRldGVjdGVkX3BocmFzZXMuc2NvcmUKICAgICAgRlJPTSBkZXRlY3RlZF9waHJhc2VzCiAgICAgICAgSk9JTiAie2tpbmRfbmFtZX1fYXRwYmdjIiBwaHJhc2VfY291bnRzIFVTSU5HIChwaHJhc2Vfc3RlbSkKICApLAogICAgZGlzdGluY3RfcGhyYXNlcyBhcyAoCiAgICAgIFNFTEVDVCBESVNUSU5DVCBPTiAocGhyYXNlX3N0ZW0pICoKICAgICAgRlJPTSBmdWxsX3BocmFzZXMKICApLA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgndGltZV9rZXknLCBzdHIpLAogICAgKCdncm91cF9rZXknLCBzdHIpLAo=</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgcmVsdHVwbGVzIEFTIHNpemUKICAgICAgICBGUk9NIHBnX2NsYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICgndGltZV9rZXknLCBzdHIpLAogICAgKCdncm91cF9rZXknLCBzdHIpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZxX3RhYmxlX25hbWUgPSBmJyJ7ZXZlbnQuY3VzdG9tZXJfaWR9Ii4ie2V2ZW50LmRhdGEubmFtZX0iJwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGZxX3RhYmxlX25hbWUgPSBmJyJ7ZXZlbnQuY3VzdG9tZXJfaWR9Ii4ie2V2ZW50LmRhdGEubmFtZX0iJwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGRiX2Vudl9yZXBsYWNlID0gCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
         'DATABASE_URL': f'postgres://explorer:password@localhost:{get_postgres_port()}/explorer',
         'PYTHONPATH': os.getcwd(),
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbyhmJ1N0YXJ0aW5nIEFQSSBzZXJ2ZXIuLi4nKQogICAgZGJfZW52X3JlcGxhY2UgPSB7CiAgICAgICAgJ0RBVEFCQVNFX1VSTCc6IGYncG9zdGdyZXM6Ly9leHBsb3JlcjpwYXNzd29yZEBsb2NhbGhvc3Q6e2dldF9wb3N0Z3Jlc19wb3J0KCl9L2V4cGxvcmVyJywKICAgICAgICAnUFlUSE9OUEFUSCc6IG9zLmdldGN3ZCgpLAogICAgfQogICAgc3RhcnRfc2VydmVyc19hbmRfY29uc3VtZXJzKGRiX2Vudl9yZXBsYWNlKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNoZWNrX291dHB1dChbCiAgICAgICAgJ3V3c2dpJywgZictLWh0dHAtc29ja2V0PTAuMC4wLjA6e0FQSV9QT1JUfScsICctLXNvY2tldD0xMjcuMC4wLjE6MzAzMScsCiAgICAgICAgZictLXdzZ2ktZmlsZT1hcGkvc2VydmVyLnB5JywgJy0tY2FsbGFibGU9YXBwJywgJy0tcHJvY2Vzc2VzPTQnLAogICAgICAgICctLXRocmVhZHM9MicsICctLXN0YXRzPTAuMC4wLjA6OTE5MScsICctLXBpZGZpbGU9L3Zhci9ydW4vdGhvdWdodHZlY3Rvci9hcGktc3RhZ2luZy5waWQnLAogICAgICAgICctLWRhZW1vbml6ZT0vdmFyL2xvZy90aG91Z2h0dmVjdG9yL2FwaS1zdGFnaW5nLmxvZycsCiAgICBdLCBlbnY9dG9vbHoubWVyZ2Uob3MuZW52aXJvbiwgZGJfZW52X3JlcGxhY2UpKQoKICAgIHN0YXJ0X2JhdGNoX2NvbnN1bWVyKGRiX2Vudl9yZXBsYWNlKQogICAgc3RhcnRfc2VudGltZW50X2FuYWx5c2lzX2NvbnN1bWVyKGRiX2Vudl9yZXBsYWNlKQogICAgc3RhcnRfcmVhZF9hcGkoZGJfZW52X3JlcGxhY2UpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
