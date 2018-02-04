@@ -208,12 +208,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517785244350">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="368" column="12" />
-        <mark key="." line="368" column="12" />
-        <mark key="^" line="367" column="23" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517786556259">
+        <mark key="'" line="186" column="43" />
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="99" column="81" />
+        <mark key="." line="99" column="49" />
+        <mark key="^" line="94" column="49" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -479,7 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="75" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="66" column="24" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="75" column="44" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="104" column="59" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
@@ -579,10 +578,11 @@
       <jump line="302" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="313" column="11" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="2" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="186" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChwcmVkaWN0X2JhdGNoKG1vZGVsLCB0cmFuc2Zvcm1fdGV4dHMoYXJncywgWydUaGlzIGlzIGdyZWF0IScsICdXb3csIHRoaXMgcmVhbGx5IHN1Y2tzLiddKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICogKDEgKyBpbnQoc2VsZi5iaWRpcmVjdGlvbmFsKSk=</text>
       </register>
       <register name="-" type="4">
         <text>sum(losses) / len(losses)</text>
@@ -590,8 +590,8 @@
       <register name="/" type="4">
         <text>time.sleep</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2dyZXNzLmNsZWFyKCkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICogKDEgKyBpbnQoc2VsZi5iaWRpcmVjdGlvbmFsKSk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChwcmVkaWN0X2JhdGNoKG1vZGVsLCB0cmFuc2Zvcm1fdGV4dHMoYXJncywgWydUaGlzIGlzIGdyZWF0IScsICdXb3csIHRoaXMgcmVhbGx5IHN1Y2tzLiddKSkpCg==</text>
