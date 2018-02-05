@@ -57,8 +57,8 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/test.sh" timestamp="1517807061739">
-        <mark key="[" line="12" column="19" />
+      <file name="$USER_HOME$/code/datasci/ptclf/test.sh" timestamp="1517808417966">
+        <mark key="[" line="27" column="15" />
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
@@ -208,10 +208,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517799954661">
-        <mark key="[" line="418" column="0" />
-        <mark key="]" line="421" column="0" />
-        <mark key="." line="421" column="0" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517808833647">
+        <mark key="'" line="120" column="53" />
+        <mark key="[" line="160" column="51" />
+        <mark key="]" line="160" column="96" />
+        <mark key="." line="160" column="96" />
+        <mark key="^" line="160" column="96" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -477,10 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="44" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="104" column="59" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="39" column="32" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
-      <jump line="70" column="48" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="84" column="28" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="85" column="24" filename="$USER_HOME$/code/twitter-customer-support-collector/export.py" />
       <jump line="26" column="72" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" />
@@ -564,7 +562,6 @@
       <jump line="276" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="277" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="285" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="287" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="330" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="259" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="331" column="10" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -577,34 +574,39 @@
       <jump line="2" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="186" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="418" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="249" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="283" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="287" column="50" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="201" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="120" column="53" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>twitter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IHRvcmNoLmxvYWQoYXJncy5tb2RlbHBhdGggKyAnLmJpbicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>twitter</text>
+        <text>ing</text>
       </register>
       <register name="/" type="4">
-        <text>time.sleep</text>
+        <text>classweig</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IENMQVNTV0VJR0hUUz0xLDEwLDUgIyBBTUFaT04K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDEsMTAsNSBcCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IHRvcmNoLmxvYWQoYXJncy5tb2RlbHBhdGggKyAnLmJpbicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDMuNCwxLDIuOCBcCg==</text>
+        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDEsMTAsNSBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdcblxuXG5cblxuXG4nKQo=</text>
+        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDMuNCwxLDIuOCBcCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdcblxuXG5cblxuXG4nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
@@ -613,19 +615,19 @@
         <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogdGhlc2Ugd29yaywgYnV0IGJhdGNoIGl0ZXIgeWllbGRzIGRvbid0LiAgV2F0dXB3aXRkYXQ/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>time.sleep</last-search>
+      <last-search>classweig</last-search>
       <last-offset />
-      <last-pattern>time.sleep</last-pattern>
+      <last-pattern>classweig</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -633,9 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>candidates</entry>
-        <entry>middle</entry>
-        <entry>split</entry>
         <entry>partition</entry>
         <entry>content_tsvector</entry>
         <entry>\/</entry>
@@ -653,6 +652,9 @@
         <entry>bool)</entry>
         <entry>print</entry>
         <entry>time.sleep</entry>
+        <entry>continuing</entry>
+        <entry>uing</entry>
+        <entry>classweig</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
