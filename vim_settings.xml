@@ -57,10 +57,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/test.sh" timestamp="1517803158635">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
+      <file name="$USER_HOME$/code/datasci/ptclf/test.sh" timestamp="1517805581157">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1512258801003">
         <mark key="[" line="46" column="0" />
@@ -578,8 +579,8 @@
       <jump line="418" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDEsMTAsNSBcCg==</text>
       </register>
       <register name="-" type="4">
         <text>3.</text>
@@ -587,20 +588,20 @@
       <register name="/" type="4">
         <text>time.sleep</text>
       </register>
-      <register name="0" type="4">
-        <text>transform_texts(model_args, ['This is great!', 'This is terrible.']).cuda()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IENMQVNTV0VJR0hUUz0xLDEwLDUgIyBBTUFaT04K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDMuNCwxLDIuOCBcCg==</text>
+        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDEsMTAsNSBcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdcblxuXG5cblxuXG4nKQo=</text>
+        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDMuNCwxLDIuOCBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdcblxuXG5cblxuXG4nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
@@ -609,13 +610,13 @@
         <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogdGhlc2Ugd29yaywgYnV0IGJhdGNoIGl0ZXIgeWllbGRzIGRvbid0LiAgV2F0dXB3aXRkYXQ/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiYXRjaF94LmN1ZGEoKSkK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogdGhlc2Ugd29yaywgYnV0IGJhdGNoIGl0ZXIgeWllbGRzIGRvbid0LiAgV2F0dXB3aXRkYXQ/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
