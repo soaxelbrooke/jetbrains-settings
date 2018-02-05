@@ -57,12 +57,6 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/test.sh" timestamp="1517813075361">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="14" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1512258801003">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="56" column="89" />
@@ -208,12 +202,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517810434128">
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517856972615">
         <mark key="'" line="120" column="53" />
-        <mark key="[" line="422" column="38" />
-        <mark key="]" line="422" column="38" />
-        <mark key="." line="422" column="38" />
-        <mark key="^" line="422" column="43" />
+        <mark key="[" line="273" column="28" />
+        <mark key="]" line="424" column="38" />
+        <mark key="." line="424" column="38" />
+        <mark key="^" line="424" column="43" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
