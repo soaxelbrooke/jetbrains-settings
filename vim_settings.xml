@@ -57,11 +57,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/test.sh" timestamp="1517805581157">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="6" column="34" />
+      <file name="$USER_HOME$/code/datasci/ptclf/test.sh" timestamp="1517807061739">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1512258801003">
         <mark key="[" line="46" column="0" />
@@ -579,11 +579,11 @@
       <jump line="418" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDEsMTAsNSBcCg==</text>
+      <register name="&quot;" type="4">
+        <text>twitter</text>
       </register>
       <register name="-" type="4">
-        <text>3.</text>
+        <text>twitter</text>
       </register>
       <register name="/" type="4">
         <text>time.sleep</text>
