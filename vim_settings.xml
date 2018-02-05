@@ -208,12 +208,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517808833647">
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517810434128">
         <mark key="'" line="120" column="53" />
-        <mark key="[" line="160" column="51" />
-        <mark key="]" line="160" column="96" />
-        <mark key="." line="160" column="96" />
-        <mark key="^" line="160" column="96" />
+        <mark key="[" line="422" column="38" />
+        <mark key="]" line="422" column="38" />
+        <mark key="." line="422" column="38" />
+        <mark key="^" line="422" column="43" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -581,11 +581,11 @@
       <jump line="120" column="53" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IHRvcmNoLmxvYWQoYXJncy5tb2RlbHBhdGggKyAnLmJpbicpCg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>ing</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>classweig</text>
