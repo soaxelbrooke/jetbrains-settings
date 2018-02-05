@@ -202,12 +202,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517861921438">
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517866608686">
         <mark key="'" line="120" column="53" />
-        <mark key="[" line="273" column="28" />
-        <mark key="]" line="424" column="38" />
-        <mark key="." line="424" column="38" />
-        <mark key="^" line="424" column="43" />
+        <mark key="[" line="108" column="13" />
+        <mark key="]" line="108" column="13" />
+        <mark key="." line="108" column="13" />
+        <mark key="^" line="107" column="27" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -338,7 +338,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517811888683">
+      <file name="/Dummy.txt" timestamp="1517866127754">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -576,43 +576,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>model_settings</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>model_settings</text>
       </register>
       <register name="/" type="4">
         <text>classweig</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IENMQVNTV0VJR0hUUz0xLDEwLDUgIyBBTUFaT04K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsX3NldHRpbmdzID0ge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IHRvcmNoLmxvYWQoYXJncy5tb2RlbHBhdGggKyAnLmJpbicpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDEsMTAsNSBcCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLmVwb2NocyA9IDEwMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDMuNCwxLDIuOCBcCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLmJhdGNoc2l6ZT00MDk2Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdcblxuXG5cblxuXG4nKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IHRvcmNoLmxvYWQoYXJncy5tb2RlbHBhdGggKyAnLmJpbicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkK</text>
+        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDEsMTAsNSBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
+        <text encoding="base64">ICAgIC0tY2xhc3N3ZWlnaHRzIDMuNCwxLDIuOCBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdcblxuXG5cblxuXG4nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1vZGVsKHRyYW5zZm9ybV90ZXh0cyhtb2RlbF9hcmdzLCBbJ1RoaXMgaXMgZ3JlYXQhJywgJ1RoaXMgaXMgdGVycmlibGUuJ10pLmN1ZGEoKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
