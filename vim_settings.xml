@@ -10,9 +10,9 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/code/datasci/ptclf/train.sh" timestamp="1517946420377">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508505823973">
         <mark key="[" line="181" column="25" />
@@ -164,6 +164,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1517957268580">
+        <mark key="[" line="155" column="35" />
+        <mark key="]" line="155" column="41" />
+        <mark key="^" line="155" column="41" />
+        <mark key="." line="155" column="41" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508312165227">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="23" />
@@ -182,12 +188,12 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1517352237051">
-        <mark key="'" line="189" column="65" />
-        <mark key="[" line="235" column="22" />
-        <mark key="]" line="235" column="22" />
-        <mark key="." line="235" column="22" />
-        <mark key="^" line="116" column="9" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1517956207314">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="108" column="5" />
+        <mark key="]" line="108" column="76" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="120" column="9" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -219,9 +225,9 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517954200711">
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517956503715">
         <mark key="'" line="306" column="31" />
-        <mark key="[" line="604" column="0" />
+        <mark key="[" line="11" column="1" />
         <mark key="]" line="604" column="0" />
         <mark key="." line="604" column="0" />
         <mark key="^" line="306" column="31" />
@@ -256,12 +262,11 @@
       <file name="vim_settings.xml" timestamp="1516992948303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1517351672739">
-        <mark key="'" line="92" column="41" />
-        <mark key="[" line="111" column="71" />
-        <mark key="]" line="123" column="31" />
-        <mark key="^" line="123" column="31" />
-        <mark key="." line="123" column="31" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1517957533368">
+        <mark key="[" line="328" column="29" />
+        <mark key="]" line="328" column="29" />
+        <mark key="." line="328" column="29" />
+        <mark key="^" line="328" column="33" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -488,9 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="358" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="331" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="417" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="254" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="391" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -588,56 +590,61 @@
       <jump line="152" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="436" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="306" column="31" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="307" column="33" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
+      <jump line="235" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLnRyYW5zaWVudHMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>PtclfSentimentAnalyzer(
+            event.)</text>
       </register>
       <register name="-" type="4">
-        <text>defaults</text>
+        <text>customer_id, 'assets/models/ptclf-sentiment/model'</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>drop_</text>
       </register>
-      <register name="0" type="4">
-        <text>if getattr(args, name, None):
-                self.defaults[name] = getattr(args, name)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdCBDYWxsZWRQcm9jZXNzRXJyb3I6CiAgICAgICAgbG9nZ2luZy5lcnJvcignRmFpbGVkIHRvIGRyb3AgY2x1c3RlciAtIG1heWJlIGl0cyBhbHJlYWR5IGRyb3BwZWQ/JykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLnRyYW5zaWVudHMpCg==</text>
+      <register name="1" type="4">
+        <text>PtclfSentimentAnalyzer(
+            event.)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0X2FuYWx5emVyID0gCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC56ZXJvX2dyYWQoKQo=</text>
+      <register name="3" type="4">
+        <text>PtclfSentimentAnalyzer(
+            event.customer_id, 'assets/models/ptclf-sentiment/model')</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzID0gU2V0dGluZ3MuZnJvbV9hcmdzKGFyZ3MpCiAgICBtb2RlbCA9IFdvcmRSbm4oc2V0dGluZ3MpCiAgICBtb2RlbC5sb2FkX3N0YXRlX2RpY3QodG9yY2gubG9hZChzZXR0aW5ncy5tb2RlbF9wYXRoICsgJy5iaW4nKSkK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW5ncyA9IFNldHRpbmdzLmxvYWQoc2V0dGluZ3MubW9kZWxfcGF0aCArICcudG9tbCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RyIHBhdGg6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5sb2FkX3N0YXRlX2RpY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZW50aW1lbnRzID0gW10KICAgICAgICBmb3IgYmF0Y2ggaW4gdG9vbHoudGFrZShzZWxmLnNldHRpbmdzLmJhdGNoX3NpemUsIHNlbnRlbmNlcyk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodG9rZW5pemVyLnRva2VuaXplKHRleHQpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLnRyYW5zaWVudHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>drop_</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>drop_</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -645,9 +652,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(10</entry>
-        <entry>modelpath</entry>
-        <entry>predict(</entry>
         <entry>default=</entry>
         <entry>['em</entry>
         <entry>validate_pat</entry>
@@ -665,6 +669,9 @@
         <entry>tokenize</entry>
         <entry>load_state_d</entry>
         <entry>print</entry>
+        <entry>JustSen</entry>
+        <entry>drop</entry>
+        <entry>drop_</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
