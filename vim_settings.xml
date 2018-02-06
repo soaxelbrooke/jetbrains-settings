@@ -219,12 +219,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517951056511">
-        <mark key="'" line="461" column="47" />
-        <mark key="[" line="581" column="9" />
-        <mark key="]" line="377" column="0" />
-        <mark key="." line="377" column="0" />
-        <mark key="^" line="377" column="41" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517954200711">
+        <mark key="'" line="306" column="31" />
+        <mark key="[" line="604" column="0" />
+        <mark key="]" line="604" column="0" />
+        <mark key="." line="604" column="0" />
+        <mark key="^" line="306" column="31" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -355,7 +355,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517948327195">
+      <file name="/Dummy.txt" timestamp="1517954228316">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
@@ -488,9 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="411" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="308" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="204" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="358" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="331" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -498,7 +495,6 @@
       <jump line="254" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="391" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="301" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="436" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="438" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="527" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="121" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -574,7 +570,6 @@
       <jump line="568" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="569" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="146" column="84" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="152" column="57" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="163" column="9" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="315" column="110" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="476" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -588,55 +583,61 @@
       <jump line="406" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="227" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="461" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="86" column="29" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="601" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="152" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="436" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="306" column="31" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodG9rZW5pemVyLnRva2VuaXplKHRleHQpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLnRyYW5zaWVudHMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHBhbmRhcy5lcnJvcnMuUGFyc2VyRXJyb3I6</text>
+        <text>defaults</text>
       </register>
       <register name="/" type="4">
-        <text>tokenize</text>
+        <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWxfY2h1bmsgPSBjaHVuay5kcm9wbmEoYXhpcz0wKQogICAgICAgICAgICAgICAgeWllbGQgdHJhbnNmb3JtX3RleHRzKHNldHRpbmdzLCByZWFsX2NodW5rLmxvY1s6LCAwXS52YWx1ZXMpLCBcCiAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zZm9ybV9jbGFzc2VzKHNldHRpbmdzLCByZWFsX2NodW5rLmxvY1s6LCAxXS52YWx1ZXMpCg==</text>
+      <register name="0" type="4">
+        <text>if getattr(args, name, None):
+                self.defaults[name] = getattr(args, name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodG9rZW5pemVyLnRva2VuaXplKHRleHQpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLnRyYW5zaWVudHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAjIHN1cGVyX2NodW5rX3NpemUgPSAxNgogICAgIyB3aGlsZSBUcnVlOgogICAgIyAgICAgdHJ5OgogICAgIyAgICAgICAgIHN1cGVyX2NodW5rID0gcGFuZGFzLmNvbmNhdChbbmV4dChjaHVua19pdGVyKSBmb3IgXyBpbiByYW5nZShzdXBlcl9jaHVua19zaXplKV0pIFwKICAgICMgICAgICAgICAgICAgLnNhbXBsZShmcmFjPTEpCgogICAgIyAgICAgICAgIGZvciBpIGluIHJhbmdlKHN1cGVyX2NodW5rX3NpemUpOgogICAgIyAgICAgICAgICAgICBjaHVuayA9IHN1cGVyX2NodW5rW2kgKiBzZXR0aW5ncy5iYXRjaF9zaXplOihpICsgMSkgKiBzZXR0aW5ncy5iYXRjaF9zaXplXQogICAgIyAgICAgICAgICAgICByZWFsX2NodW5rID0gY2h1bmsuZHJvcG5hKGF4aXM9MCkKICAgICMgICAgICAgICAgICAgeWllbGQgdHJhbnNmb3JtX3RleHRzKHNldHRpbmdzLCByZWFsX2NodW5rLmxvY1s6LCAwXS52YWx1ZXMpLCBcCiAgICAjICAgICAgICAgICAgICAgICAgICAgdHJhbnNmb3JtX2NsYXNzZXMoc2V0dGluZ3MsIHJlYWxfY2h1bmsubG9jWzosIDFdLnZhbHVlcykKICAgICMgICAgIGV4Y2VwdCBwYW5kYXMuZXJyb3JzLlBhcnNlckVycm9yOgogICAgIyAgICAgICAgIHBhc3MKICAgICMgICAgIGV4Y2VwdCBTdG9wSXRlcmF0aW9uOgogICAgIyAgICAgICAgIHByaW50KCdzdG9wcGVkJykKICAgICMgICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC56ZXJvX2dyYWQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBmb3IgY2h1bmsgaW4gY2h1bmtfaXRlcjoK</text>
+        <text encoding="base64">ICAgIHNldHRpbmdzID0gU2V0dGluZ3MuZnJvbV9hcmdzKGFyZ3MpCiAgICBtb2RlbCA9IFdvcmRSbm4oc2V0dGluZ3MpCiAgICBtb2RlbC5sb2FkX3N0YXRlX2RpY3QodG9yY2gubG9hZChzZXR0aW5ncy5tb2RlbF9wYXRoICsgJy5iaW4nKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1cGVyX2NodW5rX3NpemUgPSAxNgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW5ncyA9IFNldHRpbmdzLmxvYWQoc2V0dGluZ3MubW9kZWxfcGF0aCArICcudG9tbCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RyIHBhdGg6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICMgVHJ5IHNvcnRpbmcgYnkgdGV4dCBsZW5ndGggdG8gaW5jcmVhc2UgdHJhaW5pbmcgc3BlZWQKICAgICAgICAgICAgIyBzb3J0ZWRfdGV4dF9pZHhzID0gc3VwZXJfY2h1bmsubG9jWzosIDBdLnN0ci5sZW4oKS5zb3J0X3ZhbHVlcygpLmluZGV4CiAgICAgICAgICAgICMgc3VwZXJfY2h1bmsgPSBzdXBlcl9jaHVuay5yZWluZGV4KHNvcnRlZF90ZXh0X2lkeHMpCiAgICAgICAgICAgICMgc3VwZXJfY2h1bmsucmVzZXRfaW5kZXgoZHJvcD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5sb2FkX3N0YXRlX2RpY3QoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3VwZXJfY2h1bmspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodG9rZW5pemVyLnRva2VuaXplKHRleHQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1Yl9jaHVua19zaXplID0gOAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>tokenize</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>tokenize</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -644,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toolz.tak</entry>
         <entry>(10</entry>
         <entry>modelpath</entry>
         <entry>predict(</entry>
@@ -660,10 +660,11 @@
         <entry>.loss</entry>
         <entry>loss</entry>
         <entry>limit</entry>
-        <entry>print</entry>
         <entry>load_gl</entry>
         <entry>nrows</entry>
         <entry>tokenize</entry>
+        <entry>load_state_d</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
