@@ -57,11 +57,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/test.sh" timestamp="1517938472702">
-        <mark key="[" line="4" column="71" />
-        <mark key="]" line="4" column="58" />
-        <mark key="." line="4" column="58" />
-        <mark key="^" line="3" column="10" />
+      <file name="$USER_HOME$/code/datasci/ptclf/test.sh" timestamp="1517942670002">
+        <mark key="[" line="5" column="71" />
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+        <mark key="^" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1512258801003">
         <mark key="[" line="46" column="0" />
@@ -71,6 +71,9 @@
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/significant_terms_test.py" timestamp="1508577528737">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/ptclf/test_glove_load.sh" timestamp="1517942664697">
+        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507904885002">
         <mark key="[" line="36" column="33" />
@@ -208,12 +211,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517939323048">
-        <mark key="'" line="55" column="26" />
-        <mark key="[" line="412" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="174" column="29" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517942896574">
+        <mark key="'" line="29" column="20" />
+        <mark key="[" line="287" column="27" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -344,7 +347,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517937528322">
+      <file name="/Dummy.txt" timestamp="1517941570696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -479,11 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="2" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="90" column="40" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="39" column="51" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="29" column="11" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="83" column="20" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
       <jump line="108" column="1" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
       <jump line="244" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
       <jump line="65" column="37" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -494,7 +492,6 @@
       <jump line="171" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="58" column="39" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="147" column="15" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="123" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="56" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="247" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="346" column="97" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -579,55 +576,63 @@
       <jump line="156" column="34" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="284" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="55" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="414" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="399" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="118" column="6" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="123" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="126" column="15" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="29" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbmFtZSA9PSAndG9rZW5fcmVnZXgnOgo=</text>
+      <register name="&quot;" type="4">
+        <text>(int(hashlib.md5(token.encode()).hexdigest(), 16) %
+                                            (settings.vocab_size - 1)) + 1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICd0b2tlbl9yZWdleCc6IHInXHcrfFwkW1xkXC5dK3xcUysnLA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>infer</text>
+        <text>self[</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Li9wdGNsZi5weSB0cmFpbiAtbSB0ZXN0IC1pIGNvbWJpbmVkX3RyYWluLmNzdiAtLWxpbWl0IDEwMDAwIC0tY29udGludWVkCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbmFtZSA9PSAndG9rZW5fcmVnZXgnOgo=</text>
+      <register name="1" type="4">
+        <text>(int(hashlib.md5(token.encode()).hexdigest(), 16) %
+                                            (settings.vocab_size - 1)) + 1</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdhb3NrZGZvYWtzZGZvaWphc2RvaWZqJykKICAgICAgICAgICAgICAgIHByaW50KGRlZmF1bHQpCiAgICAgICAgICAgICAgICBwcmludChzZWxmLm1vZGVsX3NldHRpbmdzKQo=</text>
+        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLmN1ZGE6CiAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXkpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgY3VkYWZ5KHNlbGYpOgogICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ21vZGVsJykK</text>
+        <text encoding="base64">ICAgICMKICAgICMgdHJ5OgogICAgIyAgICAgd2hpbGUgVHJ1ZToKICAgICMgICAgICAgICBuZXh0X2lucHV0ID0gaW5wdXQoJ1xuPiAnKQogICAgIyAgICAgICAgIHByaW50KHByZWRpY3RfYmF0Y2gobW9kZWwsIHRyYW5zZm9ybV90ZXh0cyhzZXR0aW5ncywgW25leHRfaW5wdXRdKSkpCiAgICAjIGV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoKICAgICMgICAgIHByaW50KCJcblxuQnllISIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLnRva2VuX3JlZ2V4KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy50b2tlbl9yZWdleCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbmFtZSA9PSAndG9rZW5fcmVnZXgnOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Li9wdGNsZi5weSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdhb3NrZGZvYWtzZGZvaWphc2RvaWZqJykKICAgICAgICAgICAgICAgIHByaW50KGRlZmF1bHQpCiAgICAgICAgICAgICAgICBwcmludChzZWxmLm1vZGVsX3NldHRpbmdzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2h1bmspCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChrZXkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ21vZGVsJykK</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>infer</last-search>
+      <last-search>self[</last-search>
       <last-offset />
-      <last-pattern>infer</last-pattern>
+      <last-pattern>self[</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -635,9 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>infer_class</entry>
-        <entry>to_comet_h</entry>
-        <entry>lr</entry>
         <entry>['class</entry>
         <entry>def train</entry>
         <entry>except:</entry>
@@ -650,11 +652,14 @@
         <entry>predict(</entry>
         <entry>default=</entry>
         <entry>['em</entry>
-        <entry>print</entry>
         <entry>validate_pat</entry>
         <entry>args</entry>
         <entry>tokenre</entry>
         <entry>infer</entry>
+        <entry>print</entry>
+        <entry>predict</entry>
+        <entry>transform</entry>
+        <entry>self[</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
