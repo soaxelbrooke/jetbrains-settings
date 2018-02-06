@@ -202,12 +202,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517874435498">
-        <mark key="'" line="528" column="8" />
-        <mark key="[" line="383" column="0" />
-        <mark key="]" line="383" column="0" />
-        <mark key="." line="383" column="0" />
-        <mark key="^" line="371" column="40" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517884101684">
+        <mark key="'" line="521" column="32" />
+        <mark key="[" line="516" column="37" />
+        <mark key="]" line="516" column="37" />
+        <mark key="." line="516" column="37" />
+        <mark key="^" line="521" column="32" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -473,8 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="65" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
-      <jump line="286" column="54" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
       <jump line="51" column="6" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
       <jump line="201" column="36" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="270" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" />
@@ -573,55 +571,57 @@
       <jump line="437" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="439" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="528" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="383" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="521" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLmRlZmF1bHRzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>args</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>modelpath</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLm1vZGVsX3NldHRpbmdzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLmRlZmF1bHRzKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihhcmdzLm1vZGVsX3BhdGggKyAnLm1ldGEnLCAncmInKSBhcyBpbmZpbGU6CiAgICAgICAgbW9kZWxfYXJncyA9IHBpY2tsZS5sb2FkKGluZmlsZSkKICAgICAgICAjIG1vZGVsX2FyZ3MuY3VkYSA9IEZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLm1vZGVsX3NldHRpbmdzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLmRlZmF1bHRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoX3NldHRpbmdzLm1vZGVsX3NldHRpbmdzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLm1vZGVsX3NldHRpbmdzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5tb2RlbF9zZXR0aW5ncykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoX3NldHRpbmdzLm1vZGVsX3NldHRpbmdzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy50b19jb21ldF9ocGFyYW1zKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy5tb2RlbF9zZXR0aW5ncykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXR0aW5ncy50b19jb21ldF9ocGFyYW1zKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBkZWYgYXJnc190b19jb21ldF9ocGFyYW1zKGFyZ3MpOgojICAgICAiIiIgVHVybnMgY29tbWFuZCBsaW5lIGFyZ3MgaW50byBhIGRpY3Qgb2YgaHlwZXJwYXJhbXMgZm9yIHJlcG9ydGluZyB0byBjb21ldCAiIiIKIyAgICAgcmV0dXJuIHsKIyAgICAgICAgICdpbnB1dF9wYXRoJzogYXJncy5pbnB1dHBhdGgsCiMgICAgICAgICAndmFsaWRhdGVfcGF0aCc6IGFyZ3MudmFsaWRhdGVwYXRoLAojICAgICAgICAgJ2Vwb2Nocyc6IGFyZ3MuZXBvY2hzLAojICAgICAgICAgJ2JhdGNoX3NpemUnOiBhcmdzLmJhdGNoc2l6ZSwKIyAgICAgICAgICdjb250ZXh0X2RpbSc6IGFyZ3MuY29udGV4dGRpbSwKIyAgICAgICAgICdlbWJlZF9kaW0nOiBhcmdzLmVtYmVkZGltLAojICAgICAgICAgJ3Rva2VuX3JlZ2V4cCc6IGFyZ3MudG9rZW5yZSwKIyAgICAgICAgICdjbGFzc2VzJzogYXJncy5jbGFzc2VzLnNwbGl0KCcsJyksCiMgICAgICAgICAnY2xhc3Nfd2VpZ2h0cyc6IFtmbG9hdCh3KSBmb3IgdyBpbiBhcmdzLmNsYXNzd2VpZ2h0cy5zcGxpdCgnLCcpXSBpZiBhcmdzLmNsYXNzd2VpZ2h0cyBlbHNlIE5vbmUsCiMgICAgICAgICAnY3VkYSc6IGFyZ3MuY3VkYSwKIyAgICAgICAgICdsZWFybmluZ19yYXRlJzogYXJncy5sciwKIyAgICAgICAgICdvcHRpbWl6ZXInOiBhcmdzLm9wdGltLAojICAgICAgICAgJ2xvc3NfZnVuY3Rpb24nOiBhcmdzLmxvc3MsCiMgICAgICAgICAncm5uX3R5cGUnOiBhcmdzLnJubiwKIyAgICAgICAgICdybm5fbGF5ZXJzJzogYXJncy5ybm5sYXllcnMsCiMgICAgICAgICAnY2hhcl9ybm4nOiBhcmdzLmNoYXJybm4sCiMgICAgICAgICAndm9jYWJfc2l6ZSc6IGFyZ3Mudm9jYWJzaXplLAojICAgICAgICAgJ21heF9sZW4nOiBhcmdzLm1heGxlbiwKIyAgICAgICAgICdlbWJlZF9kcm9wb3V0JzogYXJncy5lbWJlZGRyb3BvdXQsCiMgICAgICAgICAncm5uX2Ryb3BvdXQnOiBhcmdzLnJubmRyb3BvdXQsCiMgICAgICAgICAnYmlkaXJlY3Rpb25hbCc6IGFyZ3MuYmlkaXJlY3Rpb25hbCwKIyAgICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNsYXNzX2RpY3QpCg==</text>
+        <text encoding="base64">IyBkZWYgYXJnc190b19jb21ldF9ocGFyYW1zKGFyZ3MpOgojICAgICAiIiIgVHVybnMgY29tbWFuZCBsaW5lIGFyZ3MgaW50byBhIGRpY3Qgb2YgaHlwZXJwYXJhbXMgZm9yIHJlcG9ydGluZyB0byBjb21ldCAiIiIKIyAgICAgcmV0dXJuIHsKIyAgICAgICAgICdpbnB1dF9wYXRoJzogYXJncy5pbnB1dHBhdGgsCiMgICAgICAgICAndmFsaWRhdGVfcGF0aCc6IGFyZ3MudmFsaWRhdGVwYXRoLAojICAgICAgICAgJ2Vwb2Nocyc6IGFyZ3MuZXBvY2hzLAojICAgICAgICAgJ2JhdGNoX3NpemUnOiBhcmdzLmJhdGNoc2l6ZSwKIyAgICAgICAgICdjb250ZXh0X2RpbSc6IGFyZ3MuY29udGV4dGRpbSwKIyAgICAgICAgICdlbWJlZF9kaW0nOiBhcmdzLmVtYmVkZGltLAojICAgICAgICAgJ3Rva2VuX3JlZ2V4cCc6IGFyZ3MudG9rZW5yZSwKIyAgICAgICAgICdjbGFzc2VzJzogYXJncy5jbGFzc2VzLnNwbGl0KCcsJyksCiMgICAgICAgICAnY2xhc3Nfd2VpZ2h0cyc6IFtmbG9hdCh3KSBmb3IgdyBpbiBhcmdzLmNsYXNzd2VpZ2h0cy5zcGxpdCgnLCcpXSBpZiBhcmdzLmNsYXNzd2VpZ2h0cyBlbHNlIE5vbmUsCiMgICAgICAgICAnY3VkYSc6IGFyZ3MuY3VkYSwKIyAgICAgICAgICdsZWFybmluZ19yYXRlJzogYXJncy5sciwKIyAgICAgICAgICdvcHRpbWl6ZXInOiBhcmdzLm9wdGltLAojICAgICAgICAgJ2xvc3NfZnVuY3Rpb24nOiBhcmdzLmxvc3MsCiMgICAgICAgICAncm5uX3R5cGUnOiBhcmdzLnJubiwKIyAgICAgICAgICdybm5fbGF5ZXJzJzogYXJncy5ybm5sYXllcnMsCiMgICAgICAgICAnY2hhcl9ybm4nOiBhcmdzLmNoYXJybm4sCiMgICAgICAgICAndm9jYWJfc2l6ZSc6IGFyZ3Mudm9jYWJzaXplLAojICAgICAgICAgJ21heF9sZW4nOiBhcmdzLm1heGxlbiwKIyAgICAgICAgICdlbWJlZF9kcm9wb3V0JzogYXJncy5lbWJlZGRyb3BvdXQsCiMgICAgICAgICAncm5uX2Ryb3BvdXQnOiBhcmdzLnJubmRyb3BvdXQsCiMgICAgICAgICAnYmlkaXJlY3Rpb25hbCc6IGFyZ3MuYmlkaXJlY3Rpb25hbCwKIyAgICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzZXMgPSBzZXR0aW5ncy5jbGFzc2VzLnNwbGl0KCcsJykK</text>
+        <text encoding="base64">ICAgIHByaW50KGNsYXNzX2RpY3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>modelpath</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>modelpath</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -629,7 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>continuing</entry>
         <entry>uing</entry>
         <entry>classweig</entry>
         <entry>inputpath</entry>
@@ -649,6 +648,7 @@
         <entry>toolz.tak</entry>
         <entry>(10</entry>
         <entry>print</entry>
+        <entry>modelpath</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
