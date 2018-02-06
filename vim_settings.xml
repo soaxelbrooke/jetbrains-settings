@@ -219,12 +219,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517948325576">
-        <mark key="'" line="227" column="51" />
-        <mark key="[" line="402" column="0" />
-        <mark key="]" line="402" column="0" />
-        <mark key="." line="402" column="0" />
-        <mark key="^" line="410" column="9" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517951056511">
+        <mark key="'" line="461" column="47" />
+        <mark key="[" line="581" column="9" />
+        <mark key="]" line="377" column="0" />
+        <mark key="." line="377" column="0" />
+        <mark key="^" line="377" column="41" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -488,7 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="289" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="411" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="308" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -588,55 +587,56 @@
       <jump line="53" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="406" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="227" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="461" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodG9rZW5pemVyLnRva2VuaXplKHRleHQpKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHBhbmRhcy5lcnJvcnMuUGFyc2VyRXJyb3I6</text>
       </register>
       <register name="/" type="4">
-        <text>nrows</text>
+        <text>tokenize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWxfY2h1bmsgPSBjaHVuay5kcm9wbmEoYXhpcz0wKQogICAgICAgICAgICAgICAgeWllbGQgdHJhbnNmb3JtX3RleHRzKHNldHRpbmdzLCByZWFsX2NodW5rLmxvY1s6LCAwXS52YWx1ZXMpLCBcCiAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zZm9ybV9jbGFzc2VzKHNldHRpbmdzLCByZWFsX2NodW5rLmxvY1s6LCAxXS52YWx1ZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodG9rZW5pemVyLnRva2VuaXplKHRleHQpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjIHN1cGVyX2NodW5rX3NpemUgPSAxNgogICAgIyB3aGlsZSBUcnVlOgogICAgIyAgICAgdHJ5OgogICAgIyAgICAgICAgIHN1cGVyX2NodW5rID0gcGFuZGFzLmNvbmNhdChbbmV4dChjaHVua19pdGVyKSBmb3IgXyBpbiByYW5nZShzdXBlcl9jaHVua19zaXplKV0pIFwKICAgICMgICAgICAgICAgICAgLnNhbXBsZShmcmFjPTEpCgogICAgIyAgICAgICAgIGZvciBpIGluIHJhbmdlKHN1cGVyX2NodW5rX3NpemUpOgogICAgIyAgICAgICAgICAgICBjaHVuayA9IHN1cGVyX2NodW5rW2kgKiBzZXR0aW5ncy5iYXRjaF9zaXplOihpICsgMSkgKiBzZXR0aW5ncy5iYXRjaF9zaXplXQogICAgIyAgICAgICAgICAgICByZWFsX2NodW5rID0gY2h1bmsuZHJvcG5hKGF4aXM9MCkKICAgICMgICAgICAgICAgICAgeWllbGQgdHJhbnNmb3JtX3RleHRzKHNldHRpbmdzLCByZWFsX2NodW5rLmxvY1s6LCAwXS52YWx1ZXMpLCBcCiAgICAjICAgICAgICAgICAgICAgICAgICAgdHJhbnNmb3JtX2NsYXNzZXMoc2V0dGluZ3MsIHJlYWxfY2h1bmsubG9jWzosIDFdLnZhbHVlcykKICAgICMgICAgIGV4Y2VwdCBwYW5kYXMuZXJyb3JzLlBhcnNlckVycm9yOgogICAgIyAgICAgICAgIHBhc3MKICAgICMgICAgIGV4Y2VwdCBTdG9wSXRlcmF0aW9uOgogICAgIyAgICAgICAgIHByaW50KCdzdG9wcGVkJykKICAgICMgICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBmb3IgY2h1bmsgaW4gY2h1bmtfaXRlcjoK</text>
+        <text encoding="base64">CiAgICAjIHN1cGVyX2NodW5rX3NpemUgPSAxNgogICAgIyB3aGlsZSBUcnVlOgogICAgIyAgICAgdHJ5OgogICAgIyAgICAgICAgIHN1cGVyX2NodW5rID0gcGFuZGFzLmNvbmNhdChbbmV4dChjaHVua19pdGVyKSBmb3IgXyBpbiByYW5nZShzdXBlcl9jaHVua19zaXplKV0pIFwKICAgICMgICAgICAgICAgICAgLnNhbXBsZShmcmFjPTEpCgogICAgIyAgICAgICAgIGZvciBpIGluIHJhbmdlKHN1cGVyX2NodW5rX3NpemUpOgogICAgIyAgICAgICAgICAgICBjaHVuayA9IHN1cGVyX2NodW5rW2kgKiBzZXR0aW5ncy5iYXRjaF9zaXplOihpICsgMSkgKiBzZXR0aW5ncy5iYXRjaF9zaXplXQogICAgIyAgICAgICAgICAgICByZWFsX2NodW5rID0gY2h1bmsuZHJvcG5hKGF4aXM9MCkKICAgICMgICAgICAgICAgICAgeWllbGQgdHJhbnNmb3JtX3RleHRzKHNldHRpbmdzLCByZWFsX2NodW5rLmxvY1s6LCAwXS52YWx1ZXMpLCBcCiAgICAjICAgICAgICAgICAgICAgICAgICAgdHJhbnNmb3JtX2NsYXNzZXMoc2V0dGluZ3MsIHJlYWxfY2h1bmsubG9jWzosIDFdLnZhbHVlcykKICAgICMgICAgIGV4Y2VwdCBwYW5kYXMuZXJyb3JzLlBhcnNlckVycm9yOgogICAgIyAgICAgICAgIHBhc3MKICAgICMgICAgIGV4Y2VwdCBTdG9wSXRlcmF0aW9uOgogICAgIyAgICAgICAgIHByaW50KCdzdG9wcGVkJykKICAgICMgICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1cGVyX2NodW5rX3NpemUgPSAxNgo=</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBmb3IgY2h1bmsgaW4gY2h1bmtfaXRlcjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyX2NodW5rX3NpemUgPSAxNgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICMgVHJ5IHNvcnRpbmcgYnkgdGV4dCBsZW5ndGggdG8gaW5jcmVhc2UgdHJhaW5pbmcgc3BlZWQKICAgICAgICAgICAgIyBzb3J0ZWRfdGV4dF9pZHhzID0gc3VwZXJfY2h1bmsubG9jWzosIDBdLnN0ci5sZW4oKS5zb3J0X3ZhbHVlcygpLmluZGV4CiAgICAgICAgICAgICMgc3VwZXJfY2h1bmsgPSBzdXBlcl9jaHVuay5yZWluZGV4KHNvcnRlZF90ZXh0X2lkeHMpCiAgICAgICAgICAgICMgc3VwZXJfY2h1bmsucmVzZXRfaW5kZXgoZHJvcD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3VwZXJfY2h1bmspCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICMgVHJ5IHNvcnRpbmcgYnkgdGV4dCBsZW5ndGggdG8gaW5jcmVhc2UgdHJhaW5pbmcgc3BlZWQKICAgICAgICAgICAgIyBzb3J0ZWRfdGV4dF9pZHhzID0gc3VwZXJfY2h1bmsubG9jWzosIDBdLnN0ci5sZW4oKS5zb3J0X3ZhbHVlcygpLmluZGV4CiAgICAgICAgICAgICMgc3VwZXJfY2h1bmsgPSBzdXBlcl9jaHVuay5yZWluZGV4KHNvcnRlZF90ZXh0X2lkeHMpCiAgICAgICAgICAgICMgc3VwZXJfY2h1bmsucmVzZXRfaW5kZXgoZHJvcD1UcnVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1Yl9jaHVua19zaXplID0gOAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3VwZXJfY2h1bmspCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1Yl9jaHVua19zaXplID0gOAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>nrows</last-search>
+      <last-search>tokenize</last-search>
       <last-offset />
-      <last-pattern>nrows</last-pattern>
+      <last-pattern>tokenize</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -644,7 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uuid</entry>
         <entry>toolz.tak</entry>
         <entry>(10</entry>
         <entry>modelpath</entry>
@@ -664,6 +663,7 @@
         <entry>print</entry>
         <entry>load_gl</entry>
         <entry>nrows</entry>
+        <entry>tokenize</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
