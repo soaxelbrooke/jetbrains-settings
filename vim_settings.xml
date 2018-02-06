@@ -9,6 +9,11 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/code/datasci/ptclf/train.sh" timestamp="1517946420377">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508505823973">
         <mark key="[" line="181" column="25" />
         <mark key="]" line="181" column="25" />
@@ -588,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0tdmFsaWRhdGVfcGF0aCBjb21iaW5lZF9kZXYuY3N2</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>load_gl</text>
@@ -600,32 +605,32 @@
         <text encoding="base64">IC0tdmFsaWRhdGVfcGF0aCBjb21iaW5lZF9kZXYuY3N2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLmxpbWl0KQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">I2V4cG9ydCBDTEFTU1dFSUdIVFM9MSw2LDUgIyBDb21iaW5lZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2V4cG9ydCBDTEFTU1dFSUdIVFM9MSwxMCw1ICMgQW1hem9uCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLmxpbWl0KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>(int(hashlib.md5(token.encode()).hexdigest(), 16) %
                                             (settings.vocab_size - 1)) + 1</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIHNldHRpbmdzLmN1ZGE6CiAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICBkZWYgY3VkYWZ5KHNlbGYpOgogICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMKICAgICMgdHJ5OgogICAgIyAgICAgd2hpbGUgVHJ1ZToKICAgICMgICAgICAgICBuZXh0X2lucHV0ID0gaW5wdXQoJ1xuPiAnKQogICAgIyAgICAgICAgIHByaW50KHByZWRpY3RfYmF0Y2gobW9kZWwsIHRyYW5zZm9ybV90ZXh0cyhzZXR0aW5ncywgW25leHRfaW5wdXRdKSkpCiAgICAjIGV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoKICAgICMgICAgIHByaW50KCJcblxuQnllISIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLnRva2VuX3JlZ2V4KQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbmFtZSA9PSAndG9rZW5fcmVnZXgnOgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdhb3NrZGZvYWtzZGZvaWphc2RvaWZqJykKICAgICAgICAgICAgICAgIHByaW50KGRlZmF1bHQpCiAgICAgICAgICAgICAgICBwcmludChzZWxmLm1vZGVsX3NldHRpbmdzKQo=</text>
+        <text encoding="base64">ICAgICMKICAgICMgdHJ5OgogICAgIyAgICAgd2hpbGUgVHJ1ZToKICAgICMgICAgICAgICBuZXh0X2lucHV0ID0gaW5wdXQoJ1xuPiAnKQogICAgIyAgICAgICAgIHByaW50KHByZWRpY3RfYmF0Y2gobW9kZWwsIHRyYW5zZm9ybV90ZXh0cyhzZXR0aW5ncywgW25leHRfaW5wdXRdKSkpCiAgICAjIGV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoKICAgICMgICAgIHByaW50KCJcblxuQnllISIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
