@@ -205,11 +205,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517890502217">
-        <mark key="'" line="458" column="3" />
-        <mark key="[" line="446" column="68" />
-        <mark key="]" line="447" column="0" />
-        <mark key="." line="447" column="0" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517937506896">
+        <mark key="'" line="156" column="34" />
+        <mark key="[" line="368" column="52" />
+        <mark key="]" line="368" column="52" />
+        <mark key="." line="368" column="52" />
         <mark key="^" line="447" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
@@ -341,7 +341,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517866127754">
+      <file name="/Dummy.txt" timestamp="1517937528322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -476,7 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
       <jump line="49" column="2" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
       <jump line="23" column="6" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
       <jump line="6" column="2" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
@@ -535,7 +534,6 @@
       <jump line="527" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="121" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="323" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="156" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="166" column="44" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="240" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="453" column="48" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -576,13 +574,15 @@
       <jump line="127" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="276" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="458" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="474" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="156" column="34" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>args</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
