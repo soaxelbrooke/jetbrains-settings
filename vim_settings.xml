@@ -72,8 +72,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/significant_terms_test.py" timestamp="1508577528737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/test_glove_load.sh" timestamp="1517942664697">
-        <mark key="[" line="0" column="19" />
+      <file name="$USER_HOME$/code/datasci/ptclf/test_glove_load.sh" timestamp="1517945066252">
+        <mark key="[" line="9" column="67" />
+        <mark key="]" line="9" column="67" />
+        <mark key="^" line="4" column="66" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507904885002">
         <mark key="[" line="36" column="33" />
@@ -211,12 +214,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517942896574">
-        <mark key="'" line="29" column="20" />
-        <mark key="[" line="287" column="27" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="20" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1517944966142">
+        <mark key="'" line="53" column="45" />
+        <mark key="[" line="120" column="6" />
+        <mark key="]" line="390" column="0" />
+        <mark key="." line="390" column="0" />
+        <mark key="^" line="167" column="58" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -347,7 +350,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517941570696">
+      <file name="/Dummy.txt" timestamp="1517945232736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -482,38 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="1" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="244" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" />
-      <jump line="65" column="37" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="200" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="132" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="133" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="60" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="171" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="58" column="39" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="147" column="15" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="56" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="247" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="346" column="97" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="243" column="7" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="285" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="259" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="258" column="6" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="291" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="292" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="302" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="313" column="11" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="186" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="418" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="249" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="201" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="120" column="53" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="137" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="274" column="29" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="326" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="373" column="36" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="421" column="56" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="216" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="277" column="29" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="330" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -565,7 +536,6 @@
       <jump line="288" column="49" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="290" column="44" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="338" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="400" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="62" column="61" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="158" column="34" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="42" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -582,57 +552,89 @@
       <jump line="123" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="126" column="15" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="29" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="317" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="481" column="83" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="508" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="509" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="517" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="518" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="519" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="520" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="525" column="42" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="529" column="42" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="536" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="537" column="59" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="545" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="546" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="549" column="19" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="554" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="560" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="561" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="565" column="62" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="568" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="569" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="146" column="84" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="152" column="57" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="163" column="9" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="315" column="110" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="476" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="418" column="71" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="149" column="66" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="349" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="400" column="58" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="167" column="58" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="209" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="53" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(int(hashlib.md5(token.encode()).hexdigest(), 16) %
-                                            (settings.vocab_size - 1)) + 1</text>
+        <text encoding="base64">IC0tdmFsaWRhdGVfcGF0aCBjb21iaW5lZF9kZXYuY3N2</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>self[</text>
+        <text>load_gl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Li9wdGNsZi5weSB0cmFpbiAtbSB0ZXN0IC1pIGNvbWJpbmVkX3RyYWluLmNzdiAtLWxpbWl0IDEwMDAwIC0tY29udGludWVkCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IC0tdmFsaWRhdGVfcGF0aCBjb21iaW5lZF9kZXYuY3N2</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLmxpbWl0KQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>(int(hashlib.md5(token.encode()).hexdigest(), 16) %
                                             (settings.vocab_size - 1)) + 1</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGlmIHNldHRpbmdzLmN1ZGE6CiAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgICBkZWYgY3VkYWZ5KHNlbGYpOgogICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICMKICAgICMgdHJ5OgogICAgIyAgICAgd2hpbGUgVHJ1ZToKICAgICMgICAgICAgICBuZXh0X2lucHV0ID0gaW5wdXQoJ1xuPiAnKQogICAgIyAgICAgICAgIHByaW50KHByZWRpY3RfYmF0Y2gobW9kZWwsIHRyYW5zZm9ybV90ZXh0cyhzZXR0aW5ncywgW25leHRfaW5wdXRdKSkpCiAgICAjIGV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoKICAgICMgICAgIHByaW50KCJcblxuQnllISIpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLnRva2VuX3JlZ2V4KQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbmFtZSA9PSAndG9rZW5fcmVnZXgnOgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdhb3NrZGZvYWtzZGZvaWphc2RvaWZqJykKICAgICAgICAgICAgICAgIHByaW50KGRlZmF1bHQpCiAgICAgICAgICAgICAgICBwcmludChzZWxmLm1vZGVsX3NldHRpbmdzKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXkpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ21vZGVsJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdhb3NrZGZvYWtzZGZvaWphc2RvaWZqJykKICAgICAgICAgICAgICAgIHByaW50KGRlZmF1bHQpCiAgICAgICAgICAgICAgICBwcmludChzZWxmLm1vZGVsX3NldHRpbmdzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>self[</last-search>
+      <last-search>load_gl</last-search>
       <last-offset />
-      <last-pattern>self[</last-pattern>
+      <last-pattern>load_gl</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -640,10 +642,6 @@
     </search>
     <history>
       <history-search>
-        <entry>['class</entry>
-        <entry>def train</entry>
-        <entry>except:</entry>
-        <entry>take</entry>
         <entry>100</entry>
         <entry>uuid</entry>
         <entry>toolz.tak</entry>
@@ -656,10 +654,14 @@
         <entry>args</entry>
         <entry>tokenre</entry>
         <entry>infer</entry>
-        <entry>print</entry>
         <entry>predict</entry>
         <entry>transform</entry>
         <entry>self[</entry>
+        <entry>.loss</entry>
+        <entry>loss</entry>
+        <entry>limit</entry>
+        <entry>print</entry>
+        <entry>load_gl</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
