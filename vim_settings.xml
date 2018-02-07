@@ -214,12 +214,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518042655236">
-        <mark key="'" line="309" column="31" />
-        <mark key="[" line="60" column="38" />
-        <mark key="]" line="60" column="31" />
-        <mark key="." line="60" column="31" />
-        <mark key="^" line="60" column="31" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518046589425">
+        <mark key="'" line="582" column="16" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="73" column="33" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -482,13 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="254" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="391" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="301" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="438" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="527" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="121" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="323" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="166" column="44" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="240" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -582,58 +575,65 @@
       <jump line="307" column="33" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
       <jump line="235" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="3" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="73" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="68" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="433" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="479" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="558" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="559" column="23" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="582" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PtclfSentimentAnalyzer(
-            event.)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuMSA9IHRvcmNoLnplcm9zKHNlbGYucm5uX2xheWVycyAqICgxICsgaW50KHNlbGYuYmlkaXJlY3Rpb25hbCkpLCBiYXRjaF9zaXplLCBzZWxmLmNvbnRleHRfc2l6ZSkKICAgICAgICAgICAgaGlkZGVuMiA9IHRvcmNoLnplcm9zKHNlbGYucm5uX2xheWVycyAqICgxICsgaW50KHNlbGYuYmlkaXJlY3Rpb25hbCkpLCBiYXRjaF9zaXplLCBzZWxmLmNvbnRleHRfc2l6ZSkKICAgICAgICAgICAgcmV0dXJuIChWYXJpYWJsZShoaWRkZW4xLmN1ZGEoKSksIFZhcmlhYmxlKGhpZGRlbjIuY3VkYSgpKSkgaWYgc2VsZi5jdWRhIGVsc2UgXAogICAgICAgICAgICAgICAgICAgIChWYXJpYWJsZShoaWRkZW4xKSwgVmFyaWFibGUoaGlkZGVuMikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>customer_id, 'assets/models/ptclf-sentiment/model'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>drop_</text>
+        <text>forward</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBDYWxsZWRQcm9jZXNzRXJyb3I6CiAgICAgICAgbG9nZ2luZy5lcnJvcignRmFpbGVkIHRvIGRyb3AgY2x1c3RlciAtIG1heWJlIGl0cyBhbHJlYWR5IGRyb3BwZWQ/JykK</text>
+      <register name="0" type="4">
+        <text>torch.zeros(self.rnn_layers * (1 + int(self.bidirectional)), 1,
+                                               self.context_size)</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuMSA9IHRvcmNoLnplcm9zKHNlbGYucm5uX2xheWVycyAqICgxICsgaW50KHNlbGYuYmlkaXJlY3Rpb25hbCkpLCBiYXRjaF9zaXplLCBzZWxmLmNvbnRleHRfc2l6ZSkKICAgICAgICAgICAgaGlkZGVuMiA9IHRvcmNoLnplcm9zKHNlbGYucm5uX2xheWVycyAqICgxICsgaW50KHNlbGYuYmlkaXJlY3Rpb25hbCkpLCBiYXRjaF9zaXplLCBzZWxmLmNvbnRleHRfc2l6ZSkKICAgICAgICAgICAgcmV0dXJuIChWYXJpYWJsZShoaWRkZW4xLmN1ZGEoKSksIFZhcmlhYmxlKGhpZGRlbjIuY3VkYSgpKSkgaWYgc2VsZi5jdWRhIGVsc2UgXAogICAgICAgICAgICAgICAgICAgIChWYXJpYWJsZShoaWRkZW4xKSwgVmFyaWFibGUoaGlkZGVuMikpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFZhcmlhYmxlKGhpZGRlbi5jdWRhKCkpIGlmIHNlbGYuY3VkYSBlbHNlIFZhcmlhYmxlKGhpZGRlbikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuID0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ybm5faW5pdF9oMiA9IG5uLlBhcmFtZXRlcih0b3JjaC5yYW5kbigqcm5uX2hpZGRlbl9zaGFwZSkudHlwZSh0b3JjaC5GbG9hdFRlbnNvciksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZXNfZ3JhZD1UcnVlKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">XAogICAgICAgICAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>torch.zeros(self.rnn_layers * (1 + int(self.bidirectional)),
+                                 batch_size, self.context_size)</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>PtclfSentimentAnalyzer(
             event.)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0X2FuYWx5emVyID0gCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>PtclfSentimentAnalyzer(
-            event.customer_id, 'assets/models/ptclf-sentiment/model')</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50aW1lbnRzID0gW10KICAgICAgICBmb3IgYmF0Y2ggaW4gdG9vbHoudGFrZShzZWxmLnNldHRpbmdzLmJhdGNoX3NpemUsIHNlbnRlbmNlcyk6Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLnRyYW5zaWVudHMpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0X2FuYWx5emVyID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>drop_</last-search>
+      <last-search>forward</last-search>
       <last-offset />
-      <last-pattern>drop_</last-pattern>
+      <last-pattern>forward</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -641,8 +641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>default=</entry>
-        <entry>['em</entry>
         <entry>validate_pat</entry>
         <entry>args</entry>
         <entry>tokenre</entry>
@@ -661,6 +659,8 @@
         <entry>JustSen</entry>
         <entry>drop</entry>
         <entry>drop_</entry>
+        <entry>train_batch</entry>
+        <entry>forward</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
