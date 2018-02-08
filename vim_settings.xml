@@ -220,8 +220,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518054192655">
-        <mark key="'" line="674" column="26" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518058657752">
+        <mark key="'" line="677" column="26" />
+        <mark key="[" line="497" column="43" />
+        <mark key="]" line="496" column="80" />
+        <mark key="^" line="497" column="43" />
+        <mark key="." line="496" column="15" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -587,10 +591,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>toolz.take(settings.get('limit', 1000000000), csv.reader(infile))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>toolz.take(settings.get('limit', 1000000000), csv.reader(infile))</text>
       </register>
       <register name="/" type="4">
         <text>load_</text>
