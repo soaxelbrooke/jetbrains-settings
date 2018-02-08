@@ -9,10 +9,11 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/train.sh" timestamp="1518050294412">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/code/datasci/ptclf/train.sh" timestamp="1518051975743">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508505823973">
         <mark key="[" line="181" column="25" />
@@ -219,12 +220,8 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518049908252">
-        <mark key="'" line="194" column="36" />
-        <mark key="[" line="210" column="65" />
-        <mark key="]" line="504" column="63" />
-        <mark key="." line="504" column="0" />
-        <mark key="^" line="509" column="64" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518054192655">
+        <mark key="'" line="674" column="26" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -487,10 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="28" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="395" column="37" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="437" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="439" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="528" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="383" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="521" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -558,7 +551,6 @@
       <jump line="418" column="71" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="149" column="66" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="349" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="400" column="58" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="167" column="58" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="209" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="53" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -587,55 +579,60 @@
       <jump line="597" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="49" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="194" column="36" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="500" column="29" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="400" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="496" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="633" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="668" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTm8gY2xhc3Mgd2VpZ2h0cyBwcm92aWRlZCwgaW5mZXJyaW5nLi4uJykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>reader</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>gradien</text>
+        <text>load_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucm5uX2luaXRfaDEgPSBWYXJpYWJsZSh0b3JjaC56ZXJvcygKICAgICAgICAgICAgICAgICAgICBzZWxmLnJubl9sYXllcnMgKiAoMSArIGludChzZWxmLmJpZGlyZWN0aW9uYWwpKSwgMSwgc2VsZi5jb250ZXh0X3NpemUpKQo=</text>
+      <register name="0" type="4">
+        <text>% (vocab_size - 1)) + 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTm8gY2xhc3Mgd2VpZ2h0cyBwcm92aWRlZCwgaW5mZXJyaW5nLi4uJykK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTG9hZGluZyBiYXRjaGVzLi4uJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc193ZWlnaHRzID0gY291bnRfY2xhc3NlcyhzZXR0aW5ncykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHN1cGVyX2NodW5rLnNoYXBlLCByZWFsX2NodW5rLnNoYXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ05vIGNsYXNzIHdlaWdodHMgcHJvdmlkZWQsIGluZmVycmluZy4uLicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3ZWlnaHRzCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ05vIGNsYXNzIHdlaWdodHMgcHJvdmlkZWQsIGluZmVycmluZy4uLicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tbGVhcm5fcm5uX2luaXQgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdlaWdodHMgPSB0b3JjaC5GbG9hdFRlbnNvcihbc3VtKGNvdW50cy52YWx1ZXMoKSkgLyBjb3VudHNbY10gZm9yIGMgaW4gc2V0dGluZ3MuY2xhc3Nlc10pCiAgICBhc3NlcnQgc3VtKGNvdW50cy52YWx1ZXMoKSkgPiAwLCAiRGlkbid0IGZpbmQgYW55IGV4YW1wbGVzIG9mIGFueSBjbGFzc2VzIChpbnB1dCBpdGVyYXRvciB3YXMgZW1wdHkpIgogICAgbG9nZ2luZy5pbmZvKCdJbmZlcnJlZCBjbGFzcyB3ZWlnaHRzOiB7fScuZm9ybWF0KHdlaWdodHMpKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTm8gY2xhc3Mgd2VpZ2h0cyBwcm92aWRlZCwgaW5mZXJyaW5nLi4uJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0tY2xhc3Nfd2VpZ2h0cyAxLDIsNCBcCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc193ZWlnaHRzID0gY291bnRfY2xhc3NlcyhzZXR0aW5ncykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkZXIgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdlaWdodHMgPSB0b3JjaC5GbG9hdFRlbnNvcihbc3VtKGNvdW50cykgLyBjb3VudHNbY10gZm9yIGMgaW4gcmFuZ2UobGVuKHNldHRpbmdzLmNsYXNzZXMpKV0pCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB3ZWlnaHRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>gradien</last-search>
+      <last-search>load_</last-search>
       <last-offset />
-      <last-pattern>gradien</last-pattern>
+      <last-pattern>load_</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -643,8 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tokenre</entry>
-        <entry>predict</entry>
         <entry>transform</entry>
         <entry>self[</entry>
         <entry>.loss</entry>
@@ -663,6 +658,8 @@
         <entry>backward</entry>
         <entry>infer</entry>
         <entry>gradien</entry>
+        <entry>clip</entry>
+        <entry>load_</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
