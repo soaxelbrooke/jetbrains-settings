@@ -9,6 +9,11 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/code/datasci/ptclf/train.sh" timestamp="1518050294412">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508505823973">
         <mark key="[" line="181" column="25" />
         <mark key="]" line="181" column="25" />
@@ -214,12 +219,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518046589425">
-        <mark key="'" line="582" column="16" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="73" column="33" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518049908252">
+        <mark key="'" line="194" column="36" />
+        <mark key="[" line="210" column="65" />
+        <mark key="]" line="504" column="63" />
+        <mark key="." line="504" column="0" />
+        <mark key="^" line="509" column="64" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -482,12 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="166" column="44" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="240" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="453" column="48" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="6" column="17" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="169" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="372" column="28" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="395" column="37" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="437" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -554,7 +553,6 @@
       <jump line="568" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="569" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="146" column="84" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="163" column="9" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="315" column="110" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="476" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="418" column="71" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -582,58 +580,62 @@
       <jump line="558" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="559" column="23" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="582" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="163" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="70" column="90" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="552" column="11" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="504" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="597" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="49" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="194" column="36" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuMSA9IHRvcmNoLnplcm9zKHNlbGYucm5uX2xheWVycyAqICgxICsgaW50KHNlbGYuYmlkaXJlY3Rpb25hbCkpLCBiYXRjaF9zaXplLCBzZWxmLmNvbnRleHRfc2l6ZSkKICAgICAgICAgICAgaGlkZGVuMiA9IHRvcmNoLnplcm9zKHNlbGYucm5uX2xheWVycyAqICgxICsgaW50KHNlbGYuYmlkaXJlY3Rpb25hbCkpLCBiYXRjaF9zaXplLCBzZWxmLmNvbnRleHRfc2l6ZSkKICAgICAgICAgICAgcmV0dXJuIChWYXJpYWJsZShoaWRkZW4xLmN1ZGEoKSksIFZhcmlhYmxlKGhpZGRlbjIuY3VkYSgpKSkgaWYgc2VsZi5jdWRhIGVsc2UgXAogICAgICAgICAgICAgICAgICAgIChWYXJpYWJsZShoaWRkZW4xKSwgVmFyaWFibGUoaGlkZGVuMikpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTm8gY2xhc3Mgd2VpZ2h0cyBwcm92aWRlZCwgaW5mZXJyaW5nLi4uJykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>reader</text>
       </register>
       <register name="/" type="4">
-        <text>forward</text>
+        <text>gradien</text>
       </register>
-      <register name="0" type="4">
-        <text>torch.zeros(self.rnn_layers * (1 + int(self.bidirectional)), 1,
-                                               self.context_size)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucm5uX2luaXRfaDEgPSBWYXJpYWJsZSh0b3JjaC56ZXJvcygKICAgICAgICAgICAgICAgICAgICBzZWxmLnJubl9sYXllcnMgKiAoMSArIGludChzZWxmLmJpZGlyZWN0aW9uYWwpKSwgMSwgc2VsZi5jb250ZXh0X3NpemUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuMSA9IHRvcmNoLnplcm9zKHNlbGYucm5uX2xheWVycyAqICgxICsgaW50KHNlbGYuYmlkaXJlY3Rpb25hbCkpLCBiYXRjaF9zaXplLCBzZWxmLmNvbnRleHRfc2l6ZSkKICAgICAgICAgICAgaGlkZGVuMiA9IHRvcmNoLnplcm9zKHNlbGYucm5uX2xheWVycyAqICgxICsgaW50KHNlbGYuYmlkaXJlY3Rpb25hbCkpLCBiYXRjaF9zaXplLCBzZWxmLmNvbnRleHRfc2l6ZSkKICAgICAgICAgICAgcmV0dXJuIChWYXJpYWJsZShoaWRkZW4xLmN1ZGEoKSksIFZhcmlhYmxlKGhpZGRlbjIuY3VkYSgpKSkgaWYgc2VsZi5jdWRhIGVsc2UgXAogICAgICAgICAgICAgICAgICAgIChWYXJpYWJsZShoaWRkZW4xKSwgVmFyaWFibGUoaGlkZGVuMikpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTm8gY2xhc3Mgd2VpZ2h0cyBwcm92aWRlZCwgaW5mZXJyaW5nLi4uJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFZhcmlhYmxlKGhpZGRlbi5jdWRhKCkpIGlmIHNlbGYuY3VkYSBlbHNlIFZhcmlhYmxlKGhpZGRlbikK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc193ZWlnaHRzID0gY291bnRfY2xhc3NlcyhzZXR0aW5ncykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuID0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ybm5faW5pdF9oMiA9IG5uLlBhcmFtZXRlcih0b3JjaC5yYW5kbigqcm5uX2hpZGRlbl9zaGFwZSkudHlwZSh0b3JjaC5GbG9hdFRlbnNvciksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZXNfZ3JhZD1UcnVlKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">XAogICAgICAgICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>torch.zeros(self.rnn_layers * (1 + int(self.bidirectional)),
-                                 batch_size, self.context_size)</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>PtclfSentimentAnalyzer(
-            event.)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB3ZWlnaHRzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdlaWdodHMgPSB0b3JjaC5GbG9hdFRlbnNvcihbc3VtKGNvdW50cy52YWx1ZXMoKSkgLyBjb3VudHNbY10gZm9yIGMgaW4gc2V0dGluZ3MuY2xhc3Nlc10pCiAgICBhc3NlcnQgc3VtKGNvdW50cy52YWx1ZXMoKSkgPiAwLCAiRGlkbid0IGZpbmQgYW55IGV4YW1wbGVzIG9mIGFueSBjbGFzc2VzIChpbnB1dCBpdGVyYXRvciB3YXMgZW1wdHkpIgogICAgbG9nZ2luZy5pbmZvKCdJbmZlcnJlZCBjbGFzcyB3ZWlnaHRzOiB7fScuZm9ybWF0KHdlaWdodHMpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC0tY2xhc3Nfd2VpZ2h0cyAxLDIsNCBcCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZWFkZXIgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0X2FuYWx5emVyID0gCg==</text>
+        <text encoding="base64">ICAgIHdlaWdodHMgPSB0b3JjaC5GbG9hdFRlbnNvcihbc3VtKGNvdW50cykgLyBjb3VudHNbY10gZm9yIGMgaW4gcmFuZ2UobGVuKHNldHRpbmdzLmNsYXNzZXMpKV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>forward</last-search>
+      <last-search>gradien</last-search>
       <last-offset />
-      <last-pattern>forward</last-pattern>
+      <last-pattern>gradien</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -641,10 +643,7 @@
     </search>
     <history>
       <history-search>
-        <entry>validate_pat</entry>
-        <entry>args</entry>
         <entry>tokenre</entry>
-        <entry>infer</entry>
         <entry>predict</entry>
         <entry>transform</entry>
         <entry>self[</entry>
@@ -661,6 +660,9 @@
         <entry>drop_</entry>
         <entry>train_batch</entry>
         <entry>forward</entry>
+        <entry>backward</entry>
+        <entry>infer</entry>
+        <entry>gradien</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
