@@ -13,7 +13,6 @@
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="19" />
-        <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508505823973">
         <mark key="[" line="181" column="25" />
@@ -159,11 +158,8 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1517957268580">
-        <mark key="[" line="155" column="35" />
-        <mark key="]" line="155" column="41" />
-        <mark key="^" line="155" column="41" />
-        <mark key="." line="155" column="41" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1518131415154">
+        <mark key="[" line="176" column="31" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508312165227">
         <mark key="[" line="3" column="1" />
@@ -183,12 +179,12 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1517956207314">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="108" column="5" />
-        <mark key="]" line="108" column="76" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="120" column="9" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1518132020713">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="220" column="33" />
+        <mark key="]" line="220" column="32" />
+        <mark key="." line="220" column="32" />
+        <mark key="^" line="220" column="32" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -220,12 +216,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518058657752">
-        <mark key="'" line="677" column="26" />
-        <mark key="[" line="497" column="43" />
-        <mark key="]" line="496" column="80" />
-        <mark key="^" line="497" column="43" />
-        <mark key="." line="496" column="15" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518131791943">
+        <mark key="'" line="264" column="22" />
+        <mark key="[" line="659" column="18" />
+        <mark key="]" line="687" column="0" />
+        <mark key="." line="687" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -257,11 +252,12 @@
       <file name="vim_settings.xml" timestamp="1516992948303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1517957533368">
-        <mark key="[" line="328" column="29" />
-        <mark key="]" line="328" column="29" />
-        <mark key="." line="328" column="29" />
-        <mark key="^" line="328" column="33" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1518131390085">
+        <mark key="'" line="302" column="65" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="0" />
+        <mark key="^" line="305" column="33" />
+        <mark key="." line="277" column="0" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -488,21 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="383" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="521" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="441" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="34" column="36" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="296" column="41" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="298" column="50" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="300" column="64" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="303" column="57" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="305" column="56" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="307" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="309" column="57" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="311" column="55" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="314" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="320" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="269" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="279" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="281" column="56" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -530,7 +511,6 @@
       <jump line="29" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="317" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="481" column="83" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="508" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="509" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="517" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="518" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -547,8 +527,6 @@
       <jump line="560" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="561" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="565" column="62" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="568" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="569" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="146" column="84" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="315" column="110" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="476" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -588,55 +566,73 @@
       <jump line="496" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="633" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="668" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="212" column="23" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="313" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="200" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="108" column="50" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="665" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="570" column="61" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="569" column="35" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="568" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="508" column="81" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="507" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="356" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="708" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="107" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="302" column="65" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
+      <jump line="178" column="15" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="264" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toolz.take(settings.get('limit', 1000000000), csv.reader(infile))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfeCA9IGJhdGNoX3guY3VkYSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>toolz.take(settings.get('limit', 1000000000), csv.reader(infile))</text>
+        <text>transform_texts(settings, batch)</text>
       </register>
       <register name="/" type="4">
-        <text>load_</text>
+        <text>consumer</text>
       </register>
       <register name="0" type="4">
         <text>% (vocab_size - 1)) + 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTG9hZGluZyBiYXRjaGVzLi4uJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfeCA9IGJhdGNoX3guY3VkYSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHN1cGVyX2NodW5rLnNoYXBlLCByZWFsX2NodW5rLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5jdWRhOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ05vIGNsYXNzIHdlaWdodHMgcHJvdmlkZWQsIGluZmVycmluZy4uLicpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ05vIGNsYXNzIHdlaWdodHMgcHJvdmlkZWQsIGluZmVycmluZy4uLicpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0tbGVhcm5fcm5uX2luaXQgXAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTm8gY2xhc3Mgd2VpZ2h0cyBwcm92aWRlZCwgaW5mZXJyaW5nLi4uJykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc193ZWlnaHRzID0gY291bnRfY2xhc3NlcyhzZXR0aW5ncykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlbC5jdWRhOgogICAgICAgICAgICBiYXRjaF94ID0gYmF0Y2hfeC5jdWRhKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlbC5jdWRhOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgojIGNsYXNzIFNpZ25pZmljYW50VGVybXNBbmFseXplcihKdXN0U2VudGltZW50QW5hbHl6ZXIpOgojICAgICAiIiIgQW5hbHl6ZXIgdGhhdCBjYWxjdWxhdGVzIHNpZ25pZmljYW50IHRlcm1zIGFuZCBwaHJhc2VzICIiIgojICAgICBkZWYgX19pbml0X18oc2VsZiwgY3VzdG9tZXJfaWQ6IFVVSUQsIGNvdW50X3BlcnNpc3RlbmNlPVNxbGl0ZVNpZ25pZmljYW50VGVybXNQZXJzaXN0ZW5jZSgpKToKIyAgICAgICAgIHN1cGVyKCkuX19pbml0X18oY3VzdG9tZXJfaWQpCiMgICAgICAgICBzZWxmLmNvdW50X3BlcnNpc3RlbmNlID0gY291bnRfcGVyc2lzdGVuY2UKIyAgICAgICAgICMgVE9ETyByZXNvbHZlIGNvdW50cyBwZXJzaXN0ZW5jZQojCiMgICAgIGRlZiBuZ3JhbWlmeShzZWxmLCBuOiBpbnQsIHRva2VuczogTGlzdFtzdHJdKSAtPiBMaXN0W3N0cl06CiMgICAgICAgICAiIiIgV2luZG93ZWQgam9pbiBvdmVyIG4gdG9rZW5zIGludG8gYW4gbmdyYW0gIiIiCiMgICAgICAgICByZXR1cm4gWycgJy5qb2luKG5ncmFtKSBmb3IgbmdyYW0gaW4gemlwKCpbdG9rZW5zW2k6aStuXSBmb3IgaSBpbiByYW5nZShsZW4odG9rZW5zKSAtIG4pXSldCiMKIyAgICAgZGVmIGFuYWx5emVfdGVybXMoc2VsZiwgcGFydGl0aW9uZWRfc2VudGVuY2VzOiBMaXN0W1R1cGxlW3N0ciwgZGF0ZXRpbWUsIHN0cl1dKToKIyAgICAgICAgICIiIiBBbmFseXplIHRlcm1zICIiIgojICAgICAgICAgIyBwZ3JvdXAsIHBkdCwgc3RlbmNlCiMgICAgICAgICB0b2tlbml6ZWRfc2VudGVuY2VzID0gWyptYXAoY2FzdWFsX3Rva2VuaXplLCBwYXJ0aXRpb25lZF9zZW50ZW5jZXMpXQojICAgICAgICAgYmlncmFtX3NlbnRlbmNlcyA9IFsqbWFwKGxhbWJkYSB0b2tzOiBzZWxmLm5ncmFtaWZ5KDIsIHRva3MpLCB0b2tlbml6ZWRfc2VudGVuY2VzKV0KIyAgICAgICAgIHRyaWdyYW1fc2VudGVuY2VzID0gWyptYXAobGFtYmRhIHRva3M6IHNlbGYubmdyYW1pZnkoMywgdG9rcyksIHRva2VuaXplZF9zZW50ZW5jZXMpXQojICAgICAgICAgcXVhZGdyYW1fc2VudGVuY2VzID0gWyptYXAobGFtYmRhIHRva3M6IHNlbGYubmdyYW1pZnkoNCwgdG9rcyksIHRva2VuaXplZF9zZW50ZW5jZXMpXQojCiMgICAgICAgICBjb3VudHMgPSBDb3VudGVyKHRvb2x6LmNvbmNhdCh0b2tlbml6ZWRfc2VudGVuY2VzICsgYmlncmFtX3NlbnRlbmNlcyArIHRyaWdyYW1fc2VudGVuY2VzICsKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1YWRncmFtX3NlbnRlbmNlcykp</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3ZWlnaHRzCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTG9hZGluZyBiYXRjaGVzLi4uJykK</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>load_</last-search>
+      <last-search>consumer</last-search>
       <last-offset />
-      <last-pattern>load_</last-pattern>
+      <last-pattern>consumer</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -644,9 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>transform</entry>
-        <entry>self[</entry>
-        <entry>.loss</entry>
         <entry>loss</entry>
         <entry>limit</entry>
         <entry>load_gl</entry>
@@ -664,6 +657,9 @@
         <entry>gradien</entry>
         <entry>clip</entry>
         <entry>load_</entry>
+        <entry>model_path</entry>
+        <entry>predict(</entry>
+        <entry>consumer</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
