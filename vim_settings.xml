@@ -231,12 +231,12 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1516227629973">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1518199796910">
         <mark key="'" line="29" column="12" />
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="32" column="0" />
+        <mark key="[" line="125" column="11" />
+        <mark key="]" line="126" column="19" />
         <mark key="^" line="26" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1517600115084">
         <mark key="[" line="0" column="0" />
@@ -276,12 +276,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1517419050845">
-        <mark key="'" line="529" column="33" />
-        <mark key="[" line="661" column="74" />
-        <mark key="]" line="529" column="33" />
-        <mark key="." line="529" column="33" />
-        <mark key="^" line="529" column="33" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1518200819715">
+        <mark key="'" line="50" column="62" />
+        <mark key="[" line="234" column="36" />
+        <mark key="]" line="234" column="85" />
+        <mark key="." line="234" column="85" />
+        <mark key="^" line="234" column="85" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -405,7 +405,7 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1517600111834">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1518199738264">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="46" />
         <mark key="]" line="5" column="42" />
@@ -492,17 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" />
-      <jump line="28" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="196" column="43" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="171" column="54" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="211" column="54" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="189" column="79" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="185" column="79" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="129" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="152" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="173" column="19" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="156" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="177" column="28" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="287" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -560,7 +549,6 @@
       <jump line="8" column="72" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="78" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="250" column="38" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="358" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="431" column="53" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="432" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="434" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -570,7 +558,6 @@
       <jump line="590" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="256" column="42" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="441" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="234" column="39" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="236" column="42" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="600" column="83" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="668" column="26" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -592,19 +579,32 @@
       <jump line="176" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="36" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="529" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="689" column="27" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="796" column="14" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="119" column="21" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="132" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="234" column="85" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="245" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="358" column="81" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="579" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="707" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="3" column="17" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="4" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="5" column="17" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="50" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZnLm5kb2MgYXMgc2NvcmUK</text>
+      <register name="&quot;" type="4">
+        <text>'#D32F2F', '#c6c6c6'/*'#FBC02D'*/, '#689F38']</text>
       </register>
       <register name="-" type="4">
-        <text>'https://79372e39.ngrok.io';</text>
+        <text>'#D32F2F', '#c6c6c6'/*'#FBC02D'*/, '#689F38']</text>
       </register>
       <register name="/" type="4">
-        <text>Filter</text>
+        <text>#</text>
       </register>
-      <register name="0" type="4">
-        <text>select cast(reltuples as bigint) as total_count from pg_class where relname='${tableName}'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiAjRkJDMDJEOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZnLm5kb2MgYXMgc2NvcmUK</text>
@@ -638,9 +638,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Filter</last-search>
+      <last-search>#</last-search>
       <last-offset />
-      <last-pattern>Filter</last-pattern>
+      <last-pattern>#</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -648,9 +648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>:hover</entry>
-        <entry>pointer</entry>
-        <entry>score</entry>
         <entry>Score</entry>
         <entry>fetch</entry>
         <entry>comment</entry>
@@ -668,6 +665,9 @@
         <entry>console</entry>
         <entry>over</entry>
         <entry>Filter</entry>
+        <entry>overTime</entry>
+        <entry>OverTime</entry>
+        <entry>#</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
