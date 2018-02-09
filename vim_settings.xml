@@ -158,9 +158,9 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1518196242230">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1518198603675">
         <mark key="'" line="423" column="16" />
-        <mark key="[" line="176" column="31" />
+        <mark key="[" line="707" column="104" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508312165227">
         <mark key="[" line="3" column="1" />
@@ -216,11 +216,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518159234743">
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518203055864">
         <mark key="'" line="624" column="26" />
-        <mark key="[" line="684" column="7" />
-        <mark key="]" line="662" column="0" />
-        <mark key="." line="662" column="0" />
+        <mark key="[" line="208" column="36" />
+        <mark key="]" line="208" column="36" />
+        <mark key="." line="208" column="36" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -587,10 +587,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>hash</text>
