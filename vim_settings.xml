@@ -216,11 +216,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518133072006">
-        <mark key="'" line="264" column="22" />
-        <mark key="[" line="427" column="0" />
-        <mark key="]" line="427" column="0" />
-        <mark key="." line="427" column="0" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518134031347">
+        <mark key="'" line="635" column="14" />
+        <mark key="[" line="649" column="43" />
+        <mark key="]" line="649" column="45" />
+        <mark key="." line="649" column="45" />
+        <mark key="^" line="649" column="45" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -484,9 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="279" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="281" column="56" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="282" column="55" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="283" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="287" column="55" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -584,6 +582,9 @@
       <jump line="24" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="264" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="153" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="429" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="555" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="635" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -593,7 +594,7 @@
         <text>transform_texts(settings, batch)</text>
       </register>
       <register name="/" type="4">
-        <text>consumer</text>
+        <text>totalse</text>
       </register>
       <register name="0" type="4">
         <text>% (vocab_size - 1)) + 1</text>
@@ -630,9 +631,9 @@
       </register>
     </registers>
     <search>
-      <last-search>consumer</last-search>
+      <last-search>totalse</last-search>
       <last-offset />
-      <last-pattern>consumer</last-pattern>
+      <last-pattern>totalse</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -640,9 +641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loss</entry>
-        <entry>limit</entry>
-        <entry>load_gl</entry>
         <entry>nrows</entry>
         <entry>tokenize</entry>
         <entry>load_state_d</entry>
@@ -660,6 +658,9 @@
         <entry>model_path</entry>
         <entry>predict(</entry>
         <entry>consumer</entry>
+        <entry>total</entry>
+        <entry>total_</entry>
+        <entry>totalse</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
