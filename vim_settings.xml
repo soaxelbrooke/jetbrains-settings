@@ -215,12 +215,11 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518135287021">
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518159234743">
         <mark key="'" line="624" column="26" />
-        <mark key="[" line="654" column="73" />
-        <mark key="]" line="654" column="58" />
-        <mark key="." line="654" column="58" />
-        <mark key="^" line="649" column="45" />
+        <mark key="[" line="684" column="7" />
+        <mark key="]" line="662" column="0" />
+        <mark key="." line="662" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -586,8 +585,8 @@
       <jump line="624" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTWFkZSB7fSBwcmVkJykK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -599,31 +598,31 @@
         <text>% (vocab_size - 1)) + 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudlsnUFlUSE9OSEFTSFNFRUQnXSA9ICcwJyAgIyBCZWNhdXNlIHB0Y2xmIHVzZXMgX19oYXNoX18gZm9yIHdvcmQgaW5kZXggY2FsYwo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTWFkZSB7fSBwcmVkJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIChpbnQoaGFzaGxpYi5tZDUodG9rZW4uZW5jb2RlKCkpLmhleGRpZ2VzdCgpLCAxNikgJSAodm9jYWJfc2l6ZSAtIDEpKSArIDEK</text>
+        <text encoding="base64">ICAgIHN0YXJ0ZWQgPSBkYXRldGltZS5ub3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfeCA9IGJhdGNoX3guY3VkYSgpCg==</text>
+        <text encoding="base64">ICAgIGVudlsnUFlUSE9OSEFTSFNFRUQnXSA9ICcwJyAgIyBCZWNhdXNlIHB0Y2xmIHVzZXMgX19oYXNoX18gZm9yIHdvcmQgaW5kZXggY2FsYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5jdWRhOgo=</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIChpbnQoaGFzaGxpYi5tZDUodG9rZW4uZW5jb2RlKCkpLmhleGRpZ2VzdCgpLCAxNikgJSAodm9jYWJfc2l6ZSAtIDEpKSArIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfeCA9IGJhdGNoX3guY3VkYSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb2RlbC5jdWRhOgogICAgICAgICAgICBiYXRjaF94ID0gYmF0Y2hfeC5jdWRhKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5jdWRhOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb2RlbC5jdWRhOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlbC5jdWRhOgogICAgICAgICAgICBiYXRjaF94ID0gYmF0Y2hfeC5jdWRhKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
