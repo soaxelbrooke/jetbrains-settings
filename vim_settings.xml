@@ -158,7 +158,8 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1518131415154">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1518196242230">
+        <mark key="'" line="423" column="16" />
         <mark key="[" line="176" column="31" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508312165227">
@@ -251,12 +252,12 @@
       <file name="vim_settings.xml" timestamp="1516992948303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1518195236630">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1518195674074">
         <mark key="'" line="313" column="65" />
-        <mark key="[" line="143" column="16" />
-        <mark key="]" line="143" column="16" />
-        <mark key="." line="143" column="16" />
-        <mark key="^" line="141" column="34" />
+        <mark key="[" line="143" column="17" />
+        <mark key="]" line="143" column="23" />
+        <mark key="." line="143" column="23" />
+        <mark key="^" line="143" column="23" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -483,10 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="287" column="55" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="288" column="49" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="290" column="44" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="338" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="62" column="61" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="158" column="34" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -583,16 +580,20 @@
       <jump line="555" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="635" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="624" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="432" column="24" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
+      <jump line="427" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
+      <jump line="547" column="37" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
+      <jump line="423" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sentence</text>
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>sentence</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>totalse</text>
+        <text>hash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBkZWYgYW5hbHl6ZV9zZW50ZW5jZV9zZW50aW1lbnQoc2VsZiwgc2VudGVuY2VzOiBMaXN0W0FuYWx5emVkU2VudGVuY2VdKSAtPiBMaXN0W0FuYWx5emVkU2VudGVuY2VdOgogICAgICAgIGRmID0gcGFuZGFzLkRhdGFGcmFtZShzZW50ZW5jZXMpCiAgICAgICAgZGZbJ3NlbnRpbWVudCddID0gc2VsZi5hbmFseXplX3NlbnRpbWVudChkZi5jb250ZW50KQogICAgICAgIHJldHVybiBbQW5hbHl6ZWRTZW50ZW5jZSgqcm93KSBmb3Igcm93IGluIGRmLnZhbHVlc10K</text>
@@ -629,9 +630,9 @@
       </register>
     </registers>
     <search>
-      <last-search>totalse</last-search>
+      <last-search>hash</last-search>
       <last-offset />
-      <last-pattern>totalse</last-pattern>
+      <last-pattern>hash</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -639,7 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nrows</entry>
         <entry>tokenize</entry>
         <entry>load_state_d</entry>
         <entry>print</entry>
@@ -659,6 +659,7 @@
         <entry>total</entry>
         <entry>total_</entry>
         <entry>totalse</entry>
+        <entry>hash</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
