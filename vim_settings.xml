@@ -211,12 +211,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518378854059">
-        <mark key="'" line="410" column="27" />
-        <mark key="[" line="561" column="39" />
-        <mark key="]" line="561" column="95" />
-        <mark key="." line="560" column="45" />
-        <mark key="^" line="560" column="44" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518380679623">
+        <mark key="'" line="349" column="37" />
+        <mark key="[" line="416" column="91" />
+        <mark key="]" line="291" column="47" />
+        <mark key="." line="291" column="47" />
+        <mark key="^" line="291" column="47" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -347,7 +347,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517954228316">
+      <file name="/Dummy.txt" timestamp="1518380016120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
@@ -480,9 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="34" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="42" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="127" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="276" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="458" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="474" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -518,7 +515,6 @@
       <jump line="476" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="418" column="71" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="149" column="66" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="349" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="167" column="58" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="209" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="53" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -580,57 +576,61 @@
       <jump line="423" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
       <jump line="231" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="410" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="291" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="310" column="59" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="328" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="349" column="37" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>desc='Loading and transforming train batches...', 
-                                      total=int(sum(class_counts.values())/settings.batch_size)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBWYXJpYWJsZSh0b3JjaF9jbGFzc2VzLmN1ZGEoKSkgaWYgc2V0dGluZ3MuY3VkYSBlbHNlIFZhcmlhYmxlKHRvcmNoX2NsYXNzZXMpCg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>preload</text>
+        <text>env</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBkZWYgYW5hbHl6ZV9zZW50ZW5jZV9zZW50aW1lbnQoc2VsZiwgc2VudGVuY2VzOiBMaXN0W0FuYWx5emVkU2VudGVuY2VdKSAtPiBMaXN0W0FuYWx5emVkU2VudGVuY2VdOgogICAgICAgIGRmID0gcGFuZGFzLkRhdGFGcmFtZShzZW50ZW5jZXMpCiAgICAgICAgZGZbJ3NlbnRpbWVudCddID0gc2VsZi5hbmFseXplX3NlbnRpbWVudChkZi5jb250ZW50KQogICAgICAgIHJldHVybiBbQW5hbHl6ZWRTZW50ZW5jZSgqcm93KSBmb3Igcm93IGluIGRmLnZhbHVlc10K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBWYXJpYWJsZSh0b3JjaF9jbGFzc2VzLmN1ZGEoKSkgaWYgc2V0dGluZ3MuY3VkYSBlbHNlIFZhcmlhYmxlKHRvcmNoX2NsYXNzZXMpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBWYXJpYWJsZSh0ZW5zb3IuY3VkYSgpKSBpZiBzZXR0aW5ncy5jdWRhIGVsc2UgVmFyaWFibGUodGVuc29yKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3Jlc3MgPSBsYW1iZGEgbDogbAogICAgICAgICAgICBpZiBzZXR0aW5ncy52ZXJib3NlID09IDE6CiAgICAgICAgICAgICAgICBwcm9ncmVzcyA9IGxhbWJkYSBsOiB0cWRtKGwsICkKICAgICAgICAgICAgdHJhaW5fYmF0Y2hlcyA9IGxpc3QocHJvZ3Jlc3ModHJhaW5fYmF0Y2hfaXRlcihzZXR0aW5ncykpKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>desc='Loading and transforming train batches...',
+                                          total=int(sum(class_counts.values())/settings.batch_size)</text>
+      </register>
+      <register name="5" type="4">
         <text>desc='Loading and transforming train batches...', 
                                       total=int(sum(class_counts.values())/settings.batch_size)</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY19zZW50aW1lbnQgPSBtYXgoQ291bnRlcihzZW50aW1lbnRzKS5pdGVtcygpLCBrZXk9bGFtYmRhIHA6IHBbMV0pWzBdIFwKICAgICAgICAgICAgICAgICAgICBpZiBzZW50aW1lbnRzIGVsc2UgJ19fbGFiZWxfX25ldScK</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbnRpbWVudHMgPSBzZWxmLmFuYWx5emVfc2VudGltZW50KHNlbnRlbmNlcykK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTWFkZSB7fSBwcmVkJykK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ZWQgPSBkYXRldGltZS5ub3coKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudlsnUFlUSE9OSEFTSFNFRUQnXSA9ICcwJyAgIyBCZWNhdXNlIHB0Y2xmIHVzZXMgX19oYXNoX18gZm9yIHdvcmQgaW5kZXggY2FsYwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIChpbnQoaGFzaGxpYi5tZDUodG9rZW4uZW5jb2RlKCkpLmhleGRpZ2VzdCgpLCAxNikgJSAodm9jYWJfc2l6ZSAtIDEpKSArIDEK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfeCA9IGJhdGNoX3guY3VkYSgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5jdWRhOgo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0ZWQgPSBkYXRldGltZS5ub3coKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>preload</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern>preload</last-pattern>
+      <last-pattern>env</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -638,7 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load_state_d</entry>
         <entry>print</entry>
         <entry>JustSen</entry>
         <entry>drop</entry>
@@ -658,6 +657,7 @@
         <entry>totalse</entry>
         <entry>hash</entry>
         <entry>preload</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
