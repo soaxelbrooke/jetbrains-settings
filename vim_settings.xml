@@ -40,10 +40,10 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1518464334301">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1518467047714">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
@@ -427,10 +427,11 @@
         <mark key="]" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/create_gcp_pre_gpu.sh" timestamp="1518466111090">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/code/datasci/ptclf/create_gcp_pre_gpu.sh" timestamp="1518467065071">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sst_binary_demo.py" timestamp="1511448366424">
         <mark key="[" line="2" column="5" />
@@ -588,11 +589,11 @@
       <jump line="417" column="62" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IFNFUlZJQ0VfQUNDT1VOVD0icHRjbGYtMTMxQGF4ZWxicm9va2UtY29tLmlhbS5nc2VydmljZWFjY291bnQuY29tIgo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>epoch_she</text>
@@ -601,31 +602,31 @@
         <text encoding="base64">CiAgICBkZWYgYW5hbHl6ZV9zZW50ZW5jZV9zZW50aW1lbnQoc2VsZiwgc2VudGVuY2VzOiBMaXN0W0FuYWx5emVkU2VudGVuY2VdKSAtPiBMaXN0W0FuYWx5emVkU2VudGVuY2VdOgogICAgICAgIGRmID0gcGFuZGFzLkRhdGFGcmFtZShzZW50ZW5jZXMpCiAgICAgICAgZGZbJ3NlbnRpbWVudCddID0gc2VsZi5hbmFseXplX3NlbnRpbWVudChkZi5jb250ZW50KQogICAgICAgIHJldHVybiBbQW5hbHl6ZWRTZW50ZW5jZSgqcm93KSBmb3Igcm93IGluIGRmLnZhbHVlc10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IFNFUlZJQ0VfQUNDT1VOVD0icHRjbGYtMTMxQGF4ZWxicm9va2UtY29tLmlhbS5nc2VydmljZWFjY291bnQuY29tIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC0tc2VydmljZS1hY2NvdW50ICRTRVJWSUNFX0FDQ09VTlQgXAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tc2NvcGVzIHN0b3JhZ2UtcncgXAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC0tcHJlbG9hZF9kYXRhIFwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIC0tZ2xvdmVfcGF0aCAuL2dsb3ZlLnR4dCBcCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0tZ2xvdmVfcGF0aCAuL2dsb3ZlLnR4dCBcCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IFwKICAgIC0tbGltaXQgMTAwMDAw</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IFNFUlZJQ0VfQUNDT1VOVD0icHRjbGYtMTMxQGF4ZWxicm9va2UtY29tLmlhbS5nc2VydmljZWFjY291bnQuY29tIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC0tc2VydmljZS1hY2NvdW50ICRTRVJWSUNFX0FDQ09VTlQgXAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tc2NvcGVzIHN0b3JhZ2UtcncgXAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBWYXJpYWJsZSh0b3JjaF9jbGFzc2VzLmN1ZGEoKSkgaWYgc2V0dGluZ3MuY3VkYSBlbHNlIFZhcmlhYmxlKHRvcmNoX2NsYXNzZXMpCg==</text>
+        <text encoding="base64">ICAgIC0tcHJlbG9hZF9kYXRhIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBWYXJpYWJsZSh0ZW5zb3IuY3VkYSgpKSBpZiBzZXR0aW5ncy5jdWRhIGVsc2UgVmFyaWFibGUodGVuc29yKQo=</text>
+        <text encoding="base64">ICAgIC0tZ2xvdmVfcGF0aCAuL2dsb3ZlLnR4dCBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3Jlc3MgPSBsYW1iZGEgbDogbAogICAgICAgICAgICBpZiBzZXR0aW5ncy52ZXJib3NlID09IDE6CiAgICAgICAgICAgICAgICBwcm9ncmVzcyA9IGxhbWJkYSBsOiB0cWRtKGwsICkKICAgICAgICAgICAgdHJhaW5fYmF0Y2hlcyA9IGxpc3QocHJvZ3Jlc3ModHJhaW5fYmF0Y2hfaXRlcihzZXR0aW5ncykpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
