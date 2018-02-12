@@ -131,9 +131,12 @@
         <mark key="." line="81" column="26" />
         <mark key="^" line="81" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1518474459285">
+      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1518475081060">
+        <mark key="'" line="9" column="20" />
         <mark key="[" line="40" column="0" />
-        <mark key="^" line="13" column="45" />
+        <mark key="]" line="46" column="16" />
+        <mark key="^" line="46" column="16" />
+        <mark key="." line="46" column="16" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
@@ -486,11 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="156" column="34" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="284" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="55" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="414" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="399" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="118" column="6" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="123" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -586,6 +584,11 @@
       <jump line="349" column="37" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="417" column="62" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="714" column="18" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="46" column="16" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
+      <jump line="4" column="19" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
+      <jump line="6" column="86" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
+      <jump line="7" column="14" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
+      <jump line="9" column="20" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -595,7 +598,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>load_glove</text>
+        <text>cuda</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBkZWYgYW5hbHl6ZV9zZW50ZW5jZV9zZW50aW1lbnQoc2VsZiwgc2VudGVuY2VzOiBMaXN0W0FuYWx5emVkU2VudGVuY2VdKSAtPiBMaXN0W0FuYWx5emVkU2VudGVuY2VdOgogICAgICAgIGRmID0gcGFuZGFzLkRhdGFGcmFtZShzZW50ZW5jZXMpCiAgICAgICAgZGZbJ3NlbnRpbWVudCddID0gc2VsZi5hbmFseXplX3NlbnRpbWVudChkZi5jb250ZW50KQogICAgICAgIHJldHVybiBbQW5hbHl6ZWRTZW50ZW5jZSgqcm93KSBmb3Igcm93IGluIGRmLnZhbHVlc10K</text>
@@ -632,9 +635,9 @@
       </register>
     </registers>
     <search>
-      <last-search>load_glove</last-search>
+      <last-search>cuda</last-search>
       <last-offset />
-      <last-pattern>load_glove</last-pattern>
+      <last-pattern>cuda</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -642,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drop</entry>
         <entry>drop_</entry>
         <entry>train_batch</entry>
         <entry>forward</entry>
@@ -662,6 +664,7 @@
         <entry>env</entry>
         <entry>epoch_she</entry>
         <entry>load_glove</entry>
+        <entry>cuda</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
