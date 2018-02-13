@@ -221,12 +221,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518550772470">
-        <mark key="'" line="86" column="16" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518551328373">
+        <mark key="'" line="694" column="27" />
         <mark key="[" line="202" column="7" />
-        <mark key="]" line="677" column="0" />
-        <mark key="." line="677" column="0" />
-        <mark key="^" line="677" column="7" />
+        <mark key="]" line="694" column="27" />
+        <mark key="." line="694" column="27" />
+        <mark key="^" line="694" column="27" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/requirements.txt" timestamp="1511596592596">
         <mark key="[" line="0" column="0" />
@@ -496,7 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="53" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="406" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="227" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -596,6 +595,7 @@
       <jump line="199" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="630" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="86" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="694" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -605,7 +605,7 @@
         <text>LongTensor</text>
       </register>
       <register name="/" type="4">
-        <text>get_classes</text>
+        <text>predict</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5sb3NzX2ZuID09ICdOTEwnIG9yIHNldHRpbmdzLmxvc3NfZm4gPT0gJ0Nyb3NzRW50cm9weSc6CiAgICAgICAgICAgIGNvcnJlY3QgKz0gZmxvYXQoc3VtKChvdXRwdXQubWF4KDEpWzFdID09IGJhdGNoX3kpLmRhdGEuY3B1KCkubnVtcHkoKSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29ycmVjdCArPSBmbG9hdChzdW0oKG91dHB1dC5tYXgoMSlbMV0uZGF0YS5jcHUoKS5udW1weSgpID09IGJhdGNoX3kuZGF0YS5jcHUoKS5udW1weSgpLmFyZ21heChheGlzPTEpKSkpCg==</text>
@@ -642,9 +642,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_classes</last-search>
+      <last-search>predict</last-search>
       <last-offset />
-      <last-pattern>get_classes</last-pattern>
+      <last-pattern>predict</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -652,7 +652,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model_path</entry>
         <entry>predict(</entry>
         <entry>consumer</entry>
         <entry>total</entry>
@@ -672,6 +671,7 @@
         <entry>get_cl</entry>
         <entry>def get_cl</entry>
         <entry>get_classes</entry>
+        <entry>predict</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
