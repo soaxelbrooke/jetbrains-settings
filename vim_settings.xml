@@ -9,6 +9,13 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/code/datasci/ptclf/train.sh" timestamp="1518550596051">
+        <mark key="'" line="27" column="6" />
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508505823973">
         <mark key="[" line="181" column="25" />
         <mark key="]" line="181" column="25" />
@@ -214,12 +221,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518473422810">
-        <mark key="'" line="714" column="18" />
-        <mark key="[" line="157" column="15" />
-        <mark key="]" line="714" column="18" />
-        <mark key="." line="714" column="18" />
-        <mark key="^" line="714" column="18" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518550772470">
+        <mark key="'" line="86" column="16" />
+        <mark key="[" line="202" column="7" />
+        <mark key="]" line="677" column="0" />
+        <mark key="." line="677" column="0" />
+        <mark key="^" line="677" column="7" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/requirements.txt" timestamp="1511596592596">
         <mark key="[" line="0" column="0" />
@@ -350,7 +357,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518473402491">
+      <file name="/Dummy.txt" timestamp="1518550414545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
@@ -489,44 +496,13 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="118" column="6" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="123" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="126" column="15" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="29" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="317" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="481" column="83" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="509" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="517" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="518" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="519" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="520" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="525" column="42" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="529" column="42" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="536" column="63" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="537" column="59" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="545" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="546" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="549" column="19" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="554" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="560" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="561" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="565" column="62" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="146" column="84" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="315" column="110" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="476" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="418" column="71" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="149" column="66" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="167" column="58" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="209" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="53" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="406" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="227" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="461" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="86" column="29" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="601" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="152" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="436" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="306" column="31" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="307" column="33" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
       <jump line="235" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
@@ -557,7 +533,6 @@
       <jump line="665" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="570" column="61" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="569" column="35" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="568" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="508" column="81" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="507" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="356" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -578,7 +553,6 @@
       <jump line="423" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
       <jump line="231" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="410" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="291" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="310" column="59" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="328" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="349" column="37" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -589,55 +563,88 @@
       <jump line="6" column="86" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
       <jump line="7" column="14" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
       <jump line="9" column="20" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
+      <jump line="472" column="11" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="436" column="49" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="448" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="449" column="19" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="451" column="65" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="452" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="636" column="18" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="441" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="473" column="35" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="538" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="540" column="18" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="543" column="77" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="197" column="84" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="204" column="57" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="215" column="9" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="374" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="475" column="73" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="28" column="6" filename="$USER_HOME$/code/datasci/ptclf/train.sh" />
+      <jump line="568" column="11" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="693" column="48" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="707" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="290" column="41" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="291" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="450" column="61" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="454" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="458" column="61" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="701" column="48" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="243" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="534" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="54" column="31" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="199" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="630" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="86" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID4+IC92YXIvbG9nL3B0Y2xm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID4+IC92YXIvbG9nL3B0Y2xm</text>
+        <text>LongTensor</text>
       </register>
       <register name="/" type="4">
-        <text>cuda</text>
+        <text>get_classes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgYW5hbHl6ZV9zZW50ZW5jZV9zZW50aW1lbnQoc2VsZiwgc2VudGVuY2VzOiBMaXN0W0FuYWx5emVkU2VudGVuY2VdKSAtPiBMaXN0W0FuYWx5emVkU2VudGVuY2VdOgogICAgICAgIGRmID0gcGFuZGFzLkRhdGFGcmFtZShzZW50ZW5jZXMpCiAgICAgICAgZGZbJ3NlbnRpbWVudCddID0gc2VsZi5hbmFseXplX3NlbnRpbWVudChkZi5jb250ZW50KQogICAgICAgIHJldHVybiBbQW5hbHl6ZWRTZW50ZW5jZSgqcm93KSBmb3Igcm93IGluIGRmLnZhbHVlc10K</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5sb3NzX2ZuID09ICdOTEwnIG9yIHNldHRpbmdzLmxvc3NfZm4gPT0gJ0Nyb3NzRW50cm9weSc6CiAgICAgICAgICAgIGNvcnJlY3QgKz0gZmxvYXQoc3VtKChvdXRwdXQubWF4KDEpWzFdID09IGJhdGNoX3kpLmRhdGEuY3B1KCkubnVtcHkoKSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29ycmVjdCArPSBmbG9hdChzdW0oKG91dHB1dC5tYXgoMSlbMV0uZGF0YS5jcHUoKS5udW1weSgpID09IGJhdGNoX3kuZGF0YS5jcHUoKS5udW1weSgpLmFyZ21heChheGlzPTEpKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IEVNQkVEX0RJTT0yMDAKCmVjaG8gIkRvd25sb2FkaW5nIGRhdGEuLi4iCmdzdXRpbCBjcCBnczovL2F4ZWxicm9va2UtZGF0YS9zZW50aW1lbnQtdG1wL3RyYWluLmNzdiAuL3RyYWluLmNzdgpnc3V0aWwgY3AgZ3M6Ly9heGVsYnJvb2tlLWRhdGEvc2VudGltZW50LXRtcC9kZXYuY3N2IC4vZGV2LmNzdgpnc3V0aWwgY3AgZ3M6Ly9heGVsYnJvb2tlLWRhdGEvZ2xvdmUvZ2xvdmUudHdpdHRlci4yN0IuJChlY2hvICIkRU1CRURfRElNIilkLnR4dCAuL2dsb3ZlLnR4dAoKCmVjaG8gJ1xuXG5cbk5vbi1HbG92ZVxuPT09PT09PT09JwouL3B0Y2xmLnB5IHRyYWluIC1tIHRlc3QtbW9kZWwgLWkgY29tYmluZWRfdHJhaW4uY3N2IC0tY2xhc3NlcyBwb3NpdGl2ZSxuZXV0cmFsLG5lZ2F0aXZlIFwKICAgIC0tbGltaXQgMTAwMDAgLWUgNTAgLS1lcG9jaHMgMiAtLXZhbGlkYXRlX3BhdGggY29tYmluZWRfZGV2LmNzdiAtLXZlcmJvc2UgMgpybSB0ZXN0LW1vZGVsLioKCmVjaG8gJ1xuXG5cbkdsb3ZlXG49PT09PScKLi9wdGNsZi5weSB0cmFpbiAtbSB0ZXN0LW1vZGVsIC1pIGNvbWJpbmVkX3RyYWluLmNzdiAtLWNsYXNzZXMgcG9zaXRpdmUsbmV1dHJhbCxuZWdhdGl2ZSBcCiAgICAtLWxpbWl0IDEwMDAwIC1lIDUwIC0tZXBvY2hzIDIgLS12YWxpZGF0ZV9wYXRoIGNvbWJpbmVkX2Rldi5jc3YgLS12ZXJib3NlIDIgXAogICAgLS1nbG92ZV9wYXRoIH4vZGF0YS9nbG92ZS9nbG92ZS50d2l0dGVyLjI3Qi41MGQudHh0CnJtIHRlc3QtbW9kZWwuKgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IEVNQkVEX0RJTT0yMDAK</text>
+        <text encoding="base64">ICAgICAgICBjb3JyZWN0ICs9IGZsb2F0KHN1bSgob3V0cHV0Lm1heCgxKVsxXSA9PSBiYXRjaF95KS5kYXRhLmNwdSgpLm51bXB5KCkpKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2dzdXRpbCBjcCBnczovL2F4ZWxicm9va2UtZGF0YS9nbG92ZS9nbG92ZS50d2l0dGVyLjI3Qi4kKGVjaG8gIiRFTUJFRF9ESU0iKWQudHh0IC4vZ2xvdmUudHh0Cgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IFwKICAgIC0tbG9zc19mbiBCQ0U=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0tZ2xvdmVfcGF0aCAuL2dsb3ZlLnR4dCBcCg==</text>
+        <text encoding="base64">ZGVmIHRyYW5zZm9ybV9jbGFzc2VzKHNldHRpbmdzLCBjbGFzc2VzKToKICAgICIiIiBUcmFuc2Zvcm1zIGNsYXNzZXMgYmFzZWQgb24gcHJvdmlkZWQgYXJncyAiIiIKICAgIGNsYXNzX2RpY3QgPSB7Y2xzOiBpZHggZm9yIGlkeCwgY2xzIGluIGVudW1lcmF0ZShzZXR0aW5ncy5jbGFzc2VzKX0KICAgIHRvcmNoX2NsYXNzZXMgPSB0b3JjaC5Mb25nVGVuc29yKFtjbGFzc19kaWN0W2Nsc10gZm9yIGNscyBpbiBjbGFzc2VzXSkKICAgIHJldHVybiBWYXJpYWJsZSh0b3JjaF9jbGFzc2VzKQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0tZ2xvdmVfcGF0aCAuL2dsb3ZlLnR4dCBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgY2xhc3NlcyA9IFtjb2x1bW5zW2Nsc10gZm9yIGNscyBpbiBjbGFzc2VzLmlkeG1heChheGlzPTEpXQo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IFwKICAgIC0tbGltaXQgMTAwMDAw</text>
+        <text encoding="base64">IFwKICAgIC0tbG9zc19mbiBNdWx0aUxhYmVsTWFyZ2lu</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IFNFUlZJQ0VfQUNDT1VOVD0icHRjbGYtMTMxQGF4ZWxicm9va2UtY29tLmlhbS5nc2VydmljZWFjY291bnQuY29tIgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IFwKICAgIC0tbG9zc19mbiBNdWx0aUxhYmVsTWFyZ2lu</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0tc2VydmljZS1hY2NvdW50ICRTRVJWSUNFX0FDQ09VTlQgXAo=</text>
+        <text encoding="base64">ICAgIC0tY2xhc3NlcyBwb3NpdGl2ZSxuZXV0cmFsLG5lZ2F0aXZlIFwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC0tc2NvcGVzIHN0b3JhZ2UtcncgXAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IFwKICAgIC0tcHJlbG9hZF9kYXRhIFwKICAgIC0tbGltaXQgMTAwMDAwIA==</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>cuda</last-search>
+      <last-search>get_classes</last-search>
       <last-offset />
-      <last-pattern>cuda</last-pattern>
+      <last-pattern>get_classes</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -645,14 +652,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drop_</entry>
-        <entry>train_batch</entry>
-        <entry>forward</entry>
-        <entry>backward</entry>
-        <entry>infer</entry>
-        <entry>gradien</entry>
-        <entry>clip</entry>
-        <entry>load_</entry>
         <entry>model_path</entry>
         <entry>predict(</entry>
         <entry>consumer</entry>
@@ -665,6 +664,14 @@
         <entry>epoch_she</entry>
         <entry>load_glove</entry>
         <entry>cuda</entry>
+        <entry>texts</entry>
+        <entry>classes</entry>
+        <entry>real_chu</entry>
+        <entry>loss_fn</entry>
+        <entry>\.classes</entry>
+        <entry>get_cl</entry>
+        <entry>def get_cl</entry>
+        <entry>get_classes</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
