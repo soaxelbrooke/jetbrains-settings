@@ -131,12 +131,12 @@
         <mark key="." line="81" column="26" />
         <mark key="^" line="81" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1518475081060">
+      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1518476557607">
         <mark key="'" line="9" column="20" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="46" column="16" />
-        <mark key="^" line="46" column="16" />
-        <mark key="." line="46" column="16" />
+        <mark key="[" line="43" column="1" />
+        <mark key="]" line="53" column="16" />
+        <mark key="^" line="53" column="16" />
+        <mark key="." line="53" column="16" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
@@ -591,11 +591,11 @@
       <jump line="9" column="20" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IEVNQkVEX0RJTT0yMDAKCmVjaG8gIkRvd25sb2FkaW5nIGRhdGEuLi4iCmdzdXRpbCBjcCBnczovL2F4ZWxicm9va2UtZGF0YS9zZW50aW1lbnQtdG1wL3RyYWluLmNzdiAuL3RyYWluLmNzdgpnc3V0aWwgY3AgZ3M6Ly9heGVsYnJvb2tlLWRhdGEvc2VudGltZW50LXRtcC9kZXYuY3N2IC4vZGV2LmNzdgpnc3V0aWwgY3AgZ3M6Ly9heGVsYnJvb2tlLWRhdGEvZ2xvdmUvZ2xvdmUudHdpdHRlci4yN0IuJChlY2hvICIkRU1CRURfRElNIilkLnR4dCAuL2dsb3ZlLnR4dAoKCmVjaG8gJ1xuXG5cbk5vbi1HbG92ZVxuPT09PT09PT09JwouL3B0Y2xmLnB5IHRyYWluIC1tIHRlc3QtbW9kZWwgLWkgY29tYmluZWRfdHJhaW4uY3N2IC0tY2xhc3NlcyBwb3NpdGl2ZSxuZXV0cmFsLG5lZ2F0aXZlIFwKICAgIC0tbGltaXQgMTAwMDAgLWUgNTAgLS1lcG9jaHMgMiAtLXZhbGlkYXRlX3BhdGggY29tYmluZWRfZGV2LmNzdiAtLXZlcmJvc2UgMgpybSB0ZXN0LW1vZGVsLioKCmVjaG8gJ1xuXG5cbkdsb3ZlXG49PT09PScKLi9wdGNsZi5weSB0cmFpbiAtbSB0ZXN0LW1vZGVsIC1pIGNvbWJpbmVkX3RyYWluLmNzdiAtLWNsYXNzZXMgcG9zaXRpdmUsbmV1dHJhbCxuZWdhdGl2ZSBcCiAgICAtLWxpbWl0IDEwMDAwIC1lIDUwIC0tZXBvY2hzIDIgLS12YWxpZGF0ZV9wYXRoIGNvbWJpbmVkX2Rldi5jc3YgLS12ZXJib3NlIDIgXAogICAgLS1nbG92ZV9wYXRoIH4vZGF0YS9nbG92ZS9nbG92ZS50d2l0dGVyLjI3Qi41MGQudHh0CnJtIHRlc3QtbW9kZWwuKgoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID4+IC92YXIvbG9nL3B0Y2xm</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">ID4+IC92YXIvbG9nL3B0Y2xm</text>
       </register>
       <register name="/" type="4">
         <text>cuda</text>
