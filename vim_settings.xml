@@ -227,12 +227,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518559528059">
-        <mark key="'" line="694" column="27" />
-        <mark key="[" line="695" column="43" />
-        <mark key="]" line="695" column="43" />
-        <mark key="." line="695" column="43" />
-        <mark key="^" line="695" column="45" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518647096918">
+        <mark key="'" line="152" column="4" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+        <mark key="^" line="59" column="30" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/requirements.txt" timestamp="1511596592596">
         <mark key="[" line="0" column="0" />
@@ -502,17 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="406" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="227" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="461" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="601" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="152" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="306" column="31" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="307" column="33" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
-      <jump line="235" column="29" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
-      <jump line="3" column="15" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
-      <jump line="73" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="68" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="433" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="479" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -602,55 +591,67 @@
       <jump line="630" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="86" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="694" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="155" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="160" column="62" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="383" column="66" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="482" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="591" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="595" column="31" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="167" column="28" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="60" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="152" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pd.DataFrame(reviews, columns=['text', 'positive', 'neutral', 'negative'])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGJhcikK</text>
       </register>
       <register name="-" type="4">
-        <text>pd.DataFrame(reviews, columns=['text', 'positive', 'neutral', 'negative'])</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>predict</text>
+        <text>load_glove</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGNvbWJpbmVkLnNoYXBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRleHQgPSBkZi5UaXRsZS5zdHIuY2F0KGRmWydSZXZpZXcgVGV4dCddLCBzZXA9J1x0JykK</text>
+        <text encoding="base64">ICAgIHByaW50KGJhcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnd2hhdCB3aGF0IHdoYXQnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbWJpbmVkWydwb3NpdGl2ZSddID0gKHJhdGluZ3MgPiAnNCcpLnR5cGUoaW50KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCd0d3RmJykK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbWJpbmVkWyduZXV0cmFsJ10gPSAocmF0aW5ncyA9PSAnNCcpLnR5cGUoaW50KQo=</text>
+      <register name="4" type="4">
+        <text>.glove_path, settings.vocab_size,
+                                                        self.embed_size</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIHByb2dyZXNzKHNldHRpbmdzLCBpdGVyYXRvciwgZGVzYz1Ob25lLCB0b3RhbD1Ob25lKToKICAgICAgICAgICAgICAgIGlmIHNldHRpbmdzLnZlcmJvc2UgIT0gMToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXRlcmF0b3IKICAgICAgICAgICAgICAgIHJldHVybiB0cWRtKGl0ZXJhdG9yLCBkZXNjPWRlc2MsIHRvdGFsPXRvdGFsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQgPSBkZi5UaXRsZS5zdHIuY2F0KGRmWydSZXZpZXcgVGV4dCddLCBzZXA9J1x0JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlLmludGVyYWN0KGxvY2FsPWRpY3QoZ2xvYmFscygpLCAqKmxvY2FscygpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgY29kZTsK</text>
+        <text encoding="base64">ICAgIGNvbWJpbmVkWydwb3NpdGl2ZSddID0gKHJhdGluZ3MgPiAnNCcpLnR5cGUoaW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5sb3NzX2ZuID09ICdOTEwnIG9yIHNldHRpbmdzLmxvc3NfZm4gPT0gJ0Nyb3NzRW50cm9weSc6CiAgICAgICAgICAgIGNvcnJlY3QgKz0gZmxvYXQoc3VtKChvdXRwdXQubWF4KDEpWzFdID09IGJhdGNoX3kpLmRhdGEuY3B1KCkubnVtcHkoKSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29ycmVjdCArPSBmbG9hdChzdW0oKG91dHB1dC5tYXgoMSlbMV0uZGF0YS5jcHUoKS5udW1weSgpID09IGJhdGNoX3kuZGF0YS5jcHUoKS5udW1weSgpLmFyZ21heChheGlzPTEpKSkpCg==</text>
+        <text encoding="base64">ICAgIGNvbWJpbmVkWyduZXV0cmFsJ10gPSAocmF0aW5ncyA9PSAnNCcpLnR5cGUoaW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/test/dev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>predict</last-search>
+      <last-search>load_glove</last-search>
       <last-offset />
-      <last-pattern>predict</last-pattern>
+      <last-pattern>load_glove</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -658,8 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>predict(</entry>
-        <entry>consumer</entry>
         <entry>total</entry>
         <entry>total_</entry>
         <entry>totalse</entry>
@@ -667,7 +666,6 @@
         <entry>preload</entry>
         <entry>env</entry>
         <entry>epoch_she</entry>
-        <entry>load_glove</entry>
         <entry>cuda</entry>
         <entry>texts</entry>
         <entry>classes</entry>
@@ -678,6 +676,9 @@
         <entry>def get_cl</entry>
         <entry>get_classes</entry>
         <entry>predict</entry>
+        <entry>progress</entry>
+        <entry>progress(</entry>
+        <entry>load_glove</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
