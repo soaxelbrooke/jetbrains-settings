@@ -151,11 +151,11 @@
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/build_dataset.py" timestamp="1518638970597">
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="50" column="24" />
-        <mark key="^" line="50" column="24" />
-        <mark key="." line="50" column="24" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/build_dataset.py" timestamp="1518651124380">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="119" column="72" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="99" column="11" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/util.js" timestamp="1509103255868">
         <mark key="[" line="28" column="38" />
@@ -227,12 +227,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518648410324">
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518649634833">
         <mark key="'" line="152" column="4" />
-        <mark key="[" line="166" column="29" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-        <mark key="^" line="59" column="30" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+        <mark key="^" line="167" column="31" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/requirements.txt" timestamp="1511596592596">
         <mark key="[" line="0" column="0" />
@@ -363,7 +363,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518560060564">
+      <file name="/Dummy.txt" timestamp="1518649660341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
@@ -605,44 +605,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhpdCAwCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYne2RhdGV0aW1lLm5vdygpfSAtIExvYWRpbmcgYW1hem9uIHByb2R1Y3RzLi4uJykKICAgIGFtel9wcm9kX3RyYWluLCBhbXpfcHJvZF9kZXYsIGFtel9wcm9kX3Rlc3QgPSBsb2FkX2FtYXpvbl9wcm9kdWN0cygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>positive</text>
       </register>
       <register name="/" type="4">
         <text>load_glove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbWJpbmVkLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhdGNoLnBvc2l0aXZlID0gcmV2aWV3cy5PdmVyYWxsID4gJzQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhpdCAwCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYne2RhdGV0aW1lLm5vdygpfSAtIExvYWRpbmcgYW1hem9uIHByb2R1Y3RzLi4uJykKICAgIGFtel9wcm9kX3RyYWluLCBhbXpfcHJvZF9kZXYsIGFtel9wcm9kX3Rlc3QgPSBsb2FkX2FtYXpvbl9wcm9kdWN0cygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJhcikK</text>
+        <text encoding="base64">ICAgIGNvbWJpbmVkID0gcGQuRGF0YUZyYW1lKGNvbHVtbnM9Wyd0ZXh0JywgJ3Bvc2l0aXZlJywgJ25ldXRyYWwnLCAnbmVnYXRpdmUnXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd2hhdCB3aGF0IHdoYXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbWJpbmVkID0gcGQuY29uY2F0KFtjb21iaW5lZCwgYmF0Y2hdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd0d3RmJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJldmlld3Muc2hhcGVbMF0gPT0gMDoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>.glove_path, settings.vocab_size,
-                                                        self.embed_size</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIHByb2dyZXNzKHNldHRpbmdzLCBpdGVyYXRvciwgZGVzYz1Ob25lLCB0b3RhbD1Ob25lKToKICAgICAgICAgICAgICAgIGlmIHNldHRpbmdzLnZlcmJvc2UgIT0gMToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXRlcmF0b3IKICAgICAgICAgICAgICAgIHJldHVybiB0cWRtKGl0ZXJhdG9yLCBkZXNjPWRlc2MsIHRvdGFsPXRvdGFsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbyhmJ0xvYWRlZCB7c3BsaXRzWzBdfS4uLicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRleHQgPSBkZi5UaXRsZS5zdHIuY2F0KGRmWydSZXZpZXcgVGV4dCddLCBzZXA9J1x0JykK</text>
+        <text encoding="base64">ZXhpdCAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGJhcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbWJpbmVkWydwb3NpdGl2ZSddID0gKHJhdGluZ3MgPiAnNCcpLnR5cGUoaW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnd2hhdCB3aGF0IHdoYXQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
