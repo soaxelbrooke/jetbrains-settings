@@ -227,12 +227,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518666074738">
-        <mark key="'" line="634" column="4" />
-        <mark key="[" line="643" column="9" />
-        <mark key="]" line="665" column="96" />
-        <mark key="." line="662" column="0" />
-        <mark key="^" line="718" column="52" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518668577904">
+        <mark key="'" line="228" column="24" />
+        <mark key="[" line="249" column="54" />
+        <mark key="]" line="228" column="24" />
+        <mark key="." line="228" column="24" />
+        <mark key="^" line="228" column="24" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/requirements.txt" timestamp="1511596592596">
         <mark key="[" line="0" column="0" />
@@ -502,7 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="558" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="559" column="23" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="582" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="163" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -602,6 +601,7 @@
       <jump line="613" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="536" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="634" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="228" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -611,7 +611,7 @@
         <text>correct</text>
       </register>
       <register name="/" type="4">
-        <text>correct</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5sb3NzX2ZuICE9ICdDcm9zc0VudHJvcHknIGFuZCBzZXR0aW5ncy5sb3NzX2ZuICE9ICdOTEwnOgogICAgICAgICAgICBhY2N1cmFjaWVzLmFwcGVuZChhdXJvYyhvdXRwdXQsIGJhdGNoX3kpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGFjY3VyYWNpZXMuYXBwZW5kKG51bV9jb3JyZWN0KHNldHRpbmdzLmxvc3NfZm4sIG91dHB1dCwgYmF0Y2hfeSkgLyBiYXRjaF94LnNoYXBlWzBdKQo=</text>
@@ -648,9 +648,9 @@
       </register>
     </registers>
     <search>
-      <last-search>correct</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>correct</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -658,7 +658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hash</entry>
         <entry>preload</entry>
         <entry>env</entry>
         <entry>epoch_she</entry>
@@ -678,6 +677,7 @@
         <entry>score_m</entry>
         <entry>score_</entry>
         <entry>correct</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd>
         <entry>s/train/test/g</entry>
