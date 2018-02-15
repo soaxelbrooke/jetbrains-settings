@@ -169,7 +169,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1518198603675">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1518676553078">
         <mark key="'" line="423" column="16" />
         <mark key="[" line="707" column="104" />
       </file>
@@ -261,11 +261,12 @@
         <mark key="]" line="41" column="23" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1518673098234">
-        <mark key="[" line="28" column="60" />
-        <mark key="]" line="32" column="30" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="32" column="30" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1518676521061">
+        <mark key="'" line="23" column="39" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="vim_settings.xml" timestamp="1516992948303">
         <mark key="[" line="0" column="0" />
@@ -508,9 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="559" column="23" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="582" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="163" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="70" column="90" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="552" column="11" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="504" column="8" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -608,55 +606,58 @@
       <jump line="536" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="634" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="228" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="109" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
+      <jump line="34" column="61" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
+      <jump line="23" column="39" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>1 + 6 * random.random()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>1 + 6 * random.random()</text>
       </register>
       <register name="/" type="4">
-        <text>validate</text>
+        <text>content</text>
       </register>
       <register name="0" type="4">
         <text>sudo -Hu postgres psql -p 5436 -c '</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YApDQVRFR09SWV9VUkxTID0gWwogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvYW5pbWFsc19hbmRfcGV0cycsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9hcnQnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvY2xvdGhlc19mYXNoaW9uJywKICAgICdodHRwczovL3d3dy50cnVzdHBpbG90LmNvbS9jYXRlZ29yaWVzL2Nsb3VkX2NvbXB1dGluZycsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jb21wdXRlcicsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jcmFmdHNtYW4nLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZWxlY3Ryb25pY3MnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZW50ZXJ0YWlubWVudCcsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9lcm90aWMnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZm9vZF9iZXZlcmFnZScsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jb21wYW5pZXMnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZ2FtYmxpbmcnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvaGVhbHRoX3dlbGxiZWluZycsCiAgICAnJwpdCg==</text>
+        <text encoding="base64">Y2xhc3MgUmVxdWVzdFBpcGVsaW5lOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHJhdGU6IGZsb2F0KToKICAgICAgICBzZWxmLnJhdGUgPSByYXRlCiAgICAgICAgc2VsZi51cmxfcXVldWUgPSBbXQoKICAgIGRlZiBwcm9jZXNzX3Jlc3BvbnNlKHNlbGYsIHJlc3BvbnNlKToKICAgICAgICBwYXNzCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLmxvc3NfZm4gIT0gJ0Nyb3NzRW50cm9weScgYW5kIHNldHRpbmdzLmxvc3NfZm4gIT0gJ05MTCc6CiAgICAgICAgYWNjdXJhY3kgLz0gbGVuKHNldHRpbmdzLmNsYXNzZXMpCg==</text>
+        <text encoding="base64">YApDQVRFR09SWV9VUkxTID0gWwogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvYW5pbWFsc19hbmRfcGV0cycsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9hcnQnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvY2xvdGhlc19mYXNoaW9uJywKICAgICdodHRwczovL3d3dy50cnVzdHBpbG90LmNvbS9jYXRlZ29yaWVzL2Nsb3VkX2NvbXB1dGluZycsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jb21wdXRlcicsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jcmFmdHNtYW4nLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZWxlY3Ryb25pY3MnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZW50ZXJ0YWlubWVudCcsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9lcm90aWMnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZm9vZF9iZXZlcmFnZScsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jb21wYW5pZXMnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZ2FtYmxpbmcnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvaGVhbHRoX3dlbGxiZWluZycsCiAgICAnJwpdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvcnJlY3QgPSAwCg==</text>
+        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLmxvc3NfZm4gIT0gJ0Nyb3NzRW50cm9weScgYW5kIHNldHRpbmdzLmxvc3NfZm4gIT0gJ05MTCc6CiAgICAgICAgYWNjdXJhY3kgLz0gbGVuKHNldHRpbmdzLmNsYXNzZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob3V0cHV0Lm1heCgxKSkK</text>
+        <text encoding="base64">ICAgIGNvcnJlY3QgPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYne2RhdGV0aW1lLm5vdygpfSAtIExvYWRpbmcgYW1hem9uIHByb2R1Y3RzLi4uJykKICAgIGFtel9wcm9kX3RyYWluLCBhbXpfcHJvZF9kZXYsIGFtel9wcm9kX3Rlc3QgPSBsb2FkX2FtYXpvbl9wcm9kdWN0cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob3V0cHV0Lm1heCgxKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbWJpbmVkID0gcGQuRGF0YUZyYW1lKGNvbHVtbnM9Wyd0ZXh0JywgJ3Bvc2l0aXZlJywgJ25ldXRyYWwnLCAnbmVnYXRpdmUnXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGYne2RhdGV0aW1lLm5vdygpfSAtIExvYWRpbmcgYW1hem9uIHByb2R1Y3RzLi4uJykKICAgIGFtel9wcm9kX3RyYWluLCBhbXpfcHJvZF9kZXYsIGFtel9wcm9kX3Rlc3QgPSBsb2FkX2FtYXpvbl9wcm9kdWN0cygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbWJpbmVkID0gcGQuY29uY2F0KFtjb21iaW5lZCwgYmF0Y2hdKQo=</text>
+        <text encoding="base64">ICAgIGNvbWJpbmVkID0gcGQuRGF0YUZyYW1lKGNvbHVtbnM9Wyd0ZXh0JywgJ3Bvc2l0aXZlJywgJ25ldXRyYWwnLCAnbmVnYXRpdmUnXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJldmlld3Muc2hhcGVbMF0gPT0gMDoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbWJpbmVkID0gcGQuY29uY2F0KFtjb21iaW5lZCwgYmF0Y2hdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJldmlld3Muc2hhcGVbMF0gPT0gMDoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>validate</last-search>
+      <last-search>content</last-search>
       <last-offset />
-      <last-pattern>validate</last-pattern>
+      <last-pattern>content</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -664,7 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>preload</entry>
         <entry>env</entry>
         <entry>epoch_she</entry>
         <entry>cuda</entry>
@@ -684,6 +684,7 @@
         <entry>score_</entry>
         <entry>correct</entry>
         <entry>validate</entry>
+        <entry>content</entry>
       </history-search>
       <history-cmd>
         <entry>s/train/test/g</entry>
