@@ -261,11 +261,11 @@
         <mark key="]" line="41" column="23" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1518670498045">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1518671756034">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="38" column="26" />
+        <mark key="^" line="38" column="26" />
+        <mark key="." line="38" column="26" />
       </file>
       <file name="vim_settings.xml" timestamp="1516992948303">
         <mark key="[" line="0" column="0" />
@@ -610,17 +610,17 @@
       <jump line="228" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YApDQVRFR09SWV9VUkxTID0gWwogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvYW5pbWFsc19hbmRfcGV0cycsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9hcnQnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvY2xvdGhlc19mYXNoaW9uJywKICAgICdodHRwczovL3d3dy50cnVzdHBpbG90LmNvbS9jYXRlZ29yaWVzL2Nsb3VkX2NvbXB1dGluZycsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jb21wdXRlcicsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jcmFmdHNtYW4nLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZWxlY3Ryb25pY3MnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZW50ZXJ0YWlubWVudCcsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9lcm90aWMnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZm9vZF9iZXZlcmFnZScsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jb21wYW5pZXMnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZ2FtYmxpbmcnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvaGVhbHRoX3dlbGxiZWluZycsCiAgICAnJwpdCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>correct</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5sb3NzX2ZuICE9ICdDcm9zc0VudHJvcHknIGFuZCBzZXR0aW5ncy5sb3NzX2ZuICE9ICdOTEwnOgogICAgICAgICAgICBhY2N1cmFjaWVzLmFwcGVuZChhdXJvYyhvdXRwdXQsIGJhdGNoX3kpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGFjY3VyYWNpZXMuYXBwZW5kKG51bV9jb3JyZWN0KHNldHRpbmdzLmxvc3NfZm4sIG91dHB1dCwgYmF0Y2hfeSkgLyBiYXRjaF94LnNoYXBlWzBdKQo=</text>
+      <register name="0" type="4">
+        <text>sudo -Hu postgres psql -p 5436 -c '</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YApDQVRFR09SWV9VUkxTID0gWwogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvYW5pbWFsc19hbmRfcGV0cycsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9hcnQnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvY2xvdGhlc19mYXNoaW9uJywKICAgICdodHRwczovL3d3dy50cnVzdHBpbG90LmNvbS9jYXRlZ29yaWVzL2Nsb3VkX2NvbXB1dGluZycsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jb21wdXRlcicsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jcmFmdHNtYW4nLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZWxlY3Ryb25pY3MnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZW50ZXJ0YWlubWVudCcsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9lcm90aWMnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZm9vZF9iZXZlcmFnZScsCiAgICAnaHR0cHM6Ly93d3cudHJ1c3RwaWxvdC5jb20vY2F0ZWdvcmllcy9jb21wYW5pZXMnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvZ2FtYmxpbmcnLAogICAgJ2h0dHBzOi8vd3d3LnRydXN0cGlsb3QuY29tL2NhdGVnb3JpZXMvaGVhbHRoX3dlbGxiZWluZycsCiAgICAnJwpdCg==</text>
