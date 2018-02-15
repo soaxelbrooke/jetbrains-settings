@@ -261,12 +261,12 @@
         <mark key="]" line="41" column="23" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1518679197645">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1518679998925">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="71" column="10" />
-        <mark key="]" line="71" column="10" />
-        <mark key="^" line="74" column="23" />
-        <mark key="." line="71" column="10" />
+        <mark key="[" line="52" column="89" />
+        <mark key="]" line="52" column="12" />
+        <mark key="^" line="44" column="11" />
+        <mark key="." line="52" column="12" />
       </file>
       <file name="vim_settings.xml" timestamp="1516992948303">
         <mark key="[" line="0" column="0" />
@@ -370,7 +370,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518678879784">
+      <file name="/Dummy.txt" timestamp="1518680185215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
