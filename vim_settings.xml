@@ -261,12 +261,12 @@
         <mark key="]" line="41" column="23" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1518679998925">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="52" column="89" />
-        <mark key="]" line="52" column="12" />
-        <mark key="^" line="44" column="11" />
-        <mark key="." line="52" column="12" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1518681768733">
+        <mark key="'" line="54" column="48" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="144" column="16" />
+        <mark key="^" line="144" column="16" />
+        <mark key="." line="144" column="16" />
       </file>
       <file name="vim_settings.xml" timestamp="1516992948303">
         <mark key="[" line="0" column="0" />
@@ -509,8 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="49" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="194" column="36" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="500" column="29" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="400" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -608,7 +606,9 @@
       <jump line="23" column="39" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
       <jump line="50" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
       <jump line="30" column="36" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
+      <jump line="97" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
+      <jump line="66" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
+      <jump line="54" column="48" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -618,7 +618,7 @@
         <text>().</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>now</text>
       </register>
       <register name="0" type="4">
         <text>sudo -Hu postgres psql -p 5436 -c '</text>
@@ -655,9 +655,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>now</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>now</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>epoch_she</entry>
         <entry>cuda</entry>
         <entry>texts</entry>
         <entry>classes</entry>
@@ -685,6 +684,7 @@
         <entry>validate</entry>
         <entry>content</entry>
         <entry>print</entry>
+        <entry>now</entry>
       </history-search>
       <history-cmd>
         <entry>s/train/test/g</entry>
