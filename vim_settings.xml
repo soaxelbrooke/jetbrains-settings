@@ -227,12 +227,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518662641452">
-        <mark key="'" line="613" column="16" />
-        <mark key="[" line="733" column="69" />
-        <mark key="]" line="733" column="0" />
-        <mark key="." line="733" column="0" />
-        <mark key="^" line="733" column="30" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518665240637">
+        <mark key="'" line="634" column="4" />
+        <mark key="[" line="526" column="0" />
+        <mark key="]" line="536" column="27" />
+        <mark key="." line="536" column="27" />
+        <mark key="^" line="536" column="27" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/requirements.txt" timestamp="1511596592596">
         <mark key="[" line="0" column="0" />
@@ -363,7 +363,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518652839494">
+      <file name="/Dummy.txt" timestamp="1518665153235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
@@ -502,8 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="433" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="479" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="558" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="559" column="23" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="582" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -602,6 +600,8 @@
       <jump line="152" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="167" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="613" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="536" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="634" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -611,7 +611,7 @@
         <text>positive</text>
       </register>
       <register name="/" type="4">
-        <text>score_</text>
+        <text>correct</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJhdGNoLnBvc2l0aXZlID0gcmV2aWV3cy5PdmVyYWxsID4gJzQnCg==</text>
@@ -648,9 +648,9 @@
       </register>
     </registers>
     <search>
-      <last-search>score_</last-search>
+      <last-search>correct</last-search>
       <last-offset />
-      <last-pattern>score_</last-pattern>
+      <last-pattern>correct</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -658,7 +658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>totalse</entry>
         <entry>hash</entry>
         <entry>preload</entry>
         <entry>env</entry>
@@ -678,6 +677,7 @@
         <entry>load_glove</entry>
         <entry>score_m</entry>
         <entry>score_</entry>
+        <entry>correct</entry>
       </history-search>
       <history-cmd>
         <entry>s/train/test/g</entry>
