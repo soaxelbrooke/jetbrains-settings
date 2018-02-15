@@ -3,15 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/datasci/ptclf/train.sh" timestamp="1518550596051">
-        <mark key="'" line="27" column="6" />
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="15" />
-        <mark key="." line="27" column="15" />
-        <mark key="^" line="27" column="15" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1515778304981">
+        <mark key="'" line="220" column="10" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="^" line="180" column="1" />
+        <mark key="." line="181" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru_attn.py" timestamp="1511859776093">
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1511860350088">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/index/index.html" timestamp="1515364424102">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="430" column="16" />
+        <mark key="." line="430" column="16" />
+        <mark key="^" line="430" column="16" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/filtered_partitioned_topk_plus_gensim.py" timestamp="1507904177171">
         <mark key="[" line="15" column="24" />
@@ -22,23 +35,90 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/gru_model.py" timestamp="1507292958631">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="95" column="66" />
+        <mark key="." line="95" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/setup.py" timestamp="1511464217954">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/requirements.txt" timestamp="1512329000116">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
+        <mark key="[" line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1515778079444">
+        <mark key="'" line="181" column="71" />
+        <mark key="[" line="178" column="67" />
+        <mark key="]" line="178" column="43" />
+        <mark key="." line="178" column="43" />
+        <mark key="^" line="178" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1512258801003">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="56" column="89" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/significant_terms_test.py" timestamp="1508577528737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/test_glove_load.sh" timestamp="1518473180610">
-        <mark key="[" line="9" column="67" />
-        <mark key="]" line="9" column="67" />
-        <mark key="^" line="4" column="66" />
-        <mark key="." line="9" column="34" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507904885002">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="33" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="36" column="33" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_prometheus_container.sh" timestamp="1512848237921">
         <mark key="[" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/first_request_and_response_kernel.py" timestamp="1510068442990">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/util.py" timestamp="1508828718711">
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="33" column="67" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="33" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1510988195552">
+        <mark key="[" line="0" column="65" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_gbt.py" timestamp="1511660228026">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1509726808576">
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="2" />
+        <mark key="^" line="27" column="30" />
+        <mark key="." line="32" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sentiment_analyzer.py" timestamp="1511448726102">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512449317496">
         <mark key="'" line="79" column="41" />
@@ -47,12 +127,16 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1518661388725">
-        <mark key="'" line="9" column="20" />
-        <mark key="[" line="42" column="79" />
-        <mark key="]" line="43" column="29" />
-        <mark key="^" line="43" column="29" />
-        <mark key="." line="43" column="29" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/bow_lin_reg.py" timestamp="1511649049750">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509726945537">
+        <mark key="[" line="81" column="25" />
+        <mark key="]" line="81" column="26" />
+        <mark key="." line="81" column="26" />
+        <mark key="^" line="81" column="26" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
@@ -78,17 +162,32 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1518135120290">
-        <mark key="'" line="153" column="0" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/queries.sql" timestamp="1510408516059">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+        <mark key="^" line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1518677280866">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="14" column="10" />
-        <mark key="^" line="14" column="10" />
-        <mark key="." line="14" column="10" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/document_table.js" timestamp="1508425221029">
+        <mark key="[" line="66" column="20" />
+        <mark key="]" line="67" column="71" />
+        <mark key="^" line="63" column="7" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1513555465828">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="104" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/README.md" timestamp="1511448837932">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_svr.py" timestamp="1511661852246">
         <mark key="[" line="24" column="12" />
@@ -102,17 +201,49 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/pos_tag_filtered_gensim.py" timestamp="1508148782956">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="40" column="33" />
+        <mark key="." line="40" column="33" />
+        <mark key="^" line="18" column="53" />
+      </file>
       <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/requirements.txt" timestamp="1511596592596">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508236652604">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="39" column="53" />
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1518199796910">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="125" column="11" />
+        <mark key="]" line="126" column="19" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="126" column="0" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1517600115084">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/create_tables.sql" timestamp="1516402276571">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="44" column="28" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -132,27 +263,48 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/postgrest-read-api.conf" timestamp="1516399328828">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="38" column="28" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="38" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/test/encoder_test.py" timestamp="1507309678690">
+        <mark key="'" line="96" column="28" />
+        <mark key="[" line="116" column="90" />
+        <mark key="]" line="116" column="32" />
+        <mark key="." line="116" column="32" />
+        <mark key="^" line="116" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1518200819715">
+        <mark key="'" line="50" column="62" />
+        <mark key="[" line="234" column="36" />
+        <mark key="]" line="234" column="85" />
+        <mark key="." line="234" column="85" />
+        <mark key="^" line="234" column="85" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/utils.py" timestamp="1511462936170">
         <mark key="[" line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kind.sql" timestamp="1517514305546">
-        <mark key="[" line="331" column="30" />
-        <mark key="]" line="331" column="29" />
-        <mark key="." line="331" column="29" />
-        <mark key="^" line="331" column="29" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_lstm.py" timestamp="1512449284941">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1517352964056">
-        <mark key="[" line="115" column="60" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1515543865107">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="54" />
+        <mark key="^" line="16" column="358" />
+        <mark key="." line="16" column="358" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/requirements.txt" timestamp="1518724510909">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="46" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1510147167384">
         <mark key="[" line="15" column="0" />
@@ -166,17 +318,71 @@
         <mark key="." line="54" column="50" />
         <mark key="^" line="15" column="38" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kinds_view.sql" timestamp="1508313764482">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/validate_export.py" timestamp="1510049471300">
+        <mark key="[" line="34" column="41" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509726926437">
+        <mark key="'" line="76" column="52" />
+        <mark key="[" line="46" column="55" />
+        <mark key="]" line="46" column="55" />
+        <mark key="^" line="46" column="54" />
+        <mark key="." line="46" column="55" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/events.py" timestamp="1509092704447">
         <mark key="[" line="91" column="72" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
+      <file name="/Dummy.txt" timestamp="1517299428740">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
         <mark key="[" line="44" column="20" />
         <mark key="]" line="45" column="37" />
         <mark key="." line="45" column="37" />
         <mark key="^" line="27" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_cnn.py" timestamp="1512024119908">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="85" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="5" column="86" />
+        <mark key="^" line="5" column="86" />
+        <mark key="." line="5" column="86" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1512846419353">
+        <mark key="'" line="62" column="15" />
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="22" />
+        <mark key="." line="53" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509726897919">
+        <mark key="'" line="355" column="31" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/view_spec.js" timestamp="1509103369536">
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="69" />
+        <mark key="." line="10" column="69" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_jenkins_exporter.sh" timestamp="1512846607121">
         <mark key="[" line="4" column="0" />
@@ -186,8 +392,61 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sst_binary_demo.py" timestamp="1511448366424">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
+        <mark key="'" line="26" column="57" />
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+        <mark key="^" line="78" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1518199738264">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="79" column="46" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1511454844949">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="28" column="31" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_node_exporter.sh" timestamp="1512847914691">
         <mark key="[" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_plus_gensim.py" timestamp="1507904866242">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="34" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.js" timestamp="1507621976101">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="32" column="44" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="227" column="52" />
+        <mark key="." line="227" column="52" />
+        <mark key="^" line="227" column="52" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/webpack.config.js" timestamp="1507360183080">
         <mark key="[" line="23" column="18" />
@@ -207,6 +466,12 @@
         <mark key="^" line="45" column="26" />
         <mark key="." line="52" column="43" />
       </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="17" column="93" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/phrases.py" timestamp="1507794267836">
         <mark key="[" line="30" column="0" />
       </file>
@@ -219,479 +484,195 @@
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/requirements.txt" timestamp="1511461777554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/db.py" timestamp="1516650382212">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="44" column="37" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1508505823973">
-        <mark key="[" line="181" column="25" />
-        <mark key="]" line="181" column="25" />
-        <mark key="^" line="180" column="1" />
-        <mark key="." line="181" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru_attn.py" timestamp="1511859776093">
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="64" column="26" />
-        <mark key="." line="64" column="26" />
-        <mark key="^" line="64" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/index/index.css" timestamp="1515364318152">
+        <mark key="[" line="11" column="47" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/heroku-gateway/Dockerfile.web" timestamp="1517298409361">
-        <mark key="[" line="8" column="62" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="4" column="55" />
-      </file>
-      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/setup.py" timestamp="1511464217954">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
-        <mark key="[" line="18" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1512258801003">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="56" column="89" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507904885002">
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="36" column="33" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="36" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/util.py" timestamp="1508828718711">
-        <mark key="[" line="24" column="52" />
-        <mark key="]" line="33" column="67" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="33" column="67" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env" timestamp="1510988195552">
-        <mark key="[" line="0" column="65" />
-        <mark key="]" line="0" column="55" />
-        <mark key="." line="0" column="55" />
-        <mark key="^" line="0" column="55" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_gbt.py" timestamp="1511660228026">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/documents.js" timestamp="1507376034877">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/README.md" timestamp="1517301320012">
-        <mark key="[" line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sentiment_analyzer.py" timestamp="1511448726102">
-        <mark key="[" line="11" column="55" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="9" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/bow_lin_reg.py" timestamp="1511649049750">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/query_manager.js" timestamp="1509726945537">
-        <mark key="[" line="81" column="25" />
-        <mark key="]" line="81" column="26" />
-        <mark key="." line="81" column="26" />
-        <mark key="^" line="81" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/build_dataset.py" timestamp="1518723402924">
-        <mark key="[" line="118" column="40" />
-        <mark key="]" line="118" column="40" />
-        <mark key="." line="118" column="40" />
-        <mark key="^" line="71" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" timestamp="1518676553078">
-        <mark key="'" line="423" column="16" />
-        <mark key="[" line="707" column="104" />
-      </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/queries.sql" timestamp="1510408516059">
-        <mark key="[" line="23" column="2" />
-        <mark key="]" line="23" column="2" />
-        <mark key="." line="23" column="2" />
-        <mark key="^" line="23" column="1" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/document_table.js" timestamp="1508425221029">
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="67" column="71" />
-        <mark key="^" line="63" column="7" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/README.md" timestamp="1511448837932">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/pos_tag_filtered_gensim.py" timestamp="1508148782956">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518726207157">
-        <mark key="'" line="249" column="77" />
-        <mark key="[" line="668" column="75" />
-        <mark key="]" line="668" column="75" />
-        <mark key="." line="668" column="75" />
-        <mark key="^" line="649" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="40" column="33" />
-        <mark key="." line="40" column="33" />
-        <mark key="^" line="18" column="53" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="50" />
-        <mark key="." line="20" column="50" />
-        <mark key="^" line="20" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1517351886522">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1518682770450">
-        <mark key="'" line="118" column="27" />
-        <mark key="[" line="155" column="32" />
-        <mark key="]" line="155" column="32" />
-        <mark key="^" line="157" column="23" />
-        <mark key="." line="155" column="32" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1516992948303">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1518195674074">
-        <mark key="'" line="313" column="65" />
-        <mark key="[" line="143" column="17" />
-        <mark key="]" line="143" column="23" />
-        <mark key="." line="143" column="23" />
-        <mark key="^" line="143" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx.prod" timestamp="1517294492604">
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="38" column="28" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="38" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_lstm.py" timestamp="1512449284941">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="8" />
-        <mark key="." line="53" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="22" column="47" />
-        <mark key="." line="22" column="47" />
-        <mark key="^" line="22" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kinds_view.sql" timestamp="1508313764482">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="11" column="41" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="11" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/validate_export.py" timestamp="1510049471300">
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="41" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="34" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1518726308497">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_cnn.py" timestamp="1512024119908">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="13" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="85" column="48" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/reddit.py" timestamp="1517513039506">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="20" column="39" />
-        <mark key="^" line="20" column="39" />
-        <mark key="." line="20" column="39" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/heroku-gateway/api_nginx.prod" timestamp="1517297711637">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/requirements.txt" timestamp="1511462225946">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="5" column="86" />
-        <mark key="^" line="5" column="86" />
-        <mark key="." line="5" column="86" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_gru.py" timestamp="1512846419353">
-        <mark key="'" line="62" column="15" />
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="53" column="22" />
-        <mark key="." line="53" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/create_gcp_pre_gpu.sh" timestamp="1518467065071">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sst_binary_demo.py" timestamp="1511448366424">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/self_signed_openssl.cnf" timestamp="1509726094199">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/package.json" timestamp="1507415569386">
-        <mark key="[" line="34" column="14" />
-        <mark key="]" line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1511454844949">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="33" />
-        <mark key="^" line="28" column="31" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_plus_gensim.py" timestamp="1507904866242">
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="33" />
-        <mark key="^" line="34" column="33" />
-        <mark key="." line="34" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.js" timestamp="1507621976101">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="32" column="44" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/document_batches.py" timestamp="1516654345522">
-        <mark key="'" line="229" column="4" />
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
-        <mark key="^" line="283" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="227" column="52" />
-        <mark key="." line="227" column="52" />
-        <mark key="^" line="227" column="52" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="17" column="93" />
-        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="496" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="633" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="668" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="212" column="23" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="313" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="200" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="108" column="50" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="665" column="51" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="570" column="61" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="569" column="35" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="508" column="81" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="507" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="356" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="708" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="107" column="20" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="302" column="65" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
-      <jump line="178" column="15" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="264" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
-      <jump line="429" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="555" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="635" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="624" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="432" column="24" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
-      <jump line="427" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
-      <jump line="547" column="37" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
-      <jump line="423" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/ptclf.py" />
-      <jump line="231" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="410" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="310" column="59" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="328" column="47" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="349" column="37" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="417" column="62" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="714" column="18" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="46" column="16" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
-      <jump line="4" column="19" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
-      <jump line="6" column="86" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
-      <jump line="7" column="14" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
-      <jump line="9" column="20" filename="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" />
-      <jump line="472" column="11" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="436" column="49" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="448" column="32" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="449" column="19" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="451" column="65" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="452" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="636" column="18" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="441" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="473" column="35" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="538" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="540" column="18" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="543" column="77" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="197" column="84" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="204" column="57" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="215" column="9" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="374" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="475" column="73" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="28" column="6" filename="$USER_HOME$/code/datasci/ptclf/train.sh" />
-      <jump line="568" column="11" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="693" column="48" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="707" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="290" column="41" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="291" column="43" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="450" column="61" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="454" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="458" column="61" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="701" column="48" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="243" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="534" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="54" column="31" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="199" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="630" column="22" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="86" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="694" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="155" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="160" column="62" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="383" column="66" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="482" column="30" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="591" column="33" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="595" column="31" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="60" column="45" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="152" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="613" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="536" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="634" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="228" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="109" column="16" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="34" column="61" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="23" column="39" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="30" column="36" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="97" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="66" column="22" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="54" column="48" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="118" column="27" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
-      <jump line="249" column="77" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="156" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="177" column="28" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="287" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="240" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="13" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="222" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="221" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="220" column="10" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="530" column="4" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="17" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="591" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="29" column="15" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="458" column="53" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="91" column="40" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="82" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="104" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="69" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="74" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="78" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="101" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="92" column="19" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="29" column="12" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
+      <jump line="506" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="228" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="232" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="241" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="251" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="254" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="255" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="257" column="51" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="258" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="265" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="268" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="269" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="271" column="51" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="272" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="301" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="353" column="85" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="354" column="63" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="359" column="61" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="369" column="60" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="371" column="60" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="437" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="444" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="449" column="41" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="465" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="479" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="492" column="79" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="522" column="37" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="336" column="23" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="8" column="72" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="78" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="250" column="38" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="431" column="53" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="432" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="434" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="677" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="583" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="584" column="10" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="590" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="256" column="42" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="441" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="236" column="42" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="600" column="83" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="668" column="26" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="666" column="42" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="131" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="149" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="270" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="457" column="43" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="519" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="491" column="5" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="71" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="487" column="36" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="459" column="27" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="464" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="486" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="513" column="26" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="568" column="23" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="570" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="176" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="36" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="529" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="689" column="27" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="796" column="14" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="119" column="21" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="132" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="234" column="85" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="245" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="358" column="81" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="579" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="707" column="9" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="3" column="17" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="4" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="5" column="17" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="50" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>'#D32F2F', '#c6c6c6'/*'#FBC02D'*/, '#689F38']</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>'#D32F2F', '#c6c6c6'/*'#FBC02D'*/, '#689F38']</text>
       </register>
       <register name="/" type="4">
-        <text>ounting class</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRmID0gcGQucmVhZF9jc3YoJy9ob21lL3N0dWFydC9kYXRhL2FtYXpvbi1mb29kLXJldmlld3MvUmV2aWV3cy5jc3YnKQogICAgY29tYmluZWQgPSBwZC5EYXRhRnJhbWUoY29sdW1ucz1bJ3RleHQnLCAncG9zaXRpdmUnLCAnbmV1dHJhbCcsICduZWdhdGl2ZSddKQogICAgY29tYmluZWRbJ3RleHQnXSA9IGRmLlRleHQKICAgIGNvbWJpbmVkWyduZWdhdGl2ZSddID0gKGRmLlNjb3JlIDwgNCkKICAgIGNvbWJpbmVkWyduZXV0cmFsJ10gPSAoZGYuU2NvcmUgPT0gNCkKICAgIGNvbWJpbmVkWydwb3NpdGl2ZSddID0gKGRmLlNjb3JlID4gNCkKICAgIHByaW50KGNvbWJpbmVkLnNoYXBlKQogICAgcmV0dXJuIGRmX3RvX3RyYWluX2Rldl90ZXN0KGNvbWJpbmVkLnNhbXBsZShmcmFjPTEpKQo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjRkJDMDJEOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvcnJlY3QgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZnLm5kb2MgYXMgc2NvcmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgb3V0cHV0X251bXB5ID0gKG91dHB1dC5kYXRhLmNwdSgpLm51bXB5KCkgPiBkZWNpc2lvbl9ib3VuZGFyeSkuYXN0eXBlKGludCkKICAgICAgICB5X251bXB5ID0gYmF0Y2hfeS5kYXRhLmNwdSgpLm51bXB5KCkKICAgICAgICByZXR1cm4gZmxvYXQoKG91dHB1dF9udW1weSA9PSB5X251bXB5KS5zdW0oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGxvc3NfZm4gPT0gJ05MTCcgb3IgbG9zc19mbiA9PSAnQ3Jvc3NFbnRyb3B5JzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocXVlcnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvcnJlY3QgKz0gbnVtX2NvcnJlY3Qoc2V0dGluZ3MubG9zc19mbiwgb3V0cHV0LCBiYXRjaF95KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRlYnVnKHF1ZXJ5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFjY3VyYWN5ID0gY29ycmVjdCAvIHNlZW4KICAgICAgICAjIGlmIHNldHRpbmdzLmxvc3NfZm4gIT0gJ0Nyb3NzRW50cm9weScgYW5kIHNldHRpbmdzLmxvc3NfZm4gIT0gJ05MTCc6CiAgICAgICAgIyAgICAgYWNjdXJhY3kgLz0gbGVuKHNldHRpbmdzLmNsYXNzZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tKGNhc3QoZmcubmRvYyBhcyBmbG9hdCkgLyBmZ19tZXRhLnRvdGFsX2NvdW50KSAvIChjYXN0KGJnLm5kb2MgYXMgZmxvYXQpIC8gYmdfbWV0YS50b3RhbF9jb3VudCkgYXMgc2NvcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tIChjYXN0KGZnLm5kb2MgYXMgZmxvYXQpIC8gZmdfbWV0YS50b3RhbF9jb3VudCkgLyAoY2FzdChiZy5uZG9jIGFzIGZsb2F0KSAvIGJnX21ldGEudG90YWxfY291bnQpIGFzIHNjb3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobmV3ZXN0X3Jldmlld19jcmVhdGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cod2hlcmUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2luY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8oZmdNZXRhUXVlcnkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBjbyBpbiBjb21wYW5pZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZ3AsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ounting class</last-search>
+      <last-search>#</last-search>
       <last-offset />
-      <last-pattern>ounting class</last-pattern>
-      <last-replace>dev</last-replace>
-      <last-substitute>test</last-substitute>
+      <last-pattern>#</last-pattern>
+      <last-replace>Sentiment</last-replace>
+      <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>classes</entry>
-        <entry>real_chu</entry>
-        <entry>loss_fn</entry>
-        <entry>\.classes</entry>
-        <entry>get_cl</entry>
-        <entry>def get_cl</entry>
-        <entry>get_classes</entry>
-        <entry>predict</entry>
-        <entry>progress</entry>
-        <entry>progress(</entry>
-        <entry>load_glove</entry>
-        <entry>score_m</entry>
-        <entry>score_</entry>
-        <entry>correct</entry>
-        <entry>validate</entry>
-        <entry>content</entry>
-        <entry>print</entry>
-        <entry>now</entry>
-        <entry>'reviews</entry>
-        <entry>ounting class</entry>
+        <entry>Score</entry>
+        <entry>fetch</entry>
+        <entry>comment</entry>
+        <entry>comments</entry>
+        <entry>Sentiment</entry>
+        <entry>document_id</entry>
+        <entry>volume</entry>
+        <entry>cteQuery</entry>
+        <entry>fgp</entry>
+        <entry>score3</entry>
+        <entry>phrase_scores</entry>
+        <entry>sentiment</entry>
+        <entry>--</entry>
+        <entry>console.</entry>
+        <entry>console</entry>
+        <entry>over</entry>
+        <entry>Filter</entry>
+        <entry>overTime</entry>
+        <entry>OverTime</entry>
+        <entry>#</entry>
       </history-search>
       <history-cmd>
-        <entry>s/train/test/g</entry>
-        <entry>s/test/dev/g</entry>
+        <entry>%y+</entry>
+        <entry>s/score/sentiment/</entry>
+        <entry>s/Score/Sentiment/20</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -728,11 +709,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
@@ -742,12 +726,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
