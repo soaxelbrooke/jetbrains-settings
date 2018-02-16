@@ -210,10 +210,12 @@
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518745370600">
-        <mark key="[" line="428" column="80" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1518748558231">
+        <mark key="'" line="241" column="40" />
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+        <mark key="^" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -497,17 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="177" column="28" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="287" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="240" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="161" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
-      <jump line="13" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
-      <jump line="222" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
-      <jump line="221" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
-      <jump line="220" column="10" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
-      <jump line="530" column="4" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="17" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="591" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="29" column="15" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -597,6 +588,17 @@
       <jump line="4" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="5" column="17" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="50" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="38" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="55" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="64" column="41" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="73" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="75" column="49" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="84" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="86" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="88" column="50" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="226" column="79" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="234" column="60" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="241" column="40" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -606,7 +608,7 @@
         <text>self.context_size * self.bidir_factor</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text>bidirectional</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbG9yOiAjRkJDMDJEOwo=</text>
@@ -643,9 +645,9 @@
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search>bidirectional</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
+      <last-pattern>bidirectional</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -653,7 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Score</entry>
         <entry>fetch</entry>
         <entry>comment</entry>
         <entry>comments</entry>
@@ -673,6 +674,7 @@
         <entry>overTime</entry>
         <entry>OverTime</entry>
         <entry>#</entry>
+        <entry>bidirectional</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
