@@ -138,7 +138,6 @@
         <mark key="." line="81" column="26" />
         <mark key="^" line="81" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1518824726543" />
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="12" column="38" />
@@ -181,11 +180,12 @@
         <mark key="^" line="63" column="7" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1513555465828">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="104" column="25" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1519147305545">
+        <mark key="'" line="89" column="46" />
+        <mark key="[" line="139" column="30" />
+        <mark key="]" line="89" column="46" />
+        <mark key="." line="89" column="46" />
+        <mark key="^" line="89" column="46" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -259,6 +259,9 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="28" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1519147189266">
+        <mark key="'" line="102" column="49" />
+      </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
       </file>
@@ -320,7 +323,6 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/create-gcp-gpu.sh" timestamp="1518824094240" />
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/common_views.js" timestamp="1507718849692">
         <mark key="[" line="54" column="50" />
         <mark key="]" line="54" column="50" />
@@ -358,7 +360,7 @@
         <mark key="^" line="16" column="358" />
         <mark key="." line="16" column="358" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518890133103">
+      <file name="/Dummy.txt" timestamp="1519147736967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -407,7 +409,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/upload_model.sh" timestamp="1518885101150" />
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
         <mark key="'" line="26" column="57" />
         <mark key="[" line="78" column="12" />
@@ -502,10 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="458" column="53" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="91" column="40" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
-      <jump line="82" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
-      <jump line="104" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="73" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="69" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="74" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
@@ -602,6 +599,10 @@
       <jump line="69" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="461" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="465" column="17" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="102" column="49" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
+      <jump line="219" column="75" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="112" column="78" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="89" column="46" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,7 +614,7 @@
         <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>hash</text>
+        <text>def start_all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRmID0gcGQucmVhZF9jc3YoJy9ob21lL3N0dWFydC9kYXRhL3RydXN0LXBpbG90LXJldmlld3MvdHBfcmV2aWV3cy5jc3YnKQogICAgY29tYmluZWQgPSBwZC5EYXRhRnJhbWUoY29sdW1ucz1bJ3RleHQnLCAncG9zaXRpdmUnLCAnbmV1dHJhbCcsICduZWdhdGl2ZSddKQogICAgY29tYmluZWRbJ3RleHQnXSA9IGRmLmJvZHkKICAgIGNvbWJpbmVkWyduZWdhdGl2ZSddID0gKGRmLnJhdGluZyA8IDQpCiAgICBjb21iaW5lZFsnbmV1dHJhbCddID0gKGRmLnJhdGluZyA9PSA0KQogICAgY29tYmluZWRbJ3Bvc2l0aXZlJ10gPSAoZGYucmF0aW5nID4gNCkKICAgIHByaW50KGNvbWJpbmVkLnNoYXBlKQogICAgcmV0dXJuIGRmX3RvX3RyYWluX2Rldl90ZXN0KGNvbWJpbmVkLnNhbXBsZShmcmFjPTEpKQo=</text>
@@ -654,9 +655,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hash</last-search>
+      <last-search>def start_all</last-search>
       <last-offset />
-      <last-pattern>hash</last-pattern>
+      <last-pattern>def start_all</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -664,10 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>comment</entry>
-        <entry>comments</entry>
-        <entry>Sentiment</entry>
-        <entry>document_id</entry>
         <entry>volume</entry>
         <entry>cteQuery</entry>
         <entry>fgp</entry>
@@ -684,6 +681,10 @@
         <entry>#</entry>
         <entry>bidirectional</entry>
         <entry>hash</entry>
+        <entry>start</entry>
+        <entry>def start</entry>
+        <entry>def stop</entry>
+        <entry>def start_all</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
