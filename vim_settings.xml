@@ -288,10 +288,10 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1519168300374">
-        <mark key="'" line="50" column="62" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="88" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1519169958163">
+        <mark key="'" line="189" column="26" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="75" column="4" />
         <mark key="." line="234" column="85" />
         <mark key="^" line="234" column="85" />
       </file>
@@ -472,11 +472,11 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519168323342">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519170008588">
+        <mark key="[" line="54" column="78" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
         <mark key="[" line="52" column="43" />
@@ -510,7 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="33" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="177" column="28" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="287" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="240" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -610,6 +609,7 @@
       <jump line="4" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="5" column="17" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="50" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="189" column="26" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -619,10 +619,10 @@
         <text>980</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text>Html</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBhcGlIb3N0ID0gd2luZG93LmxvY2F0aW9uLmhvc3Quc3RhcnRzV2l0aCgnbG9jYWwnKSA/CiAgICAgICAgJ2h0dHBzOi8vcmVhZC5hcGkudGhvdWdodHZlY3Rvci5sb2NhbCcgOiAnaHR0cHM6Ly9yZWFkLnN0YWdpbmcudGhvdWdodHZlY3Rvci5pbyc7Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIEh0bWxTdW1tYXJ5VmlldyhlbGVtSWQsIHF1ZXJ5LCBtaXRocmlsQ29tcG9uZW50KSB7CiAgICAgICAgbGV0IHdoZXJlQ2xhdXNlID0gJyB3aGVyZSB0cnVlICc7CiAgICAgICAgbGV0IF9kYXRhID0ge3ZhbHVlczogW119OwogICAgICAgIGxldCByb290ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoZWxlbUlkLnN0YXJ0c1dpdGgoJyMnKSA/IGVsZW1JZC5zdWJzdHIoMSkgOiBlbGVtSWQpOwoKICAgICAgICBmdW5jdGlvbiB1cGRhdGVXaGVyZShuZXdXaGVyZUNsYXVzZSkgewogICAgICAgICAgICB3aGVyZUNsYXVzZSA9IG5ld1doZXJlQ2xhdXNlIHx8IHdoZXJlQ2xhdXNlOwogICAgICAgIH0KCiAgICAgICAgZnVuY3Rpb24gdXBkYXRlRGF0YSgpIHsKICAgICAgICAgICAgcmV0dXJuIGZldGNoRGF0YShxdWVyeSh3aGVyZUNsYXVzZSkpLnRoZW4oZnVuY3Rpb24oZGF0YSkge19kYXRhID0gZGF0YTt9KTsKICAgICAgICB9CgogICAgICAgIGZ1bmN0aW9uIHJlcXVlcnkobmV3V2hlcmVDbGF1c2UpIHsKICAgICAgICAgICAgdXBkYXRlV2hlcmUobmV3V2hlcmVDbGF1c2UpOwogICAgICAgICAgICB1cGRhdGVEYXRhKCkudGhlbih1cGRhdGVNaXRocmlsKTsKICAgICAgICB9CgogICAgICAgIGZ1bmN0aW9uIHVwZGF0ZU1pdGhyaWwoKSB7CiAgICAgICAgICAgIG0ucmVuZGVyKHJvb3QsIG1pdGhyaWxDb21wb25lbnQoX2RhdGEpKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIHVwZGF0ZVdoZXJlOiB1cGRhdGVXaGVyZSwKICAgICAgICAgICAgdXBkYXRlRGF0YTogdXBkYXRlRGF0YSwKICAgICAgICAgICAgdXBkYXRlTWl0aHJpbDogdXBkYXRlTWl0aHJpbCwKICAgICAgICAgICAgcmVxdWVyeTogcmVxdWVyeQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -634,31 +634,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qYm9yZGVyOiAxcHggc29saWQgZ3JleTsqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDRweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDRweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qYm9yZGVyOiAxcHggc29saWQgZ3JleTsqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGdyaWQ7Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDRweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDRweDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search>Html</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
+      <last-pattern>Html</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -666,7 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Score</entry>
         <entry>fetch</entry>
         <entry>comment</entry>
         <entry>comments</entry>
@@ -686,6 +685,7 @@
         <entry>overTime</entry>
         <entry>OverTime</entry>
         <entry>#</entry>
+        <entry>Html</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
