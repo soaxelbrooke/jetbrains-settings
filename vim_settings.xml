@@ -259,8 +259,9 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1519147189266">
-        <mark key="'" line="102" column="49" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1519150406291">
+        <mark key="'" line="358" column="4" />
+        <mark key="[" line="335" column="26" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -503,10 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
-      <jump line="69" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
-      <jump line="74" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
-      <jump line="78" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="101" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="92" column="19" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="29" column="12" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
@@ -603,6 +600,10 @@
       <jump line="219" column="75" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="112" column="78" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
       <jump line="89" column="46" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" />
+      <jump line="280" column="26" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
+      <jump line="361" column="39" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
+      <jump line="21" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
+      <jump line="356" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -614,7 +615,7 @@
         <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>def start_all</text>
+        <text>insert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRmID0gcGQucmVhZF9jc3YoJy9ob21lL3N0dWFydC9kYXRhL3RydXN0LXBpbG90LXJldmlld3MvdHBfcmV2aWV3cy5jc3YnKQogICAgY29tYmluZWQgPSBwZC5EYXRhRnJhbWUoY29sdW1ucz1bJ3RleHQnLCAncG9zaXRpdmUnLCAnbmV1dHJhbCcsICduZWdhdGl2ZSddKQogICAgY29tYmluZWRbJ3RleHQnXSA9IGRmLmJvZHkKICAgIGNvbWJpbmVkWyduZWdhdGl2ZSddID0gKGRmLnJhdGluZyA8IDQpCiAgICBjb21iaW5lZFsnbmV1dHJhbCddID0gKGRmLnJhdGluZyA9PSA0KQogICAgY29tYmluZWRbJ3Bvc2l0aXZlJ10gPSAoZGYucmF0aW5nID4gNCkKICAgIHByaW50KGNvbWJpbmVkLnNoYXBlKQogICAgcmV0dXJuIGRmX3RvX3RyYWluX2Rldl90ZXN0KGNvbWJpbmVkLnNhbXBsZShmcmFjPTEpKQo=</text>
@@ -655,9 +656,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def start_all</last-search>
+      <last-search>insert</last-search>
       <last-offset />
-      <last-pattern>def start_all</last-pattern>
+      <last-pattern>insert</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>volume</entry>
         <entry>cteQuery</entry>
         <entry>fgp</entry>
         <entry>score3</entry>
@@ -685,6 +685,7 @@
         <entry>def start</entry>
         <entry>def stop</entry>
         <entry>def start_all</entry>
+        <entry>insert</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
