@@ -245,11 +245,11 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519166473424">
-        <mark key="[" line="33" column="31" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519167708521">
+        <mark key="[" line="33" column="0" />
         <mark key="]" line="35" column="14" />
         <mark key="." line="33" column="0" />
-        <mark key="^" line="38" column="13" />
+        <mark key="^" line="45" column="7" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -269,10 +269,11 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519166389054">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519167814854">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="35" column="14" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
         <mark key="[" line="34" column="22" />
@@ -287,10 +288,10 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1518200819715">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1519168300374">
         <mark key="'" line="50" column="62" />
-        <mark key="[" line="234" column="36" />
-        <mark key="]" line="234" column="85" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="88" />
         <mark key="." line="234" column="85" />
         <mark key="^" line="234" column="85" />
       </file>
@@ -471,6 +472,12 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519168323342">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
         <mark key="[" line="52" column="43" />
         <mark key="]" line="52" column="43" />
@@ -606,43 +613,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IDJ4MiI+CiAgICAgICAgICAgIGhpIQogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Community Monitor</text>
+        <text>980</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IDJ4MiI+CiAgICAgICAgICAgIGhpIQogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGxldCBhcGlIb3N0ID0gd2luZG93LmxvY2F0aW9uLmhvc3Quc3RhcnRzV2l0aCgnbG9jYWwnKSA/CiAgICAgICAgJ2h0dHBzOi8vcmVhZC5hcGkudGhvdWdodHZlY3Rvci5sb2NhbCcgOiAnaHR0cHM6Ly9yZWFkLnN0YWdpbmcudGhvdWdodHZlY3Rvci5pbyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJuYXZiYXItZW5kIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibmF2YmFyLWl0ZW0iPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wgaGFzLWljb25zLWxlZnQiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9InNlYXJjaC1pbnB1dCIgdHlwZT0idGV4dCIgY2xhc3M9InNlYXJjaCBpbnB1dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJTZWFyY2giLz4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24gaXMtc21hbGwgaXMtbGVmdCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ibWRpIG1kaS1tYWduaWZ5Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDwhLS0gQ29uc2lkZXIgdGhpcyBmb3IgZGF0ZSBwaWNrZXI6IGh0dHBzOi8vd2lraWtpLmdpdGh1Yi5pby9jb21wb25lbnRzL2NhbGVuZGFyLyAtLT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZnLm5kb2MgYXMgc2NvcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgIC8qYm9yZGVyOiAxcHggc29saWQgZ3JleTsqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRlYnVnKHF1ZXJ5KTsK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDRweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tKGNhc3QoZmcubmRvYyBhcyBmbG9hdCkgLyBmZ19tZXRhLnRvdGFsX2NvdW50KSAvIChjYXN0KGJnLm5kb2MgYXMgZmxvYXQpIC8gYmdfbWV0YS50b3RhbF9jb3VudCkgYXMgc2NvcmUK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDRweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tIChjYXN0KGZnLm5kb2MgYXMgZmxvYXQpIC8gZmdfbWV0YS50b3RhbF9jb3VudCkgLyAoY2FzdChiZy5uZG9jIGFzIGZsb2F0KSAvIGJnX21ldGEudG90YWxfY291bnQpIGFzIHNjb3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cod2hlcmUpOwo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGdyaWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8oZmdNZXRhUXVlcnkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
