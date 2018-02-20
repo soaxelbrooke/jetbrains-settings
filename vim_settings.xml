@@ -65,12 +65,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1519163657969">
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1519169449032">
         <mark key="'" line="89" column="46" />
-        <mark key="[" line="264" column="22" />
-        <mark key="]" line="264" column="22" />
-        <mark key="." line="264" column="22" />
-        <mark key="^" line="257" column="51" />
+        <mark key="[" line="360" column="8" />
+        <mark key="]" line="360" column="8" />
+        <mark key="." line="360" column="8" />
+        <mark key="^" line="360" column="34" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
         <mark key="[" line="10" column="6" />
@@ -382,14 +382,16 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1519163764834">
-        <mark key="[" line="109" column="74" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/kinds.py" timestamp="1519168412624">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1517600115084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1519150406291">
-        <mark key="'" line="358" column="4" />
+        <mark key="'" line="356" column="4" />
         <mark key="[" line="335" column="26" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
@@ -610,47 +612,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>author_name</text>
+        <text>df</text>
       </register>
       <register name="-" type="4">
-        <text>author_name</text>
+        <text>df</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogJ2F1dGhvcl9uYW1lJywgJ3R5cGUnOiAndGV4dCd9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHJlc3VsdC5zdGF0dXNfY29kZSA9PSAyMDAsIGYnRmFpbGVkIHJlZGRpdCBjb21tZW50cyBpbnNlcnQgOignCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZnMgPSBudW1weS5hcnJheV9zcGxpdChkZikK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0LnN0YXQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJycsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gdXBkYXRlIGZvciBtdWx0aXBsZSBjb21wb3NpdGUgcHJpbWFyeSBrZXlzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHVwZGF0ZSB0byBhbGxvdyBjb21wb3NpdGUgcHJpbWFyeSBrZXlzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgVE9ETyB1cGRhdGUgZm9yIGNvbXBvc2l0ZSBwcmltYXJ5IGtleXMK</text>
+      </register>
+      <register name="7" type="4">
         <text>[
         hotels_train, trip_train, fashion_train, amz_food_train, pitchfork_train, amz_prod_train, tp_train
     ]</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>[
         hotels_test, trip_test, fashion_test, amz_food_test, pitchfork_test, amz_prod_test, tp_test
     ]</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICBob3RlbHNfZGV2LCB0cmlwX2RldiwgZmFzaGlvbl9kZXYsIGFtel9mb29kX2RldiwgcGl0Y2hmb3JrX2RldiwgYW16X3Byb2RfZGV2LCB0cF9kZXYKICAgIF0=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpbnQoZid7ZGF0ZXRpbWUubm93KCl9IC0gTG9hZGluZyBhbWF6b24gcHJvZHVjdHMuLi4nKQogICAgYW16X3Byb2RfdHJhaW4sIGFtel9wcm9kX2RldiwgYW16X3Byb2RfdGVzdCA9IGxvYWRfYW1hem9uX3Byb2R1Y3RzKCkKICAgIHByaW50KGYne2RhdGV0aW1lLm5vdygpfSAtIExvYWRpbmcgaG90ZWxzLi4uJykKICAgIGhvdGVsc190cmFpbiwgaG90ZWxzX2RldiwgaG90ZWxzX3Rlc3QgPSBsb2FkX2hvdGVscygpCiAgICBwcmludChmJ3tkYXRldGltZS5ub3coKX0gLSBMb2FkaW5nIHRyaXAgYWR2aXNvci4uLicpCiAgICB0cmlwX3RyYWluLCB0cmlwX2RldiwgdHJpcF90ZXN0ID0gbG9hZF90cmlwX2Fkdmlzb3IoKQogICAgcHJpbnQoZid7ZGF0ZXRpbWUubm93KCl9IC0gTG9hZGluZyB3b21lbnMgZmFzaGlvbi4uLicpCiAgICBmYXNoaW9uX3RyYWluLCBmYXNoaW9uX2RldiwgZmFzaGlvbl90ZXN0ID0gbG9hZF93b21lbnNfZmFzaGlvbigpCiAgICBwcmludChmJ3tkYXRldGltZS5ub3coKX0gLSBMb2FkaW5nIGFtYXpvbiBmb29kLi4uJykKICAgIGFtel9mb29kX3RyYWluLCBhbXpfZm9vZF9kZXYsIGFtel9mb29kX3Rlc3QgPSBsb2FkX2FtYXpvbl9mb29kKCkKICAgIHByaW50KGYne2RhdGV0aW1lLm5vdygpfSAtIExvYWRpbmcgcGl0Y2hmb3JrLi4uJykKICAgIHBpdGNoZm9ya190cmFpbiwgcGl0Y2hmb3JrX2RldiwgcGl0Y2hmb3JrX3Rlc3QgPSBsb2FkX3BpdGNoZm9yaygpCiAgICBwcmludChmJ3tkYXRldGltZS5ub3coKX0gLSBMb2FkaW5nIHRydXN0cGlsb3QuLi4nKQogICAgdHBfdHJhaW4sIHRwX2RldiwgdHBfdGVzdCA9IGxvYWRfdHJ1c3RfcGlsb3QoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcmVfZGVuc2UuY3VkYSgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZnLm5kb2MgYXMgc2NvcmUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocXVlcnkpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRlYnVnKHF1ZXJ5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
