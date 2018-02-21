@@ -245,11 +245,10 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519171293756">
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="45" column="7" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519175948025">
+        <mark key="[" line="60" column="1" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -288,8 +287,8 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1519173847598">
-        <mark key="'" line="112" column="20" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1519176555103">
+        <mark key="'" line="40" column="12" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="75" column="4" />
         <mark key="." line="234" column="85" />
@@ -472,10 +471,10 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519175166396">
-        <mark key="[" line="108" column="20" />
-        <mark key="]" line="108" column="20" />
-        <mark key="." line="108" column="20" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519176559792">
+        <mark key="[" line="117" column="28" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
         <mark key="[" line="52" column="43" />
@@ -509,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
       <jump line="13" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
       <jump line="222" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
       <jump line="221" column="21" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
@@ -609,57 +607,56 @@
       <jump line="145" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="760" column="4" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="112" column="20" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="40" column="12" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>size</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>materi</text>
+        <text>legend</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG0oYGRpdiMke2VsZW1JZH0tbGluZS1jaGFydGAsICdMb2FkaW5nLi4uJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc29ydDogJ2FzYycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlZ2FFbWJlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgICAgZmllbGQ6ICdjb3VudHMnLCB0eXBlOiAncXVhbnRpdGF0aXZlJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWdncmVnYXRlOiAnc3VtJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b29sdGlwOiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXhpczoge2Zvcm1hdDogJyVZLSVtLSVkJ30sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gZmllbGQ6ICdjb3VudHMnLCBhZ2dyZWdhdGU6ICdzdW0nLCB0eXBlOiAncXVhbnRpdGF0aXZlJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3ZlZ2EtZW1iZWQvMy4wLjAtcmM3L3ZlZ2EtZW1iZWQuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoaWlpaScpCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3ZlZ2EtbGl0ZS8yLjAuMy92ZWdhLWxpdGUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>data.map(function(bkt) {
-                return m('div', `${bkt.created_at} - ${bkt.count}`);
-            })</text>
+      <register name="7" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3ZlZ2EvMy4wLjgvdmVnYS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gJHt0YWJsZU5hbWV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc29ydDogJ2FzYycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZldGNoRGF0YSgnc2VsZWN0IGNvdW50KCopIGZyb20gIlRydXN0IFBpbG90IFJldmlld3MiJykudGhlbihjb25zb2xlLmxvZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlZ2FFbWJlZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>materi</last-search>
+      <last-search>legend</last-search>
       <last-offset />
-      <last-pattern>materi</last-pattern>
+      <last-pattern>legend</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -667,7 +664,6 @@
     </search>
     <history>
       <history-search>
-        <entry>document_id</entry>
         <entry>volume</entry>
         <entry>cteQuery</entry>
         <entry>fgp</entry>
@@ -687,6 +683,7 @@
         <entry>tooltip</entry>
         <entry>icon</entry>
         <entry>materi</entry>
+        <entry>legend</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
