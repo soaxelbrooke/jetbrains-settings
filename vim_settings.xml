@@ -246,10 +246,10 @@
         <mark key="]" line="44" column="28" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519193334887">
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="60" column="14" />
-        <mark key="." line="60" column="14" />
-        <mark key="^" line="60" column="14" />
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="61" column="14" />
+        <mark key="." line="61" column="14" />
+        <mark key="^" line="61" column="14" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -269,11 +269,10 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519190053426">
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="37" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519196670604">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
         <mark key="[" line="34" column="22" />
@@ -472,11 +471,12 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519193504129">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519197730823">
         <mark key="'" line="2" column="15" />
-        <mark key="[" line="172" column="44" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
+        <mark key="[" line="96" column="27" />
+        <mark key="]" line="96" column="27" />
+        <mark key="." line="96" column="27" />
+        <mark key="^" line="134" column="13" />
       </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
         <mark key="[" line="52" column="43" />
@@ -612,53 +612,53 @@
       <jump line="2" column="15" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHZzLnJlcXVlcnkoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>yearmonthdate</text>
       </register>
       <register name="-" type="4">
-        <text>tableData</text>
+        <text>yearmonthdate</text>
       </register>
       <register name="/" type="4">
-        <text>color</text>
+        <text>menu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGV0IHZzID0gVm9sdW1lU3VtbWFyeVZpZXcoJ3ZzJyk7CnZzLnJlcXVlcnkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZlZ2FUb29sdGlwLnZlZ2FMaXRlKHJlc3VsdC52aWV3LCBsaW5lQ2hhcnRWZWdhU3BlYywgdmVnYU9wdHMpOwogICAgICAgICAgICAgICAgICAgIH0pLmNhdGNoKGNvbnNvbGUuZXJyb3IpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHZzLnJlcXVlcnkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9vbHRpcDogewogICAgICAgICAgICAvLyAgICAgZmllbGQ6ICdjb3VudHMnLAogICAgICAgICAgICAvLyAgICAgdHlwZTogJ3F1YW50aXRhdGl2ZScsCiAgICAgICAgICAgIC8vICAgICBhZ2dyZWdhdGU6ICdzdW0nLAogICAgICAgICAgICAvLyB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dnMyLnJlcXVlcnkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9vbHRpcDogewogICAgICAgICAgICAvLyAgICAgZmllbGQ6ICdjb3VudHMnLAogICAgICAgICAgICAvLyAgICAgdHlwZTogJ3F1YW50aXRhdGl2ZScsCiAgICAgICAgICAgIC8vICAgICBhZ2dyZWdhdGU6ICdzdW0nLAogICAgICAgICAgICAvLyB9LAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bGV0IHZzMiA9IFZvbHVtZVN1bW1hcnlWaWV3KCd2czInKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAge21vZGU6ICd2ZWdhLWxpdGUnLCByZW5kZXJlcjogJ3N2Zyd9KTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwgMCk7CiAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24oKXsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qbWFyZ2luLWxlZnQ6IDIwcHg7Ki8KICAgIC8qbWFyZ2luLXJpZ2h0OiAyMHB4OyovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">I3ZzLWxpbmUtY2hhcnQgc3ZnIHsKICAgIHZlcnRpY2FsLWFsaWduOiBib3R0b207Cn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRhYmxlSG91ckRheVZlZ2FTcGVjID0gewogICAgICAgICAgICAgICAgJHNjaGVtYTogImh0dHBzOi8vdmVnYS5naXRodWIuaW8vc2NoZW1hL3ZlZ2EtbGl0ZS92Mi5qc29uIiwKICAgICAgICAgICAgICAgIGRhdGE6IHt2YWx1ZXM6IHRhYmxlRGF0YX0sCiAgICAgICAgICAgICAgICB3aWR0aDogMjUwLAogICAgICAgICAgICAgICAgaGVpZ2h0OiAxMDAsCiAgICAgICAgICAgICAgICBtYXJrOiAncmVjdCcsCiAgICAgICAgICAgICAgICBlbmNvZGluZzogewogICAgICAgICAgICAgICAgICAgIHg6IHsKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQ6ICdob3VyJywKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ29yZGluYWwnLAogICAgICAgICAgICAgICAgICAgICAgICBheGlzOiB7dGl0bGU6ICdIb3VyJ30KICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHk6IHsKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQ6ICdkYXknLAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAnbm9taW5hbCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHNjYWxlOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb21haW46IFsnU3VuJywgJ01vbicsICdUdWUnLCAnV2VkJywgJ1RodScsICdGcmknLCAnU2F0J10sCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIGF4aXM6IHt0aXRsZTogbnVsbH0KICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIGNvbG9yOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxlZ2VuZDogbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQ6ICdjb3VudHMnLAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAncXVhbnRpdGF0aXZlJywKICAgICAgICAgICAgICAgICAgICAgICAgYWdncmVnYXRlOiAnc3VtJywKICAgICAgICAgICAgICAgICAgICAgICAgc2NhbGU6IHtyYW5nZTogWyd3aGl0ZScsIHByaW1hcnlDb2xvcl19LAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgdG9vbHRpcDogewogICAgICAgICAgICAgICAgICAgICAgICBmaWVsZDogJ2NvdW50cycsCiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICdxdWFudGl0YXRpdmUnLAogICAgICAgICAgICAgICAgICAgICAgICBhZ2dyZWdhdGU6ICdzdW0nLAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdWYWx1ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGxpbmVDaGFydFZlZ2FTcGVjID0gewogICAgICAgICAgICAgICAgJHNjaGVtYTogImh0dHBzOi8vdmVnYS5naXRodWIuaW8vc2NoZW1hL3ZlZ2EtbGl0ZS92Mi5qc29uIiwKICAgICAgICAgICAgICAgIGRhdGE6IHt2YWx1ZXM6IGRhdGF9LAogICAgICAgICAgICAgICAgd2lkdGg6IDI0MCwKICAgICAgICAgICAgICAgIGhlaWdodDogMTAwLAogICAgICAgICAgICAgICAgbWFyazoge3R5cGU6ICdsaW5lJywgY29sb3I6IHByaW1hcnlDb2xvcn0sCiAgICAgICAgICAgICAgICBlbmNvZGluZzogewogICAgICAgICAgICAgICAgICAgIHg6IHsKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQ6ICdjcmVhdGVkX2F0JywKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ3RlbXBvcmFsJywKICAgICAgICAgICAgICAgICAgICAgICAgdGltZVVuaXQ6ICd5ZWFybW9udGhkYXRlJywKICAgICAgICAgICAgICAgICAgICAgICAgYXhpczoge2Zvcm1hdDogJyVZLSVtLSVkJ30sCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB5OiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGFnZ3JlZ2F0ZTogJ3N1bScsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnY291bnRzJywKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ3F1YW50aXRhdGl2ZScsCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQudGFyZ2V0LnZhbHVlID09PSAnMSBNb250aCcpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCB2cyA9IFZvbHVtZVN1bW1hcnlWaWV3KCd2cycpOwogICAgdnMucmVxdWVyeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG0oJ3NwYW4uaWNvbicsIG0oJ2kubWRpLm1kaS1jYWxlbmRhci1yYW5nZScpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>color</last-search>
+      <last-search>menu</last-search>
       <last-offset />
-      <last-pattern>color</last-pattern>
+      <last-pattern>menu</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -666,8 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cteQuery</entry>
-        <entry>fgp</entry>
         <entry>score3</entry>
         <entry>phrase_scores</entry>
         <entry>sentiment</entry>
@@ -686,6 +684,8 @@
         <entry>materi</entry>
         <entry>legend</entry>
         <entry>color</entry>
+        <entry>dropdown</entry>
+        <entry>menu</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
