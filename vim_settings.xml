@@ -231,10 +231,10 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1519166290059">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1519172653028">
         <mark key="'" line="29" column="12" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="10" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="126" column="0" />
       </file>
@@ -245,8 +245,8 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519167708521">
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519171293756">
+        <mark key="[" line="33" column="28" />
         <mark key="]" line="35" column="14" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="45" column="7" />
@@ -269,11 +269,11 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519167814854">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="35" column="14" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519173306265">
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="12" />
+        <mark key="." line="49" column="12" />
+        <mark key="^" line="49" column="11" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
         <mark key="[" line="34" column="22" />
@@ -288,8 +288,8 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1519169958163">
-        <mark key="'" line="189" column="26" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1519173847598">
+        <mark key="'" line="112" column="20" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="75" column="4" />
         <mark key="." line="234" column="85" />
@@ -472,11 +472,11 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519170008588">
-        <mark key="[" line="54" column="78" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519173851289">
+        <mark key="[" line="112" column="22" />
+        <mark key="]" line="111" column="25" />
+        <mark key="." line="111" column="25" />
+        <mark key="^" line="111" column="25" />
       </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
         <mark key="[" line="52" column="43" />
@@ -510,9 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="28" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="287" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="240" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="161" column="0" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
       <jump line="13" column="19" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
       <jump line="222" column="17" filename="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" />
@@ -610,55 +607,60 @@
       <jump line="5" column="17" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="50" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="189" column="26" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="145" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="760" column="4" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="112" column="20" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>line</text>
       </register>
       <register name="-" type="4">
-        <text>980</text>
+        <text>line</text>
       </register>
       <register name="/" type="4">
-        <text>Html</text>
+        <text>materi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIEh0bWxTdW1tYXJ5VmlldyhlbGVtSWQsIHF1ZXJ5LCBtaXRocmlsQ29tcG9uZW50KSB7CiAgICAgICAgbGV0IHdoZXJlQ2xhdXNlID0gJyB3aGVyZSB0cnVlICc7CiAgICAgICAgbGV0IF9kYXRhID0ge3ZhbHVlczogW119OwogICAgICAgIGxldCByb290ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoZWxlbUlkLnN0YXJ0c1dpdGgoJyMnKSA/IGVsZW1JZC5zdWJzdHIoMSkgOiBlbGVtSWQpOwoKICAgICAgICBmdW5jdGlvbiB1cGRhdGVXaGVyZShuZXdXaGVyZUNsYXVzZSkgewogICAgICAgICAgICB3aGVyZUNsYXVzZSA9IG5ld1doZXJlQ2xhdXNlIHx8IHdoZXJlQ2xhdXNlOwogICAgICAgIH0KCiAgICAgICAgZnVuY3Rpb24gdXBkYXRlRGF0YSgpIHsKICAgICAgICAgICAgcmV0dXJuIGZldGNoRGF0YShxdWVyeSh3aGVyZUNsYXVzZSkpLnRoZW4oZnVuY3Rpb24oZGF0YSkge19kYXRhID0gZGF0YTt9KTsKICAgICAgICB9CgogICAgICAgIGZ1bmN0aW9uIHJlcXVlcnkobmV3V2hlcmVDbGF1c2UpIHsKICAgICAgICAgICAgdXBkYXRlV2hlcmUobmV3V2hlcmVDbGF1c2UpOwogICAgICAgICAgICB1cGRhdGVEYXRhKCkudGhlbih1cGRhdGVNaXRocmlsKTsKICAgICAgICB9CgogICAgICAgIGZ1bmN0aW9uIHVwZGF0ZU1pdGhyaWwoKSB7CiAgICAgICAgICAgIG0ucmVuZGVyKHJvb3QsIG1pdGhyaWxDb21wb25lbnQoX2RhdGEpKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIHVwZGF0ZVdoZXJlOiB1cGRhdGVXaGVyZSwKICAgICAgICAgICAgdXBkYXRlRGF0YTogdXBkYXRlRGF0YSwKICAgICAgICAgICAgdXBkYXRlTWl0aHJpbDogdXBkYXRlTWl0aHJpbCwKICAgICAgICAgICAgcmVxdWVyeTogcmVxdWVyeQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oYGRpdiMke2VsZW1JZH0tbGluZS1jaGFydGAsICdMb2FkaW5nLi4uJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlZ2FFbWJlZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWdncmVnYXRlOiAnc3VtJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXhpczoge2Zvcm1hdDogJyVZLSVtLSVkJ30sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoaWlpaScpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>data.map(function(bkt) {
+                return m('div', `${bkt.created_at} - ${bkt.count}`);
+            })</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qYm9yZGVyOiAxcHggc29saWQgZ3JleTsqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gJHt0YWJsZU5hbWV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDRweDsK</text>
+        <text encoding="base64">ICAgIGZldGNoRGF0YSgnc2VsZWN0IGNvdW50KCopIGZyb20gIlRydXN0IFBpbG90IFJldmlld3MiJykudGhlbihjb25zb2xlLmxvZyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDRweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Html</last-search>
+      <last-search>materi</last-search>
       <last-offset />
-      <last-pattern>Html</last-pattern>
+      <last-pattern>materi</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -666,10 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fetch</entry>
-        <entry>comment</entry>
-        <entry>comments</entry>
-        <entry>Sentiment</entry>
         <entry>document_id</entry>
         <entry>volume</entry>
         <entry>cteQuery</entry>
@@ -686,6 +684,10 @@
         <entry>OverTime</entry>
         <entry>#</entry>
         <entry>Html</entry>
+        <entry>HtmlSu</entry>
+        <entry>tooltip</entry>
+        <entry>icon</entry>
+        <entry>materi</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
