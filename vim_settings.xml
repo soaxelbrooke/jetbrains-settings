@@ -472,11 +472,10 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519173851289">
-        <mark key="[" line="112" column="22" />
-        <mark key="]" line="111" column="25" />
-        <mark key="." line="111" column="25" />
-        <mark key="^" line="111" column="25" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519175166396">
+        <mark key="[" line="108" column="20" />
+        <mark key="]" line="108" column="20" />
+        <mark key="." line="108" column="20" />
       </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
         <mark key="[" line="52" column="43" />
@@ -613,10 +612,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>line</text>
+        <text>size</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>materi</text>
@@ -625,33 +624,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG0oYGRpdiMke2VsZW1JZH0tbGluZS1jaGFydGAsICdMb2FkaW5nLi4uJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlZ2FFbWJlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc29ydDogJ2FzYycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWdncmVnYXRlOiAnc3VtJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlZ2FFbWJlZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXhpczoge2Zvcm1hdDogJyVZLSVtLSVkJ30sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWdncmVnYXRlOiAnc3VtJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXhpczoge2Zvcm1hdDogJyVZLSVtLSVkJ30sCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoaWlpaScpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>data.map(function(bkt) {
                 return m('div', `${bkt.created_at} - ${bkt.count}`);
             })</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gJHt0YWJsZU5hbWV9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZldGNoRGF0YSgnc2VsZWN0IGNvdW50KCopIGZyb20gIlRydXN0IFBpbG90IFJldmlld3MiJykudGhlbihjb25zb2xlLmxvZyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZldGNoRGF0YSgnc2VsZWN0IGNvdW50KCopIGZyb20gIlRydXN0IFBpbG90IFJldmlld3MiJykudGhlbihjb25zb2xlLmxvZyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
