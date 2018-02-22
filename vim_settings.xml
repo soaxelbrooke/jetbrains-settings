@@ -245,11 +245,11 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519258297978">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="38" column="14" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="27" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519326088650">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -269,11 +269,11 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519261219435">
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519326377686">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="68" column="12" />
+        <mark key="]" line="68" column="12" />
+        <mark key="." line="68" column="12" />
         <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
@@ -356,7 +356,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519262929539">
+      <file name="/Dummy.txt" timestamp="1519326534870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -473,11 +473,12 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519325282634">
-        <mark key="'" line="574" column="8" />
-        <mark key="[" line="424" column="40" />
-        <mark key="]" line="436" column="0" />
-        <mark key="." line="436" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519326598864">
+        <mark key="'" line="430" column="32" />
+        <mark key="[" line="206" column="17" />
+        <mark key="]" line="206" column="16" />
+        <mark key="." line="206" column="16" />
+        <mark key="^" line="262" column="14" />
       </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
         <mark key="[" line="52" column="43" />
@@ -511,7 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="78" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="101" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="92" column="19" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
@@ -611,27 +611,40 @@
       <jump line="207" column="13" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
       <jump line="412" column="41" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
       <jump line="542" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
+      <jump line="430" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wYWNpdHk6IHsKICAgICAgICAgICAgICAgIC8vICAgICBmaWVsZDogJ2NvdW50JywKICAgICAgICAgICAgICAgIC8vICAgICB0eXBlOiAncXVhbnRpdGF0aXZlJywKICAgICAgICAgICAgICAgIC8vICAgICBsZWdlbmQ6IG51bGwsCiAgICAgICAgICAgICAgICAvLyB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>posCount + negCount + neuCount</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>layer</text>
+        <text>type: 'bar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHg6IHsKICAgICAgICAgICAgICAgICAgICBmaWVsZDogJ2NyZWF0ZWRfYXQnLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICd0ZW1wb3JhbCcsCiAgICAgICAgICAgICAgICAgICAgYXhpczoge2Zvcm1hdDogJyVZLSVtLSVkJywgdGl0bGU6IG51bGx9LAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHk6IHsKICAgICAgICAgICAgICAgICAgICBmaWVsZDogJ3lfc3RhcnQnLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICdxdWFudGl0YXRpdmUnLAogICAgICAgICAgICAgICAgICAgIGF4aXM6IHt0aXRsZTogJ1JldmlldyBTZW50ZW5jZXMnfSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB5MjogewogICAgICAgICAgICAgICAgICAgIGZpZWxkOiAneV9lbmQnLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICdxdWFudGl0YXRpdmUnLAogICAgICAgICAgICAgICAgICAgIGF4aXM6IHt0aXRsZTogbnVsbH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgY29sb3I6IHsKICAgICAgICAgICAgICAgICAgICBmaWVsZDogJ3NlbnRpbWVudCcsCiAgICAgICAgICAgICAgICAgICAgdHlwZTogJ29yZGluYWwnLAogICAgICAgICAgICAgICAgICAgIHNjYWxlOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRvbWFpbjogWydEZXRyYWN0aW5nJywgJ1Bhc3NpdmUnLCAnUHJvbW90aW5nJ10sCiAgICAgICAgICAgICAgICAgICAgICAgIHJhbmdlOiBbY29sb3JzLnJlZCwgY29sb3JzLmxpZ2h0Z3JleSwgY29sb3JzLmdyZWVuXQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wYWNpdHk6IHsKICAgICAgICAgICAgICAgIC8vICAgICBmaWVsZDogJ2NvdW50JywKICAgICAgICAgICAgICAgIC8vICAgICB0eXBlOiAncXVhbnRpdGF0aXZlJywKICAgICAgICAgICAgICAgIC8vICAgICBsZWdlbmQ6IG51bGwsCiAgICAgICAgICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNpemU6IHsKICAgICAgICAgICAgICAgIC8vICAgICBmaWVsZDogJ2NvdW50JywKICAgICAgICAgICAgICAgIC8vICAgICB0eXBlOiAncXVhbnRpdGF0aXZlJywKICAgICAgICAgICAgICAgIC8vIH0sCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuLnJhd2dpdC5jb20vc2hvd2Rvd25qcy9zaG93ZG93bi8xLjguNS9kaXN0L3Nob3dkb3duLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IHgyIGlzLXB1bGwtcmlnaHQiIGlkPSJyYXRpbmdzLXN1bW1hcnkiPgogICAgICAgICAgICBSYXRpbmdzIFN1bW1hcnkKICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IHgyIiBpZD0ic2VudGltZW50LXN1bW1hcnkiPgogICAgICAgICAgICBTZW50aW1lbnQgU3VtbWFyeQogICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wYWNpdHk6IHsKICAgICAgICAgICAgICAgIC8vICAgICBmaWVsZDogJ2NvdW50JywKICAgICAgICAgICAgICAgIC8vICAgICB0eXBlOiAncXVhbnRpdGF0aXZlJywKICAgICAgICAgICAgICAgIC8vICAgICBsZWdlbmQ6IG51bGwsCiAgICAgICAgICAgICAgICAvLyB9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uZmlnOiB7c3R5bGU6IHtjZWxsOiB7c3Ryb2tlOiAndHJhbnNwYXJlbnQnfX19LAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>{
             width: 510,
             height: 10,
@@ -652,32 +665,20 @@
             }
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHk6IHsKICAgICAgICAgICAgICAgIC8vICAgICBmaWVsZDogJ2NvbXBvdW5kJywKICAgICAgICAgICAgICAgIC8vICAgICB0eXBlOiAncXVhbnRpdGF0aXZlJywKICAgICAgICAgICAgICAgIC8vICAgICBheGlzOiB7dGl0bGU6ICdDb21wb3VuZCBTZW50aW1lbnQnLCBncmlkOiBmYWxzZX0sCiAgICAgICAgICAgICAgICAvLyB9LAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogNTEwLAogICAgICAgIGhlaWdodDogMTYwLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiB7CiAgICAgICAgICAgICAgICAgICAgZmllbGQ6ICdzZW50aW1lbnQnLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICdvcmRpbmFsJywKICAgICAgICAgICAgICAgICAgICBzY2FsZTogewogICAgICAgICAgICAgICAgICAgICAgICBkb21haW46IFsnRGV0cmFjdGluZycsICdQYXNzaXZlJywgJ1Byb21vdGluZyddLAogICAgICAgICAgICAgICAgICAgICAgICByYW5nZTogW2NvbG9ycy5yZWQsIGNvbG9ycy5saWdodGdyZXksIGNvbG9ycy5ncmVlbl0KICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHkyOiB7CiAgICAgICAgICAgICAgICAgICAgZmllbGQ6ICd5X2VuZCcsCiAgICAgICAgICAgICAgICAgICAgdHlwZTogJ3F1YW50aXRhdGl2ZScsCiAgICAgICAgICAgICAgICAgICAgYXhpczoge3RpdGxlOiBudWxsfSwKICAgICAgICAgICAgICAgIH0sCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbSgnc3Bhbi5jYWxsLW91dC1sYWJlbCcsICdTdGFycycpLAo=</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogNTEwLAogICAgICAgIGhlaWdodDogMTYwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>layer</last-search>
+      <last-search>type: 'bar</last-search>
       <last-offset />
-      <last-pattern>layer</last-pattern>
+      <last-pattern>type: 'bar</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -685,7 +686,6 @@
     </search>
     <history>
       <history-search>
-        <entry>overTime</entry>
         <entry>OverTime</entry>
         <entry>#</entry>
         <entry>Html</entry>
@@ -705,6 +705,7 @@
         <entry>sentiment</entry>
         <entry>mark:</entry>
         <entry>layer</entry>
+        <entry>type: 'bar</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>

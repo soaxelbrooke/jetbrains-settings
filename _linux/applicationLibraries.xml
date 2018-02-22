@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="showdown" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.rawgit.com_showdownjs_showdown_1.8.5_dist_showdown.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.rawgit.com_showdownjs_showdown_1.8.5_dist_showdown.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vega" type="javaScript">
       <properties>
         <sourceFilesUrls>
