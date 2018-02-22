@@ -257,11 +257,12 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1519335767395">
-        <mark key="'" line="118" column="35" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="4" />
-        <mark key="." line="170" column="4" />
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" timestamp="1519337402964">
+        <mark key="'" line="119" column="35" />
+        <mark key="[" line="56" column="91" />
+        <mark key="]" line="56" column="101" />
+        <mark key="." line="56" column="91" />
+        <mark key="^" line="56" column="92" />
       </file>
       <file name="vim_settings.xml" timestamp="1517600115084">
         <mark key="[" line="0" column="0" />
@@ -372,7 +373,7 @@
         <mark key="^" line="16" column="358" />
         <mark key="." line="16" column="358" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519335740394">
+      <file name="/Dummy.txt" timestamp="1519336691211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -618,10 +619,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stuart</text>
+        <text>, category</text>
       </register>
       <register name="-" type="4">
-        <text>stuart</text>
+        <text>, category</text>
       </register>
       <register name="/" type="4">
         <text>ROLE</text>
@@ -630,35 +631,35 @@
         <text encoding="base64">ICAgICAgICBzdWRvIC1IdSBwb3N0Z3JlcyBwc3FsIC1wIDU0MzYgLWMgJ0NSRUFURSBST0xFIHN0dWFydCBsb2dpbiBzdXBlcnVzZXI7Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZnMgPSBudW1weS5hcnJheV9zcGxpdChkZikK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbXBhbnlfaWQgdGV4dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0LnN0YXQK</text>
+        <text encoding="base64">ICAgICAgICBkZnMgPSBudW1weS5hcnJheV9zcGxpdChkZikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycsCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0LnN0YXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gdXBkYXRlIGZvciBtdWx0aXBsZSBjb21wb3NpdGUgcHJpbWFyeSBrZXlzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHVwZGF0ZSB0byBhbGxvdyBjb21wb3NpdGUgcHJpbWFyeSBrZXlzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gdXBkYXRlIGZvciBtdWx0aXBsZSBjb21wb3NpdGUgcHJpbWFyeSBrZXlzCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHVwZGF0ZSB0byBhbGxvdyBjb21wb3NpdGUgcHJpbWFyeSBrZXlzCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICMgVE9ETyB1cGRhdGUgZm9yIGNvbXBvc2l0ZSBwcmltYXJ5IGtleXMK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>[
         hotels_train, trip_train, fashion_train, amz_food_train, pitchfork_train, amz_prod_train, tp_train
     ]</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>[
         hotels_test, trip_test, fashion_test, amz_food_test, pitchfork_test, amz_prod_test, tp_test
     ]</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBob3RlbHNfZGV2LCB0cmlwX2RldiwgZmFzaGlvbl9kZXYsIGFtel9mb29kX2RldiwgcGl0Y2hmb3JrX2RldiwgYW16X3Byb2RfZGV2LCB0cF9kZXYKICAgIF0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
