@@ -356,7 +356,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519411443555">
+      <file name="/Dummy.txt" timestamp="1519413280006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -473,12 +473,12 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519411608212">
-        <mark key="'" line="638" column="20" />
-        <mark key="[" line="982" column="0" />
-        <mark key="]" line="982" column="8" />
-        <mark key="." line="982" column="8" />
-        <mark key="^" line="917" column="9" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519413240747">
+        <mark key="'" line="977" column="5" />
+        <mark key="[" line="995" column="33" />
+        <mark key="]" line="995" column="33" />
+        <mark key="." line="995" column="33" />
+        <mark key="^" line="977" column="5" />
       </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
         <mark key="[" line="52" column="43" />
@@ -512,7 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="506" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="47" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="228" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="232" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -612,16 +611,17 @@
       <jump line="638" column="20" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
       <jump line="141" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" />
       <jump line="68" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" />
+      <jump line="977" column="5" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2hlcmUgcmFuayA8PSAxMDAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEJlYW5z</text>
       </register>
       <register name="-" type="4">
-        <text>totalVolume, volumeChangePct</text>
+        <text encoding="base64">IEJlYW5z</text>
       </register>
       <register name="/" type="4">
-        <text>label.label</text>
+        <text>Cool</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIGJ1aWxkTWl0aHJpbFZpZXcodG90YWxWb2x1bWUsIHZvbHVtZUNoYW5nZVBjdCkgewogICAgICAgIGxldCBjaGFuZ2VQcmVmaXggPSB2b2x1bWVDaGFuZ2VQY3QgPj0gMCA/ICcrJyA6ICcnOwogICAgICAgIHJldHVybiBtKCdkaXYnLCBbCiAgICAgICAgICAgIG0oJ2Rpdi5zdW1tYXJ5LWhlYWRlcicsIFsKICAgICAgICAgICAgICAgIG0oJ2xhYmVsLmxhYmVsJywgJ1JldmlldyBWb2x1bWUnKSwKICAgICAgICAgICAgICAgIG0oJ3NwYW4uaXMtc2l6ZS0xLm51bWVyaWMtY2FsbC1vdXQnLCB0b3RhbFZvbHVtZSksCiAgICAgICAgICAgICAgICBtKCdzcGFuLmlzLWlubGluZS1ibG9jay5jYWxsLW91dC1sYWJlbC1jb250YWluZXInLCBbCiAgICAgICAgICAgICAgICAgICAgbSgnc3Bhbi5jYWxsLW91dC1sYWJlbCcsICdUb3RhbCcpLAogICAgICAgICAgICAgICAgICAgIG0oJ2JyJyksCiAgICAgICAgICAgICAgICAgICAgbSgnc3Bhbi5jYWxsLW91dC1sYWJlbC5oYXMtdGV4dC1ncmV5LWxpZ2h0JywgYCgke2NoYW5nZVByZWZpeH0keygxMDAgKiB2b2x1bWVDaGFuZ2VQY3QpLnRvUHJlY2lzaW9uKDIpfSUpYCkKICAgICAgICAgICAgICAgIF0pCiAgICAgICAgICAgIF0pLAogICAgICAgICAgICBtKCdoci5zdW1tYXJ5LWhyJyksCiAgICAgICAgICAgIG0oJ2Rpdi5zdW1tYXJ5LWNvbnRlbnQnLCBbCiAgICAgICAgICAgICAgICBtKGBkaXYjJHtlbGVtSWR9LWxpbmUtY2hhcnRgLCAnTG9hZGluZy4uLicpLAogICAgICAgICAgICAgICAgbSgnaHIuc3VtbWFyeS1ocicpLAogICAgICAgICAgICAgICAgbShgZGl2IyR7ZWxlbUlkfS10YWJsZS1jaGFydGAsICdMb2FkaW5nLi4uJyksCiAgICAgICAgICAgIF0pLAogICAgICAgICAgICBtKCdoci5zdW1tYXJ5LWhyLmZ1bGx3aWR0aCcpLAogICAgICAgICAgICBtKCdkaXYuc3VtbWFyeS1mb290ZXInLCBbCiAgICAgICAgICAgICAgICBtKCdkaXYuZmllbGQnLCBtKCdkaXYuY29udHJvbC5oYXMtaWNvbnMtbGVmdCcsIFsKICAgICAgICAgICAgICAgICAgICBtKCdkaXYuc2VsZWN0LmlzLXNtYWxsJywgWwogICAgICAgICAgICAgICAgICAgICAgICBtKCdzZWxlY3QnLCB7b25jaGFuZ2U6IHRpbWVDaGFuZ2VkfSwgWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgbSgnb3B0aW9uJywgJ0xhc3QgMjggRGF5cycpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbSgnb3B0aW9uJywge3NlbGVjdGVkOiB0cnVlfSwgJ0xhc3QgOTEgRGF5cycpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbSgnb3B0aW9uJywgJ0xhc3QgMTIgTW9udGhzJyksCiAgICAgICAgICAgICAgICAgICAgICAgIF0pLAogICAgICAgICAgICAgICAgICAgIF0pLAogICAgICAgICAgICAgICAgICAgIG0oJ2Rpdi5pY29uLmlzLXNtYWxsLmlzLWxlZnQnLCBtKCdpLm1kaS5tZGktY2FsZW5kYXItcmFuZ2UnKSksCiAgICAgICAgICAgICAgICBdKSkKICAgICAgICAgICAgXSkKICAgICAgICBdKTsKICAgIH0K</text>
@@ -658,9 +658,9 @@
       </register>
     </registers>
     <search>
-      <last-search>label.label</last-search>
+      <last-search>Cool</last-search>
       <last-offset />
-      <last-pattern>label.label</last-pattern>
+      <last-pattern>Cool</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>icon</entry>
         <entry>materi</entry>
         <entry>legend</entry>
         <entry>color</entry>
@@ -688,6 +687,7 @@
         <entry>Comp\.</entry>
         <entry>summary-conten</entry>
         <entry>label.label</entry>
+        <entry>Cool</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
