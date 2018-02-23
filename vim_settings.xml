@@ -245,8 +245,8 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519326088650">
-        <mark key="[" line="56" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519410507607">
+        <mark key="[" line="39" column="41" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
         <mark key="^" line="33" column="27" />
@@ -269,12 +269,12 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519326377686">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="68" column="12" />
-        <mark key="]" line="68" column="12" />
-        <mark key="." line="68" column="12" />
-        <mark key="^" line="25" column="0" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519411057026">
+        <mark key="'" line="68" column="16" />
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="68" column="16" />
+        <mark key="." line="68" column="16" />
+        <mark key="^" line="68" column="16" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
         <mark key="[" line="34" column="22" />
@@ -356,7 +356,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519326534870">
+      <file name="/Dummy.txt" timestamp="1519411443555">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -473,12 +473,12 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519406405149">
-        <mark key="'" line="430" column="32" />
-        <mark key="[" line="406" column="8" />
-        <mark key="]" line="406" column="8" />
-        <mark key="." line="406" column="8" />
-        <mark key="^" line="481" column="8" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519411608212">
+        <mark key="'" line="638" column="20" />
+        <mark key="[" line="982" column="0" />
+        <mark key="]" line="982" column="8" />
+        <mark key="." line="982" column="8" />
+        <mark key="^" line="917" column="9" />
       </file>
       <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
         <mark key="[" line="52" column="43" />
@@ -512,10 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
-      <jump line="101" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
-      <jump line="92" column="19" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
-      <jump line="29" column="12" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="506" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="47" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="228" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -612,73 +608,59 @@
       <jump line="412" column="41" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
       <jump line="542" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
       <jump line="430" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
+      <jump line="621" column="68" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
+      <jump line="638" column="20" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
+      <jump line="141" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" />
+      <jump line="68" column="16" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Trust Pilot Reviews</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2hlcmUgcmFuayA8PSAxMDAK</text>
       </register>
       <register name="-" type="4">
-        <text>Trust Pilot Reviews</text>
+        <text>totalVolume, volumeChangePct</text>
       </register>
       <register name="/" type="4">
-        <text>type: 'bar</text>
+        <text>label.label</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHg6IHsKICAgICAgICAgICAgICAgICAgICBmaWVsZDogJ2NyZWF0ZWRfYXQnLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICd0ZW1wb3JhbCcsCiAgICAgICAgICAgICAgICAgICAgYXhpczoge2Zvcm1hdDogJyVZLSVtLSVkJywgdGl0bGU6IG51bGx9LAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHk6IHsKICAgICAgICAgICAgICAgICAgICBmaWVsZDogJ3lfc3RhcnQnLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICdxdWFudGl0YXRpdmUnLAogICAgICAgICAgICAgICAgICAgIGF4aXM6IHt0aXRsZTogJ1JldmlldyBTZW50ZW5jZXMnfSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB5MjogewogICAgICAgICAgICAgICAgICAgIGZpZWxkOiAneV9lbmQnLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICdxdWFudGl0YXRpdmUnLAogICAgICAgICAgICAgICAgICAgIGF4aXM6IHt0aXRsZTogbnVsbH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgY29sb3I6IHsKICAgICAgICAgICAgICAgICAgICBmaWVsZDogJ3NlbnRpbWVudCcsCiAgICAgICAgICAgICAgICAgICAgdHlwZTogJ29yZGluYWwnLAogICAgICAgICAgICAgICAgICAgIHNjYWxlOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRvbWFpbjogWydEZXRyYWN0aW5nJywgJ1Bhc3NpdmUnLCAnUHJvbW90aW5nJ10sCiAgICAgICAgICAgICAgICAgICAgICAgIHJhbmdlOiBbY29sb3JzLnJlZCwgY29sb3JzLmxpZ2h0Z3JleSwgY29sb3JzLmdyZWVuXQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGJ1aWxkTWl0aHJpbFZpZXcodG90YWxWb2x1bWUsIHZvbHVtZUNoYW5nZVBjdCkgewogICAgICAgIGxldCBjaGFuZ2VQcmVmaXggPSB2b2x1bWVDaGFuZ2VQY3QgPj0gMCA/ICcrJyA6ICcnOwogICAgICAgIHJldHVybiBtKCdkaXYnLCBbCiAgICAgICAgICAgIG0oJ2Rpdi5zdW1tYXJ5LWhlYWRlcicsIFsKICAgICAgICAgICAgICAgIG0oJ2xhYmVsLmxhYmVsJywgJ1JldmlldyBWb2x1bWUnKSwKICAgICAgICAgICAgICAgIG0oJ3NwYW4uaXMtc2l6ZS0xLm51bWVyaWMtY2FsbC1vdXQnLCB0b3RhbFZvbHVtZSksCiAgICAgICAgICAgICAgICBtKCdzcGFuLmlzLWlubGluZS1ibG9jay5jYWxsLW91dC1sYWJlbC1jb250YWluZXInLCBbCiAgICAgICAgICAgICAgICAgICAgbSgnc3Bhbi5jYWxsLW91dC1sYWJlbCcsICdUb3RhbCcpLAogICAgICAgICAgICAgICAgICAgIG0oJ2JyJyksCiAgICAgICAgICAgICAgICAgICAgbSgnc3Bhbi5jYWxsLW91dC1sYWJlbC5oYXMtdGV4dC1ncmV5LWxpZ2h0JywgYCgke2NoYW5nZVByZWZpeH0keygxMDAgKiB2b2x1bWVDaGFuZ2VQY3QpLnRvUHJlY2lzaW9uKDIpfSUpYCkKICAgICAgICAgICAgICAgIF0pCiAgICAgICAgICAgIF0pLAogICAgICAgICAgICBtKCdoci5zdW1tYXJ5LWhyJyksCiAgICAgICAgICAgIG0oJ2Rpdi5zdW1tYXJ5LWNvbnRlbnQnLCBbCiAgICAgICAgICAgICAgICBtKGBkaXYjJHtlbGVtSWR9LWxpbmUtY2hhcnRgLCAnTG9hZGluZy4uLicpLAogICAgICAgICAgICAgICAgbSgnaHIuc3VtbWFyeS1ocicpLAogICAgICAgICAgICAgICAgbShgZGl2IyR7ZWxlbUlkfS10YWJsZS1jaGFydGAsICdMb2FkaW5nLi4uJyksCiAgICAgICAgICAgIF0pLAogICAgICAgICAgICBtKCdoci5zdW1tYXJ5LWhyLmZ1bGx3aWR0aCcpLAogICAgICAgICAgICBtKCdkaXYuc3VtbWFyeS1mb290ZXInLCBbCiAgICAgICAgICAgICAgICBtKCdkaXYuZmllbGQnLCBtKCdkaXYuY29udHJvbC5oYXMtaWNvbnMtbGVmdCcsIFsKICAgICAgICAgICAgICAgICAgICBtKCdkaXYuc2VsZWN0LmlzLXNtYWxsJywgWwogICAgICAgICAgICAgICAgICAgICAgICBtKCdzZWxlY3QnLCB7b25jaGFuZ2U6IHRpbWVDaGFuZ2VkfSwgWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgbSgnb3B0aW9uJywgJ0xhc3QgMjggRGF5cycpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbSgnb3B0aW9uJywge3NlbGVjdGVkOiB0cnVlfSwgJ0xhc3QgOTEgRGF5cycpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbSgnb3B0aW9uJywgJ0xhc3QgMTIgTW9udGhzJyksCiAgICAgICAgICAgICAgICAgICAgICAgIF0pLAogICAgICAgICAgICAgICAgICAgIF0pLAogICAgICAgICAgICAgICAgICAgIG0oJ2Rpdi5pY29uLmlzLXNtYWxsLmlzLWxlZnQnLCBtKCdpLm1kaS5tZGktY2FsZW5kYXItcmFuZ2UnKSksCiAgICAgICAgICAgICAgICBdKSkKICAgICAgICAgICAgXSkKICAgICAgICBdKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNpemU6IHsKICAgICAgICAgICAgICAgIC8vICAgICBmaWVsZDogJ2NvdW50JywKICAgICAgICAgICAgICAgIC8vICAgICB0eXBlOiAncXVhbnRpdGF0aXZlJywKICAgICAgICAgICAgICAgIC8vIH0sCg==</text>
+        <text encoding="base64">d2hlcmUgcmFuayA8PSAxMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuLnJhd2dpdC5jb20vc2hvd2Rvd25qcy9zaG93ZG93bi8xLjguNS9kaXN0L3Nob3dkb3duLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">cGhyYXNlX3NlbnRpbWVudF9jb3VudHMgYXMgKAogICAgU0VMRUNUCiAgICAgIHBocmFzZSBwaHJhc2Vfc3RlbSwKICAgICAgY291bnQoKikKICAgICAgICBGSUxURVIgKFdIRVJFIHNlbnRpbWVudCA9ICdfX2xhYmVsX19wb3MnKSBwb3NpdGl2ZSwKICAgICAgY291bnQoKikKICAgICAgICBGSUxURVIgKFdIRVJFIHNlbnRpbWVudCA9ICdfX2xhYmVsX19uZXUnKSBuZXV0cmFsLAogICAgICBjb3VudCgqKQogICAgICAgIEZJTFRFUiAoV0hFUkUgc2VudGltZW50ID0gJ19fbGFiZWxfX25lZycpIG5lZ2F0aXZlLAogICAgICBjb3VudCgqKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvdGFsX2NvdW50CiAgICBGUk9NIHBocmFzZV9zZW50aW1lbnRzCiAgICBHUk9VUCBCWSAxCiksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IHgyIGlzLXB1bGwtcmlnaHQiIGlkPSJyYXRpbmdzLXN1bW1hcnkiPgogICAgICAgICAgICBSYXRpbmdzIFN1bW1hcnkKICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbSgnZGl2LnN1bW1hcnktaGVhZGVyJywgWwogICAgICAgICAgICAvLyAgICAgbSgnbGFiZWwubGFiZWwnLCAnUmV2aWV3IFZvbHVtZScpLAogICAgICAgICAgICAvLyAgICAgbSgnc3Bhbi5pcy1zaXplLTEubnVtZXJpYy1jYWxsLW91dCcsIHRvdGFsVm9sdW1lKSwKICAgICAgICAgICAgLy8gICAgIG0oJ3NwYW4uaXMtaW5saW5lLWJsb2NrLmNhbGwtb3V0LWxhYmVsLWNvbnRhaW5lcicsIFsKICAgICAgICAgICAgLy8gICAgICAgICBtKCdzcGFuLmNhbGwtb3V0LWxhYmVsJywgJ1RvdGFsJyksCiAgICAgICAgICAgIC8vICAgICAgICAgbSgnYnInKSwKICAgICAgICAgICAgLy8gICAgICAgICBtKCdzcGFuLmNhbGwtb3V0LWxhYmVsLmhhcy10ZXh0LWdyZXktbGlnaHQnLCBgKCR7Y2hhbmdlUHJlZml4fSR7KDEwMCAqIHZvbHVtZUNoYW5nZVBjdCkudG9QcmVjaXNpb24oMil9JSlgKQogICAgICAgICAgICAvLyAgICAgXSkKICAgICAgICAgICAgLy8gXSksCiAgICAgICAgICAgIC8vIG0oJ2hyLnN1bW1hcnktaHInKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IHgyIiBpZD0ic2VudGltZW50LXN1bW1hcnkiPgogICAgICAgICAgICBTZW50aW1lbnQgU3VtbWFyeQogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY2hhbmdlUHJlZml4ID0gdm9sdW1lQ2hhbmdlUGN0ID49IDAgPyAnKycgOiAnJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wYWNpdHk6IHsKICAgICAgICAgICAgICAgIC8vICAgICBmaWVsZDogJ2NvdW50JywKICAgICAgICAgICAgICAgIC8vICAgICB0eXBlOiAncXVhbnRpdGF0aXZlJywKICAgICAgICAgICAgICAgIC8vICAgICBsZWdlbmQ6IG51bGwsCiAgICAgICAgICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oYGRpdiMke2VsZW1JZH0tbGluZS1jaGFydGAsICdMb2FkaW5nLi4uJyksCiAgICAgICAgICAgICAgICBtKCdoci5zdW1tYXJ5LWhyJyksCiAgICAgICAgICAgICAgICBtKGBkaXYjJHtlbGVtSWR9LXRhYmxlLWNoYXJ0YCwgJ0xvYWRpbmcuLi4nKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnOiB7c3R5bGU6IHtjZWxsOiB7c3Ryb2tlOiAndHJhbnNwYXJlbnQnfX19LAo=</text>
+        <text encoding="base64">ICAgIF0pOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>{
-            width: 510,
-            height: 10,
-            mark: {type: 'square'},
-            encoding: {
-                x: {
-                    field: 'created_at',
-                    type: 'temporal',
-                    axis: null,
-                },
-                color: {
-                    field: 'compound',
-                    type: 'quantitative',
-                    scale: {
-                        range: [colors.red, colors.orange, colors.yellow, colors.limegreen, colors.green],
-                    }
-                }
-            }
-        }</text>
+        <text encoding="base64">bSgnZGl2LmNvbHVtbicsIFsKICAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHk6IHsKICAgICAgICAgICAgICAgIC8vICAgICBmaWVsZDogJ2NvbXBvdW5kJywKICAgICAgICAgICAgICAgIC8vICAgICB0eXBlOiAncXVhbnRpdGF0aXZlJywKICAgICAgICAgICAgICAgIC8vICAgICBheGlzOiB7dGl0bGU6ICdDb21wb3VuZCBTZW50aW1lbnQnLCBncmlkOiBmYWxzZX0sCiAgICAgICAgICAgICAgICAvLyB9LAo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGJ1aWxkUGhyYXNlTGlzdCh0aXRsZSwgcGhyYXNlcywgZmVhdHVyZXMpIHsKICAgICAgICBmZWF0dXJlcyA9IGZlYXR1cmVzID09PSB1bmRlZmluZWQgPyBbJ0NvdW50J10gOiBmZWF0dXJlczsKICAgICAgICBsZXQgY3VycmVudFBhZ2UgPSAwOwogICAgICAgIGxldCBwYWdlU2l6ZSA9IDQ7CiAgICAgICAgbGV0IGRpc3BsYXllZFBocmFzZXMgPSBwaHJhc2VzLnNsaWNlKGN1cnJlbnRQYWdlICogcGFnZVNpemUsIChjdXJyZW50UGFnZSArIDEpICogcGFnZVNpemUpOwoKICAgICAgICByZXR1cm4gbSgnZGl2LmNvbHVtbicsIFsKICAgICAgICAgICAgbSgndGFibGUudGFibGUuaXMtaG92ZXJhYmxlLmlzLWZ1bGx3aWR0aC5pcy1uYXJyb3cnLCBbCiAgICAgICAgICAgICAgICBtKCd0aGVhZCcsCiAgICAgICAgICAgICAgICAgICAgbSgndHInLCBbCiAgICAgICAgICAgICAgICAgICAgICAgIG0oJ3RoJywgdGl0bGUpLAogICAgICAgICAgICAgICAgICAgIF0uY29uY2F0KGZlYXR1cmVzLm1hcChmdW5jdGlvbihmZWF0KSB7cmV0dXJuIG0oJ3RoJywgZmVhdCl9KSkpKSwKICAgICAgICAgICAgICAgIG0oJ3Rib2R5JywKICAgICAgICAgICAgICAgICAgICBkaXNwbGF5ZWRQaHJhc2VzLm1hcChmdW5jdGlvbihwaHJhc2VCdWNrZXQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG0oJ3RyJywgWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgbSgndGQnLCBwaHJhc2VCdWNrZXQucGhyYXNlKSwKICAgICAgICAgICAgICAgICAgICAgICAgXS5jb25jYXQoZmVhdHVyZXMubWFwKGZ1bmN0aW9uKGZlYXQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBtKCd0ZCcsIHBocmFzZUJ1Y2tldFtmZWF0XSkKICAgICAgICAgICAgICAgICAgICAgICAgfSkpKQogICAgICAgICAgICAgICAgICAgIH0pKQogICAgICAgICAgICBdKQogICAgICAgIF0pOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogNTEwLAogICAgICAgIGhlaWdodDogMTYwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocGhyYXNlQnVja2V0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>type: 'bar</last-search>
+      <last-search>label.label</last-search>
       <last-offset />
-      <last-pattern>type: 'bar</last-pattern>
+      <last-pattern>label.label</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -686,11 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OverTime</entry>
-        <entry>#</entry>
-        <entry>Html</entry>
-        <entry>HtmlSu</entry>
-        <entry>tooltip</entry>
         <entry>icon</entry>
         <entry>materi</entry>
         <entry>legend</entry>
@@ -706,6 +683,11 @@
         <entry>mark:</entry>
         <entry>layer</entry>
         <entry>type: 'bar</entry>
+        <entry>stack</entry>
+        <entry>Comp.</entry>
+        <entry>Comp\.</entry>
+        <entry>summary-conten</entry>
+        <entry>label.label</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
