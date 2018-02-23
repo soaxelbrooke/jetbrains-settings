@@ -324,6 +324,9 @@
         <mark key="]" line="53" column="8" />
         <mark key="." line="53" column="8" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1519367770077">
+        <mark key="'" line="115" column="94" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1510147167384">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="12" />
@@ -516,7 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="19" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="29" column="12" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" />
       <jump line="506" column="30" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="47" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -616,6 +618,7 @@
       <jump line="21" column="41" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
       <jump line="356" column="4" filename="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" />
       <jump line="118" column="35" filename="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sources/trustpilot.py" />
+      <jump line="115" column="94" filename="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -625,7 +628,7 @@
         <text>, category</text>
       </register>
       <register name="/" type="4">
-        <text>ROLE</text>
+        <text>jlh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdWRvIC1IdSBwb3N0Z3JlcyBwc3FsIC1wIDU0MzYgLWMgJ0NSRUFURSBST0xFIHN0dWFydCBsb2dpbiBzdXBlcnVzZXI7Jwo=</text>
@@ -666,9 +669,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ROLE</last-search>
+      <last-search>jlh</last-search>
       <last-offset />
-      <last-pattern>ROLE</last-pattern>
+      <last-pattern>jlh</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -676,7 +679,6 @@
     </search>
     <history>
       <history-search>
-        <entry>phrase_scores</entry>
         <entry>sentiment</entry>
         <entry>--</entry>
         <entry>console.</entry>
@@ -696,6 +698,7 @@
         <entry>create role</entry>
         <entry>role</entry>
         <entry>ROLE</entry>
+        <entry>jlh</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
