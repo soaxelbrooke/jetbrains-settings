@@ -41,6 +41,12 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
+      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1519501193758">
+        <mark key="[" line="30" column="1" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="12" column="38" />
@@ -446,7 +452,7 @@
         <mark key="^" line="16" column="358" />
         <mark key="." line="16" column="358" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519336691211">
+      <file name="/Dummy.txt" timestamp="1519501223528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
