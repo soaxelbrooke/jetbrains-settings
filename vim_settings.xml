@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/datasci/ptclf/train.sh" timestamp="1519514068214">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1511860350088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,7 +46,7 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1519504183808">
+      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1519513962266">
         <mark key="[" line="23" column="56" />
         <mark key="]" line="26" column="29" />
         <mark key="^" line="26" column="29" />
@@ -638,11 +643,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gdG9yY2gubWF4KHNlbGYucm5uX2Ryb3BvdXQocm5uX2NvbnRleHQpLCAwKVswXQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>cudnn</text>
