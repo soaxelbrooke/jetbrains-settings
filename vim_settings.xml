@@ -370,11 +370,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519498195451">
-        <mark key="'" line="130" column="64" />
-        <mark key="[" line="132" column="49" />
-        <mark key="]" line="132" column="49" />
-        <mark key="." line="132" column="49" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519502122599">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="611" column="62" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -452,7 +453,7 @@
         <mark key="^" line="16" column="358" />
         <mark key="." line="16" column="358" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519501223528">
+      <file name="/Dummy.txt" timestamp="1519502236344">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -529,7 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="251" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="254" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="255" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -629,6 +629,7 @@
       <jump line="172" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="445" column="64" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="131" column="64" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="13" column="28" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -638,7 +639,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Counting</text>
+        <text>Expe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYXN0X2NvbnRleHQgPSB0b3JjaC5tYXgoc2VsZi5ybm5fZHJvcG91dChjb250ZXh0KSwgMClbMF0K</text>
@@ -675,9 +676,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Counting</last-search>
+      <last-search>Expe</last-search>
       <last-offset />
-      <last-pattern>Counting</last-pattern>
+      <last-pattern>Expe</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -685,7 +686,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>over</entry>
         <entry>Filter</entry>
         <entry>overTime</entry>
@@ -705,6 +705,7 @@
         <entry>dataset_h</entry>
         <entry>GLOVE</entry>
         <entry>Counting</entry>
+        <entry>Expe</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
