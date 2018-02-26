@@ -22,6 +22,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="sql" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kripken.github.io_sql.js_js_sql.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kripken.github.io_sql.js_js_sql.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vega" type="javaScript">
       <properties>
         <sourceFilesUrls>
