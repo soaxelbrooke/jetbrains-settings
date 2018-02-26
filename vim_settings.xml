@@ -3,6 +3,257 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1511860350088">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/filtered_partitioned_topk_plus_gensim.py" timestamp="1507904177171">
+        <mark key="[" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_minority_topk.py" timestamp="1507910535094">
+        <mark key="[" line="18" column="77" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/data/amazon-reviews-sentiment/requirements.txt" timestamp="1512329000116">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1515778079444">
+        <mark key="'" line="181" column="71" />
+        <mark key="[" line="178" column="67" />
+        <mark key="]" line="178" column="43" />
+        <mark key="." line="178" column="43" />
+        <mark key="^" line="178" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/significant_terms_test.py" timestamp="1508577528737">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_prometheus_container.sh" timestamp="1512848237921">
+        <mark key="[" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/twitter-customer-support-collector/first_request_and_response_kernel.py" timestamp="1510068442990">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512449317496">
+        <mark key="'" line="79" column="41" />
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="39" />
+        <mark key="^" line="31" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/util.js" timestamp="1509103255868">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="38" />
+        <mark key="^" line="34" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_events_table.sql" timestamp="1508313706082">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508312165227">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1519169449032">
+        <mark key="'" line="89" column="46" />
+        <mark key="[" line="360" column="8" />
+        <mark key="]" line="360" column="8" />
+        <mark key="." line="360" column="8" />
+        <mark key="^" line="360" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_svr.py" timestamp="1511661852246">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases.py" timestamp="1507732380257">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/experiments/index.js" timestamp="1519629107083">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="3" column="117" />
+        <mark key="." line="3" column="117" />
+        <mark key="^" line="10" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/requirements.txt" timestamp="1511596592596">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508236652604">
+        <mark key="[" line="39" column="53" />
+        <mark key="]" line="39" column="53" />
+        <mark key="." line="39" column="53" />
+        <mark key="^" line="31" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/create_tables.sql" timestamp="1516402276571">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="44" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519628451434">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="61" column="33" />
+      </file>
+      <file name="/Python Console" timestamp="1512329019255">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1507309521591">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508153482493">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/convnet_model.py" timestamp="1508336916047">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/test/encoder_test.py" timestamp="1507309678690">
+        <mark key="'" line="96" column="28" />
+        <mark key="[" line="116" column="90" />
+        <mark key="]" line="116" column="32" />
+        <mark key="." line="116" column="32" />
+        <mark key="^" line="116" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1518200819715">
+        <mark key="'" line="50" column="62" />
+        <mark key="[" line="234" column="36" />
+        <mark key="]" line="234" column="85" />
+        <mark key="." line="234" column="85" />
+        <mark key="^" line="234" column="85" />
+      </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/utils.py" timestamp="1511462936170">
+        <mark key="[" line="33" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/experiments/index.html" timestamp="1519628485864">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="13" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1515543865107">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="54" />
+        <mark key="^" line="16" column="358" />
+        <mark key="." line="16" column="358" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1510147167384">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/common_views.js" timestamp="1507718849692">
+        <mark key="[" line="54" column="50" />
+        <mark key="]" line="54" column="50" />
+        <mark key="." line="54" column="50" />
+        <mark key="^" line="15" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509726926437">
+        <mark key="'" line="76" column="52" />
+        <mark key="[" line="46" column="55" />
+        <mark key="]" line="46" column="55" />
+        <mark key="^" line="46" column="54" />
+        <mark key="." line="46" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/events.py" timestamp="1509092704447">
+        <mark key="[" line="91" column="72" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="86" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="27" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509726897919">
+        <mark key="'" line="355" column="31" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/view_spec.js" timestamp="1509103369536">
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="69" />
+        <mark key="." line="10" column="69" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_jenkins_exporter.sh" timestamp="1512846607121">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
+        <mark key="'" line="26" column="57" />
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+        <mark key="^" line="78" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_node_exporter.sh" timestamp="1512847914691">
+        <mark key="[" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/web/webpack.config.js" timestamp="1507360183080">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/main.py" timestamp="1511599567985">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
+        <mark key="[" line="52" column="43" />
+        <mark key="]" line="52" column="43" />
+        <mark key="^" line="45" column="26" />
+        <mark key="." line="52" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/phrases.py" timestamp="1507794267836">
+        <mark key="[" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_document_batch_status_view.sql" timestamp="1508313837611">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/requirements.txt" timestamp="1511461777554">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.scss" timestamp="1515778304981">
         <mark key="'" line="220" column="10" />
         <mark key="[" line="161" column="0" />
@@ -16,24 +267,12 @@
         <mark key="." line="64" column="26" />
         <mark key="^" line="64" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1511860350088">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/index/index.html" timestamp="1515364424102">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="28" />
         <mark key="]" line="430" column="16" />
         <mark key="." line="430" column="16" />
         <mark key="^" line="430" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/filtered_partitioned_topk_plus_gensim.py" timestamp="1507904177171">
-        <mark key="[" line="15" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_minority_topk.py" timestamp="1507910535094">
-        <mark key="[" line="18" column="77" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/index.html" timestamp="1507360464993">
         <mark key="[" line="10" column="0" />
@@ -54,18 +293,8 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/data/amazon-reviews-sentiment/requirements.txt" timestamp="1512329000116">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_significance_topk.py" timestamp="1507965670282">
         <mark key="[" line="18" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/charts.js" timestamp="1515778079444">
-        <mark key="'" line="181" column="71" />
-        <mark key="[" line="178" column="67" />
-        <mark key="]" line="178" column="43" />
-        <mark key="." line="178" column="43" />
-        <mark key="^" line="178" column="43" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_lin_reg.py" timestamp="1512258801003">
         <mark key="[" line="46" column="0" />
@@ -73,20 +302,11 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/significant_terms_test.py" timestamp="1508577528737">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_gensim.py" timestamp="1507904885002">
         <mark key="[" line="36" column="33" />
         <mark key="]" line="36" column="33" />
         <mark key="^" line="14" column="30" />
         <mark key="." line="36" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_prometheus_container.sh" timestamp="1512848237921">
-        <mark key="[" line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/twitter-customer-support-collector/first_request_and_response_kernel.py" timestamp="1510068442990">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/util.py" timestamp="1508828718711">
         <mark key="[" line="24" column="52" />
@@ -114,13 +334,6 @@
         <mark key="^" line="27" column="30" />
         <mark key="." line="32" column="2" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/main.py" timestamp="1512449317496">
-        <mark key="'" line="79" column="41" />
-        <mark key="[" line="39" column="40" />
-        <mark key="]" line="39" column="39" />
-        <mark key="." line="39" column="39" />
-        <mark key="^" line="31" column="39" />
-      </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sentiment_analyzer.py" timestamp="1511448726102">
         <mark key="[" line="11" column="55" />
         <mark key="]" line="11" column="55" />
@@ -138,35 +351,11 @@
         <mark key="." line="81" column="26" />
         <mark key="^" line="81" column="26" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="49" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/build_dataset.py" timestamp="1518823166198">
         <mark key="[" line="170" column="14" />
         <mark key="]" line="170" column="14" />
         <mark key="." line="170" column="14" />
         <mark key="^" line="170" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/util.js" timestamp="1509103255868">
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="28" column="38" />
-        <mark key="." line="28" column="38" />
-        <mark key="^" line="34" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_events_table.sql" timestamp="1508313706082">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508312165227">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/queries.sql" timestamp="1510408516059">
         <mark key="[" line="23" column="2" />
@@ -174,42 +363,14 @@
         <mark key="." line="23" column="2" />
         <mark key="^" line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/staging.py" timestamp="1519169449032">
-        <mark key="'" line="89" column="46" />
-        <mark key="[" line="360" column="8" />
-        <mark key="]" line="360" column="8" />
-        <mark key="." line="360" column="8" />
-        <mark key="^" line="360" column="34" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/document_table.js" timestamp="1508425221029">
         <mark key="[" line="66" column="20" />
         <mark key="]" line="67" column="71" />
         <mark key="^" line="63" column="7" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/requirements.txt" timestamp="1508305778521">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/tfidf_svr.py" timestamp="1511661852246">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="26" />
-      </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/README.md" timestamp="1511448837932">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases.py" timestamp="1507732380257">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="17" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
-        <mark key="[" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/pos_tag_filtered_gensim.py" timestamp="1508148782956">
         <mark key="[" line="11" column="25" />
@@ -224,9 +385,6 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/requirements.txt" timestamp="1511596592596">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="40" column="33" />
@@ -238,12 +396,6 @@
         <mark key="]" line="20" column="50" />
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/basic_gensim_phrases.py" timestamp="1508236652604">
-        <mark key="[" line="39" column="53" />
-        <mark key="]" line="39" column="53" />
-        <mark key="." line="39" column="53" />
-        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.css" timestamp="1518199796910">
         <mark key="'" line="29" column="12" />
@@ -266,54 +418,15 @@
       <file name="vim_settings.xml" timestamp="1517600115084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/create_tables.sql" timestamp="1516402276571">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="44" column="28" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/text_analysis.py" timestamp="1519150406291">
         <mark key="'" line="356" column="4" />
         <mark key="[" line="335" column="26" />
-      </file>
-      <file name="/Python Console" timestamp="1512329019255">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1507309521591">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/topk_tokens.py" timestamp="1508153482493">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/convnet_model.py" timestamp="1508336916047">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="12" column="37" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
         <mark key="[" line="34" column="22" />
         <mark key="]" line="38" column="28" />
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/python-bpe/bpe/test/encoder_test.py" timestamp="1507309678690">
-        <mark key="'" line="96" column="28" />
-        <mark key="[" line="116" column="90" />
-        <mark key="]" line="116" column="32" />
-        <mark key="." line="116" column="32" />
-        <mark key="^" line="116" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" timestamp="1518200819715">
-        <mark key="'" line="50" column="62" />
-        <mark key="[" line="234" column="36" />
-        <mark key="]" line="234" column="85" />
-        <mark key="." line="234" column="85" />
-        <mark key="^" line="234" column="85" />
-      </file>
-      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/utils.py" timestamp="1511462936170">
-        <mark key="[" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/significant_terms.py" timestamp="1508577495987">
         <mark key="[" line="0" column="0" />
@@ -323,23 +436,11 @@
         <mark key="]" line="53" column="8" />
         <mark key="." line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/conf/api_nginx" timestamp="1510147167384">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="2" column="18" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/significant_terms.py" timestamp="1508149828301">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="22" column="47" />
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/common_views.js" timestamp="1507718849692">
-        <mark key="[" line="54" column="50" />
-        <mark key="]" line="54" column="50" />
-        <mark key="." line="54" column="50" />
-        <mark key="^" line="15" column="38" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kinds_view.sql" timestamp="1508313764482">
         <mark key="[" line="1" column="0" />
@@ -353,35 +454,10 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/explorer.js" timestamp="1509726926437">
-        <mark key="'" line="76" column="52" />
-        <mark key="[" line="46" column="55" />
-        <mark key="]" line="46" column="55" />
-        <mark key="^" line="46" column="54" />
-        <mark key="." line="46" column="55" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/events.py" timestamp="1509092704447">
-        <mark key="[" line="91" column="72" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="86" column="18" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1515543865107">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="14" column="54" />
-        <mark key="^" line="16" column="358" />
-        <mark key="." line="16" column="358" />
-      </file>
       <file name="/Dummy.txt" timestamp="1519335740394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/api/server.py" timestamp="1508284505141">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="45" column="37" />
-        <mark key="." line="45" column="37" />
-        <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/sentiment/keras_cnn.py" timestamp="1512024119908">
         <mark key="[" line="17" column="13" />
@@ -395,38 +471,11 @@
         <mark key="^" line="5" column="86" />
         <mark key="." line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/filters.js" timestamp="1509726897919">
-        <mark key="'" line="355" column="31" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="45" />
-        <mark key="^" line="14" column="45" />
-        <mark key="." line="14" column="45" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/src/view_spec.js" timestamp="1509103369536">
-        <mark key="[" line="10" column="69" />
-        <mark key="]" line="10" column="69" />
-        <mark key="." line="10" column="69" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_jenkins_exporter.sh" timestamp="1512846607121">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/sst_binary_demo.py" timestamp="1511448366424">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="22" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
-        <mark key="'" line="26" column="57" />
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="78" column="26" />
-        <mark key="." line="78" column="26" />
-        <mark key="^" line="78" column="26" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.html" timestamp="1518199738264">
         <mark key="'" line="0" column="0" />
@@ -443,9 +492,6 @@
         <mark key="]" line="32" column="3" />
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_node_exporter.sh" timestamp="1512847914691">
-        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/code/twitter-customer-support-collector/fetch.py" timestamp="1511454844949">
         <mark key="[" line="46" column="0" />
@@ -465,41 +511,11 @@
         <mark key="^" line="32" column="44" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/web/webpack.config.js" timestamp="1507360183080">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/twitter-sentiment-2/main.py" timestamp="1511599567985">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="13" column="12" />
-      </file>
       <file name="$USER_HOME$/code/datasci/python-bpe/bpe/encoder.py" timestamp="1507309972390">
         <mark key="[" line="36" column="32" />
         <mark key="]" line="227" column="52" />
         <mark key="." line="227" column="52" />
         <mark key="^" line="227" column="52" />
-      </file>
-      <file name="$USER_HOME$/data/amazon-reviews-sentiment/build_dataset.py" timestamp="1512331241877">
-        <mark key="[" line="52" column="43" />
-        <mark key="]" line="52" column="43" />
-        <mark key="^" line="45" column="26" />
-        <mark key="." line="52" column="43" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/phrases.py" timestamp="1507794267836">
-        <mark key="[" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_document_batch_status_view.sql" timestamp="1508313837611">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/requirements.txt" timestamp="1511461777554">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
@@ -618,47 +634,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stuart</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>stuart</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>ROLE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdWRvIC1IdSBwb3N0Z3JlcyBwc3FsIC1wIDU0MzYgLWMgJ0NSRUFURSBST0xFIHN0dWFydCBsb2dpbiBzdXBlcnVzZXI7Jwo=</text>
+        <text encoding="base64">CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2J1bG1hLzAuNi4xL2Nzcy9idWxtYS5jc3MiCiAgICAgICAgICBpbnRlZ3JpdHk9InNoYTI1Ni1sVXNzSCsrdW1ZTEMvOTdXWHFyNDI0ZXczaW5nOGUrZEFUVEFtTXBDRjQwPSIgY3Jvc3NvcmlnaW49ImFub255bW91cyIgLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLi9pbmRleC5jc3MiLz4KICAgIDxsaW5rIGhyZWY9J2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Sb2JvdG86NjAwLDMwMCw0MDAnIHJlbD0nc3R5bGVzaGVldCcKICAgICAgICAgIHR5cGU9J3RleHQvY3NzJz4KICAgIDxsaW5rIGhyZWY9J2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Sb2JvdG8lMjBTbGFiOjYwMCwzMDAsNDAwJyByZWw9J3N0eWxlc2hlZXQnCiAgICAgICAgICB0eXBlPSd0ZXh0L2Nzcyc+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii8vY2RuLm1hdGVyaWFsZGVzaWduaWNvbnMuY29tLzIuMS4xOS9jc3MvbWF0ZXJpYWxkZXNpZ25pY29ucy5taW4uY3NzIj4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvdmVnYS10b29sdGlwLzAuNS4xL3ZlZ2EtdG9vbHRpcC5jc3MiIGludGVncml0eT0ic2hhMjU2LXQ5OFhJMzZ2U0ZFQ0pxcjJIK0tyRmJSZ1hxMEFRcjZ1bkY5K2dxZ2xXbU09IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIiAvPgo8L2hlYWQ+Cjxib2R5PgoKPG5hdiBjbGFzcz0ibmF2YmFyIGlzLXRyYW5zcGFyZW50IiByb2xlPSJuYXZpZ2F0aW9uIj4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0ibmF2YmFyLWJyYW5kIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibmF2YmFyLWl0ZW0iPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYnJhbmQtdGl0bGUtY29udGFpbmVyIj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImlzLXNpemUtNiB0aXRsZS1zdXBlcnNjcmlwdCI+VGhvdWdodCBWZWN0b3I8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxoMSBjbGFzcz0idGl0bGUiPlJldmlld3M8L2gxPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CjwvbmF2PgoKPGRpdiBjbGFzcz0ic2VjdGlvbiIgaWQ9InN1bW1hcmllcy1zZWN0aW9uIj4KICAgIDxkaXYgY2xhc3M9InN1bW1hcnktY29udGFpbmVyIj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IHgyIiBpZD0ic2VudGltZW50LXN1bW1hcnkiPgogICAgICAgICAgICBTZW50aW1lbnQgU3VtbWFyeQogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InN1bW1hcnkgaXMtcHVsbC1sZWZ0IiBpZD0idm9sdW1lLXN1bW1hcnkiPgogICAgICAgICAgICBSZXZpZXcgU3VtbWFyeQogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InN1bW1hcnkgaXMtcHVsbC1sZWZ0IiBpZD0idGVybXMtc3VtbWFyeSI+CiAgICAgICAgICAgIFRlcm1zIFN1bW1hcnkKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IHgyIGlzLXB1bGwtcmlnaHQiIGlkPSJyYXRpbmdzLXN1bW1hcnkiPgogICAgICAgICAgICBSYXRpbmdzIFN1bW1hcnkKICAgICAgICA8L2Rpdj4KICAgICAgICA8IS0tPGRpdiBjbGFzcz0ic3VtbWFyeSB4MiI+LS0+CiAgICAgICAgICAgIDwhLS1Ub3BpY3MgU3VtbWFyeS0tPgogICAgICAgIDwhLS08L2Rpdj4tLT4KICAgICAgICA8IS0tPGRpdiBjbGFzcz0ic3VtbWFyeSI+LS0+CiAgICAgICAgICAgIDwhLS1TZWdtZW50IFN1bW1hcnktLT4KICAgICAgICA8IS0tPC9kaXY+LS0+CiAgICA8L2Rpdj4KPC9kaXY+CgoKCjxzY3JpcHQgc3JjPSIvL3VucGtnLmNvbS9taXRocmlsL21pdGhyaWwuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvdmVnYS8zLjEuMC92ZWdhLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni1hTG9PYTdZLzgwaW14ZmdBaWNoZkMxWEFqVzF6eFV4WllJK1BIQ2ZEOFc4PSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy92ZWdhLWxpdGUvMi4xLjMvdmVnYS1saXRlLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni16Z1NyWFdwWkVyUEtGQTlCaXh3T2E2MWo3aWUvb2RHWjMwaXZMOVFlUVFBPSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy92ZWdhLWVtYmVkLzMuMC4wL3ZlZ2EtZW1iZWQuanMiIGludGVncml0eT0ic2hhMjU2LVU0QmZhTTJkT1NlaWQyT21lV3VtUUxPcjhqVkF2OHpyWXFUQjlwUGEwUG89IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3ZlZ2EtdG9vbHRpcC8wLjUuMS92ZWdhLXRvb2x0aXAuanMiIGludGVncml0eT0ic2hhMjU2LXJnMjZQUWpNK2REek5yRVYrUndXT2RGRXdzYTFCdERhdDk0RDJveTA5Ym89IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Ii4vaW5kZXguanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZnMgPSBudW1weS5hcnJheV9zcGxpdChkZikK</text>
+        <text encoding="base64">ICAvLyBjb250ZW50cyBpcyBub3cgW3tjb2x1bW5zOlsnY29sMScsJ2NvbDInLC4uLl0sIHZhbHVlczpbW2ZpcnN0IHJvd10sIFtzZWNvbmQgcm93XSwgLi4uXX1dCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0LnN0YXQK</text>
+        <text encoding="base64">ICB2YXIgY29udGVudHMgPSBkYi5leGVjKCJTRUxFQ1QgKiBGUk9NIG15X3RhYmxlIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycsCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IGlzLXB1bGwtbGVmdCIgaWQ9InZvbHVtZS1zdW1tYXJ5Ij4KICAgICAgICAgICAgUmV2aWV3IFN1bW1hcnkKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IGlzLXB1bGwtbGVmdCIgaWQ9InRlcm1zLXN1bW1hcnkiPgogICAgICAgICAgICBUZXJtcyBTdW1tYXJ5CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0ic3VtbWFyeSB4MiBpcy1wdWxsLXJpZ2h0IiBpZD0icmF0aW5ncy1zdW1tYXJ5Ij4KICAgICAgICAgICAgUmF0aW5ncyBTdW1tYXJ5CiAgICAgICAgPC9kaXY+CiAgICAgICAgPCEtLTxkaXYgY2xhc3M9InN1bW1hcnkgeDIiPi0tPgogICAgICAgIDwhLS1Ub3BpY3MgU3VtbWFyeS0tPgogICAgICAgIDwhLS08L2Rpdj4tLT4KICAgICAgICA8IS0tPGRpdiBjbGFzcz0ic3VtbWFyeSI+LS0+CiAgICAgICAgPCEtLVNlZ21lbnQgU3VtbWFyeS0tPgogICAgICAgIDwhLS08L2Rpdj4tLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gdXBkYXRlIGZvciBtdWx0aXBsZSBjb21wb3NpdGUgcHJpbWFyeSBrZXlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHVwZGF0ZSB0byBhbGxvdyBjb21wb3NpdGUgcHJpbWFyeSBrZXlzCg==</text>
+        <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyB1cGRhdGUgZm9yIGNvbXBvc2l0ZSBwcmltYXJ5IGtleXMK</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-        hotels_train, trip_train, fashion_train, amz_food_train, pitchfork_train, amz_prod_train, tp_train
-    ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZnMgPSBudW1weS5hcnJheV9zcGxpdChkZikK</text>
       </register>
-      <register name="8" type="4">
-        <text>[
-        hotels_test, trip_test, fashion_test, amz_food_test, pitchfork_test, amz_prod_test, tp_test
-    ]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0LnN0YXQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBob3RlbHNfZGV2LCB0cmlwX2RldiwgZmFzaGlvbl9kZXYsIGFtel9mb29kX2RldiwgcGl0Y2hmb3JrX2RldiwgYW16X3Byb2RfZGV2LCB0cF9kZXYKICAgIF0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
