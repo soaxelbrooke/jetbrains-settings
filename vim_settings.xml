@@ -468,7 +468,7 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519676710389">
+      <file name="/Dummy.txt" timestamp="1519678591121">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -531,11 +531,12 @@
         <mark key="." line="227" column="52" />
         <mark key="^" line="227" column="52" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519676925734">
-        <mark key="[" line="810" column="26" />
-        <mark key="]" line="810" column="26" />
-        <mark key="." line="810" column="26" />
-        <mark key="^" line="796" column="68" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519678533531">
+        <mark key="'" line="340" column="76" />
+        <mark key="[" line="878" column="40" />
+        <mark key="]" line="868" column="48" />
+        <mark key="." line="868" column="48" />
+        <mark key="^" line="868" column="48" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
@@ -551,8 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="251" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="254" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="255" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="257" column="51" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -651,33 +650,47 @@
       <jump line="172" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="445" column="64" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="109" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" />
+      <jump line="868" column="48" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
+      <jump line="340" column="76" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>circle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtKCd0aCcsICdWb2x1bWUnKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>circle</text>
+        <text>Volume</text>
       </register>
       <register name="/" type="4">
-        <text>call-out</text>
+        <text>Detractor Ph</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wYWNpdHk6IHsKICAgICAgICAgICAgICAgICAgICB2YWx1ZTogMC41LAogICAgICAgICAgICAgICAgICAgIGNvbmRpdGlvbjogewogICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3Rpb246ICdwYWludGJydXNoJywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IDEKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtKCd0aCcsICdWb2x1bWUnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9tYWluOiBbJ0hvdGVsIEV4cGVyaWVuY2UnLCAnQ2hhcmdlcyAmIEZlZXMnLCAnQ3VzdG9tZXIgU2VydmljZSddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtKCd0aCcsICdWb2x1bWUnKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3Rpb246IHsKICAgICAgICAgICAgcGFpbnRicnVzaDogewogICAgICAgICAgICAgICAgdHlwZTogJ211bHRpJywKICAgICAgICAgICAgICAgIG9uOiAnbW91c2VvdmVyJywKICAgICAgICAgICAgICAgIGVtcHR5OiAnYWxsJywKICAgICAgICAgICAgfQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2xhYmVsLmxhYmVsJywgJ1BlciB0b3BpYyBkZXRhaWxzIFRPRE8nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG9waWNEZXRhaWxzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG0oJ3NwYW4uY2FsbC1vdXQtbGFiZWwuaGFzLXRleHQtZ3JleS1saWdodCcsIGAoJHtjaGFuZ2VQcmVmaXh9JHsoMTAwICogdm9sdW1lQ2hhbmdlUGN0KS50b1ByZWNpc2lvbigyKX0lKWApCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBheGlzOiB7Zm9ybWF0OiAnJVktJW0tJWQnLCB0aXRsZTogbnVsbH0sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9tYWluOiBbJ0hvdGVsIEV4cGVyaWVuY2UnLCAnQ2hhcmdlcyAmIEZlZXMnLCAnQ3VzdG9tZXIgU2VydmljZSddLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxlY3Rpb246IHsKICAgICAgICAgICAgcGFpbnRicnVzaDogewogICAgICAgICAgICAgICAgdHlwZTogJ211bHRpJywKICAgICAgICAgICAgICAgIG9uOiAnbW91c2VvdmVyJywKICAgICAgICAgICAgICAgIGVtcHR5OiAnYWxsJywKICAgICAgICAgICAgfQogICAgICAgIH0sCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG9waWNEZXRhaWxzKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY2FsZTogewogICAgICAgICAgICAgICAgICAgICAgICBkb21haW46IFtdCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>, {
             mark: {
                 type: 'line',
@@ -700,61 +713,14 @@
             },
         }</text>
       </register>
-      <register name="6" type="4">
-        <text>, {
-            mark: {
-                type: 'line',
-                color: primaryColor,
-                strokeWidth: 2,
-                opacity: 0.5,
-                strokeDash: [2, 3],
-            },
-            encoding: {
-                x: {
-                    field: 'Date',
-                    type: 'temporal',
-                    axis: {format: '%Y-%m-%d', title: null},
-                },
-                y: {
-                    field: 'LastPeriodReviews',
-                    type: 'quantitative',
-                    axis: {title: null}
-                },
-            },
-        }, {
-            // Circle layer for the tooltip, since line only shows tooltip for last datum :|
-            mark: {type: 'circle', color: primaryColor, size: 100, opacity: 0.000001},
-            encoding: {
-                x: {
-                    field: 'Date',
-                    type: 'temporal',
-                    axis: {format: '%Y-%m-%d', title: null},
-                },
-                y: {
-                    field: 'Reviews',
-                    type: 'quantitative',
-                    axis: {title: null}
-                },
-            },
-        }]</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IGlzLXB1bGwtbGVmdCIgaWQ9InZvbHVtZS1zdW1tYXJ5Ij4KICAgICAgICAgICAgUmV2aWV3IFN1bW1hcnkKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IGlzLXB1bGwtbGVmdCIgaWQ9InRlcm1zLXN1bW1hcnkiPgogICAgICAgICAgICBUZXJtcyBTdW1tYXJ5CiAgICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2hyLnN1bW1hcnktaHInKSwKICAgICAgICAgICAgICAgIG0oJ2xhYmVsLmxhYmVsJywgJ1BlciB0b3BpYyBkZXRhaWxzIFRPRE8nKQo=</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>call-out</last-search>
+      <last-search>Detractor Ph</last-search>
       <last-offset />
-      <last-pattern>call-out</last-pattern>
+      <last-pattern>Detractor Ph</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -762,8 +728,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sentiment</entry>
-        <entry>--</entry>
         <entry>console.</entry>
         <entry>console</entry>
         <entry>over</entry>
@@ -782,6 +746,8 @@
         <entry>role</entry>
         <entry>ROLE</entry>
         <entry>call-out</entry>
+        <entry>, 'Count'</entry>
+        <entry>Detractor Ph</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
