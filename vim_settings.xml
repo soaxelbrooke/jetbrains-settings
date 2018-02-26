@@ -375,12 +375,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519599183426">
-        <mark key="'" line="64" column="72" />
-        <mark key="[" line="99" column="38" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="156" column="31" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519603898861">
+        <mark key="'" line="834" column="0" />
+        <mark key="[" line="192" column="36" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+        <mark key="^" line="193" column="23" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -541,8 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="51" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="258" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="265" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="268" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="269" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -641,55 +639,57 @@
       <jump line="26" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="27" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="64" column="72" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="85" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="834" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRzKQo=</text>
       </register>
       <register name="-" type="4">
         <text>self.rnn_dropout(rnn_context)</text>
       </register>
       <register name="/" type="4">
-        <text>Done cop</text>
+        <text>194</text>
       </register>
       <register name="0" type="4">
         <text>self.context_size * self.bidir_factor * 2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29udGV4dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29udGV4dC5zaGFwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gdG9yY2gubWF4KHNlbGYucm5uX2Ryb3BvdXQocm5uX2NvbnRleHQpLCAwKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb250ZXh0LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplID0gY29udGV4dC5zaXplKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gdG9yY2gubWF4KHNlbGYucm5uX2Ryb3BvdXQocm5uX2NvbnRleHQpLCAwKVswXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgY29kZTsKICAgICAgICBjb2RlLmludGVyYWN0KGxvY2FsPWRpY3QoZ2xvYmFscygpLCAqKmxvY2FscygpKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb250ZXh0LnNoYXBlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z3N1dGlsIGNwIGdzOi8vYXhlbGJyb29rZS1kYXRhL3B0Y2xmL3JlcXVpcmVtZW50cy50eHQgLi8K</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplID0gY29udGV4dC5zaXplKDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Done cop</last-search>
+      <last-search>194</last-search>
       <last-offset />
-      <last-pattern>Done cop</last-pattern>
+      <last-pattern>194</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -697,7 +697,6 @@
     </search>
     <history>
       <history-search>
-        <entry>overTime</entry>
         <entry>OverTime</entry>
         <entry>#</entry>
         <entry>bidirectional</entry>
@@ -717,6 +716,7 @@
         <entry>Expe</entry>
         <entry>cudnn</entry>
         <entry>Done cop</entry>
+        <entry>194</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
