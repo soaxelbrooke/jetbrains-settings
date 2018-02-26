@@ -378,12 +378,9 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519623932713">
-        <mark key="'" line="401" column="7" />
-        <mark key="[" line="596" column="68" />
-        <mark key="]" line="401" column="7" />
-        <mark key="." line="401" column="7" />
-        <mark key="^" line="401" column="7" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519626826523">
+        <mark key="'" line="932" column="12" />
+        <mark key="^" line="773" column="15" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -544,15 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="301" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="353" column="85" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="354" column="63" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="359" column="61" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="369" column="60" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="371" column="60" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="437" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="444" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="449" column="41" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="465" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="479" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -644,55 +632,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="35" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="401" column="7" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="680" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="855" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="877" column="23" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="708" column="35" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="887" column="18" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="895" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="801" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="804" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="929" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0xFID0gU3FsaXRlRXhwZXJpbWVudCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>loss</text>
       </register>
       <register name="-" type="4">
-        <text>hparams</text>
+        <text>loss</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>[hparams[name] for name, _type in self.hparams]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzbGUubG9nX21ldHJpY3MoZXBvY2gsIHNlZW4sIHsnbG9zcyc6IGxvc3MsICdlcG9jaCc6IGVwb2NoLCAnc2FtcGxlc19zZWVuJzogc2VlbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYWNjJzogYWNjdXJhY3ksICd0cmFpbl9wZXJfc2Vjb25kJzogc2VlbiAvIGVwb2NoX3BlcmlvZH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0xFID0gU3FsaXRlRXhwZXJpbWVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtZXRyaWNfdmFsdWVzKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBkcm9wb3V0PXNldHRpbmdzLmNvbnRleHRfZHJvcG91dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oZidTaG91bGQgbG9nIG9uIGVwb2NoIHtlcG9jaH0gc3RlcCB7c3RlcH06IHtzaG91bGRfbG9nfScpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChocGFyYW1fdmFsdWVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBkcm9wb3V0PXNldHRpbmdzLmNvbnRleHRfZHJvcG91dAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnJycKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaHBhcmFtcyAoCiAgZXhwZXJpbWVudF9pZCB0ZXh0IHByaW1hcnkga2V5LAogIHt9CikKICAgICAgICAnJycuZm9ybWF0KHNlbGYudG9fc3FsX2NvbHVtbl9kZWZzKHNlbGYuaHBhcmFtcykuc3RyaXAoJywnKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRzKQo=</text>
+        <text encoding="base64">ICBwbWFyeSBrZXkgZXhwZXJpbWVudF9pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">ICBwcmltYXJ5IGtleSBleHBlcmltZW50X2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
+        <text encoding="base64">ICAgIGxvZ19ldmVyeSA9IGludChvcy5lbnZpcm9uLmdldCgnTE9HX0VWRVJZJywgMTAwMDApKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29udGV4dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gYnVpbGRfbW9kZWwoc2V0dGluZ3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIDoKICAgICAgICAgICAgc2VsZi5sYXN0X2Vwb2NoID0gZXBvY2gKICAgICAgICAgICAgc2VsZi5sYXN0X2xvZyA9IHN0ZXAKICAgICAgICAgICAgc2hvdWxkX2xvZyA9IFRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -700,10 +697,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OverTime</entry>
-        <entry>bidirectional</entry>
-        <entry>hash</entry>
-        <entry>start</entry>
         <entry>def start</entry>
         <entry>def stop</entry>
         <entry>def start_all</entry>
@@ -720,6 +713,10 @@
         <entry>194</entry>
         <entry>GLOVE</entry>
         <entry>#</entry>
+        <entry>train_epoch</entry>
+        <entry>sle.log_m</entry>
+        <entry>%s</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
