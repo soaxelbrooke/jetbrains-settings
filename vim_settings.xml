@@ -375,12 +375,12 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519614252199">
-        <mark key="'" line="84" column="29" />
-        <mark key="[" line="183" column="13" />
-        <mark key="]" line="161" column="59" />
-        <mark key="." line="161" column="59" />
-        <mark key="^" line="161" column="59" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519616648044">
+        <mark key="'" line="35" column="27" />
+        <mark key="[" line="450" column="60" />
+        <mark key="]" line="273" column="23" />
+        <mark key="." line="273" column="23" />
+        <mark key="^" line="273" column="23" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
@@ -464,7 +464,7 @@
         <mark key="^" line="16" column="358" />
         <mark key="." line="16" column="358" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519599655851">
+      <file name="/Dummy.txt" timestamp="1519616727804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -541,9 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="268" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
-      <jump line="269" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="271" column="51" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="272" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="301" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -641,55 +638,58 @@
       <jump line="85" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="834" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="84" column="29" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="601" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="35" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>glove</text>
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBkcm9wb3V0PXNldHRpbmdzLmNvbnRleHRfZHJvcG91dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
         <text>glove</text>
       </register>
       <register name="/" type="4">
-        <text>GLOVE</text>
+        <text>#</text>
       </register>
       <register name="0" type="4">
         <text>self.context_size * self.bidir_factor * 2</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRzKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBkcm9wb3V0PXNldHRpbmdzLmNvbnRleHRfZHJvcG91dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBkcm9wb3V0PXNldHRpbmdzLmNvbnRleHRfZHJvcG91dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29udGV4dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gdG9yY2gubWF4KHNlbGYucm5uX2Ryb3BvdXQocm5uX2NvbnRleHQpLCAwKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29udGV4dC5zaGFwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb250ZXh0LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5jb250ZXh0X3NpemUgKiBzZWxmLmJpZGlyX2ZhY3RvciAqIDIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplID0gY29udGV4dC5zaXplKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>GLOVE</last-search>
+      <last-search>#</last-search>
       <last-offset />
-      <last-pattern>GLOVE</last-pattern>
+      <last-pattern>#</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -698,7 +698,6 @@
     <history>
       <history-search>
         <entry>OverTime</entry>
-        <entry>#</entry>
         <entry>bidirectional</entry>
         <entry>hash</entry>
         <entry>start</entry>
@@ -717,6 +716,7 @@
         <entry>Done cop</entry>
         <entry>194</entry>
         <entry>GLOVE</entry>
+        <entry>#</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
