@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/datasci/ptclf/train.sh" timestamp="1519514068214">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1511860350088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,12 +41,6 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/gce-startup.sh" timestamp="1519513962266">
-        <mark key="[" line="23" column="56" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="26" column="29" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/test/kind_test.py" timestamp="1509102999073">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="12" column="38" />
@@ -69,9 +58,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="1" column="15" />
-      </file>
-      <file name="/SQLite Fragment (ptclf.py:34552).sql" timestamp="1519622434349">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/.env.example" timestamp="1508312165227">
         <mark key="[" line="3" column="1" />
@@ -104,6 +90,11 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/experiments/index.js" timestamp="1519669952558">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/scripts/prometheus/start_postgres_exporter.sh" timestamp="1512846462900">
         <mark key="[" line="2" column="24" />
       </file>
@@ -116,9 +107,11 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/thoughtvector/alpha/community-monitor/create_tables.sql" timestamp="1516402276571">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="44" column="28" />
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.html" timestamp="1519674601089">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="25" />
       </file>
       <file name="/Python Console" timestamp="1512329019255">
         <mark key="[" line="0" column="0" />
@@ -154,6 +147,18 @@
       </file>
       <file name="$USER_HOME$/code/python/generating-reviews-discovering-sentiment/sentiment_neuron/utils.py" timestamp="1511462936170">
         <mark key="[" line="33" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/experiments/index.html" timestamp="1519634619605">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="33" column="52" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="36" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1515543865107">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="54" />
+        <mark key="^" line="16" column="358" />
+        <mark key="." line="16" column="358" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_user_schema.sql" timestamp="1519367770077">
         <mark key="'" line="115" column="94" />
@@ -208,11 +213,6 @@
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/Makefile" timestamp="1508304935331">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/upload_model.sh" timestamp="1519678674688">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/train.py" timestamp="1507308590062">
         <mark key="'" line="26" column="57" />
@@ -378,18 +378,24 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519856887543">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="195" column="18" />
-        <mark key="]" line="502" column="15" />
-        <mark key="^" line="502" column="15" />
-        <mark key="." line="502" column="15" />
+      <file name="$USER_HOME$/code/datasci/ptclf/ptclf.py" timestamp="1519421419808">
+        <mark key="'" line="445" column="64" />
+        <mark key="[" line="61" column="31" />
+        <mark key="]" line="61" column="31" />
+        <mark key="." line="61" column="31" />
+        <mark key="^" line="172" column="46" />
       </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/partitioned_topk.py" timestamp="1507909542156">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="40" column="33" />
         <mark key="." line="40" column="33" />
         <mark key="^" line="18" column="53" />
+      </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/experiments/index.css" timestamp="1519634337408">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="^" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/prep.py" timestamp="1507290233828">
         <mark key="[" line="20" column="46" />
@@ -423,6 +429,13 @@
         <mark key="'" line="356" column="4" />
         <mark key="[" line="335" column="26" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" timestamp="1519674181235">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/experimental/phrases/data.py" timestamp="1508151209741">
         <mark key="[" line="34" column="22" />
         <mark key="]" line="38" column="28" />
@@ -443,12 +456,6 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/code/datasci/ptclf/create-gcp-gpu.sh" timestamp="1519503593630">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-      </file>
       <file name="$USER_HOME$/code/thoughtvector/explorer/api/assets/sql/create_kinds_view.sql" timestamp="1508313764482">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="11" column="41" />
@@ -461,13 +468,7 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1515543865107">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="14" column="54" />
-        <mark key="^" line="16" column="358" />
-        <mark key="." line="16" column="358" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1519628615423">
+      <file name="/Dummy.txt" timestamp="1519676710389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="36" />
@@ -530,6 +531,12 @@
         <mark key="." line="227" column="52" />
         <mark key="^" line="227" column="52" />
       </file>
+      <file name="$USER_HOME$/code/thoughtvector/alpha/reviews/index.js" timestamp="1519676925734">
+        <mark key="[" line="810" column="26" />
+        <mark key="]" line="810" column="26" />
+        <mark key="." line="810" column="26" />
+        <mark key="^" line="796" column="68" />
+      </file>
       <file name="$USER_HOME$/code/datasci/twitter-cs-seq2seq/keras_model.py" timestamp="1507304596426">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -544,6 +551,37 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="241" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="251" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="254" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="255" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="257" column="51" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="258" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="265" column="25" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="268" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="269" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="271" column="51" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="272" column="34" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="301" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="353" column="85" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="354" column="63" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="359" column="61" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="369" column="60" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="371" column="60" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="437" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="444" column="29" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="449" column="41" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="465" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="479" column="47" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="492" column="79" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="522" column="37" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="336" column="23" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="8" column="72" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="78" column="32" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="250" column="38" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="431" column="53" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="432" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
+      <jump line="434" column="46" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="677" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="583" column="8" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="584" column="10" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
@@ -586,8 +624,10 @@
       <jump line="50" column="62" filename="$USER_HOME$/code/thoughtvector/alpha/community-monitor/index.js" />
       <jump line="38" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="55" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="64" column="41" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="73" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="75" column="49" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="84" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="86" column="52" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="88" column="50" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="226" column="79" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
@@ -610,89 +650,111 @@
       <jump line="767" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="172" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
       <jump line="445" column="64" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="131" column="64" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="13" column="28" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="26" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="64" column="72" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="85" column="26" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="834" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="84" column="29" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="601" column="46" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="35" column="27" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="401" column="7" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="680" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="855" column="3" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="877" column="23" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="708" column="35" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="887" column="18" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="895" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="801" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="804" column="16" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="929" column="12" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="443" column="68" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="520" column="48" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="521" column="24" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="257" column="60" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="273" column="35" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="527" column="54" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="651" column="14" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="792" column="38" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="511" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="596" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/code/datasci/ptclf/ptclf.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/code/thoughtvector/alpha/reviews/index.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>circle</text>
       </register>
       <register name="-" type="4">
-        <text>get_ktok(vocab_size).texts_to_sequences([token])[0]</text>
+        <text>circle</text>
       </register>
       <register name="/" type="4">
-        <text>load_embe</text>
+        <text>call-out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgY29sX2lkeCwgd29yZF9pZHggaW4gZW51bWVyYXRlKHRvb2x6LnRha2Uoc2V0dGluZ3MubXNnX2xlbiwgaGFzaGluZ190cmljayh0ZXh0LCBzZXR0aW5ncy52b2NhYl9zaXplKSkpOgogICAgICAgICAgICAjICAgICB0ZW5zb3JbY29sX2lkeCwgcm93X2lkeF0gPSB3b3JkX2lkeAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wYWNpdHk6IHsKICAgICAgICAgICAgICAgICAgICB2YWx1ZTogMC41LAogICAgICAgICAgICAgICAgICAgIGNvbmRpdGlvbjogewogICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3Rpb246ICdwYWludGJydXNoJywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IDEKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9tYWluOiBbJ0hvdGVsIEV4cGVyaWVuY2UnLCAnQ2hhcmdlcyAmIEZlZXMnLCAnQ3VzdG9tZXIgU2VydmljZSddLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5wcmVwcm9jZXNzaW5nLnRleHQgaW1wb3J0IGhhc2hpbmdfdHJpY2ssIFRva2VuaXplcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3Rpb246IHsKICAgICAgICAgICAgcGFpbnRicnVzaDogewogICAgICAgICAgICAgICAgdHlwZTogJ211bHRpJywKICAgICAgICAgICAgICAgIG9uOiAnbW91c2VvdmVyJywKICAgICAgICAgICAgICAgIGVtcHR5OiAnYWxsJywKICAgICAgICAgICAgfQogICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgVHJ1ZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG9waWNEZXRhaWxzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICB0ID0gWzBdCiAgICAgICAgcHJpbnQoJ25vbmVtcHR5JykKICAgICAgICByZXR1cm4gdAogICAgZXhjZXB0OgogICAgICAgIHByaW50KCdlbXB0eScpCiAgICAgICAgcmV0dXJuIHZvY2FiX3NpemUgLSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY2FsZTogewogICAgICAgICAgICAgICAgICAgICAgICBkb21haW46IFtdCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHdvcmRfaWR4KQo=</text>
+      <register name="5" type="4">
+        <text>, {
+            mark: {
+                type: 'line',
+                color: primaryColor,
+                strokeWidth: 2,
+                opacity: 0.5,
+                strokeDash: [2, 3],
+            },
+            encoding: {
+                x: {
+                    field: 'Date',
+                    type: 'temporal',
+                    axis: {format: '%Y-%m-%d', title: null},
+                },
+                y: {
+                    field: 'LastPeriodReviews',
+                    type: 'quantitative',
+                    axis: {title: null}
+                },
+            },
+        }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>, {
+            mark: {
+                type: 'line',
+                color: primaryColor,
+                strokeWidth: 2,
+                opacity: 0.5,
+                strokeDash: [2, 3],
+            },
+            encoding: {
+                x: {
+                    field: 'Date',
+                    type: 'temporal',
+                    axis: {format: '%Y-%m-%d', title: null},
+                },
+                y: {
+                    field: 'LastPeriodReviews',
+                    type: 'quantitative',
+                    axis: {title: null}
+                },
+            },
+        }, {
+            // Circle layer for the tooltip, since line only shows tooltip for last datum :|
+            mark: {type: 'circle', color: primaryColor, size: 100, opacity: 0.000001},
+            encoding: {
+                x: {
+                    field: 'Date',
+                    type: 'temporal',
+                    axis: {format: '%Y-%m-%d', title: null},
+                },
+                y: {
+                    field: 'Reviews',
+                    type: 'quantitative',
+                    axis: {title: null}
+                },
+            },
+        }]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICB0ZW5zb3JbY29sX2lkeCwgcm93X2lkeF0gPSB3b3JkX3RvX2lkeChzZXR0aW5ncy52b2NhYl9zaXplLCB0b2tlbikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2V0dGluZ3MuZmlsdGVyX2NoYXJzOgogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IGlzLXB1bGwtbGVmdCIgaWQ9InZvbHVtZS1zdW1tYXJ5Ij4KICAgICAgICAgICAgUmV2aWV3IFN1bW1hcnkKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdW1tYXJ5IGlzLXB1bGwtbGVmdCIgaWQ9InRlcm1zLXN1bW1hcnkiPgogICAgICAgICAgICBUZXJtcyBTdW1tYXJ5CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtZXRyaWNfdmFsdWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0oJ2hyLnN1bW1hcnktaHInKSwKICAgICAgICAgICAgICAgIG0oJ2xhYmVsLmxhYmVsJywgJ1BlciB0b3BpYyBkZXRhaWxzIFRPRE8nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>load_embe</last-search>
+      <last-search>call-out</last-search>
       <last-offset />
-      <last-pattern>load_embe</last-pattern>
+      <last-pattern>call-out</last-pattern>
       <last-replace>Sentiment</last-replace>
       <last-substitute>Score</last-substitute>
       <last-dir>1</last-dir>
@@ -700,26 +762,26 @@
     </search>
     <history>
       <history-search>
-        <entry>jlh</entry>
-        <entry>dataset_h</entry>
-        <entry>Counting</entry>
-        <entry>Expe</entry>
-        <entry>cudnn</entry>
-        <entry>Done cop</entry>
-        <entry>194</entry>
-        <entry>GLOVE</entry>
+        <entry>sentiment</entry>
+        <entry>--</entry>
+        <entry>console.</entry>
+        <entry>console</entry>
+        <entry>over</entry>
+        <entry>Filter</entry>
+        <entry>overTime</entry>
+        <entry>OverTime</entry>
         <entry>#</entry>
-        <entry>train_epoch</entry>
-        <entry>sle.log_m</entry>
-        <entry>%s</entry>
-        <entry>print</entry>
-        <entry>reg</entry>
-        <entry>tokenize</entry>
-        <entry>lowercase</entry>
-        <entry>load</entry>
-        <entry>load_em</entry>
-        <entry>load_emb</entry>
-        <entry>load_embe</entry>
+        <entry>bidirectional</entry>
+        <entry>hash</entry>
+        <entry>start</entry>
+        <entry>def start</entry>
+        <entry>def stop</entry>
+        <entry>def start_all</entry>
+        <entry>insert</entry>
+        <entry>create role</entry>
+        <entry>role</entry>
+        <entry>ROLE</entry>
+        <entry>call-out</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
