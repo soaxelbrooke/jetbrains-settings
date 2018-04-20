@@ -3,6 +3,11 @@
     <notification groupId=".ignore plugin update information" displayType="NONE" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="IGNORE_GROUP_UPDATE" displayType="NONE" />
-    <notification groupId="MATERIAL_THEME_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Markdown Navigator Action Information" displayType="NONE" />
+    <notification groupId="Markdown Navigator Alerts" displayType="NONE" />
+    <notification groupId="Markdown Navigator HTML Export" displayType="STICKY_BALLOON" />
+    <notification groupId="Markdown Navigator License" displayType="NONE" />
+    <notification groupId="Markdown Navigator Update" displayType="NONE" />
+    <notification groupId="MATERIAL_THEME_UPDATE" displayType="NONE" />
   </component>
 </application>
