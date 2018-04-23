@@ -1,10 +1,10 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-09-01T21:28:17</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2018-04-20T19:13:05</property>
+    <property name="modified">2018-04-23T10:07:29</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
