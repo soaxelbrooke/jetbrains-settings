@@ -1,19 +1,19 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
     <property name="created">2017-09-01T21:28:17</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2018-05-12T10:29:43</property>
+    <property name="modified">2018-05-13T13:20:43</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="36" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="22" />
+  <option name="CONSOLE_FONT_SIZE" value="44" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
